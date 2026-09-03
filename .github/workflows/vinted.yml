@@ -1,0 +1,86 @@
+{
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "poll_interval_seconds": 300,
+  "searches": [
+    {
+      "name": "Vinter bot",
+      "site": "vinted",
+      "search_text": "Polo Ralph Lauren",
+      "catalog_ids": "79",
+      "size_ids": "206,207,208",
+      "brand_ids": "88,4273",
+      "price_from": "",
+      "price_to": "125",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 2",
+      "site": "vinted",
+      "search_text": "Polo Ralph Lauren",
+      "catalog_ids": "2553",
+      "size_ids": "206,207,208",
+      "brand_ids": "88,4273",
+      "price_from": "",
+      "price_to": "125",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 3",
+      "site": "vinted",
+      "search_text": "Polo Ralph Lauren",
+      "catalog_ids": "2052",
+      "size_ids": "206,207,208",
+      "brand_ids": "88,4273",
+      "price_from": "",
+      "price_to": "125",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 4",
+      "site": "vinted",
+      "search_text": "nudie",
+      "catalog_ids": "257",
+      "size_ids": "206,207,208,1639",
+      "brand_ids": "95256",
+      "price_from": "",
+      "price_to": "100",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 5",
+      "site": "vinted",
+      "search_text": "Polo Ralph Lauren",
+      "catalog_ids": "2536",
+      "size_ids": "206,207,208",
+      "brand_ids": "88,4273",
+      "price_from": "",
+      "price_to": "400",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 6",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "782,783",
+      "brand_ids": "6148561",
+      "price_from": "",
+      "price_to": "200",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinter bot 7",
+      "site": "vinted",
+      "search_text": "apc",
+      "catalog_ids": "577",
+      "size_ids": "206,207,208",
+      "brand_ids": "251",
+      "price_from": "",
+      "price_to": "200",
+      "currency": "SEK"
+    }
+  ]
+}
