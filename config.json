@@ -6,7 +6,7 @@
   "poll_interval_seconds": 300,
   "searches": [
     {
-      "name": "Vinter bot",
+      "name": "Vinted bot",
       "site": "vinted",
       "search_text": "Polo Ralph Lauren",
       "catalog_ids": "79",
@@ -17,7 +17,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 2",
+      "name": "Vinted bot 2",
       "site": "vinted",
       "search_text": "Polo Ralph Lauren",
       "catalog_ids": "2553",
@@ -28,7 +28,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 3",
+      "name": "Vinted bot 3",
       "site": "vinted",
       "search_text": "Polo Ralph Lauren",
       "catalog_ids": "2052",
@@ -39,7 +39,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 4",
+      "name": "Vinted bot 4",
       "site": "vinted",
       "search_text": "nudie",
       "catalog_ids": "257",
@@ -50,7 +50,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 5",
+      "name": "Vinted bot 5",
       "site": "vinted",
       "search_text": "Polo Ralph Lauren",
       "catalog_ids": "2536",
@@ -61,7 +61,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 6",
+      "name": "Vinted bot 6",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "",
@@ -72,7 +72,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 7",
+      "name": "Vinted bot 7",
       "site": "vinted",
       "search_text": "apc",
       "catalog_ids": "577",
@@ -83,7 +83,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 8",
+      "name": "Vinted bot 8",
       "site": "vinted",
       "search_text": "massimo dutti",
       "catalog_ids": "79",
@@ -94,7 +94,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 9",
+      "name": "Vinted bot 9",
       "site": "vinted",
       "search_text": "massimo dutti",
       "catalog_ids": "1206",
@@ -105,7 +105,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 10",
+      "name": "Vinted bot 10",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "257",
@@ -116,7 +116,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 11",
+      "name": "Vinted bot 11",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "266",
@@ -127,7 +127,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 12",
+      "name": "Vinted bot 12",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "1811",
@@ -138,7 +138,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 13",
+      "name": "Vinted bot 13",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "267",
@@ -149,7 +149,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 14",
+      "name": "Vinted bot 14",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "1815",
@@ -160,7 +160,7 @@
       "currency": "SEK"
     },
     {
-      "name": "Vinter bot 15",
+      "name": "Vinted bot 15",
       "site": "vinted",
       "search_text": "",
       "catalog_ids": "1231",
