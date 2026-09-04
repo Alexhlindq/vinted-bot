@@ -169,6 +169,72 @@
       "price_from": "",
       "price_to": "250",
       "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 16",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "73306",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 17",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "73952",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 18",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "46805",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 19",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "180798",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 20",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "639289",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
+    },
+    {
+      "name": "Vinted bot 21",
+      "site": "vinted",
+      "search_text": "",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "16352233",
+      "price_from": "",
+      "price_to": "300",
+      "currency": "SEK"
     }
   ]
 }
