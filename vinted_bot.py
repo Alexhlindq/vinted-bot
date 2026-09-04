@@ -34,6 +34,8 @@ def print(*args, **kwargs):
 
 CONFIG_PATH = "config.json"
 SEEN_PATH = "seen_items.json"
+FOUND_LOG_PATH = "found_items.json"
+FOUND_LOG_MAX = 60
 
 VINTED_SEARCH_URL = "https://www.vinted.se/api/v2/catalog/items"
 
@@ -165,12 +167,29 @@ def format_item_message(search_name, item):
     return "\n".join(lines)
 
 
+def build_found_entry(search_name, item):
+    price_obj = item.get("price", {})
+    photo = item.get("photo") or {}
+    return {
+        "search_name": search_name,
+        "title": item.get("title", "Okänt plagg"),
+        "price": price_obj.get("amount", "?"),
+        "currency": price_obj.get("currency_code", ""),
+        "brand": item.get("brand_title", ""),
+        "size": item.get("size_title", ""),
+        "url": item.get("url", ""),
+        "image_url": photo.get("url", ""),
+        "found_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    }
+
+
 def run_once(config, seen_ids):
     telegram_cfg = config.get("telegram", {})
     bot_token = telegram_cfg.get("bot_token")
     chat_id = telegram_cfg.get("chat_id")
 
     new_items_found = False
+    found_entries = []
     timestamp = time.strftime("%H:%M:%S")
 
     for search in config.get("searches", []):
@@ -186,6 +205,7 @@ def run_once(config, seen_ids):
 
             seen_ids.add(item_id)
             new_items_found = True
+            found_entries.append(build_found_entry(search.get("name", "Sökning"), item))
 
             message = format_item_message(search.get("name", "Sökning"), item)
             print(f"Ny träff: {message}\n")
@@ -195,7 +215,7 @@ def run_once(config, seen_ids):
             else:
                 print("[Telegram] bot_token/chat_id är inte ifyllda i config.json – hoppar över notis.")
 
-    return new_items_found
+    return new_items_found, found_entries
 
 
 def main():
@@ -224,16 +244,24 @@ def main():
     run_once_only = os.environ.get("RUN_ONCE", "").lower() == "true"
 
     if run_once_only:
-        run_once(config, seen_ids)
+        _, found_entries = run_once(config, seen_ids)
         save_json(SEEN_PATH, list(seen_ids))
+        if found_entries:
+            log = load_json(FOUND_LOG_PATH, [])
+            log = (found_entries + log)[:FOUND_LOG_MAX]
+            save_json(FOUND_LOG_PATH, log)
         print("Klar med en sökrunda (RUN_ONCE).")
         return
 
     print("Vinted-boten är igång. Tryck Ctrl+C för att avsluta.")
     while True:
         try:
-            run_once(config, seen_ids)
+            _, found_entries = run_once(config, seen_ids)
             save_json(SEEN_PATH, list(seen_ids))
+            if found_entries:
+                log = load_json(FOUND_LOG_PATH, [])
+                log = (found_entries + log)[:FOUND_LOG_MAX]
+                save_json(FOUND_LOG_PATH, log)
         except Exception as e:
             print(f"Oväntat fel: {e}")
 
