@@ -235,6 +235,17 @@
       "price_from": "",
       "price_to": "300",
       "currency": "SEK"
+    },
+    {
+      "name": "Ny sökning",
+      "site": "vinted",
+      "search_text": "birkenstock",
+      "catalog_ids": "16",
+      "size_ids": "782,783,784,785,786",
+      "brand_ids": "3203",
+      "price_from": "",
+      "price_to": "150",
+      "currency": "SEK"
     }
   ]
 }
