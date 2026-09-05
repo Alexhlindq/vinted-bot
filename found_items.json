@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 11",
+    "title": "Kofta/cardigan Bondelid",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9899685399-koftacardigan-bondelid",
+    "image_url": "https://images1.vinted.net/t/01_001f3_gPQhHrQk18hz6BiR9FN65wd1/f800/1788630011.jpeg?s=74835010a6cd5b2435de2872360ea93d7fd3a716",
+    "found_at": "2026-09-05T17:49:58Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios bluza antracyt oversize | XS | asymetryczna",
+    "price": "99.09",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9899743081-acne-studios-bluza-antracyt-oversize-xs-asymetryczna",
+    "image_url": "https://images1.vinted.net/t/03_000f4_osdJVtw93AUzTizsV5dnNSb1/f800/1788630302.jpeg?s=2c3d5903ffd6aea97b5c573df027b62d1bc56c40",
+    "found_at": "2026-09-05T17:50:02Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "hollister hoodie",
     "price": "65.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9894445376-levis-rozmiar-3030",
     "image_url": "https://images1.vinted.net/t/04_021ef_hTJfQE4Ra54CnEPx3XRKq1ZV/f800/1788607220.jpeg?s=0985b570a3bbd87e214c58b064915abbe7a4226a",
     "found_at": "2026-09-05T11:23:06Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s rozmiar 31/34",
-    "price": "31.29",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9894329805-levis-rozmiar-3134",
-    "image_url": "https://images1.vinted.net/t/05_00bdf_VS5d1QytpNYJkybup5VU93Le/f800/1788606661.jpeg?s=cc5fb76e7c8d7d55d668c987e6fbbe469a8ea0a5",
-    "found_at": "2026-09-05T11:23:07Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Stickad kofta Tommy Hilfiger",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894325978-stickad-kofta-tommy-hilfiger",
-    "image_url": "https://images1.vinted.net/t/06_010d5_p4DVGMR7e5Q49WhjZ8a61Bj4/f800/1788606642.jpeg?s=3202067af3a2880e7beb31531bf9ca98ec39d1f3",
-    "found_at": "2026-09-05T11:23:07Z"
   }
 ]
