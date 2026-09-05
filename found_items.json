@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot 12",
+    "title": "Bluzka sportowa",
+    "price": "26.08",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9891594969-bluzka-sportowa",
+    "image_url": "https://images1.vinted.net/t/06_0267c_LW2yFNYSbvfF7JJyMYUL4uTD/f800/1788588990.jpeg?s=82b8fab16b246beb0dd74533bda90326108d8f75",
+    "found_at": "2026-09-05T06:31:16Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
     "title": "Stickad tröja från Morris.",
     "price": "75.0",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9886599475-bluza-czarna-z-kapturem-m-ciepla",
     "image_url": "https://images1.vinted.net/t/02_014dd_xKWjCTW1SkYCfnLpGp33wPAz/f800/1788534251.jpeg?s=ed0516789007ae774ba4c1a93d8eba2c14b00423",
     "found_at": "2026-09-04T22:50:24Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island",
-    "price": "172.64",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9883135043-stone-island",
-    "image_url": "https://images1.vinted.net/t/04_0220a_27smTy8B9Mfb9zMDgmJQRySM/f800/1788514606.jpeg?s=be025152e31815e5647ba79e6630d285b3135d1a",
-    "found_at": "2026-09-04T22:50:25Z"
   }
 ]
