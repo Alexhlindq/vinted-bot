@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Nudie Grim Tim",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9894304638-nudie-grim-tim",
+    "image_url": "https://images1.vinted.net/t/06_00006_EfajEULapnG1q6g7kUwVCLyJ/f800/1788606539.jpeg?s=2aa150725686b4533be9dbd053b78142ae096378",
+    "found_at": "2026-09-05T11:23:04Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s rozmiar 30/30",
+    "price": "31.29",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9894445376-levis-rozmiar-3030",
+    "image_url": "https://images1.vinted.net/t/04_021ef_hTJfQE4Ra54CnEPx3XRKq1ZV/f800/1788607220.jpeg?s=0985b570a3bbd87e214c58b064915abbe7a4226a",
+    "found_at": "2026-09-05T11:23:06Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s rozmiar 31/34",
+    "price": "31.29",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9894329805-levis-rozmiar-3134",
+    "image_url": "https://images1.vinted.net/t/05_00bdf_VS5d1QytpNYJkybup5VU93Le/f800/1788606661.jpeg?s=cc5fb76e7c8d7d55d668c987e6fbbe469a8ea0a5",
+    "found_at": "2026-09-05T11:23:07Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "Stickad kofta Tommy Hilfiger",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9894325978-stickad-kofta-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/06_010d5_p4DVGMR7e5Q49WhjZ8a61Bj4/f800/1788606642.jpeg?s=3202067af3a2880e7beb31531bf9ca98ec39d1f3",
+    "found_at": "2026-09-05T11:23:07Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne v-neck",
+    "price": "190.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9894331166-acne-v-neck",
+    "image_url": "https://images1.vinted.net/t/02_00d51_CwgpzmH5RaFTB4KdNAm41r8K/f800/1788606667.jpeg?s=1d5905f9d496902f0205ff9902c80fd945ba9eb5",
+    "found_at": "2026-09-05T11:23:10Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Tröja",
     "price": "99.0",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9892265455-sweter-polo-ralph-lauren-rozm-m",
     "image_url": "https://images1.vinted.net/t/06_020d2_nDZTtapXwC9YbARkbrA8j6UW/f800/1788595679.jpeg?s=d610abde53debc4f8e7aabf3f5f50f1a92354da0",
     "found_at": "2026-09-05T08:10:39Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Levi's Sweatshirt",
-    "price": "63.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892256349-levis-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/06_026aa_GS78S6BhrygLunNjXL69QFDV/f800/1788595613.jpeg?s=e3ebacb24f9fb267b9587056b7dfc2b3a0e19127",
-    "found_at": "2026-09-05T08:10:43Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeansy",
-    "price": "59.98",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9892013001-jeansy",
-    "image_url": "https://images1.vinted.net/t/02_0160f_3GLL8H68M1PskJ7dNiNW4hb6/f800/1788593707.jpeg?s=9e66cfa8c6b9a8bdd348a283825ad29c263d5525",
-    "found_at": "2026-09-05T07:37:30Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Vintage Polo Sport Ralph Lauren Plaid Fleece Hoodie – Green 🏇",
-    "price": "123.77",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9891915468-vintage-polo-sport-ralph-lauren-plaid-fleece-hoodie-green",
-    "image_url": "https://images1.vinted.net/t/04_02677_gMtx3syjsL826JHiVMULzQJf/f800/1788592845.jpeg?s=bc688909ad735caddd52ad88e0c38fd6a5d5c8b1",
-    "found_at": "2026-09-05T07:23:37Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Polo Ralph Laurent S Damska",
-    "price": "104.31",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9891799104-bluza-polo-ralph-laurent-s-damska",
-    "image_url": "https://images1.vinted.net/t/06_00893_mmcVwMBjns8M6ogb549T4DqS/f800/1788591676.jpeg?s=a80a3d2c98f99ffc521db30492d555a18459f7a5",
-    "found_at": "2026-09-05T07:09:16Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter męski Massimo Dutti bawełna kaszmir casual scandi oldmoney preppy",
-    "price": "67.8",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "XL",
-    "url": "https://www.vinted.se/items/9799176276-sweter-meski-massimo-dutti-bawelna-kaszmir-casual-scandi-oldmoney-preppy",
-    "image_url": "https://images1.vinted.net/t/02_01822_mZmTtMU15eAhmJzq3MfE8AxV/f800/1787851436.jpeg?s=5ba7e4c6be76dbab4748fe741d8a6860e37f4aa3",
-    "found_at": "2026-09-05T06:52:12Z"
   }
 ]
