@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "T-shirt Acne studios",
+    "price": "225.82",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9901893615-t-shirt-acne-studios",
+    "image_url": "https://images1.vinted.net/t/01_004a2_WjziDUvtV1DETw437F27HnaN/f800/1788644954.jpeg?s=4740a74dfb5bcd01f29b5da4fc77b44ee435131f",
+    "found_at": "2026-09-05T21:50:32Z"
+  },
+  {
     "search_name": "Vinted bot 14",
     "title": "Sweter hollister granatowy M",
     "price": "59.98",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9895250070-levis-byxor",
     "image_url": "https://images1.vinted.net/t/04_00921_pgjoqp8nMjkF2DDRsMSShQ65/f800/1788610969.jpeg?s=098f4ca7c75a8d2a544c17c313cecf985e6e9cac",
     "found_at": "2026-09-05T12:29:19Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Gant hoodie",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9895207154-gant-hoodie",
-    "image_url": "https://images1.vinted.net/t/05_0262c_QusHwYkVkxr1tGXHuLKJHJbr/f800/1788610775.jpeg?s=b3336d4e0178fb680e9d8cfa363f9f5c182c7235",
-    "found_at": "2026-09-05T12:29:20Z"
   }
 ]
