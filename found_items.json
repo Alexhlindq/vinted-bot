@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter męski Massimo Dutti bawełna kaszmir casual scandi oldmoney preppy",
+    "price": "67.8",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XL",
+    "url": "https://www.vinted.se/items/9799176276-sweter-meski-massimo-dutti-bawelna-kaszmir-casual-scandi-oldmoney-preppy",
+    "image_url": "https://images1.vinted.net/t/02_01822_mZmTtMU15eAhmJzq3MfE8AxV/f800/1787851436.jpeg?s=5ba7e4c6be76dbab4748fe741d8a6860e37f4aa3",
+    "found_at": "2026-09-05T06:52:12Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Bluza z kapturem",
+    "price": "117.35",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9625116702-bluza-z-kapturem",
+    "image_url": "https://images1.vinted.net/t/05_00bda_QKngkh2iC81CMJdsWetwAaqx/f800/1786366164.jpeg?s=793bb39d5356c040acb410fc7e8f004ccf2a83dc",
+    "found_at": "2026-09-05T06:52:15Z"
+  },
+  {
+    "search_name": "Vinted bot 18",
+    "title": "Kurtka pikowana Barbour Akenside granatowa country royal british scandi gentleman",
+    "price": "195.58",
+    "currency": "SEK",
+    "brand": "Barbour",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9799157515-kurtka-pikowana-barbour-akenside-granatowa-country-royal-british-scandi-gentleman",
+    "image_url": "https://images1.vinted.net/t/02_000ec_sPZ2hspJgrURXEmGZnpeSKcE/f800/1787851340.jpeg?s=ba4f55ab4b5a3b185c86bcfa44868e65eb8a4a24",
+    "found_at": "2026-09-05T06:52:16Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluzka sportowa",
     "price": "26.08",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9888588142-stone-island-polo-shirt",
     "image_url": "https://images1.vinted.net/t/05_0034f_xw4VpmPfNan9ZzJxYNHbA7Bd/f800/1788544661.jpeg?s=83b09b5298f80650757e91c6a56caa54dbad9c2a",
     "found_at": "2026-09-04T22:50:23Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Spodenki Stone Isladn",
-    "price": "129.89",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9888252389-spodenki-stone-isladn",
-    "image_url": "https://images1.vinted.net/t/06_01ad9_ABo5BJnPf2KTdsSFriBtuhen/f800/1788542768.jpeg?s=60460c721cb8a2f40ce725b32f383920b1d1aef6",
-    "found_at": "2026-09-04T22:50:24Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Koszulka Stone Island rozmiar S",
-    "price": "194.84",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9886646789-koszulka-stone-island-rozmiar-s",
-    "image_url": "https://images1.vinted.net/t/05_0100a_hi13Kqxc5fSAaTs8TpLdSjBt/f800/1788534497.jpeg?s=60a560d34eaaeb62cec64357dd2c02d883d7f44e",
-    "found_at": "2026-09-04T22:50:24Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza czarna z kapturem M ciepła",
-    "price": "153.27",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9886599475-bluza-czarna-z-kapturem-m-ciepla",
-    "image_url": "https://images1.vinted.net/t/02_014dd_xKWjCTW1SkYCfnLpGp33wPAz/f800/1788534251.jpeg?s=ed0516789007ae774ba4c1a93d8eba2c14b00423",
-    "found_at": "2026-09-04T22:50:24Z"
   }
 ]
