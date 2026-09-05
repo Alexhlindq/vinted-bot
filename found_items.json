@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "B;uczą Hollister",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9894541119-bucza-hollister",
+    "image_url": "https://images1.vinted.net/t/06_01731_kfx3cgDtCP6Avjtjz3eA2dBq/f800/1788607676.jpeg?s=9561ed8ea6d1d9a6d8e01bf88e2b08a1c5edc2c7",
+    "found_at": "2026-09-05T11:35:38Z"
+  },
+  {
     "search_name": "Vinted bot 4",
     "title": "Nudie Grim Tim",
     "price": "100.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9892418394-hollister-huppari-m",
     "image_url": "https://images1.vinted.net/t/04_01d64_EVRHdy9mAbM9ELqWWyfucRoF/f800/1788596714.jpeg?s=32840e2116cdc5d3fb1e231bc4546e5385d197cf",
     "found_at": "2026-09-05T08:25:46Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweter Polo Ralph Lauren rozm M",
-    "price": "54.76",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892265455-sweter-polo-ralph-lauren-rozm-m",
-    "image_url": "https://images1.vinted.net/t/06_020d2_nDZTtapXwC9YbARkbrA8j6UW/f800/1788595679.jpeg?s=d610abde53debc4f8e7aabf3f5f50f1a92354da0",
-    "found_at": "2026-09-05T08:10:39Z"
   }
 ]
