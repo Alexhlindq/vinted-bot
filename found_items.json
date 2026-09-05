@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo tröja",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9899233649-polo-troja",
+    "image_url": "https://images1.vinted.net/t/02_020b0_jjWMtd3gtucvTgKAhZekv9TQ/f800/1788627828.jpeg?s=5ce0c4c41012f167c57788230c0295c71e6b620b",
+    "found_at": "2026-09-05T17:07:58Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren pusero",
     "price": "112.52",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9894331166-acne-v-neck",
     "image_url": "https://images1.vinted.net/t/02_00d51_CwgpzmH5RaFTB4KdNAm41r8K/f800/1788606667.jpeg?s=1d5905f9d496902f0205ff9902c80fd945ba9eb5",
     "found_at": "2026-09-05T11:23:10Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Tröja",
-    "price": "99.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894102147-troja",
-    "image_url": "https://images1.vinted.net/t/06_00710_kQTKTqv9wwbUWoSACZoNQ1ER/f800/1788605555.jpeg?s=b865c742daa3e7c01fdf02aef07c7eadda4ed52c",
-    "found_at": "2026-09-05T11:08:05Z"
   }
 ]
