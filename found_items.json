@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren hoodie",
+    "price": "99.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9901729016-polo-ralph-lauren-hoodie",
+    "image_url": "https://images1.vinted.net/t/06_00935_Dero7z7rYYLtw2wWucLFSKDx/f800/1788643236.jpeg?s=a44e14e3abf06ab2fb4634f9207b3bb724827ad9",
+    "found_at": "2026-09-05T21:23:07Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Vihreä polon villapaita",
     "price": "101.27",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9895297777-acne-studios-face-t-shirt-bla",
     "image_url": "https://images1.vinted.net/t/05_00241_kyBsCujyStCE7y4WTfQVsMqY/f800/1788611184.jpeg?s=82768fb644d8976322244742c5006a6d2c05f9dd",
     "found_at": "2026-09-05T12:29:23Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Farkut",
-    "price": "45.01",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9894685289-farkut",
-    "image_url": "https://images1.vinted.net/t/06_01277_WjKy89CD184ariKwRXuQb3bv/f800/1788608362.jpeg?s=283ebcd53036d3504da5af6769e17425b7f7dcbe",
-    "found_at": "2026-09-05T11:49:49Z"
   }
 ]
