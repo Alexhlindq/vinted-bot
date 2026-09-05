@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy Levi's Premium 501 W32L32",
+    "price": "67.8",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9894060412-jeansy-levis-premium-501-w32l32",
+    "image_url": "https://images1.vinted.net/t/06_01f40_EyB8hPiLJLwqAbnmjKYGHqY9/f800/1788605353.jpeg?s=4dccfcbb5d60dd112fcb832475b58a9165600c9c",
+    "found_at": "2026-09-05T10:49:54Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Tommy Hilfiger huppari",
+    "price": "39.38",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893973374-tommy-hilfiger-huppari",
+    "image_url": "https://images1.vinted.net/t/02_00b30_G1du3BGu89ezzetUZNcNFoGf/f800/1788604928.jpeg?s=f0acd7039436f43626c29de587dab8793ef7c18c",
+    "found_at": "2026-09-05T10:49:56Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Huppari",
+    "price": "33.76",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893963017-huppari",
+    "image_url": "https://images1.vinted.net/t/04_01773_caYkW1rGZvgptw15jyS4kp7n/f800/1788604876.jpeg?s=5ed67ec3eb871919298a957d673263d00a9b68a4",
+    "found_at": "2026-09-05T10:49:56Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Gant Hoodie",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9893901935-gant-hoodie",
+    "image_url": "https://images1.vinted.net/t/02_00721_RiPt3DQb4K1kZnJGYxJihdRx/f800/1788604579.jpeg?s=a8485a6aa107f53d451c6d46e50353dbec16400e",
+    "found_at": "2026-09-05T10:49:57Z"
+  },
+  {
+    "search_name": "Vinted bot 14",
+    "title": "Ulltröja från Bondelid",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893937395-ulltroja-fran-bondelid",
+    "image_url": "https://images1.vinted.net/t/02_00932_hPNibGSCYBLmxhjMHi63qz94/f800/1788604751.jpeg?s=744be38dd1d81337877f231ff2cfc1e60642355a",
+    "found_at": "2026-09-05T10:49:58Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweter",
     "price": "52.15",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9891563059-stickad-troja-fran-morris",
     "image_url": "https://images1.vinted.net/t/06_02350_NhJmdLSEbAGJeBnRh5omy3T7/f800/1788588478.jpeg?s=6ec08a8ff4aebe7d6f5787f70cd32ab229cf2325",
     "found_at": "2026-09-05T06:12:37Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Golf  Massimo Dutti S Khaki Silk Cotton Cashmere Jedwab",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9871989880-golf-massimo-dutti-s-khaki-silk-cotton-cashmere-jedwab",
-    "image_url": "https://images1.vinted.net/t/05_002c9_1EH8WkxUqgT4JWD81PWcz7i3/f800/1788537319.jpeg?s=419d9f261f3759b38de285a57fd0d88c495537f0",
-    "found_at": "2026-09-05T04:50:15Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza z kapturem california",
-    "price": "64.95",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9890893987-bluza-z-kapturem-california",
-    "image_url": "https://images1.vinted.net/t/02_003f9_dAVSpnTypYnk318r1U5yoePu/f800/1788567126.jpeg?s=a2e08b7305517558e53dcefea4672120f05b08ef",
-    "found_at": "2026-09-05T00:16:27Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island Hoodie",
-    "price": "300.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9869688669-stone-island-hoodie",
-    "image_url": "https://images1.vinted.net/t/02_01367_yy2DsbvhcVUasq9pSKfsSGe8/f800/1788379262.jpeg?s=e56a6b709f066e6611b499e8bda4a88656787bea",
-    "found_at": "2026-09-04T23:09:24Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza stone island",
-    "price": "257.18",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9852639028-bluza-stone-island",
-    "image_url": "https://images1.vinted.net/t/05_00606_FXLwCa7PoizSTTUDyrQfkaHL/f800/1788261699.jpeg?s=40c657793e8ffb1738c28f3fafbfc3fd7f9c6f90",
-    "found_at": "2026-09-04T23:09:25Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Sprzedam bluze  stone island",
-    "price": "259.78",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9808946640-sprzedam-bluze-stone-island",
-    "image_url": "https://images1.vinted.net/t/05_012bb_Qw9CUfyYieo9sTvtezRYvPgG/f800/1787935182.jpeg?s=95af1720f66116f4722209a9ff8b1f6d61bc9c80",
-    "found_at": "2026-09-04T23:09:25Z"
   }
 ]
