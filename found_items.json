@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Cienki sweterek Polo Ralph Lauren",
+    "price": "86.05",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897724650-cienki-sweterek-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_000e9_2bvqmYqRzN6HXQKSDTD9a5cZ/f800/1788621404.jpeg?s=bdb2b6a8dfe712626b21ed64812249c8f8ebbd7c",
+    "found_at": "2026-09-05T15:23:54Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza Levi's",
+    "price": "44.33",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9897753565-bluza-levis",
+    "image_url": "https://images1.vinted.net/t/06_00be0_NJZbmUSnWfLUGCm8cfq6eSAK/f800/1788621522.jpeg?s=8dc2c803e97e4a4be5eb5ad852b6cce1f5ada130",
+    "found_at": "2026-09-05T15:23:59Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Morris stickad tröja herr",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9897645500-morris-stickad-troja-herr",
+    "image_url": "https://images1.vinted.net/t/06_01642_SKQysWCMrBM1iQ9CYX1dSUdT/f800/1788621080.jpeg?s=de10bdbfbc4b29318d4bf274ddff279a3f454600",
+    "found_at": "2026-09-05T15:24:00Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweter marki Massimo Dutti",
     "price": "70.41",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9390033473-sweter-zapinany-tommy-hilfiger",
     "image_url": "https://images1.vinted.net/t/01_01e94_k6Wkx96bk9LmdWBSEsT5YPn1/f800/1783953261.jpeg?s=6cdbd20b7b29a3293be19614b411f82e426f9f74",
     "found_at": "2026-09-05T09:23:34Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Levis",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892892030-bluza-levis",
-    "image_url": "https://images1.vinted.net/t/06_02548_9Uj97gLKeViR9gCEZPck5Dee/f800/1788599505.jpeg?s=121ef757e864fcef782ae41d9f1fb60fe77c917e",
-    "found_at": "2026-09-05T09:23:35Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Levi’s M",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892824645-bluza-levis-m",
-    "image_url": "https://images1.vinted.net/t/05_02141_qqtYe9UUGkWtvomXEHf246aK/f800/1788599136.jpeg?s=64658602b8b4f5d46caaf5115b232d14f7ed43cb",
-    "found_at": "2026-09-05T09:23:35Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Tommy hilfiger tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9892810010-tommy-hilfiger-troja",
-    "image_url": "https://images1.vinted.net/t/02_01736_XLrZjHSLrSUutLkF8w174GfQ/f800/1788599055.jpeg?s=b00a5021f8e4938a3fb051b674d6c4f527ba985e",
-    "found_at": "2026-09-05T09:23:36Z"
   }
 ]
