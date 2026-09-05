@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Vihreä polon villapaita",
+    "price": "101.27",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9898473036-vihrea-polon-villapaita",
+    "image_url": "https://images1.vinted.net/t/06_01a50_mFjyrw56Q12dY3hUya2qrmLe/f800/1788624505.jpeg?s=20050b39971867d595296e3c35f51999d40dd76c",
+    "found_at": "2026-09-05T20:24:27Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza chłopięca Ralph Lauren 158 cm",
     "price": "78.23",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9894685289-farkut",
     "image_url": "https://images1.vinted.net/t/06_01277_WjKy89CD184ariKwRXuQb3bv/f800/1788608362.jpeg?s=283ebcd53036d3504da5af6769e17425b7f7dcbe",
     "found_at": "2026-09-05T11:49:49Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Hollister",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9894796944-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_012de_LARE9AEUkPKwEMSBFjxMA6Eg/f800/1788608886.jpeg?s=60ce748c1acdd0c05c933014e8ab7ea2d2f38e94",
-    "found_at": "2026-09-05T11:49:50Z"
   }
 ]
