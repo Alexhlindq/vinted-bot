@@ -1,6 +1,72 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweterek Polo Ralph Lauren",
+    "price": "117.35",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897216710-sweterek-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_00484_iuBc3P3Fv86tCN4VRVKuv7Lp/f800/1788619322.jpeg?s=2641dbb8723b2ab7eb73dd080cd9d8d45706fb01",
+    "found_at": "2026-09-05T14:49:52Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s rozmiar 31/34",
+    "price": "31.29",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9897272234-levis-rozmiar-3134",
+    "image_url": "https://images1.vinted.net/t/05_00bdf_VS5d1QytpNYJkybup5VU93Le/f800/1788619548.jpeg?s=2713a88b337e787ff73aee9cfc06b359ce83eb28",
+    "found_at": "2026-09-05T14:49:55Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Hollister rozmiar S",
+    "price": "57.37",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9897145076-hollister-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/01_0050d_D8WcKzrTY8ZAyWEjzwmvyLSx/f800/1788619028.jpeg?s=b7252059df9ac42f91da2d7912256401b498a924",
+    "found_at": "2026-09-05T14:49:57Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "GANT tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897142020-gant-troja",
+    "image_url": "https://images1.vinted.net/t/05_014db_U8oEdhy4P4NBPvEinfRKdyaU/f800/1788619016.jpeg?s=19dd04d0aa4db61e27338bcddf15cbbab9e0c1de",
+    "found_at": "2026-09-05T14:49:57Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza damska lub męska",
+    "price": "36.51",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897293466-bluza-damska-lub-meska",
+    "image_url": "https://images1.vinted.net/t/04_01383_jwo2tSU58ewHxEWQxfkXdzyz/f800/1788619635.jpeg?s=91ca093179c97ea023d59e50eaa277668414ea66",
+    "found_at": "2026-09-05T14:49:58Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Levis hoodie",
+    "price": "61.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897183153-levis-hoodie",
+    "image_url": "https://images1.vinted.net/t/02_0014d_tR3AHKRZMdhphrhJyzbeoPPj/f800/1788619185.jpeg?s=3a3bf2beeeebdf7462e73dd4fb48056d0c9cc045",
+    "found_at": "2026-09-05T14:49:59Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
     "price": "117.35",
     "currency": "SEK",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9240181598-meska-bluza-z-naszywka",
     "image_url": "https://images1.vinted.net/t/05_00add_5ma96GZTKqvRoNtRYsFcu57h/f800/1782227625.jpeg?s=0aea97c53081d93565f7003176cd7bd7a21dd63b",
     "found_at": "2026-09-05T09:23:38Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island logo",
-    "price": "150.55",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9108918985-stone-island-logo",
-    "image_url": "https://images1.vinted.net/t/05_01510_PkG6GYM3BksR8MBCgeAWgBXn/f800/1780826253.jpeg?s=edc2eaae34a2f0b7839be731ff25fbeaf583d859",
-    "found_at": "2026-09-05T09:23:38Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island trøje",
-    "price": "112.91",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/8774730916-stone-island-troje",
-    "image_url": "https://images1.vinted.net/t/05_000dd_xU3o9Yo3vQ7U2dt7uhSEfVa8/f800/1777408203.jpeg?s=f4c033da2a95c6fe665af18b68a0b26b0b3d138a",
-    "found_at": "2026-09-05T09:23:39Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "hoodie stone island",
-    "price": "182.54",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/8765104077-hoodie-stone-island",
-    "image_url": "https://images1.vinted.net/t/06_0185d_pobwFgAqhCMXL4M6jFu61Hk7/f800/1777310616.jpeg?s=426b03812b13dc1d93082b4e11ce33af5e653b0a",
-    "found_at": "2026-09-05T09:23:39Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island College",
-    "price": "191.29",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8685241236-stone-island-college",
-    "image_url": "https://images1.vinted.net/t/06_0228a_USR85DdMRyCZ2imiUAFcWJC4/f800/1776522866.jpeg?s=0879d1672bc1c7cb95ef75078ef8c30bbb4b8669",
-    "found_at": "2026-09-05T09:23:39Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone zip up",
-    "price": "120.44",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8546984679-stone-zip-up",
-    "image_url": "https://images1.vinted.net/t/04_00904_TRzAg3Zs1QAnT78UFsG4rGrk/f800/1775127875.jpeg?s=13615c01b398c32c067949a7991be36eb4c38573",
-    "found_at": "2026-09-05T09:23:40Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza męska",
-    "price": "130.38",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8546432020-bluza-meska",
-    "image_url": "https://images1.vinted.net/t/05_01422_4DbqWHs14pU6vTrfksGyHzyA/f800/1775123720.jpeg?s=01663a77e7fca60ab9a59b83e617126503ef85c3",
-    "found_at": "2026-09-05T09:23:40Z"
   }
 ]
