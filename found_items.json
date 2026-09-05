@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893684617-sweter",
+    "image_url": "https://images1.vinted.net/t/05_0135e_AiQkhZW8snJ6xWWnQZhoQDbV/f800/1788603511.jpeg?s=265fed2b66bda640dc6c5d80ef56fe39b24236ec",
+    "found_at": "2026-09-05T10:23:26Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Buza Tommy rozmiar M",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893595094-buza-tommy-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/05_0125c_YtBHUM9Fcb3SvDhAG3qMqFnD/f800/1788603072.jpeg?s=bf2b5e8844f1022c97f64fceb8818ed01639c039",
+    "found_at": "2026-09-05T10:23:28Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi's 501 mustat farkut W30",
     "price": "56.26",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9808946640-sprzedam-bluze-stone-island",
     "image_url": "https://images1.vinted.net/t/05_012bb_Qw9CUfyYieo9sTvtezRYvPgG/f800/1787935182.jpeg?s=95af1720f66116f4722209a9ff8b1f6d61bc9c80",
     "found_at": "2026-09-04T23:09:25Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island jacka",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9806271815-stone-island-jacka",
-    "image_url": "https://images1.vinted.net/t/02_01f0d_qP1xEXZfR2tqUcrwHdfJuob8/f800/1787922310.jpeg?s=6ea727f3cc4746a5221fec496f9a1c97e6dd0ec9",
-    "found_at": "2026-09-04T23:09:26Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Topowa bluza khaki Stone Island Kompas",
-    "price": "202.63",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9797972717-topowa-bluza-khaki-stone-island-kompas",
-    "image_url": "https://images1.vinted.net/t/05_02385_D7VLgCcoLiTzvwhprBeaLb5B/f800/1787845531.jpeg?s=f4f3de355ff6b096b4c8fcfe40596bd6d2347e5d",
-    "found_at": "2026-09-04T23:09:26Z"
   }
 ]
