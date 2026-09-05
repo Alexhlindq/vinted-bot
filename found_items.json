@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Golf  Massimo Dutti S Khaki Silk Cotton Cashmere Jedwab",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9871989880-golf-massimo-dutti-s-khaki-silk-cotton-cashmere-jedwab",
+    "image_url": "https://images1.vinted.net/t/05_002c9_1EH8WkxUqgT4JWD81PWcz7i3/f800/1788537319.jpeg?s=419d9f261f3759b38de285a57fd0d88c495537f0",
+    "found_at": "2026-09-05T04:50:15Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza z kapturem california",
     "price": "64.95",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9879731943-stone-island-t-shirt-blekitny-compass-badge-premium",
     "image_url": "https://images1.vinted.net/t/02_012b1_FBr2gE31rTw8BY1WXUoBfF32/f800/1788464614.jpeg?s=009bb9b9ddcfa3f9a488e707d9d5b376248bd220",
     "found_at": "2026-09-04T22:50:25Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island T-shirt",
-    "price": "130.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9879595988-stone-island-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_01471_DZB3kY5w9xpUjWbRfhVA6Zn4/f800/1788463774.jpeg?s=380b48196bb6336fd75fce4a9831bdfd9b3790ef",
-    "found_at": "2026-09-04T22:50:26Z"
   }
 ]
