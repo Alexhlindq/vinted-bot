@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter męski Ralph Lauren r.m",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898450584-sweter-meski-ralph-lauren-rm",
+    "image_url": "https://images1.vinted.net/t/02_02567_EtknjVvpUAey5xkPqZMzYbNN/f800/1788624411.jpeg?s=541224648b01ef2d4e32750a8830d99f649c31a8",
+    "found_at": "2026-09-05T16:08:58Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren hoodie longsleeve",
+    "price": "104.05",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9883337135-polo-ralph-lauren-hoodie-longsleeve",
+    "image_url": "https://images1.vinted.net/t/06_01d3b_a8VWwRThAXnd7sjNpucGkjTH/f800/1788515852.jpeg?s=08adb043d09c14363e269fff2cb445145080e128",
+    "found_at": "2026-09-05T16:08:58Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "bluza Z Kapturem Hollister Rozmiar S",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9896449181-bluza-z-kapturem-hollister-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/01_0071e_KQ8HzcztVSXXxggbAjQD9uMy/f800/1788616144.jpeg?s=1434887236d5baa5c79e87133882fc333dcd84ed",
+    "found_at": "2026-09-05T16:09:03Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "T-shirts fra arcne Studios",
+    "price": "112.91",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898412008-t-shirts-fra-arcne-studios",
+    "image_url": "https://images1.vinted.net/t/02_0256c_a3e1HxgAf1c4DDGrDe86cGKd/f800/1788624246.jpeg?s=7692f479b048f08c634e399c530d505bc67ba32a",
+    "found_at": "2026-09-05T16:09:05Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Tommy Hilfiger huppari",
     "price": "45.01",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9893541616-levis-501-mustat-farkut-w30",
     "image_url": "https://images1.vinted.net/t/02_0099c_dqDF9AH35BFKcKUjcqXiApB4/f800/1788602861.jpeg?s=9695d78912f4dd06be06506888a320effbbf1b61",
     "found_at": "2026-09-05T10:08:37Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 510 31/30",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9893481139-levis-510-3130",
-    "image_url": "https://images1.vinted.net/t/02_0166e_Sed2Emg3UCWqESUYHq1Tc38x/f800/1788602513.jpeg?s=b4ce47b1a428fcc1c66b5f73236a656a0f4276a9",
-    "found_at": "2026-09-05T10:08:37Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 501 30/30",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9893457231-levis-501-3030",
-    "image_url": "https://images1.vinted.net/t/05_00727_jwFtdHKXPn69cXXUYHFwihUg/f800/1788602396.jpeg?s=212f28117a29cae82fba75c34d094cc0f51e4d56",
-    "found_at": "2026-09-05T10:08:38Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter z wełną męski gładki klasyczny Massimo Dutti M",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893278005-sweter-z-welna-meski-gladki-klasyczny-massimo-dutti-m",
-    "image_url": "https://images1.vinted.net/t/05_007e9_aUWGgrgzgQXzwVSbZnFWSksE/f800/1788601515.jpeg?s=55b85e80205816d769f270a86a78838d8361391e",
-    "found_at": "2026-09-05T09:50:15Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter Massimo Dutti.",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893252272-sweter-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/04_01e47_K5TmUqXLb3V1YFvmCqmytqko/f800/1788601386.jpeg?s=e272e145d44fd38d2b1d535b37de0d1f4b8185de",
-    "found_at": "2026-09-05T09:50:16Z"
   }
 ]
