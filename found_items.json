@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Bluza Polo Ralph Lauren Granatowa Size M",
+    "price": "78.2",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9896598357-bluza-polo-ralph-lauren-granatowa-size-m",
+    "image_url": "https://images1.vinted.net/t/02_012ab_sG1Tat6NG2k3cd3tm2MG4T1g/f800/1788616765.jpeg?s=f0aa2e5cdc334893f35dd09c5bede64f7a28bf41",
+    "found_at": "2026-09-05T14:08:24Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren tröja M",
     "price": "70.0",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/7544688525-stone-island-sweatshirt",
     "image_url": "https://images1.vinted.net/t/01_00564_zfhuKd93ATuNsfX25ZC4yDBc/f800/1763027511.jpeg?s=a92eb7d3e75fc8c5870f71c3e926782b1eaed1b7",
     "found_at": "2026-09-05T09:23:43Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Herr jacka för hösten",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9727326867-herr-jacka-for-hosten",
-    "image_url": "https://images1.vinted.net/t/01_00ffa_QPN1gWGKMxZ7MLBWJzkjddW1/f800/1787303397.jpeg?s=5b5ae515f8552f860646a474e8f851ef84e2233e",
-    "found_at": "2026-09-05T09:23:44Z"
   }
 ]
