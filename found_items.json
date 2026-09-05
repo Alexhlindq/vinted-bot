@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Levis hoodie",
+    "price": "45.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9897958176-levis-hoodie",
+    "image_url": "https://images1.vinted.net/t/01_01eaa_5B5HY6NPWmFVZdvdHnNgkZPb/f800/1788622360.jpeg?s=6a61d18874257d068f5bb23ed8cc07a66ba0700b",
+    "found_at": "2026-09-05T15:36:33Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Cienki sweterek Polo Ralph Lauren",
     "price": "86.05",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9892977186-spodnie-levis-w-32-l-34",
     "image_url": "https://images1.vinted.net/t/02_023e6_2oWKBSLZJZedjNXDL1b9NH7L/f800/1788599963.jpeg?s=2e6be969b5189e8d24cbfec10766170580ef5567",
     "found_at": "2026-09-05T09:23:33Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Sweter zapinany Tommy Hilfiger",
-    "price": "39.12",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9390033473-sweter-zapinany-tommy-hilfiger",
-    "image_url": "https://images1.vinted.net/t/01_01e94_k6Wkx96bk9LmdWBSEsT5YPn1/f800/1783953261.jpeg?s=6cdbd20b7b29a3293be19614b411f82e426f9f74",
-    "found_at": "2026-09-05T09:23:34Z"
   }
 ]
