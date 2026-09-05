@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren pusero",
+    "price": "112.52",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898972022-polo-ralph-lauren-pusero",
+    "image_url": "https://images1.vinted.net/t/02_00475_LoGqLbYyWrkxey6YYCbHWKAv/f800/1788626661.jpeg?s=4467ed86993546f1aaafa4250621239cbffbc315",
+    "found_at": "2026-09-05T16:50:16Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Biała bluza Tommy Hilfiger",
     "price": "52.15",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9894102147-troja",
     "image_url": "https://images1.vinted.net/t/06_00710_kQTKTqv9wwbUWoSACZoNQ1ER/f800/1788605555.jpeg?s=b865c742daa3e7c01fdf02aef07c7eadda4ed52c",
     "found_at": "2026-09-05T11:08:05Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeans Levi’s 501 W32 L36",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9894247707-jeans-levis-501-w32-l36",
-    "image_url": "https://images1.vinted.net/t/02_000a5_afDGCSQPME6TQf76sxr7LoSo/f800/1788606263.jpeg?s=969f4a0a37dfc0cb5f6841ae1a75d49dfd793dcc",
-    "found_at": "2026-09-05T11:08:08Z"
   }
 ]
