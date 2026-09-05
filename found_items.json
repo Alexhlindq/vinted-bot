@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Puchowa kurtka Ralph Lauren czerwona",
+    "price": "354.65",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9840276023-puchowa-kurtka-ralph-lauren-czerwona",
+    "image_url": "https://images1.vinted.net/t/06_0085c_WyYEA2k9CjT3s4zSkjjS5eSc/f800/1788171526.jpeg?s=9c3eb004bfd6551238ea38375c39bf382d02ae3c",
+    "found_at": "2026-09-05T13:08:14Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "szara bluza Levis",
+    "price": "62.58",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9895583054-szara-bluza-levis",
+    "image_url": "https://images1.vinted.net/t/01_01ec5_Wj5xVqjJ5jqVpeLLSbWuFAru/f800/1788612633.jpeg?s=5041eb07bd6082ce1012c6f952ee8f0e60c99c25",
+    "found_at": "2026-09-05T13:08:18Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza czarna",
     "price": "65.19",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/8843285047-jacka-barbour",
     "image_url": "https://images1.vinted.net/t/05_01a46_xiDEF9pmt6g2SxB735Yaqsh3/f800/1778089503.jpeg?s=f5bf6cda62be6dc5f72f26c50e9062f3da53768a",
     "found_at": "2026-09-05T09:23:45Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Kurtka  damskie",
-    "price": "91.27",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "M",
-    "url": "https://www.vinted.se/items/8609316881-kurtka-damskie",
-    "image_url": "https://images1.vinted.net/t/04_0237b_fUKJA5NGhWbG87Mafk85Hqyr/f800/1775766917.jpeg?s=63763f4db29a88fe90c85f8248d46749cf64897f",
-    "found_at": "2026-09-05T09:23:45Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Barbour Jacka dam",
-    "price": "90.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/8344776621-barbour-jacka-dam",
-    "image_url": "https://images1.vinted.net/t/06_00b90_hR97ZDXx81wMcnPH4bWFiWvz/f800/1772982954.jpeg?s=6e1d3d4a5c93c8f23b8fba45e2f22dda4262ad05",
-    "found_at": "2026-09-05T09:23:46Z"
   }
 ]
