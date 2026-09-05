@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Stickad tröja från Morris.",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9891572104-stickad-troja-fran-morris",
+    "image_url": "https://images1.vinted.net/t/02_01808_BMv3sp8bhBLJtWsvTRwwnfT6/f800/1788588630.jpeg?s=83eb3a9990f867086b6bd64e999d17c90cce4ddd",
+    "found_at": "2026-09-05T06:12:37Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Stickad tröja från Morris",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9891563059-stickad-troja-fran-morris",
+    "image_url": "https://images1.vinted.net/t/06_02350_NhJmdLSEbAGJeBnRh5omy3T7/f800/1788588478.jpeg?s=6ec08a8ff4aebe7d6f5787f70cd32ab229cf2325",
+    "found_at": "2026-09-05T06:12:37Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Golf  Massimo Dutti S Khaki Silk Cotton Cashmere Jedwab",
     "price": "65.19",
@@ -635,28 +657,6 @@
     "size": "M",
     "url": "https://www.vinted.se/items/9883135043-stone-island",
     "image_url": "https://images1.vinted.net/t/04_0220a_27smTy8B9Mfb9zMDgmJQRySM/f800/1788514606.jpeg?s=be025152e31815e5647ba79e6630d285b3135d1a",
-    "found_at": "2026-09-04T22:50:25Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Spodenki stone island",
-    "price": "259.78",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9882540349-spodenki-stone-island",
-    "image_url": "https://images1.vinted.net/t/05_025d1_jV5gtWhUEiPtCSbZpyb8Q63L/f800/1788510646.jpeg?s=25474e1faa874ef3557354bd4dc10a8ee56e0855",
-    "found_at": "2026-09-04T22:50:25Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island T-Shirt – błękitny | Compass Badge | Premium",
-    "price": "192.24",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9879731943-stone-island-t-shirt-blekitny-compass-badge-premium",
-    "image_url": "https://images1.vinted.net/t/02_012b1_FBr2gE31rTw8BY1WXUoBfF32/f800/1788464614.jpeg?s=009bb9b9ddcfa3f9a488e707d9d5b376248bd220",
     "found_at": "2026-09-04T22:50:25Z"
   }
 ]
