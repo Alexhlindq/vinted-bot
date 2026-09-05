@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza Polo Ralph Laurent S Damska",
+    "price": "104.31",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9891799104-bluza-polo-ralph-laurent-s-damska",
+    "image_url": "https://images1.vinted.net/t/06_00893_mmcVwMBjns8M6ogb549T4DqS/f800/1788591676.jpeg?s=a80a3d2c98f99ffc521db30492d555a18459f7a5",
+    "found_at": "2026-09-05T07:09:16Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweter męski Massimo Dutti bawełna kaszmir casual scandi oldmoney preppy",
     "price": "67.8",
@@ -646,17 +657,6 @@
     "size": "M",
     "url": "https://www.vinted.se/items/9889226953-stone-island-pike",
     "image_url": "https://images1.vinted.net/t/05_002b9_GTAUZAspfwQPtybrfjJoeGTm/f800/1788548606.jpeg?s=21b1af238e45b97fc777f886412487493a662eec",
-    "found_at": "2026-09-04T22:50:23Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island Polo Shirt",
-    "price": "257.18",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9888588142-stone-island-polo-shirt",
-    "image_url": "https://images1.vinted.net/t/05_0034f_xw4VpmPfNan9ZzJxYNHbA7Bd/f800/1788544661.jpeg?s=83b09b5298f80650757e91c6a56caa54dbad9c2a",
     "found_at": "2026-09-04T22:50:23Z"
   }
 ]
