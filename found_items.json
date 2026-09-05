@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter męski Polo Ralph Lauren M",
+    "price": "104.31",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9900521648-sweter-meski-polo-ralph-lauren-m",
+    "image_url": "https://images1.vinted.net/t/02_01dac_e3RqAXjB8z6yuwNwr4xWxCW7/f800/1788634598.jpeg?s=df68a0932163bbbd15efd8b5992ec964f5947f0d",
+    "found_at": "2026-09-05T19:07:50Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Uniqlo",
     "price": "55.7",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9894541119-bucza-hollister",
     "image_url": "https://images1.vinted.net/t/06_01731_kfx3cgDtCP6Avjtjz3eA2dBq/f800/1788607676.jpeg?s=9561ed8ea6d1d9a6d8e01bf88e2b08a1c5edc2c7",
     "found_at": "2026-09-05T11:35:38Z"
-  },
-  {
-    "search_name": "Vinted bot 4",
-    "title": "Nudie Grim Tim",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Nudie Jeans",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9894304638-nudie-grim-tim",
-    "image_url": "https://images1.vinted.net/t/06_00006_EfajEULapnG1q6g7kUwVCLyJ/f800/1788606539.jpeg?s=2aa150725686b4533be9dbd053b78142ae096378",
-    "found_at": "2026-09-05T11:23:04Z"
   }
 ]
