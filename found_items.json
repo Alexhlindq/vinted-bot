@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza czarna",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9885136826-bluza-czarna",
+    "image_url": "https://images1.vinted.net/t/03_00267_F3rpBTpuNj3fHNE6pMUcSyFc/f800/1788611573.jpeg?s=fab81f9bd23cf94bf65cf33d48dbcc017f3d29cf",
+    "found_at": "2026-09-05T12:45:32Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Levi’s",
+    "price": "62.58",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9895499361-bluza-levis",
+    "image_url": "https://images1.vinted.net/t/05_01f6c_ypFKYoaUWbykkZCPN9LffNtM/f800/1788612079.jpeg?s=fd7cfebdefee32ed9cb31bbf50f4c1ac368c991a",
+    "found_at": "2026-09-05T12:45:33Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Szara Bluza Hollister M Z Kapturem 1/4 Zip Melanż Męska Kangurka",
+    "price": "46.91",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9895475114-szara-bluza-hollister-m-z-kapturem-14-zip-melanz-meska-kangurka",
+    "image_url": "https://images1.vinted.net/t/02_00b2a_V3dZN2aNK8ETHAG3VEDwerVp/f800/1788611973.jpeg?s=a82503d52057501f726d491b2d5796d779a7a771",
+    "found_at": "2026-09-05T12:45:33Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren trøje",
     "price": "75.27",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/8344776621-barbour-jacka-dam",
     "image_url": "https://images1.vinted.net/t/06_00b90_hR97ZDXx81wMcnPH4bWFiWvz/f800/1772982954.jpeg?s=6e1d3d4a5c93c8f23b8fba45e2f22dda4262ad05",
     "found_at": "2026-09-05T09:23:46Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Barbour International Ariel Quilted Jacket Stl S",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "S",
-    "url": "https://www.vinted.se/items/7983384976-barbour-international-ariel-quilted-jacket-stl-s",
-    "image_url": "https://images1.vinted.net/t/02_0180e_HWguQx2YWAtoRUK456zs56st/f800/1768850421.jpeg?s=7b4c3d349f8b655dea2f89a5f5effdde3aa2da5c",
-    "found_at": "2026-09-05T09:23:46Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Barbour jacka",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "M",
-    "url": "https://www.vinted.se/items/7178593153-barbour-jacka",
-    "image_url": "https://images1.vinted.net/t/04_02596_fEzAzeMs87kM5fcDKoNgq3hg/f800/1759561455.jpeg?s=c7a885187b43bd4d1ea73bc163e5fe3cd46b35a7",
-    "found_at": "2026-09-05T09:23:46Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Barbour jacka",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "S",
-    "url": "https://www.vinted.se/items/5800923245-barbour-jacka",
-    "image_url": "https://images1.vinted.net/t/04_00af0_5zdk8S5AssSzk8gzZ9xEec52/f800/1739284000.jpeg?s=774a22ca25191d73fb06537f3ecbc82377133287",
-    "found_at": "2026-09-05T09:23:47Z"
   }
 ]
