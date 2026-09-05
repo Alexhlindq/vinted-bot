@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot 13",
+    "title": "Tommy Hilfiger huppari",
+    "price": "45.01",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898045245-tommy-hilfiger-huppari",
+    "image_url": "https://images1.vinted.net/t/05_01ef4_7asvsF74MT2koS41B4xARTra/f800/1788622717.jpeg?s=b00110598ca40377ca5aec256761b23d3b0b6e56",
+    "found_at": "2026-09-05T15:49:50Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Golden Goose Sko/Armband",
+    "price": "28.0",
+    "currency": "SEK",
+    "brand": "Golden Goose",
+    "size": "43",
+    "url": "https://www.vinted.se/items/9898107227-golden-goose-skoarmband",
+    "image_url": "https://images1.vinted.net/t/05_000db_jvRsoiY1TjpFgXJqxUWzXJq7/f800/1788622972.jpeg?s=9028b3c90743879ce24f8bd599460723688a5a57",
+    "found_at": "2026-09-05T15:49:51Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
     "title": "Levis hoodie",
     "price": "45.0",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9893252272-sweter-massimo-dutti",
     "image_url": "https://images1.vinted.net/t/04_01e47_K5TmUqXLb3V1YFvmCqmytqko/f800/1788601386.jpeg?s=e272e145d44fd38d2b1d535b37de0d1f4b8185de",
     "found_at": "2026-09-05T09:50:16Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza tommy hilfiger",
-    "price": "54.76",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893201982-bluza-tommy-hilfiger",
-    "image_url": "https://images1.vinted.net/t/02_014e7_s3TZXFphSGHBk1Go7Ng3KY7m/f800/1788601132.jpeg?s=b9c8d92a5d8ed2f0ee6af7631878d14b7266fd1b",
-    "found_at": "2026-09-05T09:50:18Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie levis W 32 L 34",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9892977186-spodnie-levis-w-32-l-34",
-    "image_url": "https://images1.vinted.net/t/02_023e6_2oWKBSLZJZedjNXDL1b9NH7L/f800/1788599963.jpeg?s=2e6be969b5189e8d24cbfec10766170580ef5567",
-    "found_at": "2026-09-05T09:23:33Z"
   }
 ]
