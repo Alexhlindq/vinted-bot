@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Gant hoodie",
+    "price": "63.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892664936-gant-hoodie",
+    "image_url": "https://images1.vinted.net/t/06_0262e_ztQ2n9PiWP8d5RqV9fBXHk8z/f800/1788598234.jpeg?s=b63387f933c7f18340b78fb29f7e337cb8387ff5",
+    "found_at": "2026-09-05T08:50:53Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hoodie",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892657571-hoodie",
+    "image_url": "https://images1.vinted.net/t/01_008a2_3MjD9BkzZhWbSpkuYuFwLnVL/f800/1788598192.jpeg?s=3ef109e20a995eeb502a9f2e8367c0da1e76cb19",
+    "found_at": "2026-09-05T08:50:53Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Navy Polo Ralph Lauren pima cotton v-neck jumper sweater old money swag",
     "price": "91.27",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9856916742-sort-t-shirt-fra-acne-studios",
     "image_url": "https://images1.vinted.net/t/01_01ab0_gow8dKmgk9YzCdZaY715nh2V/f800/1788282843.jpeg?s=5a66ea430090f5c1c2c0086516b13a088ca925a1",
     "found_at": "2026-09-04T23:09:43Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios tshirt",
-    "price": "225.18",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9856908807-acne-studios-tshirt",
-    "image_url": "https://images1.vinted.net/t/06_00ba4_Faic4AhJRQziApKxLTZWUqGf/f800/1788282806.jpeg?s=37edac7192238d44f732fa56566c28d901b01962",
-    "found_at": "2026-09-04T23:09:43Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios blue knitted jumper",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9856748412-acne-studios-blue-knitted-jumper",
-    "image_url": "https://images1.vinted.net/t/05_00350_abP6FHReGKy74fZaqD7xR6uY/f800/1788410647.jpeg?s=191e8c45e35be6936919a6a0510935e718443d2b",
-    "found_at": "2026-09-04T23:09:44Z"
   }
 ]
