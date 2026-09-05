@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren trøje",
+    "price": "75.27",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9895255354-ralph-lauren-troje",
+    "image_url": "https://images1.vinted.net/t/06_017a6_82WEnfUq4f7JUHkd4aUqLRCX/f800/1788610993.jpeg?s=4ac17b90930897a24f361d9044d2c1c0f00418f5",
+    "found_at": "2026-09-05T12:29:16Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis byxor",
+    "price": "65.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9895250070-levis-byxor",
+    "image_url": "https://images1.vinted.net/t/04_00921_pgjoqp8nMjkF2DDRsMSShQ65/f800/1788610969.jpeg?s=098f4ca7c75a8d2a544c17c313cecf985e6e9cac",
+    "found_at": "2026-09-05T12:29:19Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Gant hoodie",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9895207154-gant-hoodie",
+    "image_url": "https://images1.vinted.net/t/05_0262c_QusHwYkVkxr1tGXHuLKJHJbr/f800/1788610775.jpeg?s=b3336d4e0178fb680e9d8cfa363f9f5c182c7235",
+    "found_at": "2026-09-05T12:29:20Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios face T-shirt blå",
+    "price": "300.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9895297777-acne-studios-face-t-shirt-bla",
+    "image_url": "https://images1.vinted.net/t/05_00241_kyBsCujyStCE7y4WTfQVsMqY/f800/1788611184.jpeg?s=82768fb644d8976322244742c5006a6d2c05f9dd",
+    "found_at": "2026-09-05T12:29:23Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Farkut",
     "price": "45.01",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/5800923245-barbour-jacka",
     "image_url": "https://images1.vinted.net/t/04_00af0_5zdk8S5AssSzk8gzZ9xEec52/f800/1739284000.jpeg?s=774a22ca25191d73fb06537f3ecbc82377133287",
     "found_at": "2026-09-05T09:23:47Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Slim Denim Shirt SS11 – Blue",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9893015611-acne-slim-denim-shirt-ss11-blue",
-    "image_url": "https://images1.vinted.net/t/06_00e8a_idkm3TkuBvdGsgg1A74VExvA/f800/1788600167.jpeg?s=e8bcb3a04dade648872b1776536eb3d22daec110",
-    "found_at": "2026-09-05T09:23:47Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Gant hoodie",
-    "price": "63.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892664936-gant-hoodie",
-    "image_url": "https://images1.vinted.net/t/06_0262e_ztQ2n9PiWP8d5RqV9fBXHk8z/f800/1788598234.jpeg?s=b63387f933c7f18340b78fb29f7e337cb8387ff5",
-    "found_at": "2026-09-05T08:50:53Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hoodie",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892657571-hoodie",
-    "image_url": "https://images1.vinted.net/t/01_008a2_3MjD9BkzZhWbSpkuYuFwLnVL/f800/1788598192.jpeg?s=3ef109e20a995eeb502a9f2e8367c0da1e76cb19",
-    "found_at": "2026-09-05T08:50:53Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Navy Polo Ralph Lauren pima cotton v-neck jumper sweater old money swag",
-    "price": "91.27",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9892471255-navy-polo-ralph-lauren-pima-cotton-v-neck-jumper-sweater-old-money-swag",
-    "image_url": "https://images1.vinted.net/t/04_0052c_siphU4wGsMgp3bAwtroxcywn/f800/1788597050.jpeg?s=dea29db1aa89f22a9af231a3c612a3fc81654890",
-    "found_at": "2026-09-05T08:39:30Z"
   }
 ]
