@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy",
+    "price": "59.98",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9892013001-jeansy",
+    "image_url": "https://images1.vinted.net/t/02_0160f_3GLL8H68M1PskJ7dNiNW4hb6/f800/1788593707.jpeg?s=9e66cfa8c6b9a8bdd348a283825ad29c263d5525",
+    "found_at": "2026-09-05T07:37:30Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Vintage Polo Sport Ralph Lauren Plaid Fleece Hoodie – Green 🏇",
     "price": "123.77",
@@ -646,17 +657,6 @@
     "size": "XS",
     "url": "https://www.vinted.se/items/9889420583-stone-island-sweatshirt",
     "image_url": "https://images1.vinted.net/t/02_01ba3_nTEXcwQSyCjSYLzHh2KGUjFG/f800/1788549893.jpeg?s=ffc19c64c208d87a6f73cb3d84f24b764153d567",
-    "found_at": "2026-09-04T22:50:22Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island polo",
-    "price": "187.65",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9889266734-stone-island-polo",
-    "image_url": "https://images1.vinted.net/t/02_01ae5_xxu9kWsQLGao1sDFN7vrDiAe/f800/1788548866.jpeg?s=cf3284c303e7d2f00fd4fffb9c9e3615676ad235",
     "found_at": "2026-09-04T22:50:22Z"
   }
 ]
