@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren tröja M",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9896077923-ralph-lauren-troja-m",
+    "image_url": "https://images1.vinted.net/t/02_01760_aGkGeLDsehR8JPdQKrczQBew/f800/1788614578.jpeg?s=20bfb69433ebd13d356531a9cc290660a62d795a",
+    "found_at": "2026-09-05T13:35:31Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Gant tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9896220345-gant-troja",
+    "image_url": "https://images1.vinted.net/t/01_013c0_RRwxmEakaeTp7JiSaSFtFK72/f800/1788615184.jpeg?s=4270e187f53f1585b2ee49071d6b55a1537a1f49",
+    "found_at": "2026-09-05T13:35:35Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Puchowa kurtka Ralph Lauren czerwona",
     "price": "354.65",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9727326867-herr-jacka-for-hosten",
     "image_url": "https://images1.vinted.net/t/01_00ffa_QPN1gWGKMxZ7MLBWJzkjddW1/f800/1787303397.jpeg?s=5b5ae515f8552f860646a474e8f851ef84e2233e",
     "found_at": "2026-09-05T09:23:44Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Damjacka barbour",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9688461614-damjacka-barbour",
-    "image_url": "https://images1.vinted.net/t/05_000f9_G6y6aEGqRFNxdS2uoNhbcZT2/f800/1786971521.jpeg?s=21c6e7ce5e1098d05aff46fff4050730d8c2a1a6",
-    "found_at": "2026-09-05T09:23:45Z"
-  },
-  {
-    "search_name": "Vinted bot 18",
-    "title": "Jacka barbour",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "M",
-    "url": "https://www.vinted.se/items/8843285047-jacka-barbour",
-    "image_url": "https://images1.vinted.net/t/05_01a46_xiDEF9pmt6g2SxB735Yaqsh3/f800/1778089503.jpeg?s=f5bf6cda62be6dc5f72f26c50e9062f3da53768a",
-    "found_at": "2026-09-05T09:23:45Z"
   }
 ]
