@@ -1,1 +1,50 @@
-PLACEHOLDER_WORKFLOW
+name: Vinted-bot
+
+on:
+  schedule:
+    # Kör var 15:e minut. GitHub kan ibland dröja lite extra, men det är
+    # snällare mot Vinted än att köra oftare.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+    # Gör att du kan trycka på "Run workflow" manuellt i GitHub för att
+    # testköra direkt, utan att vänta på schemat.
+
+permissions:
+  contents: write
+  # Behövs för att boten ska få spara ner uppdaterad seen_items.json
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installera beroenden
+        run: pip install requests
+
+      - name: Kör Vinted-boten
+        env:
+          RUN_ONCE: "true"
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python vinted_bot.py
+
+      - name: Kolla mina egna annonser
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python check_my_listings.py
+
+      - name: Spara uppdaterad minnesfil
+        run: |
+          git config user.name "vinted-bot"
+          git config user.email "vinted-bot@users.noreply.github.com"
+          git add seen_items.json found_items.json my_listings.json
+          git diff --quiet --cached || git commit -m "Uppdatera seen_items.json, found_items.json och my_listings.json"
+          git push
