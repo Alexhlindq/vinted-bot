@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza z kapturem california",
+    "price": "64.95",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9890893987-bluza-z-kapturem-california",
+    "image_url": "https://images1.vinted.net/t/02_003f9_dAVSpnTypYnk318r1U5yoePu/f800/1788567126.jpeg?s=a2e08b7305517558e53dcefea4672120f05b08ef",
+    "found_at": "2026-09-05T00:16:27Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Stone Island Hoodie",
     "price": "300.0",
@@ -646,17 +657,6 @@
     "size": "S",
     "url": "https://www.vinted.se/items/9879595988-stone-island-t-shirt",
     "image_url": "https://images1.vinted.net/t/02_01471_DZB3kY5w9xpUjWbRfhVA6Zn4/f800/1788463774.jpeg?s=380b48196bb6336fd75fce4a9831bdfd9b3790ef",
-    "found_at": "2026-09-04T22:50:26Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island shorts",
-    "price": "299.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9878173279-stone-island-shorts",
-    "image_url": "https://images1.vinted.net/t/05_00223_YQayrm4BWg7UQp8JYu9Cfob2/f800/1788455921.jpeg?s=2e2b1af704f4504e1125bd9bd3782cad82f1a5bc",
     "found_at": "2026-09-04T22:50:26Z"
   }
 ]
