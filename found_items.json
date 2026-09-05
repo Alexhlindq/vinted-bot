@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 14",
+    "title": "Sweter hollister granatowy M",
+    "price": "59.98",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9157447349-sweter-hollister-granatowy-m",
+    "image_url": "https://images1.vinted.net/t/05_00a29_Auy3mG9ti3exdg3jPw8bgg5G/f800/1781293300.jpeg?s=cf521302239e2f4c347bb18d7fe7bdac7e0a18b3",
+    "found_at": "2026-09-05T21:35:43Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren hoodie",
     "price": "99.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9895207154-gant-hoodie",
     "image_url": "https://images1.vinted.net/t/05_0262c_QusHwYkVkxr1tGXHuLKJHJbr/f800/1788610775.jpeg?s=b3336d4e0178fb680e9d8cfa363f9f5c182c7235",
     "found_at": "2026-09-05T12:29:20Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios face T-shirt blå",
-    "price": "300.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9895297777-acne-studios-face-t-shirt-bla",
-    "image_url": "https://images1.vinted.net/t/05_00241_kyBsCujyStCE7y4WTfQVsMqY/f800/1788611184.jpeg?s=82768fb644d8976322244742c5006a6d2c05f9dd",
-    "found_at": "2026-09-05T12:29:23Z"
   }
 ]
