@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Hyvässä kunnossa olevat farkut",
+    "price": "45.01",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9898639216-hyvassa-kunnossa-olevat-farkut",
+    "image_url": "https://images1.vinted.net/t/06_017a4_JNNdmJ4WLLcjo5SaP46cg4v2/f800/1788625218.jpeg?s=16bc242065de89a2ea32b0232c731f624852c316",
+    "found_at": "2026-09-05T16:24:43Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Gant tröja",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9898521936-gant-troja",
+    "image_url": "https://images1.vinted.net/t/06_0184c_kwM8os9JW4RBY2yzJF5aNcr3/f800/1788624714.jpeg?s=a1981e46ccd6adf91f79739d43ec14b1aaba0594",
+    "found_at": "2026-09-05T16:24:44Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Huppari",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898503102-huppari",
+    "image_url": "https://images1.vinted.net/t/05_004c9_UN4e6psWZspxDp5QNavAHV5T/f800/1788624634.jpeg?s=cb1238ef797f7dc327835ddc431d6910d04d4c8d",
+    "found_at": "2026-09-05T16:24:45Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter męski Ralph Lauren r.m",
     "price": "65.19",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9893937395-ulltroja-fran-bondelid",
     "image_url": "https://images1.vinted.net/t/02_00932_hPNibGSCYBLmxhjMHi63qz94/f800/1788604751.jpeg?s=744be38dd1d81337877f231ff2cfc1e60642355a",
     "found_at": "2026-09-05T10:49:58Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893684617-sweter",
-    "image_url": "https://images1.vinted.net/t/05_0135e_AiQkhZW8snJ6xWWnQZhoQDbV/f800/1788603511.jpeg?s=265fed2b66bda640dc6c5d80ef56fe39b24236ec",
-    "found_at": "2026-09-05T10:23:26Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Buza Tommy rozmiar M",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893595094-buza-tommy-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/05_0125c_YtBHUM9Fcb3SvDhAG3qMqFnD/f800/1788603072.jpeg?s=bf2b5e8844f1022c97f64fceb8818ed01639c039",
-    "found_at": "2026-09-05T10:23:28Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi's 501 mustat farkut W30",
-    "price": "56.26",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9893541616-levis-501-mustat-farkut-w30",
-    "image_url": "https://images1.vinted.net/t/02_0099c_dqDF9AH35BFKcKUjcqXiApB4/f800/1788602861.jpeg?s=9695d78912f4dd06be06506888a320effbbf1b61",
-    "found_at": "2026-09-05T10:08:37Z"
   }
 ]
