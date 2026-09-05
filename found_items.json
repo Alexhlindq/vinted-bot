@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter z wełną męski gładki klasyczny Massimo Dutti M",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893278005-sweter-z-welna-meski-gladki-klasyczny-massimo-dutti-m",
+    "image_url": "https://images1.vinted.net/t/05_007e9_aUWGgrgzgQXzwVSbZnFWSksE/f800/1788601515.jpeg?s=55b85e80205816d769f270a86a78838d8361391e",
+    "found_at": "2026-09-05T09:50:15Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter Massimo Dutti.",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893252272-sweter-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/04_01e47_K5TmUqXLb3V1YFvmCqmytqko/f800/1788601386.jpeg?s=e272e145d44fd38d2b1d535b37de0d1f4b8185de",
+    "found_at": "2026-09-05T09:50:16Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza tommy hilfiger",
+    "price": "54.76",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9893201982-bluza-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/02_014e7_s3TZXFphSGHBk1Go7Ng3KY7m/f800/1788601132.jpeg?s=b9c8d92a5d8ed2f0ee6af7631878d14b7266fd1b",
+    "found_at": "2026-09-05T09:50:18Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Spodnie levis W 32 L 34",
     "price": "52.15",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9755118221-stone-island",
     "image_url": "https://images1.vinted.net/t/05_0185b_1btq9PUnxCNashb4JuAgc67D/f800/1787503987.jpeg?s=014b24ae64fe607b2aebd0185e9d44d080758d22",
     "found_at": "2026-09-04T23:09:28Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Hoodie",
-    "price": "75.06",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9748329529-hoodie",
-    "image_url": "https://images1.vinted.net/t/02_004ac_TtHXisv1M1QArR1sKZBYTFZj/f800/1787478132.jpeg?s=6bc623f786e4bcfca1b70d381e9869604e9e65b0",
-    "found_at": "2026-09-04T23:09:28Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Sweter",
-    "price": "155.87",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9706534572-sweter",
-    "image_url": "https://images1.vinted.net/t/05_0041f_fFrDwh9nCcnka74PFCE2R6KH/f800/1787130229.jpeg?s=e084e1c1d6a05adb04b302f97f5fb302752c8219",
-    "found_at": "2026-09-04T23:09:28Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza firmy Stone Island rozmiar M",
-    "price": "259.78",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9702069984-bluza-firmy-stone-island-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/01_01abd_HMYAwdxQtmTsNu3y7Gy75odQ/f800/1787075439.jpeg?s=9a77e56092bcd7d34ea3b94d95f436bd36a2a957",
-    "found_at": "2026-09-04T23:09:29Z"
   }
 ]
