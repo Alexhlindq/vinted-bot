@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "sweter Polo Ralph Lauren rozm M",
+    "price": "54.76",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892265455-sweter-polo-ralph-lauren-rozm-m",
+    "image_url": "https://images1.vinted.net/t/06_020d2_nDZTtapXwC9YbARkbrA8j6UW/f800/1788595679.jpeg?s=d610abde53debc4f8e7aabf3f5f50f1a92354da0",
+    "found_at": "2026-09-05T08:10:39Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Levi's Sweatshirt",
+    "price": "63.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892256349-levis-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/06_026aa_GS78S6BhrygLunNjXL69QFDV/f800/1788595613.jpeg?s=e3ebacb24f9fb267b9587056b7dfc2b3a0e19127",
+    "found_at": "2026-09-05T08:10:43Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Jeansy",
     "price": "59.98",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9766148238-koszulka-acne-studios",
     "image_url": "https://images1.vinted.net/t/05_01e88_NRpejPyJJ9NHWh2zXX3sqqCE/f800/1787589527.jpeg?s=d70035ccc312c2e6160519696ad00b87c1926bdd",
     "found_at": "2026-09-04T23:09:46Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Krótkie spodnie",
-    "price": "233.8",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9889913559-krotkie-spodnie",
-    "image_url": "https://images1.vinted.net/t/01_00886_dqhk3BntAX5KfS5JHAWrpUQe/f800/1788553458.jpeg?s=d4ffe5438cfe25c169ef5e6985560782b6fa6122",
-    "found_at": "2026-09-04T22:50:22Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone island sweatshirt",
-    "price": "249.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9889420583-stone-island-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/02_01ba3_nTEXcwQSyCjSYLzHh2KGUjFG/f800/1788549893.jpeg?s=ffc19c64c208d87a6f73cb3d84f24b764153d567",
-    "found_at": "2026-09-04T22:50:22Z"
   }
 ]
