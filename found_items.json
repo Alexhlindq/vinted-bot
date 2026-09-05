@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter marki Massimo Dutti",
+    "price": "70.41",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XXL",
+    "url": "https://www.vinted.se/items/9897532322-sweter-marki-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/02_013b7_gGPXpyXVo5FFD9KmQ1GiB6KT/f800/1788620614.jpeg?s=3eff2ed03de4b8ff98f50d8308432760ac485c72",
+    "found_at": "2026-09-05T15:08:11Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza dresowa z kapturem levis rozmiar S",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9897449170-bluza-dresowa-z-kapturem-levis-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/06_01b76_jZP5n4qxPCzQF5HhKQfQcxdQ/f800/1788620272.jpeg?s=28a1b975a6ccd493fe2fc16b2d49d56b2a52cad1",
+    "found_at": "2026-09-05T15:08:14Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweterek Polo Ralph Lauren",
     "price": "117.35",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9892810010-tommy-hilfiger-troja",
     "image_url": "https://images1.vinted.net/t/02_01736_XLrZjHSLrSUutLkF8w174GfQ/f800/1788599055.jpeg?s=b00a5021f8e4938a3fb051b674d6c4f527ba985e",
     "found_at": "2026-09-05T09:23:36Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "bluza stone island rozmiar m jest orginalna",
-    "price": "179.93",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9367044246-bluza-stone-island-rozmiar-m-jest-orginalna",
-    "image_url": "https://images1.vinted.net/t/06_01c03_QHLTLN5hdnE8T1mVNjwVd9i1/f800/1783693498.jpeg?s=29025200bd173784eaa80a79aaa00bd4ad35b64d",
-    "found_at": "2026-09-05T09:23:37Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Męska bluza z naszywką",
-    "price": "26.08",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9240181598-meska-bluza-z-naszywka",
-    "image_url": "https://images1.vinted.net/t/05_00add_5ma96GZTKqvRoNtRYsFcu57h/f800/1782227625.jpeg?s=0aea97c53081d93565f7003176cd7bd7a21dd63b",
-    "found_at": "2026-09-05T09:23:38Z"
   }
 ]
