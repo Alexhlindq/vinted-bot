@@ -1,5 +1,93 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Biała bluza Tommy Hilfiger",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898757537-biala-bluza-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/01_001f5_KtRs99cCTFgPKhRNVgMht6xt/f800/1788625726.jpeg?s=464c355609eca540256b0c5bf5ffdc6cfd822648",
+    "found_at": "2026-09-05T16:37:52Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Holister M",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9875811402-bluza-holister-m",
+    "image_url": "https://images1.vinted.net/t/02_00ff0_Trq7HeJMfSzYqCdaBjVWhQkb/f800/1788444105.jpeg?s=39c22e20763319d92ad63a61d3e7c29460ee8af0",
+    "found_at": "2026-09-05T16:37:52Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza męska S Hilfiger",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9874524257-bluza-meska-s-hilfiger",
+    "image_url": "https://images1.vinted.net/t/05_022de_qgxKrANViwJpibroWNHX6x9N/f800/1788437225.jpeg?s=3dec5e0f675516941fe7efd98e8f3fa5256fb550",
+    "found_at": "2026-09-05T16:37:53Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Biała bluza hollister #drip #swag #archive #highfashion #designer #y2k",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9873892846-biala-bluza-hollister-drip-swag-archive-highfashion-designer-y2k",
+    "image_url": "https://images1.vinted.net/t/02_026c9_G5jCYZPCih6VVDQh1WXthLQL/f800/1788433568.jpeg?s=7b2e89d108099084a719e21bc686d0b154e62263",
+    "found_at": "2026-09-05T16:37:53Z"
+  },
+  {
+    "search_name": "Vinted bot 14",
+    "title": "Bondelid blå tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9269914384-bondelid-bla-troja",
+    "image_url": "https://images1.vinted.net/t/06_00dcf_W6TaqyBWtgf59SmxWzvTneLh/f800/1782635955.jpeg?s=5a4a91943d50e89dc83b6483d2ac197ec4cf765c",
+    "found_at": "2026-09-05T16:37:54Z"
+  },
+  {
+    "search_name": "Vinted bot 14",
+    "title": "Bondelid Tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9242757597-bondelid-troja",
+    "image_url": "https://images1.vinted.net/t/05_00ce8_v5LSBtNPKGwt4He6EZw7YT4A/f800/1782248853.jpeg?s=e86ff74035f1ee859d8aafff807bafc589213304",
+    "found_at": "2026-09-05T16:37:54Z"
+  },
+  {
+    "search_name": "Vinted bot 14",
+    "title": "UNIQLO half-zip sweater",
+    "price": "75.27",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9190129312-uniqlo-half-zip-sweater",
+    "image_url": "https://images1.vinted.net/t/04_00eef_gRKCwgCqHBva1caKCUcHpBmX/f800/1781627564.jpeg?s=2e18974be239aa5abc3e4c1b03e601bda85e03f7",
+    "found_at": "2026-09-05T16:37:55Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "OBW3 Acne Studios 10’s shirt button-up luxury summer Streetwear vintage rock",
+    "price": "258.16",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9860761042-obw3-acne-studios-10s-shirt-button-up-luxury-summer-streetwear-vintage-rock",
+    "image_url": "https://images1.vinted.net/t/05_0075c_c1QsQ59pL2dcUgthCyAx9TjU/f800/1788328368.jpeg?s=ed0876d51d1c22b346a7ff3a8b68c28ee727b170",
+    "found_at": "2026-09-05T16:37:57Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Hyvässä kunnossa olevat farkut",
     "price": "45.01",
@@ -570,93 +658,5 @@
     "url": "https://www.vinted.se/items/9894247707-jeans-levis-501-w32-l36",
     "image_url": "https://images1.vinted.net/t/02_000a5_afDGCSQPME6TQf76sxr7LoSo/f800/1788606263.jpeg?s=969f4a0a37dfc0cb5f6841ae1a75d49dfd793dcc",
     "found_at": "2026-09-05T11:08:08Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Levi’s sweatshirt",
-    "price": "56.26",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894153695-levis-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/05_0136d_MNB8pdmoe7rXoKVZurUvcCwn/f800/1788605805.jpeg?s=89ae65aad2593fb970a09d550b3d105867612ec3",
-    "found_at": "2026-09-05T11:08:09Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Czarna bluza Tommy Hilfiger",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9885298035-czarna-bluza-tommy-hilfiger",
-    "image_url": "https://images1.vinted.net/t/06_0194b_tqDM2uNJXHT3Xd2EvYMxVM7t/f800/1788527384.jpeg?s=5f716b877a1f65a93d6c07f44b8d07687eecead7",
-    "found_at": "2026-09-05T11:08:09Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Skjorta från Acne, storlek 48 (M)",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894231429-skjorta-fran-acne-storlek-48-m",
-    "image_url": "https://images1.vinted.net/t/02_01e64_gujVqwPnWxJju3ETb4xLekRs/f800/1788606184.jpeg?s=a78fe886af5c209e5ed9661c052695865aad04fe",
-    "found_at": "2026-09-05T11:08:11Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeansy Levi's Premium 501 W32L32",
-    "price": "67.8",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9894060412-jeansy-levis-premium-501-w32l32",
-    "image_url": "https://images1.vinted.net/t/06_01f40_EyB8hPiLJLwqAbnmjKYGHqY9/f800/1788605353.jpeg?s=4dccfcbb5d60dd112fcb832475b58a9165600c9c",
-    "found_at": "2026-09-05T10:49:54Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Tommy Hilfiger huppari",
-    "price": "39.38",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893973374-tommy-hilfiger-huppari",
-    "image_url": "https://images1.vinted.net/t/02_00b30_G1du3BGu89ezzetUZNcNFoGf/f800/1788604928.jpeg?s=f0acd7039436f43626c29de587dab8793ef7c18c",
-    "found_at": "2026-09-05T10:49:56Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Huppari",
-    "price": "33.76",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893963017-huppari",
-    "image_url": "https://images1.vinted.net/t/04_01773_caYkW1rGZvgptw15jyS4kp7n/f800/1788604876.jpeg?s=5ed67ec3eb871919298a957d673263d00a9b68a4",
-    "found_at": "2026-09-05T10:49:56Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Gant Hoodie",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9893901935-gant-hoodie",
-    "image_url": "https://images1.vinted.net/t/02_00721_RiPt3DQb4K1kZnJGYxJihdRx/f800/1788604579.jpeg?s=a8485a6aa107f53d451c6d46e50353dbec16400e",
-    "found_at": "2026-09-05T10:49:57Z"
-  },
-  {
-    "search_name": "Vinted bot 14",
-    "title": "Ulltröja från Bondelid",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9893937395-ulltroja-fran-bondelid",
-    "image_url": "https://images1.vinted.net/t/02_00932_hPNibGSCYBLmxhjMHi63qz94/f800/1788604751.jpeg?s=744be38dd1d81337877f231ff2cfc1e60642355a",
-    "found_at": "2026-09-05T10:49:58Z"
   }
 ]
