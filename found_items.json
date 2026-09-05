@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Navy Polo Ralph Lauren pima cotton v-neck jumper sweater old money swag",
+    "price": "91.27",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892471255-navy-polo-ralph-lauren-pima-cotton-v-neck-jumper-sweater-old-money-swag",
+    "image_url": "https://images1.vinted.net/t/04_0052c_siphU4wGsMgp3bAwtroxcywn/f800/1788597050.jpeg?s=dea29db1aa89f22a9af231a3c612a3fc81654890",
+    "found_at": "2026-09-05T08:39:30Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 502 jeans",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9892492903-levis-502-jeans",
+    "image_url": "https://images1.vinted.net/t/02_00dc2_Z9FgEvP1u3hsWdY6RHke4FuJ/f800/1788597186.jpeg?s=d8f05bcc8dcde7d18b8707be85669d69d3a0b428",
+    "found_at": "2026-09-05T08:39:33Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Gant tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9892540072-gant-troja",
+    "image_url": "https://images1.vinted.net/t/02_012d1_hJHTVAFK7yWxgPoZyUJvGfor/f800/1788597478.jpeg?s=e12b41560041fb4d0606af52fdf06d7e0f23f9c8",
+    "found_at": "2026-09-05T08:39:35Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Hollister huppari M",
     "price": "67.51",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9856748412-acne-studios-blue-knitted-jumper",
     "image_url": "https://images1.vinted.net/t/05_00350_abP6FHReGKy74fZaqD7xR6uY/f800/1788410647.jpeg?s=191e8c45e35be6936919a6a0510935e718443d2b",
     "found_at": "2026-09-04T23:09:44Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Longsleeve – Svart",
-    "price": "199.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9854725141-acne-studios-longsleeve-svart",
-    "image_url": "https://images1.vinted.net/t/02_00a33_Yux1r8vx6hETLnSAPvZ6zg9B/f800/1788272789.jpeg?s=96639278cc41cd272f089cbba546ae675ccd91d7",
-    "found_at": "2026-09-04T23:09:44Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Vintage Acne shirt",
-    "price": "299.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9854269917-vintage-acne-shirt",
-    "image_url": "https://images1.vinted.net/t/05_00f9c_LWZ6rCgJQz1XgGE4m8UjXgwg/f800/1788270620.jpeg?s=2ff49a9f7604366d97efe823fafee562e4fe2ca5",
-    "found_at": "2026-09-04T23:09:45Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Bluzka Damska Lux",
-    "price": "181.85",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9853818164-acne-studios-bluzka-damska-lux",
-    "image_url": "https://images1.vinted.net/t/05_025e3_PbPUPT6saCd3VN3ZRMa9bPBm/f800/1788268414.jpeg?s=d260f79fb504ba344b04d25a393dbbb2cd789bab",
-    "found_at": "2026-09-04T23:09:45Z"
   }
 ]
