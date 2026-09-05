@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9873058696-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/01_003e3_K1r7DWeQo1rojr2cnk4ZZq8X/f800/1788428536.jpeg?s=031fa61e31ba0d14fc3f7a4c99c42b6723f2ade0",
+    "found_at": "2026-09-05T19:35:37Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter męski Polo Ralph Lauren M",
     "price": "104.31",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9894642855-bluza-z-kapturem-levis-roz-s",
     "image_url": "https://images1.vinted.net/t/06_01912_FxuKoxWkq4cKeUUCSRGZ8eQo/f800/1788608162.jpeg?s=8085b6527070bec188ec9796b1efaf3aebe6ae38",
     "found_at": "2026-09-05T11:49:51Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "B;uczą Hollister",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9894541119-bucza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_01731_kfx3cgDtCP6Avjtjz3eA2dBq/f800/1788607676.jpeg?s=9561ed8ea6d1d9a6d8e01bf88e2b08a1c5edc2c7",
-    "found_at": "2026-09-05T11:35:38Z"
   }
 ]
