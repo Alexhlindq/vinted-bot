@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Blå stickad herrtröja Massimo Dutti",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9909923993-bla-stickad-herrtroja-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/02_011c4_8w3FbGCXtXJVaSC3XUTsXscH/f800/1788705931.jpeg?s=ef14cb5fe344b41b38348efc87c37fe5c6818530",
+    "found_at": "2026-09-06T14:50:06Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister hoodie bluza z kapturem embroidery logo",
+    "price": "20.84",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9909935708-hollister-hoodie-bluza-z-kapturem-embroidery-logo",
+    "image_url": "https://images1.vinted.net/t/05_02017_bA1PisCQGs3mPYXHYqpYx2xH/f800/1788705969.jpeg?s=5c97f1760af0bc2b4cf3374637b7a72f75193cdd",
+    "found_at": "2026-09-06T14:50:09Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi's vintage 501",
     "price": "56.26",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9904236329-vitsvart-huvtroja-med-tryck-hollister-strl-m",
     "image_url": "https://images1.vinted.net/t/02_00bcf_jFh78SxfqZ9i2oC7eJNpG1Lb/f800/1788684389.jpeg?s=01179cd30826030cfc6ee1ed10fe8a0ff397d928",
     "found_at": "2026-09-06T08:51:19Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne denim shirt",
-    "price": "281.3",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9904259841-acne-denim-shirt",
-    "image_url": "https://images1.vinted.net/t/03_005a0_pwDSKu22VuPQmVuGUKgNdeSW/f800/1788684507.jpeg?s=6d7966cc290eb4cc72421b2147b059a9003072a5",
-    "found_at": "2026-09-06T08:51:21Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Vintage Acne shirt",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9904005515-vintage-acne-shirt",
-    "image_url": "https://images1.vinted.net/t/05_00788_nk4nJTo4b4AQ6u4Yuzb5e8Pm/f800/1788683189.jpeg?s=6f84858d7b1f7160a62d785f684e8dd31c5e9c97",
-    "found_at": "2026-09-06T08:40:44Z"
   }
 ]
