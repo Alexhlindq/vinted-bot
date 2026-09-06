@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios hoddie",
+    "price": "250.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9904547319-acne-studios-hoddie",
+    "image_url": "https://images1.vinted.net/t/06_00773_JBVDCJZua6JeKzWzuAk34Yha/f800/1788685860.jpeg?s=65fc19f47d1fb6b2e8786ca0a2631ca6739fa5c5",
+    "found_at": "2026-09-06T09:24:52Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Fin tröja",
     "price": "60.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9896756500-bluza-levis-vintage",
     "image_url": "https://images1.vinted.net/t/05_00a92_JYKREtwgeUvPhjbZ3dhbSko6/f800/1788617424.jpeg?s=966b6a9232773355c8be96928a1b8202245df74b",
     "found_at": "2026-09-05T14:23:39Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Męska szara bluza z kapturem Levi’s big logo print nowa kolekcja",
-    "price": "39.12",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9896872418-meska-szara-bluza-z-kapturem-levis-big-logo-print-nowa-kolekcja",
-    "image_url": "https://images1.vinted.net/t/06_021c3_yX2xFwck5KNdu7KBvYYaFL63/f800/1788617904.jpeg?s=bd3e567dacb5d409af87f24f48369c2be8a1f549",
-    "found_at": "2026-09-05T14:23:40Z"
   }
 ]
