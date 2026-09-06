@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Hættetrøje",
+    "price": "67.75",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905615617-haettetroje",
+    "image_url": "https://images1.vinted.net/t/01_01808_DVrmGrCyKqWvDytJovn5HUT9/f800/1788690241.jpeg?s=c027ec35776888fec7a66022d4f03b1d31bea442",
+    "found_at": "2026-09-06T10:24:47Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Swetr z massimo  Dutti",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905531255-swetr-z-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/06_02051_ijwcYpcWa2jTbfFUhBqKypnA/f800/1788689905.jpeg?s=e19b85218885cc1a433d0bbd8cb1f9f716880526",
+    "found_at": "2026-09-06T10:24:49Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios Face Logo Bluza Crewneck Błękitna M Blue Vintage Archive",
+    "price": "260.74",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905544791-acne-studios-face-logo-bluza-crewneck-blekitna-m-blue-vintage-archive",
+    "image_url": "https://images1.vinted.net/t/06_01e0b_eQU5FCfKSQ1nt9R4KuZuNc6M/f800/1788689960.jpeg?s=d4ca90f5a9554045660b9b277ef6faf729a6d6f7",
+    "found_at": "2026-09-06T10:24:53Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza polo ralph lauren",
     "price": "75.62",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9897532322-sweter-marki-massimo-dutti",
     "image_url": "https://images1.vinted.net/t/02_013b7_gGPXpyXVo5FFD9KmQ1GiB6KT/f800/1788620614.jpeg?s=3eff2ed03de4b8ff98f50d8308432760ac485c72",
     "found_at": "2026-09-05T15:08:11Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza dresowa z kapturem levis rozmiar S",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9897449170-bluza-dresowa-z-kapturem-levis-rozmiar-s",
-    "image_url": "https://images1.vinted.net/t/06_01b76_jZP5n4qxPCzQF5HhKQfQcxdQ/f800/1788620272.jpeg?s=28a1b975a6ccd493fe2fc16b2d49d56b2a52cad1",
-    "found_at": "2026-09-05T15:08:14Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek Polo Ralph Lauren",
-    "price": "117.35",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897216710-sweterek-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_00484_iuBc3P3Fv86tCN4VRVKuv7Lp/f800/1788619322.jpeg?s=2641dbb8723b2ab7eb73dd080cd9d8d45706fb01",
-    "found_at": "2026-09-05T14:49:52Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s rozmiar 31/34",
-    "price": "31.29",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9897272234-levis-rozmiar-3134",
-    "image_url": "https://images1.vinted.net/t/05_00bdf_VS5d1QytpNYJkybup5VU93Le/f800/1788619548.jpeg?s=2713a88b337e787ff73aee9cfc06b359ce83eb28",
-    "found_at": "2026-09-05T14:49:55Z"
   }
 ]
