@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo ralph lauren paita",
+    "price": "112.52",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9909480579-polo-ralph-lauren-paita",
+    "image_url": "https://images1.vinted.net/t/06_019a9_YzRv4dTksuvWYQy3yY2nSdgh/f800/1788704482.jpeg?s=49dcd27ed506b11037ab387aa2c22f3068e3ce3a",
+    "found_at": "2026-09-06T14:24:21Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Kofta från Polo Ralph Lauren",
     "price": "125.0",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9903197358-ralp-lauren-polo-sweter-meski-prima-cotton-bawelna-m-top-premium-must-have-classic",
     "image_url": "https://images1.vinted.net/t/03_0202f_PzSXEGVEyWRSJj4eoArCZ7xW/f800/1788676710.jpeg?s=571c07eb4be0bcbc4941c4d1b2a1c3ba0cd8e1f2",
     "found_at": "2026-09-06T06:53:33Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Carhart Riot Pant",
-    "price": "56.15",
-    "currency": "SEK",
-    "brand": "Carhartt",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9903148616-carhart-riot-pant",
-    "image_url": "https://images1.vinted.net/t/01_01fa5_Cxscbd9J8SB3GMfT4AEzmt6h/f800/1788676090.jpeg?s=bc80ce0020c431c72ee6c6e8b0a6ece9725c7882",
-    "found_at": "2026-09-06T06:30:16Z"
   }
 ]
