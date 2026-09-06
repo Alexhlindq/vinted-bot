@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Navy blue Crew neck Ralph Lauren",
+    "price": "125.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9910209847-navy-blue-crew-neck-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/04_00213_VSJ64mGLpDmZipnSw4ngSe8i/f800/1788706860.jpeg?s=ecf5af25263cf83bd5c242dfd18f0ef090f9c01d",
+    "found_at": "2026-09-06T15:08:30Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem Hollister Co. szara melanż taśmy logo S / M",
+    "price": "46.94",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9910212835-bluza-z-kapturem-hollister-co-szara-melanz-tasmy-logo-s-m",
+    "image_url": "https://images1.vinted.net/t/06_02240_LiHqCb17CSWGzheNfeagZwop/f800/1788706869.jpeg?s=75cb00acb9128751e768fa83c6f15259fff60279",
+    "found_at": "2026-09-06T15:08:36Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Carhartt Hoodie",
+    "price": "73.77",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9910051979-carhartt-hoodie",
+    "image_url": "https://images1.vinted.net/t/02_02006_3UhfDv2j8i8YfgHo9FxSUbch/f800/1788706346.jpeg?s=63deaaaa479423f432b1c6af99e0513927c8de73",
+    "found_at": "2026-09-06T15:08:36Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Blå stickad herrtröja Massimo Dutti",
     "price": "70.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9904400435-fin-troja",
     "image_url": "https://images1.vinted.net/t/06_01f96_19Qwx9kY8ZN8dCNLoW2HKFc7/f800/1788685184.jpeg?s=9d3d97429804d173eb220ab293f30c08053e044f",
     "found_at": "2026-09-06T09:08:50Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweter Polo Ralph Lauren",
-    "price": "96.48",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9904391328-sweter-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_025a6_awPspKpZ1B7sXP5YrW46wZiP/f800/1788685142.jpeg?s=e7793f8dd7447a1059b04792210017c9341e2984",
-    "found_at": "2026-09-06T09:08:50Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter beżowy",
-    "price": "86.05",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9901845424-sweter-bezowy",
-    "image_url": "https://images1.vinted.net/t/05_021e5_MmFmaAER15mZ7eZtTy6p53Kv/f800/1788644420.jpeg?s=bdd3f45333da81a7d8adc7448d8e73e7392d948c",
-    "found_at": "2026-09-06T08:51:14Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Vit/svart huvtröja med tryck Hollister strl M",
-    "price": "65.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9904236329-vitsvart-huvtroja-med-tryck-hollister-strl-m",
-    "image_url": "https://images1.vinted.net/t/02_00bcf_jFh78SxfqZ9i2oC7eJNpG1Lb/f800/1788684389.jpeg?s=01179cd30826030cfc6ee1ed10fe8a0ff397d928",
-    "found_at": "2026-09-06T08:51:19Z"
   }
 ]
