@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph lauren tröja Stl S",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913513212-ralph-lauren-troja-stl-s",
+    "image_url": "https://images1.vinted.net/t/05_00000_qob7YY5ouWfrp6qRmeMh3hii/f800/1788718236.jpeg?s=a8a8f3cc031bf6762ba3583b3c5da76284dcc70f",
+    "found_at": "2026-09-06T18:26:23Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Morris t-shirt",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913709140-morris-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_01c45_ns9TSsANkpzZ8pRJn9kSUSKZ/f800/1788719068.jpeg?s=a84ba0bd753b6a73508cda907748ff7dae4b4d75",
+    "found_at": "2026-09-06T18:26:28Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza z kapturem S",
     "price": "26.08",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9906424995-bluza",
     "image_url": "https://images1.vinted.net/t/05_00167_uXz1MRaDBhGqy1d7cEqDk2zP/f800/1788693446.jpeg?s=c660e0384d68f126f45033c6718fc2c7f2d85004",
     "found_at": "2026-09-06T11:23:52Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Bluza Acne studios S",
-    "price": "130.38",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9906299817-bluza-acne-studios-s",
-    "image_url": "https://images1.vinted.net/t/05_003a6_aEstTtT8WhUFhrd89iuf1eux/f800/1788692946.jpeg?s=09c3d9118d7c8f67b597b06488afebd65f2b997c",
-    "found_at": "2026-09-06T11:23:55Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Hilfiger Denim rozmiar M",
-    "price": "62.58",
-    "currency": "SEK",
-    "brand": "Hilfiger Denim",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9906159572-bluza-hilfiger-denim-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/05_00488_Peeg1UqKz9BpsuXc9oDEnbFz/f800/1788692388.jpeg?s=8e5346cc0cfc77f020f867b55e15dc38a63d019e",
-    "found_at": "2026-09-06T11:08:23Z"
   }
 ]
