@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza Lauren",
+    "price": "104.31",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9908852160-bluza-lauren",
+    "image_url": "https://images1.vinted.net/t/06_021c8_iZhsW6qciP45DdKY4Ekjw5sX/f800/1788702384.jpeg?s=d9710776b184adee66fe24037d751a4d5dc7adc2",
+    "found_at": "2026-09-06T13:50:12Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter z welna",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9908704800-sweter-z-welna",
+    "image_url": "https://images1.vinted.net/t/02_00165_DZk2fRKyMVxi43EkxnLbk3HS/f800/1788701881.jpeg?s=fe3a55e73d8b95d738917acff8fc245c36351e27",
+    "found_at": "2026-09-06T13:50:14Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "UNIQLO polo sweater",
+    "price": "52.69",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9853566782-uniqlo-polo-sweater",
+    "image_url": "https://images1.vinted.net/t/02_00624_DXNyw6H4j1r68aNMCBnz5nwB/f800/1788267153.jpeg?s=84bda9f094863a999d4adda57b990a70bdabd78d",
+    "found_at": "2026-09-06T13:50:16Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweter z welną Suit Club",
     "price": "65.19",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9901729016-polo-ralph-lauren-hoodie",
     "image_url": "https://images1.vinted.net/t/06_00935_Dero7z7rYYLtw2wWucLFSKDx/f800/1788643236.jpeg?s=a44e14e3abf06ab2fb4634f9207b3bb724827ad9",
     "found_at": "2026-09-05T21:23:07Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Vihreä polon villapaita",
-    "price": "101.27",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9898473036-vihrea-polon-villapaita",
-    "image_url": "https://images1.vinted.net/t/06_01a50_mFjyrw56Q12dY3hUya2qrmLe/f800/1788624505.jpeg?s=20050b39971867d595296e3c35f51999d40dd76c",
-    "found_at": "2026-09-05T20:24:27Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza chłopięca Ralph Lauren 158 cm",
-    "price": "78.23",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9900899825-bluza-chlopieca-ralph-lauren-158-cm",
-    "image_url": "https://images1.vinted.net/t/06_00084_ShHpYqFCPfYJ8coU6rRa7vp8/f800/1788636944.jpeg?s=ab21c06423d2be8aed8fffd837c6eeb176dfbc81",
-    "found_at": "2026-09-05T19:49:35Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9873058696-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/01_003e3_K1r7DWeQo1rojr2cnk4ZZq8X/f800/1788428536.jpeg?s=031fa61e31ba0d14fc3f7a4c99c42b6723f2ade0",
-    "found_at": "2026-09-05T19:35:37Z"
   }
 ]
