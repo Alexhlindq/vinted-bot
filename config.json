@@ -1710,6 +1710,54 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Grovstickad (stil)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=grovstickad&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Sjalkrage kofta (stil)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=sjalkrage&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Melerad stickad (stil)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=melerad&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Rutig skjorta (stil)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Skjortor?query=rutig&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
