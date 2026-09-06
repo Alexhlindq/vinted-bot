@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Lonsleeve Polo Ralph Lauren granatowy S",
+    "price": "101.7",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913026175-lonsleeve-polo-ralph-lauren-granatowy-s",
+    "image_url": "https://images1.vinted.net/t/06_000cd_uhmXXkkfXTkaCqbHY3pUXU6U/f800/1788716289.jpeg?s=070e228a64626cf808dc1ee251b086935c7b0724",
+    "found_at": "2026-09-06T17:50:04Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Mörkblå Massimo Dutti-tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9913160636-morkbla-massimo-dutti-troja",
+    "image_url": "https://images1.vinted.net/t/01_0019f_rdT7Sf6UFh3cEx4H71JR4Uir/f800/1788716812.jpeg?s=4296a693dc2b00b7c316f4615af4441e0e97e0c7",
+    "found_at": "2026-09-06T17:50:07Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza",
     "price": "52.15",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9906276766-tommy-hilfiger-huppari",
     "image_url": "https://images1.vinted.net/t/05_00a88_tz87V8LcmiKAoJdAGY6zvFBX/f800/1788692854.jpeg?s=06625ea5a4cd02ca370eeebc41c6f71e78ab633b",
     "found_at": "2026-09-06T11:08:25Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister huppari",
-    "price": "45.01",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9906134696-hollister-huppari",
-    "image_url": "https://images1.vinted.net/t/04_00c15_P6cSSXUzYseEuUwLmF7ytvuX/f800/1788692290.jpeg?s=6ae6ffc9e5d9012feb0e4fa0b65595aff3907dc0",
-    "found_at": "2026-09-06T11:08:25Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios tröja",
-    "price": "230.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9906142710-acne-studios-troja",
-    "image_url": "https://images1.vinted.net/t/02_01f6d_8QZjPh5daxhne8ZoQbaj2PxA/f800/1788692322.jpeg?s=8ddad2d9fd61c02646ab9936222ac9ffb0b97ced",
-    "found_at": "2026-09-06T11:08:30Z"
   }
 ]
