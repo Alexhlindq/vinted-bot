@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 511",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9906488366-levis-511",
+    "image_url": "https://images1.vinted.net/t/06_006ab_jL4SNp9EmZLD2UZaeK2v5NRk/f800/1788693699.jpeg?s=5e000583e4285f390d9d6ffa27e5617d7b2d949e",
+    "found_at": "2026-09-06T11:23:51Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza",
+    "price": "46.94",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9906424995-bluza",
+    "image_url": "https://images1.vinted.net/t/05_00167_uXz1MRaDBhGqy1d7cEqDk2zP/f800/1788693446.jpeg?s=c660e0384d68f126f45033c6718fc2c7f2d85004",
+    "found_at": "2026-09-06T11:23:52Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Bluza Acne studios S",
+    "price": "130.38",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9906299817-bluza-acne-studios-s",
+    "image_url": "https://images1.vinted.net/t/05_003a6_aEstTtT8WhUFhrd89iuf1eux/f800/1788692946.jpeg?s=09c3d9118d7c8f67b597b06488afebd65f2b997c",
+    "found_at": "2026-09-06T11:23:55Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza Hilfiger Denim rozmiar M",
     "price": "62.58",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9898450584-sweter-meski-ralph-lauren-rm",
     "image_url": "https://images1.vinted.net/t/02_02567_EtknjVvpUAey5xkPqZMzYbNN/f800/1788624411.jpeg?s=541224648b01ef2d4e32750a8830d99f649c31a8",
     "found_at": "2026-09-05T16:08:58Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren hoodie longsleeve",
-    "price": "104.05",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9883337135-polo-ralph-lauren-hoodie-longsleeve",
-    "image_url": "https://images1.vinted.net/t/06_01d3b_a8VWwRThAXnd7sjNpucGkjTH/f800/1788515852.jpeg?s=08adb043d09c14363e269fff2cb445145080e128",
-    "found_at": "2026-09-05T16:08:58Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "bluza Z Kapturem Hollister Rozmiar S",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9896449181-bluza-z-kapturem-hollister-rozmiar-s",
-    "image_url": "https://images1.vinted.net/t/01_0071e_KQ8HzcztVSXXxggbAjQD9uMy/f800/1788616144.jpeg?s=1434887236d5baa5c79e87133882fc333dcd84ed",
-    "found_at": "2026-09-05T16:09:03Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "T-shirts fra arcne Studios",
-    "price": "112.91",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898412008-t-shirts-fra-arcne-studios",
-    "image_url": "https://images1.vinted.net/t/02_0256c_a3e1HxgAf1c4DDGrDe86cGKd/f800/1788624246.jpeg?s=7692f479b048f08c634e399c530d505bc67ba32a",
-    "found_at": "2026-09-05T16:09:05Z"
   }
 ]
