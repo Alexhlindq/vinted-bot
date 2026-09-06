@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza Carhartt",
+    "price": "59.98",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9914084851-bluza-carhartt",
+    "image_url": "https://images1.vinted.net/t/06_00b7b_bkPSndcFx81ZtmyWwpD8117p/f800/1788720723.jpeg?s=2c44455f36a0c8dfe2c7639a0e0fde9139d94a4f",
+    "found_at": "2026-09-06T19:01:02Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister Blue Hoodie – Size M",
+    "price": "67.75",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9914090927-hollister-blue-hoodie-size-m",
+    "image_url": "https://images1.vinted.net/t/02_00db7_vm1HzYEsJxSw3fzR4UoFJPo7/f800/1788720750.jpeg?s=b3c33c7e5059f2dd8afdc77121ef35636c85ff0e",
+    "found_at": "2026-09-06T19:01:03Z"
+  },
+  {
     "search_name": "Vinted bot 11",
     "title": "J.lindeberg kofta",
     "price": "70.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9908334795-bluza-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/01_020d9_TYErf5YyWE96jFHZgf4ntqmf/f800/1788700597.jpeg?s=b7b9326ee055bd33fc93565a5ba42d81816dd689",
     "found_at": "2026-09-06T13:24:23Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Farkut",
-    "price": "45.01",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9908458573-farkut",
-    "image_url": "https://images1.vinted.net/t/02_00f66_zaiukWv7DjYni9rbuHbUHmqA/f800/1788701032.jpeg?s=4b8eb49decab7ad12d70d7ea4e59f4a1ab8d68b2",
-    "found_at": "2026-09-06T13:24:27Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza stone island",
-    "price": "182.54",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9908209144-bluza-stone-island",
-    "image_url": "https://images1.vinted.net/t/01_0038f_v7V4VibSVCyeGL9Cwdch3toC/f800/1788700148.jpeg?s=5d02cbd7efdb8f2fc24f1d342b8866e2a53ae301",
-    "found_at": "2026-09-06T13:24:30Z"
   }
 ]
