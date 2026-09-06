@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter Polo Ralph",
+    "price": "117.35",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9910760279-sweter-polo-ralph",
+    "image_url": "https://images1.vinted.net/t/05_01121_yRZte8D6ntpQYM2Bz4XfApRX/f800/1788708627.jpeg?s=0b4552eac6f9fafff0110c9af5834587f81bc57d",
+    "found_at": "2026-09-06T15:37:42Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Miesten mustat Leviksen farkut",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9910766083-miesten-mustat-leviksen-farkut",
+    "image_url": "https://images1.vinted.net/t/01_006ad_ZKJXRM1jz8f63ah4PMc842TK/f800/1788708646.jpeg?s=895049eb8b9f25d4cf17b255d84a5b18605215b0",
+    "found_at": "2026-09-06T15:37:46Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Morris t-shirt",
+    "price": "30.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9910674006-morris-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_00d57_6aVyGpVjgmPRs2yxumXzfK7x/f800/1788708352.jpeg?s=ae25d63e14c8f79d737b1e397fa871a28cef6fa5",
+    "found_at": "2026-09-06T15:37:47Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Rosa huvtröja Hollister",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9910788861-rosa-huvtroja-hollister",
+    "image_url": "https://images1.vinted.net/t/01_006c0_uPZptAnryTiRumccL1eXvDYY/f800/1788708719.jpeg?s=d4a7612d483691b7203135dfa1cf58bb17f97e03",
+    "found_at": "2026-09-06T15:37:48Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Navy blue Crew neck Ralph Lauren",
     "price": "125.0",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9904919755-levis-512-jeans-w31-l30",
     "image_url": "https://images1.vinted.net/t/06_01f50_mb1gnwVbN97Kq9yzX5y3GQaJ/f800/1788687456.jpeg?s=ede8b579a5f0b154a8fd17b622e53d531a6861eb",
     "found_at": "2026-09-06T09:38:18Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 510 jeans, W31 L30",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9904896434-levis-510-jeans-w31-l30",
-    "image_url": "https://images1.vinted.net/t/02_001a2_e8pX3SJ642mwoRQrcSKvhTs9/f800/1788687360.jpeg?s=63e46d43e904013119c295a667fa57c80cb439e8",
-    "found_at": "2026-09-06T09:38:18Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis Jeans størrelse 32/34",
-    "price": "60.22",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9904735865-levis-jeans-storrelse-3234",
-    "image_url": "https://images1.vinted.net/t/04_01b57_vNwZtsQef5K9wT1oAbth18rS/f800/1788686689.jpeg?s=34e9648ecc357c5fd7668fafaa64128af4018b93",
-    "found_at": "2026-09-06T09:38:19Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios hoddie",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9904547319-acne-studios-hoddie",
-    "image_url": "https://images1.vinted.net/t/06_00773_JBVDCJZua6JeKzWzuAk34Yha/f800/1788685860.jpeg?s=65fc19f47d1fb6b2e8786ca0a2631ca6739fa5c5",
-    "found_at": "2026-09-06T09:24:52Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Fin tröja",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9904400435-fin-troja",
-    "image_url": "https://images1.vinted.net/t/06_01f96_19Qwx9kY8ZN8dCNLoW2HKFc7/f800/1788685184.jpeg?s=9d3d97429804d173eb220ab293f30c08053e044f",
-    "found_at": "2026-09-06T09:08:50Z"
   }
 ]
