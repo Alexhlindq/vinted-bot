@@ -2,12 +2,22 @@ name: Vinted-bot
 
 on:
   schedule:
-    # Kör var 15:e minut. GitHub kan ibland dröja lite extra, men det är
-    # snällare mot Vinted än att köra oftare.
+    # Schemat försöker köra var 15:e minut, men concurrency-spärren nedan
+    # ser till att en ny körning aldrig startar förrän föregående är klar –
+    # med många Sellpy-sökningar (som tar längre tid) blir det i praktiken
+    # tätt inpå varandra utan att någonsin krocka.
     - cron: "*/15 * * * *"
   workflow_dispatch: {}
     # Gör att du kan trycka på "Run workflow" manuellt i GitHub för att
     # testköra direkt, utan att vänta på schemat.
+
+concurrency:
+  group: vinted-bot-run
+  cancel-in-progress: false
+  # Om en körning redan pågår när nästa schemalagda körning skulle starta,
+  # köar GitHub den nya körningen istället för att starta den parallellt.
+  # Max en väntande körning i kön i taget – extra triggers däremellan hoppas
+  # över, så det blir aldrig en lång kö av gamla körningar.
 
 permissions:
   contents: write
