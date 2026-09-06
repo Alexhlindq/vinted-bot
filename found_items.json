@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Męski sweter",
+    "price": "73.02",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9903970161-meski-sweter",
+    "image_url": "https://images1.vinted.net/t/01_01826_F28yGAvfiwuHec7nBRauhNrF/f800/1788682993.jpeg?s=8f28ad342a3e42de6cc8ac349e4c6d3d9975ceba",
+    "found_at": "2026-09-06T08:26:30Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza hollister",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9903931736-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/06_00e94_7gpNTMBN7S3HhWYgExVch3NY/f800/1788682776.jpeg?s=b663166ad7b5ff8b9a4dcbf1846042537f1e913d",
+    "found_at": "2026-09-06T08:26:32Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralp Lauren polo sweter męski prima cotton bawełna M top premium must-have classic",
     "price": "99.09",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9895583054-szara-bluza-levis",
     "image_url": "https://images1.vinted.net/t/01_01ec5_Wj5xVqjJ5jqVpeLLSbWuFAru/f800/1788612633.jpeg?s=5041eb07bd6082ce1012c6f952ee8f0e60c99c25",
     "found_at": "2026-09-05T13:08:18Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza czarna",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9885136826-bluza-czarna",
-    "image_url": "https://images1.vinted.net/t/03_00267_F3rpBTpuNj3fHNE6pMUcSyFc/f800/1788611573.jpeg?s=fab81f9bd23cf94bf65cf33d48dbcc017f3d29cf",
-    "found_at": "2026-09-05T12:45:32Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Levi’s",
-    "price": "62.58",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9895499361-bluza-levis",
-    "image_url": "https://images1.vinted.net/t/05_01f6c_ypFKYoaUWbykkZCPN9LffNtM/f800/1788612079.jpeg?s=fd7cfebdefee32ed9cb31bbf50f4c1ac368c991a",
-    "found_at": "2026-09-05T12:45:33Z"
   }
 ]
