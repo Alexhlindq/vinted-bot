@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 512 jeans, W31 L30",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9904919755-levis-512-jeans-w31-l30",
+    "image_url": "https://images1.vinted.net/t/06_01f50_mb1gnwVbN97Kq9yzX5y3GQaJ/f800/1788687456.jpeg?s=ede8b579a5f0b154a8fd17b622e53d531a6861eb",
+    "found_at": "2026-09-06T09:38:18Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 510 jeans, W31 L30",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9904896434-levis-510-jeans-w31-l30",
+    "image_url": "https://images1.vinted.net/t/02_001a2_e8pX3SJ642mwoRQrcSKvhTs9/f800/1788687360.jpeg?s=63e46d43e904013119c295a667fa57c80cb439e8",
+    "found_at": "2026-09-06T09:38:18Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis Jeans størrelse 32/34",
+    "price": "60.22",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9904735865-levis-jeans-storrelse-3234",
+    "image_url": "https://images1.vinted.net/t/04_01b57_vNwZtsQef5K9wT1oAbth18rS/f800/1788686689.jpeg?s=34e9648ecc357c5fd7668fafaa64128af4018b93",
+    "found_at": "2026-09-06T09:38:19Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne studios hoddie",
     "price": "250.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9897115687-gant-troja",
     "image_url": "https://images1.vinted.net/t/02_01d62_fPzb8xQXjdhiz5n568Ta3Z51/f800/1788618907.jpeg?s=6717fdeeda2592a3b9a864548ab0c412e32f4114",
     "found_at": "2026-09-05T14:36:17Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren",
-    "price": "90.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896879722-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_003ee_3t9B6uKxzYziH8V2SgSu7vcU/f800/1788617934.jpeg?s=7546969ae21c2cdb0534ba6c8caba30186afde41",
-    "found_at": "2026-09-05T14:23:34Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Morros tjocktröja M",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896931894-morros-tjocktroja-m",
-    "image_url": "https://images1.vinted.net/t/06_01568_hFkiUnzheennFF1uq4wb3cqQ/f800/1788618150.jpeg?s=c0ffbf013aaf84d8ab51f411743e7826fa4a3e6c",
-    "found_at": "2026-09-05T14:23:39Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza levis vintage",
-    "price": "31.29",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9896756500-bluza-levis-vintage",
-    "image_url": "https://images1.vinted.net/t/05_00a92_JYKREtwgeUvPhjbZ3dhbSko6/f800/1788617424.jpeg?s=966b6a9232773355c8be96928a1b8202245df74b",
-    "found_at": "2026-09-05T14:23:39Z"
   }
 ]
