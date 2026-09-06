@@ -68,7 +68,7 @@ def search_sellpy(search):
                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
             ))
             page.goto(f"{SELLPY_SEARCH_URL}?query={query}", timeout=30000)
-            page.wait_for_selector('script[type="application/ld+json"]', timeout=15000)
+            page.wait_for_selector('script[type="application/ld+json"]', state="attached", timeout=15000)
 
             # Produktdata (namn, pris, bild) ligger i JSON-LD-block.
             ld_blocks = page.eval_on_selector_all(
