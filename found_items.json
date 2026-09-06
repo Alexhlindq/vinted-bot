@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem S",
+    "price": "26.08",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913322251-bluza-z-kapturem-s",
+    "image_url": "https://images1.vinted.net/t/02_01110_99Ki5K8jQ7XC43XjkYTYF9uQ/f800/1788717451.jpeg?s=b6e921ab107ecae086482e756cf978a92125066a",
+    "found_at": "2026-09-06T18:10:07Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Lonsleeve Polo Ralph Lauren granatowy S",
     "price": "101.7",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9906159572-bluza-hilfiger-denim-rozmiar-m",
     "image_url": "https://images1.vinted.net/t/05_00488_Peeg1UqKz9BpsuXc9oDEnbFz/f800/1788692388.jpeg?s=8e5346cc0cfc77f020f867b55e15dc38a63d019e",
     "found_at": "2026-09-06T11:08:23Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Tommy Hilfiger Huppari",
-    "price": "56.26",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9906276766-tommy-hilfiger-huppari",
-    "image_url": "https://images1.vinted.net/t/05_00a88_tz87V8LcmiKAoJdAGY6zvFBX/f800/1788692854.jpeg?s=06625ea5a4cd02ca370eeebc41c6f71e78ab633b",
-    "found_at": "2026-09-06T11:08:25Z"
   }
 ]
