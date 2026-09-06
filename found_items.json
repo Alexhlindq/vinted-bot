@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Vintage Acne shirt",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9904005515-vintage-acne-shirt",
+    "image_url": "https://images1.vinted.net/t/05_00788_nk4nJTo4b4AQ6u4Yuzb5e8Pm/f800/1788683189.jpeg?s=6f84858d7b1f7160a62d785f684e8dd31c5e9c97",
+    "found_at": "2026-09-06T08:40:44Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Męski sweter",
     "price": "73.02",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9840276023-puchowa-kurtka-ralph-lauren-czerwona",
     "image_url": "https://images1.vinted.net/t/06_0085c_WyYEA2k9CjT3s4zSkjjS5eSc/f800/1788171526.jpeg?s=9c3eb004bfd6551238ea38375c39bf382d02ae3c",
     "found_at": "2026-09-05T13:08:14Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "szara bluza Levis",
-    "price": "62.58",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9895583054-szara-bluza-levis",
-    "image_url": "https://images1.vinted.net/t/01_01ec5_Wj5xVqjJ5jqVpeLLSbWuFAru/f800/1788612633.jpeg?s=5041eb07bd6082ce1012c6f952ee8f0e60c99c25",
-    "found_at": "2026-09-05T13:08:18Z"
   }
 ]
