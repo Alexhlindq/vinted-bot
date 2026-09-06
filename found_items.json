@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi's vintage 501",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9909754005-levis-vintage-501",
+    "image_url": "https://images1.vinted.net/t/06_00df5_yh254EpAbJ2ENcXFjRBTYn6W/f800/1788705380.jpeg?s=6d03f2b04da7c1413f62e4154a589a7d40e70c52",
+    "found_at": "2026-09-06T14:37:24Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Stickad tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9909541013-stickad-troja",
+    "image_url": "https://images1.vinted.net/t/05_009da_bw6YZQuKsyz4WeRzvAYLZWvT/f800/1788704683.jpeg?s=9f4a0ca8e9097102e9047e1a4d0aed0a69517bae",
+    "found_at": "2026-09-06T14:37:26Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Niebieska koszula Acne Jeans M Classic Wide Long 100% Bawełna Vintage L Acne Studios",
+    "price": "299.88",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9909607159-niebieska-koszula-acne-jeans-m-classic-wide-long-100-bawelna-vintage-l-acne-studios",
+    "image_url": "https://images1.vinted.net/t/05_002ee_kBjKKEbazrH8QKm4nqeQ83vy/f800/1788704900.jpeg?s=3ed7a68dc9453c1ce6b078bac9ca7d743c47e93c",
+    "found_at": "2026-09-06T14:37:29Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo ralph lauren paita",
     "price": "112.52",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9904005515-vintage-acne-shirt",
     "image_url": "https://images1.vinted.net/t/05_00788_nk4nJTo4b4AQ6u4Yuzb5e8Pm/f800/1788683189.jpeg?s=6f84858d7b1f7160a62d785f684e8dd31c5e9c97",
     "found_at": "2026-09-06T08:40:44Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Męski sweter",
-    "price": "73.02",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9903970161-meski-sweter",
-    "image_url": "https://images1.vinted.net/t/01_01826_F28yGAvfiwuHec7nBRauhNrF/f800/1788682993.jpeg?s=8f28ad342a3e42de6cc8ac349e4c6d3d9975ceba",
-    "found_at": "2026-09-06T08:26:30Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza hollister",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9903931736-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_00e94_7gpNTMBN7S3HhWYgExVch3NY/f800/1788682776.jpeg?s=b663166ad7b5ff8b9a4dcbf1846042537f1e913d",
-    "found_at": "2026-09-06T08:26:32Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralp Lauren polo sweter męski prima cotton bawełna M top premium must-have classic",
-    "price": "99.09",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9903197358-ralp-lauren-polo-sweter-meski-prima-cotton-bawelna-m-top-premium-must-have-classic",
-    "image_url": "https://images1.vinted.net/t/03_0202f_PzSXEGVEyWRSJj4eoArCZ7xW/f800/1788676710.jpeg?s=571c07eb4be0bcbc4941c4d1b2a1c3ba0cd8e1f2",
-    "found_at": "2026-09-06T06:53:33Z"
   }
 ]
