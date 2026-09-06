@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza Ralph Lauren",
+    "price": "78.23",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9908334795-bluza-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/01_020d9_TYErf5YyWE96jFHZgf4ntqmf/f800/1788700597.jpeg?s=b7b9326ee055bd33fc93565a5ba42d81816dd689",
+    "found_at": "2026-09-06T13:24:23Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Farkut",
+    "price": "45.01",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9908458573-farkut",
+    "image_url": "https://images1.vinted.net/t/02_00f66_zaiukWv7DjYni9rbuHbUHmqA/f800/1788701032.jpeg?s=4b8eb49decab7ad12d70d7ea4e59f4a1ab8d68b2",
+    "found_at": "2026-09-06T13:24:27Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Bluza stone island",
+    "price": "182.54",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9908209144-bluza-stone-island",
+    "image_url": "https://images1.vinted.net/t/01_0038f_v7V4VibSVCyeGL9Cwdch3toC/f800/1788700148.jpeg?s=5d02cbd7efdb8f2fc24f1d342b8866e2a53ae301",
+    "found_at": "2026-09-06T13:24:30Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza z kapturem Hollistet",
     "price": "46.94",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9900071580-uniqlo",
     "image_url": "https://images1.vinted.net/t/05_00aa3_dRN1soJcHjTVSncSbiqETikh/f800/1788632039.jpeg?s=3f7a3e48284939ab2d17d8e9b89b7365d0cdb815",
     "found_at": "2026-09-05T18:26:09Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Kofta/cardigan Bondelid",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9899685399-koftacardigan-bondelid",
-    "image_url": "https://images1.vinted.net/t/01_001f3_gPQhHrQk18hz6BiR9FN65wd1/f800/1788630011.jpeg?s=74835010a6cd5b2435de2872360ea93d7fd3a716",
-    "found_at": "2026-09-05T17:49:58Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios bluza antracyt oversize | XS | asymetryczna",
-    "price": "99.09",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9899743081-acne-studios-bluza-antracyt-oversize-xs-asymetryczna",
-    "image_url": "https://images1.vinted.net/t/03_000f4_osdJVtw93AUzTizsV5dnNSb1/f800/1788630302.jpeg?s=2c3d5903ffd6aea97b5c573df027b62d1bc56c40",
-    "found_at": "2026-09-05T17:50:02Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "hollister hoodie",
-    "price": "65.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9899541427-hollister-hoodie",
-    "image_url": "https://images1.vinted.net/t/01_00976_MgjvqR79qaQWTRYdCVmXhPMW/f800/1788629294.jpeg?s=7a32a3bb79de1fb2421e91346a5ea501f94522a0",
-    "found_at": "2026-09-05T17:35:45Z"
   }
 ]
