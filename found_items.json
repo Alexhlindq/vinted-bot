@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Fin tröja",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9904400435-fin-troja",
+    "image_url": "https://images1.vinted.net/t/06_01f96_19Qwx9kY8ZN8dCNLoW2HKFc7/f800/1788685184.jpeg?s=9d3d97429804d173eb220ab293f30c08053e044f",
+    "found_at": "2026-09-06T09:08:50Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "sweter Polo Ralph Lauren",
+    "price": "96.48",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9904391328-sweter-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_025a6_awPspKpZ1B7sXP5YrW46wZiP/f800/1788685142.jpeg?s=e7793f8dd7447a1059b04792210017c9341e2984",
+    "found_at": "2026-09-06T09:08:50Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter beżowy",
     "price": "86.05",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9896872418-meska-szara-bluza-z-kapturem-levis-big-logo-print-nowa-kolekcja",
     "image_url": "https://images1.vinted.net/t/06_021c3_yX2xFwck5KNdu7KBvYYaFL63/f800/1788617904.jpeg?s=bd3e567dacb5d409af87f24f48369c2be8a1f549",
     "found_at": "2026-09-05T14:23:40Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Gant huvtröja",
-    "price": "63.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9896737490-gant-huvtroja",
-    "image_url": "https://images1.vinted.net/t/06_000b4_qb5fdqVVcYiqS81xyV9mmDKh/f800/1788617344.jpeg?s=aed388666b636354cd17ea497ffb1efb412b2c5a",
-    "found_at": "2026-09-05T14:23:40Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Polo Ralph Lauren Granatowa Size M",
-    "price": "78.2",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896598357-bluza-polo-ralph-lauren-granatowa-size-m",
-    "image_url": "https://images1.vinted.net/t/02_012ab_sG1Tat6NG2k3cd3tm2MG4T1g/f800/1788616765.jpeg?s=f0aa2e5cdc334893f35dd09c5bede64f7a28bf41",
-    "found_at": "2026-09-05T14:08:24Z"
   }
 ]
