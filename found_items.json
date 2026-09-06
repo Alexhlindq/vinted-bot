@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Kofta från Polo Ralph Lauren",
+    "price": "125.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9909220351-kofta-fran-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_01436_tKefoWxvP8yjpU6kjtsT3zeD/f800/1788703617.jpeg?s=5b096e59ba4e18b29f2c39321ede12ad6a7f247f",
+    "found_at": "2026-09-06T14:08:54Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9909235049-jeansy",
+    "image_url": "https://images1.vinted.net/t/06_01771_v63GgYvZQbS65tressh8SPaW/f800/1788703667.jpeg?s=ea6ba7f9729f0a8e0c2d8a1a344c944450308a2c",
+    "found_at": "2026-09-06T14:08:58Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie jeansy levis",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9909017489-spodnie-jeansy-levis",
+    "image_url": "https://images1.vinted.net/t/06_00dee_aJMJDkKUbJTMwqaurpRYYZUT/f800/1788702938.jpeg?s=34469bfc0d2f3cd80ade5480c8a58f0c26b38436",
+    "found_at": "2026-09-06T14:08:59Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "62.58",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9909168242-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/04_0258c_BhqCYPSokz8zjr2HreXsDdx4/f800/1788703441.jpeg?s=13ca93770fd685b64b0e5b8134b9aaa483f65057",
+    "found_at": "2026-09-06T14:09:01Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza Lauren",
     "price": "104.31",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9903148616-carhart-riot-pant",
     "image_url": "https://images1.vinted.net/t/01_01fa5_Cxscbd9J8SB3GMfT4AEzmt6h/f800/1788676090.jpeg?s=bc80ce0020c431c72ee6c6e8b0a6ece9725c7882",
     "found_at": "2026-09-06T06:30:16Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "męska bluza SI crewneck Stone Island basic sweater",
-    "price": "130.38",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9902512312-meska-bluza-si-crewneck-stone-island-basic-sweater",
-    "image_url": "https://images1.vinted.net/t/06_014d6_WMsyAiE1EPK4Mrp7Ep2wzXjx/f800/1788656140.jpeg?s=02a886007e87cacd81d1bff8cdca3cb44364f96e",
-    "found_at": "2026-09-06T01:07:54Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "T-shirt Acne studios",
-    "price": "225.82",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9901893615-t-shirt-acne-studios",
-    "image_url": "https://images1.vinted.net/t/01_004a2_WjziDUvtV1DETw437F27HnaN/f800/1788644954.jpeg?s=4740a74dfb5bcd01f29b5da4fc77b44ee435131f",
-    "found_at": "2026-09-05T21:50:32Z"
-  },
-  {
-    "search_name": "Vinted bot 14",
-    "title": "Sweter hollister granatowy M",
-    "price": "59.98",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9157447349-sweter-hollister-granatowy-m",
-    "image_url": "https://images1.vinted.net/t/05_00a29_Auy3mG9ti3exdg3jPw8bgg5G/f800/1781293300.jpeg?s=cf521302239e2f4c347bb18d7fe7bdac7e0a18b3",
-    "found_at": "2026-09-05T21:35:43Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren hoodie",
-    "price": "99.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9901729016-polo-ralph-lauren-hoodie",
-    "image_url": "https://images1.vinted.net/t/06_00935_Dero7z7rYYLtw2wWucLFSKDx/f800/1788643236.jpeg?s=a44e14e3abf06ab2fb4634f9207b3bb724827ad9",
-    "found_at": "2026-09-05T21:23:07Z"
   }
 ]
