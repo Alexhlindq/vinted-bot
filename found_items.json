@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot 12",
+    "title": "Bluza Hilfiger Denim rozmiar M",
+    "price": "62.58",
+    "currency": "SEK",
+    "brand": "Hilfiger Denim",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9906159572-bluza-hilfiger-denim-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/05_00488_Peeg1UqKz9BpsuXc9oDEnbFz/f800/1788692388.jpeg?s=8e5346cc0cfc77f020f867b55e15dc38a63d019e",
+    "found_at": "2026-09-06T11:08:23Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Tommy Hilfiger Huppari",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9906276766-tommy-hilfiger-huppari",
+    "image_url": "https://images1.vinted.net/t/05_00a88_tz87V8LcmiKAoJdAGY6zvFBX/f800/1788692854.jpeg?s=06625ea5a4cd02ca370eeebc41c6f71e78ab633b",
+    "found_at": "2026-09-06T11:08:25Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister huppari",
+    "price": "45.01",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9906134696-hollister-huppari",
+    "image_url": "https://images1.vinted.net/t/04_00c15_P6cSSXUzYseEuUwLmF7ytvuX/f800/1788692290.jpeg?s=6ae6ffc9e5d9012feb0e4fa0b65595aff3907dc0",
+    "found_at": "2026-09-06T11:08:25Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios tröja",
+    "price": "230.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9906142710-acne-studios-troja",
+    "image_url": "https://images1.vinted.net/t/02_01f6d_8QZjPh5daxhne8ZoQbaj2PxA/f800/1788692322.jpeg?s=8ddad2d9fd61c02646ab9936222ac9ffb0b97ced",
+    "found_at": "2026-09-06T11:08:30Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
     "title": "Bluzka",
     "price": "52.15",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9898412008-t-shirts-fra-arcne-studios",
     "image_url": "https://images1.vinted.net/t/02_0256c_a3e1HxgAf1c4DDGrDe86cGKd/f800/1788624246.jpeg?s=7692f479b048f08c634e399c530d505bc67ba32a",
     "found_at": "2026-09-05T16:09:05Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Tommy Hilfiger huppari",
-    "price": "45.01",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898045245-tommy-hilfiger-huppari",
-    "image_url": "https://images1.vinted.net/t/05_01ef4_7asvsF74MT2koS41B4xARTra/f800/1788622717.jpeg?s=b00110598ca40377ca5aec256761b23d3b0b6e56",
-    "found_at": "2026-09-05T15:49:50Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "Golden Goose Sko/Armband",
-    "price": "28.0",
-    "currency": "SEK",
-    "brand": "Golden Goose",
-    "size": "43",
-    "url": "https://www.vinted.se/items/9898107227-golden-goose-skoarmband",
-    "image_url": "https://images1.vinted.net/t/05_000db_jvRsoiY1TjpFgXJqxUWzXJq7/f800/1788622972.jpeg?s=9028b3c90743879ce24f8bd599460723688a5a57",
-    "found_at": "2026-09-05T15:49:51Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Levis hoodie",
-    "price": "45.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897958176-levis-hoodie",
-    "image_url": "https://images1.vinted.net/t/01_01eaa_5B5HY6NPWmFVZdvdHnNgkZPb/f800/1788622360.jpeg?s=6a61d18874257d068f5bb23ed8cc07a66ba0700b",
-    "found_at": "2026-09-05T15:36:33Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Cienki sweterek Polo Ralph Lauren",
-    "price": "86.05",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897724650-cienki-sweterek-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_000e9_2bvqmYqRzN6HXQKSDTD9a5cZ/f800/1788621404.jpeg?s=bdb2b6a8dfe712626b21ed64812249c8f8ebbd7c",
-    "found_at": "2026-09-05T15:23:54Z"
   }
 ]
