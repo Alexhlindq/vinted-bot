@@ -246,6 +246,17 @@
       "price_from": "",
       "price_to": "150",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy bot 1",
+      "site": "sellpy",
+      "search_text": "carhartt",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "500",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
