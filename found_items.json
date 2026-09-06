@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter beżowy",
+    "price": "86.05",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9901845424-sweter-bezowy",
+    "image_url": "https://images1.vinted.net/t/05_021e5_MmFmaAER15mZ7eZtTy6p53Kv/f800/1788644420.jpeg?s=bdd3f45333da81a7d8adc7448d8e73e7392d948c",
+    "found_at": "2026-09-06T08:51:14Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Vit/svart huvtröja med tryck Hollister strl M",
+    "price": "65.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9904236329-vitsvart-huvtroja-med-tryck-hollister-strl-m",
+    "image_url": "https://images1.vinted.net/t/02_00bcf_jFh78SxfqZ9i2oC7eJNpG1Lb/f800/1788684389.jpeg?s=01179cd30826030cfc6ee1ed10fe8a0ff397d928",
+    "found_at": "2026-09-06T08:51:19Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne denim shirt",
+    "price": "281.3",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9904259841-acne-denim-shirt",
+    "image_url": "https://images1.vinted.net/t/03_005a0_pwDSKu22VuPQmVuGUKgNdeSW/f800/1788684507.jpeg?s=6d7966cc290eb4cc72421b2147b059a9003072a5",
+    "found_at": "2026-09-06T08:51:21Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Vintage Acne shirt",
     "price": "200.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9896598357-bluza-polo-ralph-lauren-granatowa-size-m",
     "image_url": "https://images1.vinted.net/t/02_012ab_sG1Tat6NG2k3cd3tm2MG4T1g/f800/1788616765.jpeg?s=f0aa2e5cdc334893f35dd09c5bede64f7a28bf41",
     "found_at": "2026-09-05T14:08:24Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren tröja M",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896077923-ralph-lauren-troja-m",
-    "image_url": "https://images1.vinted.net/t/02_01760_aGkGeLDsehR8JPdQKrczQBew/f800/1788614578.jpeg?s=20bfb69433ebd13d356531a9cc290660a62d795a",
-    "found_at": "2026-09-05T13:35:31Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Gant tröja",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9896220345-gant-troja",
-    "image_url": "https://images1.vinted.net/t/01_013c0_RRwxmEakaeTp7JiSaSFtFK72/f800/1788615184.jpeg?s=4270e187f53f1585b2ee49071d6b55a1537a1f49",
-    "found_at": "2026-09-05T13:35:35Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Puchowa kurtka Ralph Lauren czerwona",
-    "price": "354.65",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9840276023-puchowa-kurtka-ralph-lauren-czerwona",
-    "image_url": "https://images1.vinted.net/t/06_0085c_WyYEA2k9CjT3s4zSkjjS5eSc/f800/1788171526.jpeg?s=9c3eb004bfd6551238ea38375c39bf382d02ae3c",
-    "found_at": "2026-09-05T13:08:14Z"
   }
 ]
