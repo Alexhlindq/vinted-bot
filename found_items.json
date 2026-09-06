@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweterek męski Masimmo Dutti niebieski L",
+    "price": "57.37",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9892932560-sweterek-meski-masimmo-dutti-niebieski-l",
+    "image_url": "https://images1.vinted.net/t/06_00e55_HgqEciJjSz5Kd6ZUHrDqEYFX/f800/1788599724.jpeg?s=ff52d235f65961f5997342a4b22c5ca964cfa6cc",
+    "found_at": "2026-09-06T12:46:34Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Stone Island trøje",
+    "price": "75.27",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9907690701-stone-island-troje",
+    "image_url": "https://images1.vinted.net/t/01_02126_mNb7dhC51rmXCtayH6FZa693/f800/1788698275.jpeg?s=07b7f06d858610f9d50f68ae7d3d571463b4cb23",
+    "found_at": "2026-09-06T12:46:37Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Denzel ss13 rozpinana bluza",
+    "price": "260.77",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9907661831-acne-denzel-ss13-rozpinana-bluza",
+    "image_url": "https://images1.vinted.net/t/03_0219a_Xk5TxaCiiWjXbCYqP1EhtiAY/f800/1788698169.jpeg?s=fe2631250a56bbf5232e64f7697f1ecdac90d1b0",
+    "found_at": "2026-09-06T12:46:38Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne jeansskjorta",
+    "price": "275.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9903452257-acne-jeansskjorta",
+    "image_url": "https://images1.vinted.net/t/02_02332_FBgA6KpQBxsKz4zkV2cAfL3A/f800/1788679475.jpeg?s=48f585bb028da6494839f37e4b35009adee57d14",
+    "found_at": "2026-09-06T12:46:38Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo college paita",
     "price": "112.52",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9898972022-polo-ralph-lauren-pusero",
     "image_url": "https://images1.vinted.net/t/02_00475_LoGqLbYyWrkxey6YYCbHWKAv/f800/1788626661.jpeg?s=4467ed86993546f1aaafa4250621239cbffbc315",
     "found_at": "2026-09-05T16:50:16Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Biała bluza Tommy Hilfiger",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898757537-biala-bluza-tommy-hilfiger",
-    "image_url": "https://images1.vinted.net/t/01_001f5_KtRs99cCTFgPKhRNVgMht6xt/f800/1788625726.jpeg?s=464c355609eca540256b0c5bf5ffdc6cfd822648",
-    "found_at": "2026-09-05T16:37:52Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Holister M",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9875811402-bluza-holister-m",
-    "image_url": "https://images1.vinted.net/t/02_00ff0_Trq7HeJMfSzYqCdaBjVWhQkb/f800/1788444105.jpeg?s=39c22e20763319d92ad63a61d3e7c29460ee8af0",
-    "found_at": "2026-09-05T16:37:52Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza męska S Hilfiger",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9874524257-bluza-meska-s-hilfiger",
-    "image_url": "https://images1.vinted.net/t/05_022de_qgxKrANViwJpibroWNHX6x9N/f800/1788437225.jpeg?s=3dec5e0f675516941fe7efd98e8f3fa5256fb550",
-    "found_at": "2026-09-05T16:37:53Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Biała bluza hollister #drip #swag #archive #highfashion #designer #y2k",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9873892846-biala-bluza-hollister-drip-swag-archive-highfashion-designer-y2k",
-    "image_url": "https://images1.vinted.net/t/02_026c9_G5jCYZPCih6VVDQh1WXthLQL/f800/1788433568.jpeg?s=7b2e89d108099084a719e21bc686d0b154e62263",
-    "found_at": "2026-09-05T16:37:53Z"
   }
 ]
