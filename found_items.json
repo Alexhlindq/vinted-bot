@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren quarter zip",
+    "price": "78.77",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9912521155-ralph-lauren-quarter-zip",
+    "image_url": "https://images1.vinted.net/t/02_006c2_WWjGSV6Ckq3S4Uy67ik5Q4o2/f800/1788714425.jpeg?s=dd843f05fdde3fd97db30d6d0459de016f44e953",
+    "found_at": "2026-09-06T17:07:48Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren tröja",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9912352140-polo-ralph-lauren-troja",
+    "image_url": "https://images1.vinted.net/t/06_01791_mY72m6PEimBL37KX2BGWxoBf/f800/1788713829.jpeg?s=4b7323510c3a6bfcb3f37fe1e5ff95bbe1be6210",
+    "found_at": "2026-09-06T17:07:48Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tommy Hilfiger sweatshirt",
+    "price": "73.77",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9912517523-tommy-hilfiger-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/05_0240a_Xv6qcuffjzb5kszNA8e58Tm8/f800/1788714412.jpeg?s=1100850762414f8785781226bc2b0c47dd5ee624",
+    "found_at": "2026-09-06T17:07:53Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza",
     "price": "26.08",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9905625882-bluza-dresowa-meska-firmy-hollister-rozmiar-ml",
     "image_url": "https://images1.vinted.net/t/05_0052f_T6zGSqRydvxPF3Y6nsdMaXbo/f800/1788690281.jpeg?s=179b94110cd3a9244bc019148cc583ee38939017",
     "found_at": "2026-09-06T10:37:55Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Czarna bluza z kapturem i dużą kieszenią z przodu 36-38",
-    "price": "67.8",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9905708640-czarna-bluza-z-kapturem-i-duza-kieszenia-z-przodu-36-38",
-    "image_url": "https://images1.vinted.net/t/01_015c5_hum2EGDEimpDJPQ7hSG1kHJs/f800/1788690709.jpeg?s=2f885d7c3e4f6dbd6e728123486af5f24f47f2e3",
-    "found_at": "2026-09-06T10:37:56Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Hættetrøje",
-    "price": "67.75",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9905615617-haettetroje",
-    "image_url": "https://images1.vinted.net/t/01_01808_DVrmGrCyKqWvDytJovn5HUT9/f800/1788690241.jpeg?s=c027ec35776888fec7a66022d4f03b1d31bea442",
-    "found_at": "2026-09-06T10:24:47Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Swetr z massimo  Dutti",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9905531255-swetr-z-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/06_02051_ijwcYpcWa2jTbfFUhBqKypnA/f800/1788689905.jpeg?s=e19b85218885cc1a433d0bbd8cb1f9f716880526",
-    "found_at": "2026-09-06T10:24:49Z"
   }
 ]
