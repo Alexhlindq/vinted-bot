@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralp Lauren polo sweter męski prima cotton bawełna M top premium must-have classic",
+    "price": "99.09",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9903197358-ralp-lauren-polo-sweter-meski-prima-cotton-bawelna-m-top-premium-must-have-classic",
+    "image_url": "https://images1.vinted.net/t/03_0202f_PzSXEGVEyWRSJj4eoArCZ7xW/f800/1788676710.jpeg?s=571c07eb4be0bcbc4941c4d1b2a1c3ba0cd8e1f2",
+    "found_at": "2026-09-06T06:53:33Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Carhart Riot Pant",
     "price": "56.15",
@@ -646,17 +657,6 @@
     "size": "S",
     "url": "https://www.vinted.se/items/9895499361-bluza-levis",
     "image_url": "https://images1.vinted.net/t/05_01f6c_ypFKYoaUWbykkZCPN9LffNtM/f800/1788612079.jpeg?s=fd7cfebdefee32ed9cb31bbf50f4c1ac368c991a",
-    "found_at": "2026-09-05T12:45:33Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Szara Bluza Hollister M Z Kapturem 1/4 Zip Melanż Męska Kangurka",
-    "price": "46.91",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9895475114-szara-bluza-hollister-m-z-kapturem-14-zip-melanz-meska-kangurka",
-    "image_url": "https://images1.vinted.net/t/02_00b2a_V3dZN2aNK8ETHAG3VEDwerVp/f800/1788611973.jpeg?s=a82503d52057501f726d491b2d5796d779a7a771",
     "found_at": "2026-09-05T12:45:33Z"
   }
 ]
