@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo college paita",
+    "price": "112.52",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9906613286-polo-college-paita",
+    "image_url": "https://images1.vinted.net/t/02_01bd8_2ByrU568etFKG8nX5xVuPnbJ/f800/1788694192.jpeg?s=583a8e47b445620023099246b7d4a148063ed2a8",
+    "found_at": "2026-09-06T12:30:06Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Tommy hilfiger",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9907462949-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/05_01dd3_hVrywDAAx1sEtycFHYBkHquj/f800/1788697431.jpeg?s=77593c6bbe2fc5adae44c15d5c7c465ac7380af7",
+    "found_at": "2026-09-06T12:30:11Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Miesten neule",
     "price": "45.01",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9873892846-biala-bluza-hollister-drip-swag-archive-highfashion-designer-y2k",
     "image_url": "https://images1.vinted.net/t/02_026c9_G5jCYZPCih6VVDQh1WXthLQL/f800/1788433568.jpeg?s=7b2e89d108099084a719e21bc686d0b154e62263",
     "found_at": "2026-09-05T16:37:53Z"
-  },
-  {
-    "search_name": "Vinted bot 14",
-    "title": "Bondelid blå tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9269914384-bondelid-bla-troja",
-    "image_url": "https://images1.vinted.net/t/06_00dcf_W6TaqyBWtgf59SmxWzvTneLh/f800/1782635955.jpeg?s=5a4a91943d50e89dc83b6483d2ac197ec4cf765c",
-    "found_at": "2026-09-05T16:37:54Z"
-  },
-  {
-    "search_name": "Vinted bot 14",
-    "title": "Bondelid Tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9242757597-bondelid-troja",
-    "image_url": "https://images1.vinted.net/t/05_00ce8_v5LSBtNPKGwt4He6EZw7YT4A/f800/1782248853.jpeg?s=e86ff74035f1ee859d8aafff807bafc589213304",
-    "found_at": "2026-09-05T16:37:54Z"
   }
 ]
