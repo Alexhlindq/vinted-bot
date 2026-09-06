@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 16",
+    "title": "męska bluza SI crewneck Stone Island basic sweater",
+    "price": "130.38",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9902512312-meska-bluza-si-crewneck-stone-island-basic-sweater",
+    "image_url": "https://images1.vinted.net/t/06_014d6_WMsyAiE1EPK4Mrp7Ep2wzXjx/f800/1788656140.jpeg?s=02a886007e87cacd81d1bff8cdca3cb44364f96e",
+    "found_at": "2026-09-06T01:07:54Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "T-shirt Acne studios",
     "price": "225.82",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9895255354-ralph-lauren-troje",
     "image_url": "https://images1.vinted.net/t/06_017a6_82WEnfUq4f7JUHkd4aUqLRCX/f800/1788610993.jpeg?s=4ac17b90930897a24f361d9044d2c1c0f00418f5",
     "found_at": "2026-09-05T12:29:16Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis byxor",
-    "price": "65.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9895250070-levis-byxor",
-    "image_url": "https://images1.vinted.net/t/04_00921_pgjoqp8nMjkF2DDRsMSShQ65/f800/1788610969.jpeg?s=098f4ca7c75a8d2a544c17c313cecf985e6e9cac",
-    "found_at": "2026-09-05T12:29:19Z"
   }
 ]
