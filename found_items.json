@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot 12",
+    "title": "Bluzka",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905986465-bluzka",
+    "image_url": "https://images1.vinted.net/t/05_00a4d_xnU3cC72TTckXvo6ihFXexJU/f800/1788691702.jpeg?s=4e93e7c376abaca24e2e95c6033ae080d9b54f6e",
+    "found_at": "2026-09-06T10:50:02Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
     "title": "Bluza dresowa męska firmy Hollister rozmiar M/L",
     "price": "44.33",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9897724650-cienki-sweterek-polo-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/02_000e9_2bvqmYqRzN6HXQKSDTD9a5cZ/f800/1788621404.jpeg?s=bdb2b6a8dfe712626b21ed64812249c8f8ebbd7c",
     "found_at": "2026-09-05T15:23:54Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Levi's",
-    "price": "44.33",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9897753565-bluza-levis",
-    "image_url": "https://images1.vinted.net/t/06_00be0_NJZbmUSnWfLUGCm8cfq6eSAK/f800/1788621522.jpeg?s=8dc2c803e97e4a4be5eb5ad852b6cce1f5ada130",
-    "found_at": "2026-09-05T15:23:59Z"
   }
 ]
