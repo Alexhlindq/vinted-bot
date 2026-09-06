@@ -259,46 +259,9 @@
       "currency": "SEK"
     },
     {
-      "name": "Sellpy - Nautiska stilar för män",
-      "site": "sellpy",
-      "search_text": "",
-      "path": "/store/edit/mens-nautical-styles/search/Man?maxPrice=75&sizes=MEN-INT-S&sizes=MEN-INT-XS&sizes=SHOES-EU-41&sizes=HATS-CM-53&sizes=HATS-CM-54&sizes=HATS-CM-58&sizes=HATS-CM-57&sizes=HATS-CM-56&sizes=HATS-CM-55&sizes=HATS-INT-S&sizes=HATS-INT-M&sizes=HATS-INT-L&sizes=HATS-INT-XL&sizes=ONE+SIZE&sizes=NO+SIZE&sizes=PANTS-INCH-31&sizes=PANTS-INCH-30&sizes=PANTS-INCH-32",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
       "name": "Sellpy - Tröjor & Koftor (Matinique)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor+-+Koftor?maxPrice=75&brand=Matinique",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
-      "name": "Sellpy - Höstmode Stickat",
-      "site": "sellpy",
-      "search_text": "",
-      "path": "/store/selection/autumn-essentials-sweaters/search/Man?maxPrice=75&sizes=MEN-INT-S&sizes=MEN-INT-M&sizes=MEN-INT-XS",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
-      "name": "Sellpy - Höstmode Ytterkläder herr",
-      "site": "sellpy",
-      "search_text": "",
-      "path": "/store/selection/autumn-essentials-outerwear-men/search?maxPrice=75",
+      "search_text": "matinique",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -309,8 +272,7 @@
     {
       "name": "Sellpy - Morris (sparad sökning)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Morris",
+      "search_text": "morris",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -321,8 +283,7 @@
     {
       "name": "Sellpy - Saligia (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Saligia",
+      "search_text": "saligia",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -333,8 +294,7 @@
     {
       "name": "Sellpy - Samsøe & Samsøe (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Sams%C3%B8e%20%26%20Sams%C3%B8e",
+      "search_text": "samsøe",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -345,8 +305,7 @@
     {
       "name": "Sellpy - René Lezard (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Ren%C3%A9%20Lezard",
+      "search_text": "rené lezard",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -357,8 +316,7 @@
     {
       "name": "Sellpy - Bondelid (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Bondelid",
+      "search_text": "bondelid",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -369,8 +327,7 @@
     {
       "name": "Sellpy - Comme des Garçons PLAY (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Comme%20des%20Gar%C3%A7ons%20PLAY",
+      "search_text": "comme des garcons",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
@@ -381,8 +338,7 @@
     {
       "name": "Sellpy - Dsquared2 (favorit)",
       "site": "sellpy",
-      "search_text": "",
-      "path": "/search/Man?maxPrice=75&brand=Dsquared2",
+      "search_text": "dsquared2",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
