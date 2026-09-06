@@ -391,17 +391,6 @@
       "currency": "SEK"
     },
     {
-      "name": "Sellpy - Armani Collezioni",
-      "site": "sellpy",
-      "search_text": "armani collezioni",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
       "name": "Sellpy - Asket",
       "site": "sellpy",
       "search_text": "asket",
@@ -831,28 +820,6 @@
       "currency": "SEK"
     },
     {
-      "name": "Sellpy - Tiger of Sweden Jeans",
-      "site": "sellpy",
-      "search_text": "tiger of sweden jeans",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
-      "name": "Sellpy - Tom Tailor Denim",
-      "site": "sellpy",
-      "search_text": "tom tailor denim",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK"
-    },
-    {
       "name": "Sellpy - Tommy Hilfiger",
       "site": "sellpy",
       "search_text": "tommy hilfiger",
@@ -867,6 +834,17 @@
       "name": "Sellpy - Uniqlo",
       "site": "sellpy",
       "search_text": "uniqlo",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Nudie Jeans",
+      "site": "sellpy",
+      "search_text": "nudie",
       "catalog_ids": "",
       "size_ids": "",
       "brand_ids": "",
