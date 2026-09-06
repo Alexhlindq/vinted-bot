@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza polo ralph lauren",
+    "price": "75.62",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905304202-bluza-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_00151_SNmP5xTuwEhNYqTjE1iyk7dH/f800/1788689000.jpeg?s=29f10e93d5b7b9d1e6d498ac0040a914c6777662",
+    "found_at": "2026-09-06T10:08:52Z"
+  },
+  {
+    "search_name": "Vinted bot 3",
+    "title": "Kurtka Polo Sport Ralph Lauren",
+    "price": "104.31",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905377357-kurtka-polo-sport-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_00e03_Ls8FRsMEzDwS3skGafoYeevP/f800/1788689291.jpeg?s=6b99aeb5fe240231a52008f52b8a80c94c74f304",
+    "found_at": "2026-09-06T10:08:53Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter massimo duttti rozm m",
+    "price": "54.76",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905354675-sweter-massimo-duttti-rozm-m",
+    "image_url": "https://images1.vinted.net/t/02_00292_QdSGEZygW3VApPjnKry61bjo/f800/1788689200.jpeg?s=5d18b4df39b7ed4c265a5881e1c990be19526d8a",
+    "found_at": "2026-09-06T10:08:54Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "Tommy Hilfiger cardigan str. M",
+    "price": "60.22",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9345576479-tommy-hilfiger-cardigan-str-m",
+    "image_url": "https://images1.vinted.net/t/01_01877_hZ8dLYoHrkJEe5L53zG1u586/f800/1783443018.jpeg?s=5b7d2565576889fcc3d5e140b0b6ea093583e8de",
+    "found_at": "2026-09-06T10:08:55Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza męska streetwear Hollister california S/36",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9901833232-bluza-meska-streetwear-hollister-california-s36",
+    "image_url": "https://images1.vinted.net/t/05_00a94_n7kqgHk5oL5V8V97F4yoUcgo/f800/1788644289.jpeg?s=e4b5ef8a6ce4c1120226471e28256d41ed250d0b",
+    "found_at": "2026-09-06T10:08:57Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi’s 512 jeans, W31 L30",
     "price": "75.0",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9897272234-levis-rozmiar-3134",
     "image_url": "https://images1.vinted.net/t/05_00bdf_VS5d1QytpNYJkybup5VU93Le/f800/1788619548.jpeg?s=2713a88b337e787ff73aee9cfc06b359ce83eb28",
     "found_at": "2026-09-05T14:49:55Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Hollister rozmiar S",
-    "price": "57.37",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9897145076-hollister-rozmiar-s",
-    "image_url": "https://images1.vinted.net/t/01_0050d_D8WcKzrTY8ZAyWEjzwmvyLSx/f800/1788619028.jpeg?s=b7252059df9ac42f91da2d7912256401b498a924",
-    "found_at": "2026-09-05T14:49:57Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "GANT tröja",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897142020-gant-troja",
-    "image_url": "https://images1.vinted.net/t/05_014db_U8oEdhy4P4NBPvEinfRKdyaU/f800/1788619016.jpeg?s=19dd04d0aa4db61e27338bcddf15cbbab9e0c1de",
-    "found_at": "2026-09-05T14:49:57Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza damska lub męska",
-    "price": "36.51",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897293466-bluza-damska-lub-meska",
-    "image_url": "https://images1.vinted.net/t/04_01383_jwo2tSU58ewHxEWQxfkXdzyz/f800/1788619635.jpeg?s=91ca093179c97ea023d59e50eaa277668414ea66",
-    "found_at": "2026-09-05T14:49:58Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Levis hoodie",
-    "price": "61.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897183153-levis-hoodie",
-    "image_url": "https://images1.vinted.net/t/02_0014d_tR3AHKRZMdhphrhJyzbeoPPj/f800/1788619185.jpeg?s=3a3bf2beeeebdf7462e73dd4fb48056d0c9cc045",
-    "found_at": "2026-09-05T14:49:59Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
-    "price": "117.35",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897125547-meska-granatowa-cienka-bluza-polo-ralph-lauren-crewneck-rap-hip-hop-skate",
-    "image_url": "https://images1.vinted.net/t/05_01559_yd3vkrwkRA2iwrtySBR2T7Ck/f800/1788618947.jpeg?s=e9a90ec2ea3ce75e55e8dd4f304de06c5a47caa6",
-    "found_at": "2026-09-05T14:36:12Z"
   }
 ]
