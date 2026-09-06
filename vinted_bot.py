@@ -179,20 +179,48 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def send_telegram(bot_token, chat_id, text):
-    """Skickar ett meddelande via Telegram-boten."""
+def send_telegram(bot_token, chat_id, text, photo_url="", item_url=""):
+    """Skickar ett meddelande via Telegram-boten.
+
+    Om photo_url finns skickas en bild med texten som bildtext och en
+    tryckbar knapp som länkar direkt till annonsen. Annars skickas ett
+    vanligt textmeddelande (t.ex. om bilden saknas eller är trasig)."""
+    reply_markup = None
+    if item_url:
+        reply_markup = json.dumps({
+            "inline_keyboard": [[{"text": "Öppna annons", "url": item_url}]]
+        })
+
+    if photo_url:
+        url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
+        data = {
+            "chat_id": chat_id,
+            "photo": photo_url,
+            "caption": text,
+            "parse_mode": "HTML",
+        }
+        if reply_markup:
+            data["reply_markup"] = reply_markup
+        try:
+            resp = requests.post(url, data=data, timeout=15)
+            if resp.status_code == 200:
+                return
+            print(f"[Telegram] Kunde inte skicka bild ({resp.status_code}), skickar text istället.")
+        except requests.RequestException as e:
+            print(f"[Telegram] Nätverksfel vid bildsändning: {e}")
+
+    # Reservläge: vanligt textmeddelande (ingen bild, eller bilden misslyckades ovan).
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    data = {
+        "chat_id": chat_id,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
+    }
+    if reply_markup:
+        data["reply_markup"] = reply_markup
     try:
-        resp = requests.post(
-            url,
-            data={
-                "chat_id": chat_id,
-                "text": text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": False,
-            },
-            timeout=15,
-        )
+        resp = requests.post(url, data=data, timeout=15)
         if resp.status_code != 200:
             print(f"[Telegram] Fel vid sändning: {resp.status_code} {resp.text}")
     except requests.RequestException as e:
@@ -266,8 +294,8 @@ def format_item_message(search_name, item):
     if size:
         lines.append(f"Storlek: {size}")
     lines.append(f"Pris: {price} {currency}")
-    if url:
-        lines.append(url)
+    # Länken skickas som en tryckbar knapp under bilden istället för ren text,
+    # se run_once() där send_telegram() anropas med photo_url och item_url.
     return "\n".join(lines)
 
 
@@ -318,7 +346,9 @@ def run_once(config, seen_ids):
             print(f"Ny träff: {message}\n")
 
             if bot_token and chat_id and "DITT_" not in str(bot_token):
-                send_telegram(bot_token, chat_id, message)
+                photo_url = (item.get("photo") or {}).get("url", "")
+                item_url = item.get("url", "")
+                send_telegram(bot_token, chat_id, message, photo_url=photo_url, item_url=item_url)
             else:
                 print("[Telegram] bot_token/chat_id är inte ifyllda i config.json – hoppar över notis.")
 
