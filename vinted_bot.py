@@ -37,6 +37,88 @@ SEEN_PATH = "seen_items.json"
 FOUND_LOG_PATH = "found_items.json"
 FOUND_LOG_MAX = 60
 
+SELLPY_SEARCH_URL = "https://www.sellpy.se/search"
+
+
+def search_sellpy(search):
+    """Söker på Sellpy via en headless webbläsare (Playwright).
+
+    Sellpy renderar sina sökresultat med JavaScript och exponerar dem som
+    strukturerad produktdata (schema.org JSON-LD) i sidan efter rendering –
+    det finns inget enkelt, öppet sök-API att anropa direkt (till skillnad
+    från Vinted), så vi måste faktiskt ladda sidan i en riktig webbläsare.
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("[Sellpy] Playwright är inte installerat, hoppar över Sellpy-sökningar.")
+        return []
+
+    query = search.get("search_text", "")
+    if not query:
+        print(f"[Sellpy] Ingen söktext angiven för '{search.get('name')}', hoppar över.")
+        return []
+
+    items = []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            ))
+            page.goto(f"{SELLPY_SEARCH_URL}?query={query}", timeout=30000)
+            page.wait_for_selector('script[type="application/ld+json"]', timeout=15000)
+
+            # Produktdata (namn, pris, bild) ligger i JSON-LD-block.
+            ld_blocks = page.eval_on_selector_all(
+                'script[type="application/ld+json"]',
+                "els => els.map(e => e.textContent)"
+            )
+            # Länkar till respektive annons ligger i <a href="/item/...">,
+            # tre gånger per produkt (bild, titel, kort) – vi dedupar i ordning.
+            hrefs = page.eval_on_selector_all(
+                'a[href*="/item/"]',
+                "els => els.map(e => e.href)"
+            )
+            seen_hrefs = []
+            for h in hrefs:
+                if h not in seen_hrefs:
+                    seen_hrefs.append(h)
+
+            browser.close()
+
+        for i, block in enumerate(ld_blocks):
+            try:
+                data = json.loads(block)
+            except (json.JSONDecodeError, TypeError):
+                continue
+            if data.get("@type") != "Product":
+                continue
+
+            offers = data.get("offers", {})
+            item_url = seen_hrefs[i] if i < len(seen_hrefs) else ""
+            item_id = item_url.rstrip("/").split("/")[-1] if item_url else data.get("name", "")
+
+            items.append({
+                "id": item_id,
+                "title": data.get("name", "Okänt plagg"),
+                "brand_title": (data.get("brand") or {}).get("name", ""),
+                "size_title": "",
+                "price": {
+                    "amount": offers.get("price", "?"),
+                    "currency_code": offers.get("priceCurrency", ""),
+                },
+                "url": item_url,
+                "photo": {"url": data.get("image", "")},
+            })
+    except Exception as e:
+        print(f"[Sellpy] Fel vid sökning '{search.get('name')}': {e}")
+        return []
+
+    return items
+
+
 VINTED_SEARCH_URL = "https://www.vinted.se/api/v2/catalog/items"
 
 HEADERS = {
@@ -193,10 +275,13 @@ def run_once(config, seen_ids):
     timestamp = time.strftime("%H:%M:%S")
 
     for search in config.get("searches", []):
-        if search.get("site") != "vinted":
-            continue  # Sellpy-stöd läggs till separat, se README
+        if search.get("site") == "vinted":
+            items = search_vinted(search)
+        elif search.get("site") == "sellpy":
+            items = search_sellpy(search)
+        else:
+            continue
 
-        items = search_vinted(search)
         print(f"[{timestamp}] '{search.get('name')}': hittade {len(items)} annonser totalt (kollar efter nya)")
         for item in items:
             item_id = str(item.get("id"))
@@ -240,7 +325,7 @@ def main():
     ensure_vinted_session()
 
     # RUN_ONCE=true (sätts av GitHub Actions) kör en enda sökrunda och avslutar,
-    # eftersom schemaläggningen då sköts av GitHub istället för en oändlig loop.
+    # eftersom schemaläggningen då sk÷ts av GitHub istället för en oändlig loop.
     run_once_only = os.environ.get("RUN_ONCE", "").lower() == "true"
 
     if run_once_only:
@@ -250,7 +335,7 @@ def main():
             log = load_json(FOUND_LOG_PATH, [])
             log = (found_entries + log)[:FOUND_LOG_MAX]
             save_json(FOUND_LOG_PATH, log)
-        print("Klar med en sökrunda (RUN_ONCE).")
+        print("KLar med en sökrunda (RUN_ONCE).")
         return
 
     print("Vinted-boten är igång. Tryck Ctrl+C för att avsluta.")
