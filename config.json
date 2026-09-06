@@ -851,6 +851,30 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Levis Jeans (kategori)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Byxor-%26-Jeans?query=levis&maxPrice=75&sizes=MEN-INT-S&sizes=MEN-INT-M",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Nudie Jeans (kategori)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Byxor-%26-Jeans?query=nudie&maxPrice=75&sizes=MEN-INT-S&sizes=MEN-INT-M",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
