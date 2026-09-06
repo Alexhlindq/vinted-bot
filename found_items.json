@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza",
+    "price": "26.08",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9912025957-bluza",
+    "image_url": "https://images1.vinted.net/t/01_01fe1_yPf8dwXqFf2djc3bN5NpnrdT/f800/1788712726.jpeg?s=1eb1fb8712592ad751e95f695561d6f47a4d0c1b",
+    "found_at": "2026-09-06T16:50:09Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza Polo Ralph Lauren S",
     "price": "104.31",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9905531255-swetr-z-massimo-dutti",
     "image_url": "https://images1.vinted.net/t/06_02051_ijwcYpcWa2jTbfFUhBqKypnA/f800/1788689905.jpeg?s=e19b85218885cc1a433d0bbd8cb1f9f716880526",
     "found_at": "2026-09-06T10:24:49Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Face Logo Bluza Crewneck Błękitna M Blue Vintage Archive",
-    "price": "260.74",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9905544791-acne-studios-face-logo-bluza-crewneck-blekitna-m-blue-vintage-archive",
-    "image_url": "https://images1.vinted.net/t/06_01e0b_eQU5FCfKSQ1nt9R4KuZuNc6M/f800/1788689960.jpeg?s=d4ca90f5a9554045660b9b277ef6faf729a6d6f7",
-    "found_at": "2026-09-06T10:24:53Z"
   }
 ]
