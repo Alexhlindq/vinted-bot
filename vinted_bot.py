@@ -62,11 +62,22 @@ def search_sellpy(search):
 
     path = search.get("path", "")
     query = search.get("search_text", "")
+    # Standardstorlekar S/M för herr (kan skrivas över per sökning via "sellpy_sizes").
+    sizes = search.get("sellpy_sizes", ["MEN-INT-S", "MEN-INT-M"])
+    price_to = search.get("price_to", "")
+    price_from = search.get("price_from", "")
 
     if path:
         url = f"https://www.sellpy.se{path}"
     elif query:
-        url = f"{SELLPY_SEARCH_URL}?query={query}"
+        params = [f"query={query}"]
+        for s in sizes:
+            params.append(f"sizes={s}")
+        if price_to:
+            params.append(f"maxPrice={price_to}")
+        if price_from:
+            params.append(f"minPrice={price_from}")
+        url = f"{SELLPY_SEARCH_URL}/Man?" + "&".join(params)
     else:
         print(f"[Sellpy] Ingen sökväg eller söktext angiven för '{search.get('name')}', hoppar över.")
         return []
