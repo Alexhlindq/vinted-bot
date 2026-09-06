@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren trøje (M) lilla",
+    "price": "75.27",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9911739861-ralph-lauren-troje-m-lilla",
+    "image_url": "https://images1.vinted.net/t/03_007fb_oDmwQQTNXtoSjZ8sbS3n9jsi/f800/1788711778.jpeg?s=0cb2bd681bd7a695a60927f9224f680649cd7ac8",
+    "found_at": "2026-09-06T16:25:30Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren v neck sweatshirt",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9911541461-polo-ralph-lauren-v-neck-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/02_0101b_fKa6Uch4Ec4oPU7twWcDBTZT/f800/1788711129.jpeg?s=ac96666eb989e29163b8d227ba7bc05e5f081d38",
+    "found_at": "2026-09-06T16:25:30Z"
+  },
+  {
+    "search_name": "Vinted bot 4",
+    "title": "jeansy nudie jeans slim fit denim swag",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9911750198-jeansy-nudie-jeans-slim-fit-denim-swag",
+    "image_url": "https://images1.vinted.net/t/02_006ec_twAAkpwDGCD4ZdrvM4xKksbp/f800/1788711812.jpeg?s=0cb3d4f2ab18fa59f6d7ba7054ae43f767c05111",
+    "found_at": "2026-09-06T16:25:31Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza damska",
     "price": "36.51",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9345576479-tommy-hilfiger-cardigan-str-m",
     "image_url": "https://images1.vinted.net/t/01_01877_hZ8dLYoHrkJEe5L53zG1u586/f800/1783443018.jpeg?s=5b7d2565576889fcc3d5e140b0b6ea093583e8de",
     "found_at": "2026-09-06T10:08:55Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza męska streetwear Hollister california S/36",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9901833232-bluza-meska-streetwear-hollister-california-s36",
-    "image_url": "https://images1.vinted.net/t/05_00a94_n7kqgHk5oL5V8V97F4yoUcgo/f800/1788644289.jpeg?s=e4b5ef8a6ce4c1120226471e28256d41ed250d0b",
-    "found_at": "2026-09-06T10:08:57Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 512 jeans, W31 L30",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9905007292-levis-512-jeans-w31-l30",
-    "image_url": "https://images1.vinted.net/t/05_00d91_ZEZU3YDMiC36tqgaoEYjY48c/f800/1788687814.jpeg?s=d61a5d0af09c429dc7f03f2649aacc8f6c74fa91",
-    "found_at": "2026-09-06T09:50:31Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Sweatshirt",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9905048469-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/06_01ca0_WmyRJR2TvRUganhwEYsPKK45/f800/1788687980.jpeg?s=82281039462560be77856a10a5d7f99f114bde1d",
-    "found_at": "2026-09-06T09:50:35Z"
   }
 ]
