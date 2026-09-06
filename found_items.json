@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9912876467-bluza",
+    "image_url": "https://images1.vinted.net/t/06_00316_we87DuDZnp6hkap6KkXaAiNt/f800/1788715719.jpeg?s=70cab9e3a1e3856d29efd02dac0f4c92cbb36061",
+    "found_at": "2026-09-06T17:36:12Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Kurtka puchowa Polo Ralph Lauren r.M",
     "price": "258.16",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9906142710-acne-studios-troja",
     "image_url": "https://images1.vinted.net/t/02_01f6d_8QZjPh5daxhne8ZoQbaj2PxA/f800/1788692322.jpeg?s=8ddad2d9fd61c02646ab9936222ac9ffb0b97ced",
     "found_at": "2026-09-06T11:08:30Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluzka",
-    "price": "52.15",
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9905986465-bluzka",
-    "image_url": "https://images1.vinted.net/t/05_00a4d_xnU3cC72TTckXvo6ihFXexJU/f800/1788691702.jpeg?s=4e93e7c376abaca24e2e95c6033ae080d9b54f6e",
-    "found_at": "2026-09-06T10:50:02Z"
   }
 ]
