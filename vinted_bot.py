@@ -43,6 +43,12 @@ SELLPY_SEARCH_URL = "https://www.sellpy.se/search"
 def search_sellpy(search):
     """Söker på Sellpy via en headless webbläsare (Playwright).
 
+    Stöd för två lägen:
+    - search.get("path"): en färdig Sellpy-sökväg (t.ex. från en sparad
+      sökning på sellpy.se), inklusive frågeparametrar som maxPrice,
+      brand, sizes osv. Används rakt av mot https://www.sellpy.se{path}.
+    - search.get("search_text"): enkel fritextsökning mot /search?query=...
+
     Sellpy renderar sina sökresultat med JavaScript och exponerar dem som
     strukturerad produktdata (schema.org JSON-LD) i sidan efter rendering –
     det finns inget enkelt, öppet sök-API att anropa direkt (till skillnad
@@ -54,9 +60,15 @@ def search_sellpy(search):
         print("[Sellpy] Playwright är inte installerat, hoppar över Sellpy-sökningar.")
         return []
 
+    path = search.get("path", "")
     query = search.get("search_text", "")
-    if not query:
-        print(f"[Sellpy] Ingen söktext angiven för '{search.get('name')}', hoppar över.")
+
+    if path:
+        url = f"https://www.sellpy.se{path}"
+    elif query:
+        url = f"{SELLPY_SEARCH_URL}?query={query}"
+    else:
+        print(f"[Sellpy] Ingen sökväg eller söktext angiven för '{search.get('name')}', hoppar över.")
         return []
 
     items = []
@@ -67,7 +79,7 @@ def search_sellpy(search):
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
             ))
-            page.goto(f"{SELLPY_SEARCH_URL}?query={query}", timeout=30000)
+            page.goto(url, timeout=30000)
             page.wait_for_selector('script[type="application/ld+json"]', state="attached", timeout=15000)
 
             # Produktdata (namn, pris, bild) ligger i JSON-LD-block.
@@ -117,7 +129,6 @@ def search_sellpy(search):
         return []
 
     return items
-
 
 VINTED_SEARCH_URL = "https://www.vinted.se/api/v2/catalog/items"
 
