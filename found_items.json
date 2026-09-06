@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza damska",
+    "price": "36.51",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9911412652-bluza-damska",
+    "image_url": "https://images1.vinted.net/t/06_01983_f17W566bnTRv8ktzTk71JiZt/f800/1788710710.jpeg?s=7e74d88af40cdd517ca4d6fb168ab14a9c459a3b",
+    "found_at": "2026-09-06T16:09:26Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter Polo Ralph",
     "price": "117.35",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9905048469-sweatshirt",
     "image_url": "https://images1.vinted.net/t/06_01ca0_WmyRJR2TvRUganhwEYsPKK45/f800/1788687980.jpeg?s=82281039462560be77856a10a5d7f99f114bde1d",
     "found_at": "2026-09-06T09:50:35Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 512 jeans, W31 L30",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9904919755-levis-512-jeans-w31-l30",
-    "image_url": "https://images1.vinted.net/t/06_01f50_mb1gnwVbN97Kq9yzX5y3GQaJ/f800/1788687456.jpeg?s=ede8b579a5f0b154a8fd17b622e53d531a6861eb",
-    "found_at": "2026-09-06T09:38:18Z"
   }
 ]
