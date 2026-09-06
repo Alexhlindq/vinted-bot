@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter z welną Suit Club",
+    "price": "65.19",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9908623810-sweter-z-welna-suit-club",
+    "image_url": "https://images1.vinted.net/t/05_00667_PTEsN4w5eMhX1c97QbAud1cj/f800/1788701604.jpeg?s=feb3e60eb5d575ea9055e5fea99f59d62846cd88",
+    "found_at": "2026-09-06T13:37:17Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo Dutti Mustard Yellow Wool Blend Sweater / Italian Yarn / S-M",
+    "price": "39.12",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9907607685-massimo-dutti-mustard-yellow-wool-blend-sweater-italian-yarn-s-m",
+    "image_url": "https://images1.vinted.net/t/06_01507_wgLb8V9JJZv2pkFSKCRSGHw4/f800/1788697969.jpeg?s=67800c0e970dfdbde033ce461065406250d9368e",
+    "found_at": "2026-09-06T13:37:17Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza Ralph Lauren",
     "price": "78.23",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9873058696-bluza-hollister",
     "image_url": "https://images1.vinted.net/t/01_003e3_K1r7DWeQo1rojr2cnk4ZZq8X/f800/1788428536.jpeg?s=031fa61e31ba0d14fc3f7a4c99c42b6723f2ade0",
     "found_at": "2026-09-05T19:35:37Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter męski Polo Ralph Lauren M",
-    "price": "104.31",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9900521648-sweter-meski-polo-ralph-lauren-m",
-    "image_url": "https://images1.vinted.net/t/02_01dac_e3RqAXjB8z6yuwNwr4xWxCW7/f800/1788634598.jpeg?s=df68a0932163bbbd15efd8b5992ec964f5947f0d",
-    "found_at": "2026-09-05T19:07:50Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Uniqlo",
-    "price": "55.7",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9900071580-uniqlo",
-    "image_url": "https://images1.vinted.net/t/05_00aa3_dRN1soJcHjTVSncSbiqETikh/f800/1788632039.jpeg?s=3f7a3e48284939ab2d17d8e9b89b7365d0cdb815",
-    "found_at": "2026-09-05T18:26:09Z"
   }
 ]
