@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem Hollistet",
+    "price": "46.94",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9908198681-bluza-z-kapturem-hollistet",
+    "image_url": "https://images1.vinted.net/t/02_00d91_s6Hrxh2e22UHJo1bwdAx8n3c/f800/1788700111.jpeg?s=4795a42857366bbad6c00abb7c1e9ff0b2e7a1d1",
+    "found_at": "2026-09-06T13:08:45Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne T-shirt",
+    "price": "150.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9907906427-acne-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_02488_RCjrJ4Em6x8BeFQcZ7WE3kGp/f800/1788699063.jpeg?s=97e6ac8ee2a2fd79e408be55f2aaba2c6673ac1a",
+    "found_at": "2026-09-06T13:08:48Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweterek męski Masimmo Dutti niebieski L",
     "price": "57.37",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9899541427-hollister-hoodie",
     "image_url": "https://images1.vinted.net/t/01_00976_MgjvqR79qaQWTRYdCVmXhPMW/f800/1788629294.jpeg?s=7a32a3bb79de1fb2421e91346a5ea501f94522a0",
     "found_at": "2026-09-05T17:35:45Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo tröja",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9899233649-polo-troja",
-    "image_url": "https://images1.vinted.net/t/02_020b0_jjWMtd3gtucvTgKAhZekv9TQ/f800/1788627828.jpeg?s=5ce0c4c41012f167c57788230c0295c71e6b620b",
-    "found_at": "2026-09-05T17:07:58Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren pusero",
-    "price": "112.52",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898972022-polo-ralph-lauren-pusero",
-    "image_url": "https://images1.vinted.net/t/02_00475_LoGqLbYyWrkxey6YYCbHWKAv/f800/1788626661.jpeg?s=4467ed86993546f1aaafa4250621239cbffbc315",
-    "found_at": "2026-09-05T16:50:16Z"
   }
 ]
