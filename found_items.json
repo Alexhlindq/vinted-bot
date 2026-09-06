@@ -6,6 +6,28 @@
     "currency": "SEK",
     "brand": "Levi's",
     "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9905007292-levis-512-jeans-w31-l30",
+    "image_url": "https://images1.vinted.net/t/05_00d91_ZEZU3YDMiC36tqgaoEYjY48c/f800/1788687814.jpeg?s=d61a5d0af09c429dc7f03f2649aacc8f6c74fa91",
+    "found_at": "2026-09-06T09:50:31Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Sweatshirt",
+    "price": "250.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9905048469-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/06_01ca0_WmyRJR2TvRUganhwEYsPKK45/f800/1788687980.jpeg?s=82281039462560be77856a10a5d7f99f114bde1d",
+    "found_at": "2026-09-06T09:50:35Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 512 jeans, W31 L30",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
     "url": "https://www.vinted.se/items/9904919755-levis-512-jeans-w31-l30",
     "image_url": "https://images1.vinted.net/t/06_01f50_mb1gnwVbN97Kq9yzX5y3GQaJ/f800/1788687456.jpeg?s=ede8b579a5f0b154a8fd17b622e53d531a6861eb",
     "found_at": "2026-09-06T09:38:18Z"
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9897125547-meska-granatowa-cienka-bluza-polo-ralph-lauren-crewneck-rap-hip-hop-skate",
     "image_url": "https://images1.vinted.net/t/05_01559_yd3vkrwkRA2iwrtySBR2T7Ck/f800/1788618947.jpeg?s=e9a90ec2ea3ce75e55e8dd4f304de06c5a47caa6",
     "found_at": "2026-09-05T14:36:12Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Svart stickad Ralph Lauren tröja vintage",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9887236224-svart-stickad-ralph-lauren-troja-vintage",
-    "image_url": "https://images1.vinted.net/t/06_0119a_39eb2DuftecMXF32ZTcUxLLq/f800/1788537466.jpeg?s=dec9ca5b54a6e07567fcf56901bffc38723666ca",
-    "found_at": "2026-09-05T14:36:13Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "GANT tröja",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897115687-gant-troja",
-    "image_url": "https://images1.vinted.net/t/02_01d62_fPzb8xQXjdhiz5n568Ta3Z51/f800/1788618907.jpeg?s=6717fdeeda2592a3b9a864548ab0c412e32f4114",
-    "found_at": "2026-09-05T14:36:17Z"
   }
 ]
