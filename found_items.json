@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Hilfigerin College",
+    "price": "56.26",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9913910286-hilfigerin-college",
+    "image_url": "https://images1.vinted.net/t/02_00439_r6qFovMRh4LjgVXaYrGESrXK/f800/1788719947.jpeg?s=20e877a1ab0fc62de05807eaea6885bb5c3cbb44",
+    "found_at": "2026-09-06T18:40:17Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza tommy hilfiger",
+    "price": "39.12",
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913854667-bluza-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/06_01a42_6LRNQjtAPH3sJvAz3XwmvxR5/f800/1788719702.jpeg?s=3f9f6becc6de53d35520b72454fd3eb3774b15a0",
+    "found_at": "2026-09-06T18:40:18Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem Hollister",
+    "price": "52.15",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913797153-bluza-z-kapturem-hollister",
+    "image_url": "https://images1.vinted.net/t/02_000c6_8gqASLzArqF68ro3y9FeiTpy/f800/1788719451.jpeg?s=f5062d9a636c5ccbe10e538c4a54f2cbeb385fa7",
+    "found_at": "2026-09-06T18:40:19Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph lauren tröja Stl S",
     "price": "100.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9906688342-v-ringad-troja-prl",
     "image_url": "https://images1.vinted.net/t/02_00a5e_LCT2S32xJxasfv2bFJGs3TRK/f800/1788694483.jpeg?s=3dbe831d9e7e49c2a70499db66886ee680e41c5d",
     "found_at": "2026-09-06T11:36:55Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "V-ringad tröja PRL",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9906654799-v-ringad-troja-prl",
-    "image_url": "https://images1.vinted.net/t/06_0116b_bHNcQDHYhQyCE1nYHSfkVr34/f800/1788694354.jpeg?s=94968a0378cc97f48555590ce35c18a5786e028f",
-    "found_at": "2026-09-06T11:36:56Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 511",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9906488366-levis-511",
-    "image_url": "https://images1.vinted.net/t/06_006ab_jL4SNp9EmZLD2UZaeK2v5NRk/f800/1788693699.jpeg?s=5e000583e4285f390d9d6ffa27e5617d7b2d949e",
-    "found_at": "2026-09-06T11:23:51Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza",
-    "price": "46.94",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9906424995-bluza",
-    "image_url": "https://images1.vinted.net/t/05_00167_uXz1MRaDBhGqy1d7cEqDk2zP/f800/1788693446.jpeg?s=c660e0384d68f126f45033c6718fc2c7f2d85004",
-    "found_at": "2026-09-06T11:23:52Z"
   }
 ]
