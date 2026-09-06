@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza dresowa męska firmy Hollister rozmiar M/L",
+    "price": "44.33",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9905625882-bluza-dresowa-meska-firmy-hollister-rozmiar-ml",
+    "image_url": "https://images1.vinted.net/t/05_0052f_T6zGSqRydvxPF3Y6nsdMaXbo/f800/1788690281.jpeg?s=179b94110cd3a9244bc019148cc583ee38939017",
+    "found_at": "2026-09-06T10:37:55Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Czarna bluza z kapturem i dużą kieszenią z przodu 36-38",
+    "price": "67.8",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9905708640-czarna-bluza-z-kapturem-i-duza-kieszenia-z-przodu-36-38",
+    "image_url": "https://images1.vinted.net/t/01_015c5_hum2EGDEimpDJPQ7hSG1kHJs/f800/1788690709.jpeg?s=2f885d7c3e4f6dbd6e728123486af5f24f47f2e3",
+    "found_at": "2026-09-06T10:37:56Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Hættetrøje",
     "price": "67.75",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9897753565-bluza-levis",
     "image_url": "https://images1.vinted.net/t/06_00be0_NJZbmUSnWfLUGCm8cfq6eSAK/f800/1788621522.jpeg?s=8dc2c803e97e4a4be5eb5ad852b6cce1f5ada130",
     "found_at": "2026-09-05T15:23:59Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Morris stickad tröja herr",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9897645500-morris-stickad-troja-herr",
-    "image_url": "https://images1.vinted.net/t/06_01642_SKQysWCMrBM1iQ9CYX1dSUdT/f800/1788621080.jpeg?s=de10bdbfbc4b29318d4bf274ddff279a3f454600",
-    "found_at": "2026-09-05T15:24:00Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter marki Massimo Dutti",
-    "price": "70.41",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "XXL",
-    "url": "https://www.vinted.se/items/9897532322-sweter-marki-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/02_013b7_gGPXpyXVo5FFD9KmQ1GiB6KT/f800/1788620614.jpeg?s=3eff2ed03de4b8ff98f50d8308432760ac485c72",
-    "found_at": "2026-09-05T15:08:11Z"
   }
 ]
