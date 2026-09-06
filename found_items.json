@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "V-ringad tröja PRL",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9906688342-v-ringad-troja-prl",
+    "image_url": "https://images1.vinted.net/t/02_00a5e_LCT2S32xJxasfv2bFJGs3TRK/f800/1788694483.jpeg?s=3dbe831d9e7e49c2a70499db66886ee680e41c5d",
+    "found_at": "2026-09-06T11:36:55Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "V-ringad tröja PRL",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9906654799-v-ringad-troja-prl",
+    "image_url": "https://images1.vinted.net/t/06_0116b_bHNcQDHYhQyCE1nYHSfkVr34/f800/1788694354.jpeg?s=94968a0378cc97f48555590ce35c18a5786e028f",
+    "found_at": "2026-09-06T11:36:56Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis 511",
     "price": "75.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9898521936-gant-troja",
     "image_url": "https://images1.vinted.net/t/06_0184c_kwM8os9JW4RBY2yzJF5aNcr3/f800/1788624714.jpeg?s=a1981e46ccd6adf91f79739d43ec14b1aaba0594",
     "found_at": "2026-09-05T16:24:44Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Huppari",
-    "price": "56.26",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898503102-huppari",
-    "image_url": "https://images1.vinted.net/t/05_004c9_UN4e6psWZspxDp5QNavAHV5T/f800/1788624634.jpeg?s=cb1238ef797f7dc327835ddc431d6910d04d4c8d",
-    "found_at": "2026-09-05T16:24:45Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter męski Ralph Lauren r.m",
-    "price": "65.19",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9898450584-sweter-meski-ralph-lauren-rm",
-    "image_url": "https://images1.vinted.net/t/02_02567_EtknjVvpUAey5xkPqZMzYbNN/f800/1788624411.jpeg?s=541224648b01ef2d4e32750a8830d99f649c31a8",
-    "found_at": "2026-09-05T16:08:58Z"
   }
 ]
