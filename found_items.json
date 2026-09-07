@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Sellpy - Boomerang",
+    "title": "Boomerang, Pullover, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yTdASdkHLj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/yTdASdkHLj-68b0-0.jpg",
+    "found_at": "2026-09-07T14:29:03Z"
+  },
+  {
+    "search_name": "Sellpy - FSBN",
+    "title": "FSBN, Huvtröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "FSBN",
+    "size": "",
+    "url": "https://www.sellpy.se/item/47NHgrnjPT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/47NHgrnjPT-6e03-0.jpg",
+    "found_at": "2026-09-07T14:29:31Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kVeq7BRrpj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/kVeq7BRrpj-966b-0.jpg",
+    "found_at": "2026-09-07T14:31:42Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
+    "title": "Abercrombie & Fitch, Flanellskjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pZ0AYEHhJr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/pZ0AYEHhJr-103b-0.jpg",
+    "found_at": "2026-09-07T14:33:16Z"
+  },
+  {
+    "search_name": "Sellpy - Uniqlo (Skjortor)",
+    "title": "Uniqlo, Jeansskjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/in0MMBvLhX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-l-2/dLLJVA8ImN-efff-0.jpg",
+    "found_at": "2026-09-07T14:36:32Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne Studios T-shirt",
     "price": "225.87",
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/V59iXmCJLa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/V59iXmCJLa-2e49-0.jpg",
     "found_at": "2026-09-07T11:47:44Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme Identity, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Selected Homme Identity",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZxiGdXIpOU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/ZxiGdXIpOU-9d24-0.jpg",
-    "found_at": "2026-09-07T11:47:45Z"
-  },
-  {
-    "search_name": "Sellpy - Scotch & Soda (Skjortor)",
-    "title": "Amsterdams Blauw by Scotch & Soda, Jeansskjorta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Amsterdams Blauw by Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JGraiIDht2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/JGraiIDht2-07eb-0.jpg",
-    "found_at": "2026-09-07T11:52:22Z"
-  },
-  {
-    "search_name": "Sellpy - Jack & Jones",
-    "title": "Jack & Jones, Huvtröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8S0QVyTQ4A",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/8S0QVyTQ4A-792d-0.jpg",
-    "found_at": "2026-09-07T11:30:34Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Collegetröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sVjWtvU3WZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/sVjWtvU3WZ-b521-0.jpg",
-    "found_at": "2026-09-07T11:31:47Z"
-  },
-  {
-    "search_name": "Sellpy - Rutig skjorta (stil)",
-    "title": "Lee, Skjorta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Lee",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9k16YsoC5y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/9k16YsoC5y-7bf4-0.jpg",
-    "found_at": "2026-09-07T11:37:35Z"
   }
 ]
