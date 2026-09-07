@@ -380,18 +380,6 @@
       "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=abercrombie%20%26%20fitch&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
     },
     {
-      "name": "Sellpy - Adidas Originals",
-      "site": "sellpy",
-      "search_text": "adidas originals",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK",
-      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=adidas%20originals&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
-    },
-    {
       "name": "Sellpy - Anerkjendt",
       "site": "sellpy",
       "search_text": "anerkjendt",
@@ -572,18 +560,6 @@
       "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=j.lindeberg&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
     },
     {
-      "name": "Sellpy - Jack & Jones",
-      "site": "sellpy",
-      "search_text": "jack & jones",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK",
-      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=jack%20%26%20jones&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
-    },
-    {
       "name": "Sellpy - John Henric",
       "site": "sellpy",
       "search_text": "john henric",
@@ -726,18 +702,6 @@
       "price_to": "75",
       "currency": "SEK",
       "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=maurizio%20baldassari&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
-    },
-    {
-      "name": "Sellpy - Nike",
-      "site": "sellpy",
-      "search_text": "nike",
-      "catalog_ids": "",
-      "size_ids": "",
-      "brand_ids": "",
-      "price_from": "",
-      "price_to": "75",
-      "currency": "SEK",
-      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=nike&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75"
     },
     {
       "name": "Sellpy - Only & Sons",
