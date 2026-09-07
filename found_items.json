@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Samsøe & Samsøe (favorit)",
+    "title": "Samsøe & Samsøe, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Samsøe & Samsøe",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Qi2nG80JoC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Qi2nG80JoC-9249-0.jpg",
+    "found_at": "2026-09-07T08:30:36Z"
+  },
+  {
+    "search_name": "Sellpy - Anerkjendt (Skjortor)",
+    "title": "Anerkjendt, Kortärmad skjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Anerkjendt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/dKihEhDo2m",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/dKihEhDo2m-9cd0-0.jpg",
+    "found_at": "2026-09-07T08:36:22Z"
+  },
+  {
+    "search_name": "Sellpy - Lexington (Skjortor)",
+    "title": "Lexington, Skjorta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Lexington",
+    "size": "",
+    "url": "https://www.sellpy.se/item/UmhrQvdZbC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/UmhrQvdZbC-30ff-0.jpg",
+    "found_at": "2026-09-07T08:37:38Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "Dressmann, Flanellskjorta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "https://www.sellpy.se/item/M16l4RMLAf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/M16l4RMLAf-c4d2-0.jpg",
+    "found_at": "2026-09-07T08:39:45Z"
+  },
+  {
     "search_name": "Sellpy - Bondelid (favorit)",
     "title": "Bondelid, Tröja, Strl: S",
     "price": 35,
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9877737186-mustat-miesten-levis-farkut-3034",
     "image_url": "https://images1.vinted.net/t/06_01d3a_nfbyf1NosZSfJbSZYBCoFpmp/f800/1788453759.jpeg?s=d9a46971919d604405a781d4bdb9f217e6730d87",
     "found_at": "2026-09-07T06:13:52Z"
-  },
-  {
-    "search_name": "Sellpy - Boomerang",
-    "title": "Boomerang, Rugbytröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kZR9afSOwN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/kZR9afSOwN-89ff-0.jpg",
-    "found_at": "2026-09-07T06:15:33Z"
-  },
-  {
-    "search_name": "Sellpy - Les Deux",
-    "title": "Les Deux, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Les Deux",
-    "size": "",
-    "url": "https://www.sellpy.se/item/A6ivzbZe4e",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-3/A6ivzbZe4e-196f-0.jpg",
-    "found_at": "2026-09-07T06:16:50Z"
-  },
-  {
-    "search_name": "Sellpy - Uniqlo",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yaM2zVMG29",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/yaM2zVMG29-5272-0.jpg",
-    "found_at": "2026-09-07T05:58:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tommy Hilfiger (Skjortor)",
-    "title": "Tommy Hilfiger, Buttondown-skjorta, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ekW9RQX6aY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/ekW9RQX6aY-9a02-0.jpg",
-    "found_at": "2026-09-07T06:03:35Z"
   }
 ]
