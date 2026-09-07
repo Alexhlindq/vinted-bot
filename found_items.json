@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Strik kabel sweater",
+    "price": "67.76",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9898903293-strik-kabel-sweater",
+    "image_url": "https://images1.vinted.net/t/06_01117_Rv2uomUk5d8FMV9wyTZ4mXZH/f800/1788626361.jpeg?s=c86d22b6140ce0ef31b9985c7865f45e23a51a5c",
+    "found_at": "2026-09-07T19:51:17Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Diesel",
+    "price": "52.18",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9925754292-bluza-diesel",
+    "image_url": "https://images1.vinted.net/t/01_00c91_Gcfp5B27xfWnhtpMctcaXobQ/f800/1788810270.jpeg?s=8d494dd08e53aefe8ea05cd96ecca8d569d6a307",
+    "found_at": "2026-09-07T19:51:20Z"
+  },
+  {
+    "search_name": "Sellpy - Anerkjendt",
+    "title": "Anerkjendt, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Anerkjendt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/XewlW3r23C",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-l-5/XewlW3r23C-f5ad-0.jpg",
+    "found_at": "2026-09-07T19:52:41Z"
+  },
+  {
+    "search_name": "Sellpy - Jack & Jones",
+    "title": "Jack & Jones, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Tmv3qVdSg7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/Tmv3qVdSg7-0ab6-0.jpg",
+    "found_at": "2026-09-07T19:54:06Z"
+  },
+  {
+    "search_name": "Sellpy - Lexington",
+    "title": "Lexington Clothing Co, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Lexington Clothing Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Wez9ZGQtoj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/Wez9ZGQtoj-d6f8-0.jpg",
+    "found_at": "2026-09-07T19:54:36Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Collegetröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uOV21ux3Va",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-13-k-14/uOV21ux3Va-e942-0.jpg",
+    "found_at": "2026-09-07T19:56:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tommy Hilfiger",
+    "title": "Tommy Hilfiger, Tröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PWnVIv4Qvw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/PWnVIv4Qvw-423f-0.jpg",
+    "found_at": "2026-09-07T19:56:09Z"
+  },
+  {
     "search_name": "Sellpy - J.Lindeberg",
     "title": "J.Lindeberg, Tröja, Strl: S",
     "price": 35,
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/brurF6YOpg",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/brurF6YOpg-09b0-0.jpg",
     "found_at": "2026-09-07T17:30:11Z"
-  },
-  {
-    "search_name": "Sellpy - Overshirts",
-    "title": "Studio Total, Överskjorta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Studio Total",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dPMgO5M9tF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/dPMgO5M9tF-03f7-0.jpg",
-    "found_at": "2026-09-07T17:30:41Z"
-  },
-  {
-    "search_name": "Sellpy - Lexington (Skjortor)",
-    "title": "Lexington, Buttondown-skjorta, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Lexington",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WUF6A4Y8Th",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/WUF6A4Y8Th-bea8-0.jpg",
-    "found_at": "2026-09-07T17:33:11Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days (Skjortor)",
-    "title": "These Glory Days, Kortärmad skjorta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WfXFkaAzcO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/WfXFkaAzcO-fab9-0.jpg",
-    "found_at": "2026-09-07T17:34:52Z"
-  },
-  {
-    "search_name": "Sellpy - NN.07",
-    "title": "NN07, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eHW7EjeuZ4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/eHW7EjeuZ4-ad4c-0.jpg",
-    "found_at": "2026-09-07T17:35:07Z"
-  },
-  {
-    "search_name": "Vinted bot 9",
-    "title": "Massimo Dutti Czarna Kurtka XL Lekko Ocieplana Wiatrówka Premium Elegancka",
-    "price": "65.22",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "XL",
-    "url": "https://www.vinted.se/items/8522283643-massimo-dutti-czarna-kurtka-xl-lekko-ocieplana-wiatrowka-premium-elegancka",
-    "image_url": "https://images1.vinted.net/t/05_01890_dzNSX3YHHdsUuQeKHgQxok6p/f800/1774865221.jpeg?s=4e4784dd68e9ebe9a884a21eb47f05f119bb6344",
-    "found_at": "2026-09-07T17:09:05Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Tommy",
-    "price": "70.44",
-    "currency": "SEK",
-    "brand": "Hilfiger Denim",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9900974920-bluza-tommy",
-    "image_url": "https://images1.vinted.net/t/02_01109_NVzLpBY46e1wJQs4F16ZRj8k/f800/1788637428.jpeg?s=580023b1fa2303df7a4fabcff6661fe17cd48447",
-    "found_at": "2026-09-07T17:09:07Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Vintage stone island zip-up",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/7012264531-vintage-stone-island-zip-up",
-    "image_url": "https://images1.vinted.net/t/04_00960_kA5BrsjQiB4xKCe96ZsGhRWh/f800/1756985882.jpeg?s=276f58185e29a931e7b3d750292ad4a1f9f4c088",
-    "found_at": "2026-09-07T17:09:10Z"
   }
 ]
