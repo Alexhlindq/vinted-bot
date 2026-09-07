@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Grå quarter zip",
+    "price": "75.29",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9896658413-gra-quarter-zip",
+    "image_url": "https://images1.vinted.net/t/05_01dab_Eq7M4upTFVpYMxQMXRyZPKPK/f800/1788617014.jpeg?s=64021f37f00b3538c13ee100ab277e6a3b718707",
+    "found_at": "2026-09-07T21:09:43Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Hoodrich, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Hoodrich",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rTh3LAOBCU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/ERzYXyxKWC-9433-0.jpg",
+    "found_at": "2026-09-07T21:10:17Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Volcom, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Volcom",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LHNzdIWgGP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/sBBoKGUwjA-89d2-0.jpg",
+    "found_at": "2026-09-07T21:10:18Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Mango, Tröja, Strl: S",
     "price": 40,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/bbkoEGaRVx",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/sBH1AZ4NMm-f417-0.jpg",
     "found_at": "2026-09-07T20:27:53Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Marlboro Classics, Dunjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Marlboro Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WGoyIHtD84",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/bbkoEGaRVx-6171-0.jpg",
-    "found_at": "2026-09-07T20:27:54Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tommy Hilfiger, Dunjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fDnZW5WSAM",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/WGoyIHtD84-7f28-0.jpg",
-    "found_at": "2026-09-07T20:27:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "J.Lindeberg, Bomberjacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zoJRspISZ6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/fDnZW5WSAM-3579-0.jpg",
-    "found_at": "2026-09-07T20:27:56Z"
   }
 ]
