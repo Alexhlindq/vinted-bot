@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Polo Ralph Lauren",
+    "price": "104.36",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9918409050-sweter-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_02051_fTBZS9nqVYCLSMiMB8F1upoB/f800/1788774125.jpeg?s=cf2e9b6f65284818d880dce43cdf096b032f18fe",
+    "found_at": "2026-09-07T09:46:10Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9897606622-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/02_0114d_XbcBJLcFXpAoX7VQPdabxu7E/f800/1788620920.jpeg?s=6c47034e8b3b773ff635ef150a2b023d60ab4ec7",
+    "found_at": "2026-09-07T09:46:14Z"
+  },
+  {
+    "search_name": "Sellpy - Kani",
+    "title": "Karl Kani Jeans, Collegetröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Karl Kani Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gNhld8kqCX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-l-2/gNhld8kqCX-2f80-0.jpg",
+    "found_at": "2026-09-07T09:49:00Z"
+  },
+  {
+    "search_name": "Sellpy - Uniqlo (Skjortor)",
+    "title": "Uniqlo, Skjorta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SKiKCT8MbD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/SKiKCT8MbD-ebab-0.jpg",
+    "found_at": "2026-09-07T09:55:41Z"
+  },
+  {
     "search_name": "Sellpy - Nike",
     "title": "Nike, Huvtröja, Strl: S",
     "price": 55,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/MHok3Q5zN2",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/zCWRKRN2jT-0e37-0.jpg",
     "found_at": "2026-09-07T07:21:12Z"
-  },
-  {
-    "search_name": "Sellpy - A Days March (Skjortor)",
-    "title": "A Day's March, Buttondown-skjorta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QMYAUNBmDU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/QMYAUNBmDU-8bf5-0.jpg",
-    "found_at": "2026-09-07T07:22:01Z"
-  },
-  {
-    "search_name": "Sellpy - A Days March (Skjortor)",
-    "title": "A Day's March, Buttondown-skjorta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/SuyqkZX2um",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/SuyqkZX2um-36f7-0.jpg",
-    "found_at": "2026-09-07T07:22:02Z"
-  },
-  {
-    "search_name": "Sellpy - A Days March (Skjortor)",
-    "title": "A Day's March, Buttondown-skjorta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G9RYowMOOi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/G9RYowMOOi-af9b-0.jpg",
-    "found_at": "2026-09-07T07:22:03Z"
-  },
-  {
-    "search_name": "Sellpy - Dobber (Skjortor)",
-    "title": "Dobber, Kortärmad skjorta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6ObEpVbzSO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/6ObEpVbzSO-711e-0.jpg",
-    "found_at": "2026-09-07T07:22:53Z"
   }
 ]
