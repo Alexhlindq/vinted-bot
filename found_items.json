@@ -1,5 +1,137 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sort quarter zip",
+    "price": "90.35",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9896594851-sort-quarter-zip",
+    "image_url": "https://images1.vinted.net/t/02_009ac_JSPSeSC9n5gdLU8DrhCXjhvh/f800/1788616750.jpeg?s=8ea81d0b7e234fac25b4e55cbdbf364159818878",
+    "found_at": "2026-09-07T19:08:45Z"
+  },
+  {
+    "search_name": "Vinted bot 4",
+    "title": "Szare jeansy. W32 L34. Nudie jeans ",
+    "price": "99.14",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/2707301968-szare-jeansy-w32-l34-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/03_01e75_BiejFdMZhHVteqi28kpVMGdi/f800/1676819400.jpeg?s=86ddc23c94c406aaf53af5cf705843a5a8f063a5",
+    "found_at": "2026-09-07T19:08:47Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tröja Tommy Hilfiger",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Hilfiger Denim",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9925313868-troja-tommy-hilfiger",
+    "image_url": "https://images1.vinted.net/t/06_006b5_GVt7Tt5AQkhXsVJfrTRqg218/f800/1788808039.jpeg?s=cb048e6800b1f325c05bcf1960f471d2f665d46d",
+    "found_at": "2026-09-07T19:08:51Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "College tröja Hm Morris & Co",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9925249971-college-troja-hm-morris-co",
+    "image_url": "https://images1.vinted.net/t/02_009de_N3yPwQWDqRPF1i11dVqcNJ1x/f800/1788807728.jpeg?s=5bfb656e5916703d4ce76d5b5022aafa70dd6cb1",
+    "found_at": "2026-09-07T19:08:52Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Grå sweatshirt från Acne",
+    "price": "300.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9925184956-gra-sweatshirt-fran-acne",
+    "image_url": "https://images1.vinted.net/t/06_00b4a_PKwDzVnkhJVKAEnLS4yVYuEo/f800/1788807416.jpeg?s=33f174ddf58ee36b862897a9db0eb88e31064ea2",
+    "found_at": "2026-09-07T19:08:56Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lAnpKVRajn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/lAnpKVRajn-9fbe-0.jpg",
+    "found_at": "2026-09-07T19:11:24Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5EjI5gzwMl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/5EjI5gzwMl-e856-0.jpg",
+    "found_at": "2026-09-07T19:11:25Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EzNBhB67wE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/EzNBhB67wE-1411-0.jpg",
+    "found_at": "2026-09-07T19:13:21Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "GU, Överskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "GU",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hZk7CbngKT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/hZk7CbngKT-d651-0.jpg",
+    "found_at": "2026-09-07T19:13:55Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "Weekday, Överskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QcHA2kupDg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-6/QcHA2kupDg-2755-0.jpg",
+    "found_at": "2026-09-07T19:13:57Z"
+  },
+  {
+    "search_name": "Sellpy - Hollister (Skjortor)",
+    "title": "Hollister California, Skjorta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Hollister California",
+    "size": "",
+    "url": "https://www.sellpy.se/item/03r6gZL6mD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/03r6gZL6mD-c130-0.jpg",
+    "found_at": "2026-09-07T19:16:06Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days (Skjortor)",
+    "title": "These Glory Days, Kortärmad skjorta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kpM65fjRe0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/kpM65fjRe0-cb0f-0.jpg",
+    "found_at": "2026-09-07T19:18:01Z"
+  },
+  {
     "search_name": "Sellpy - Bondelid (favorit) (Skjortor)",
     "title": "Bondelid, Kortärmad skjorta, Strl: M",
     "price": 45,
@@ -526,137 +658,5 @@
     "url": "https://www.sellpy.se/item/2hD7WQ4QkM",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/2hD7WQ4QkM-3b62-0.jpg",
     "found_at": "2026-09-07T16:32:03Z"
-  },
-  {
-    "search_name": "Sellpy - Anerkjendt (Skjortor)",
-    "title": "Anerkjendt, Kortärmad skjorta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Anerkjendt",
-    "size": "",
-    "url": "https://www.sellpy.se/item/I6aLSHZUXQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/WvdxFpk5Cm-2e74-0.jpg",
-    "found_at": "2026-09-07T16:33:11Z"
-  },
-  {
-    "search_name": "Sellpy - Boomerang (Skjortor)",
-    "title": "Boomerang, Jeansskjorta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WTEbYwitFc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/WTEbYwitFc-5432-0.jpg",
-    "found_at": "2026-09-07T16:33:21Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days (Skjortor)",
-    "title": "These Glory Days, Skjorta, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4vAdOjTEcB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/4vAdOjTEcB-c117-0.jpg",
-    "found_at": "2026-09-07T16:36:14Z"
-  },
-  {
-    "search_name": "Sellpy - Melerad stickad (stil)",
-    "title": "H&M, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/U2pHBgvETw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/U2pHBgvETw-6e65-0.jpg",
-    "found_at": "2026-09-07T16:36:50Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Carhartt sweatshirt",
-    "price": "55.71",
-    "currency": "SEK",
-    "brand": "Carhartt",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9922919959-carhartt-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/04_017b2_6j6mesreThBYu7zcBzx9eM26/f800/1788797288.jpeg?s=dc4e06cfb7925803de29e6ca6e9ccb88bd7e01c3",
-    "found_at": "2026-09-07T16:09:47Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios sweatshirt",
-    "price": "188.22",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9922799880-acne-studios-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/01_00e79_7zCCa3RjJ1BvAryzMM95DAos/f800/1788796768.jpeg?s=2e174b2764433c24ae36d5f491fb04ccc415d2f9",
-    "found_at": "2026-09-07T16:09:49Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne T-shirt",
-    "price": "225.87",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9922766852-acne-t-shirt",
-    "image_url": "https://images1.vinted.net/t/01_023ef_7qJ21XNQVYoAfSwynxEngnv6/f800/1788796626.jpeg?s=894e4b8064265953537eeb83f6626165069b93f3",
-    "found_at": "2026-09-07T16:09:50Z"
-  },
-  {
-    "search_name": "Sellpy - Hollister",
-    "title": "Hollister, Huvtröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EnKjRkRJZW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/EnKjRkRJZW-beb5-0.jpg",
-    "found_at": "2026-09-07T16:12:16Z"
-  },
-  {
-    "search_name": "Sellpy - Uniqlo (Skjortor)",
-    "title": "Uniqlo, Buttondown-skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BV8wcNIyQa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/BV8wcNIyQa-3042-0.jpg",
-    "found_at": "2026-09-07T16:03:00Z"
-  },
-  {
-    "search_name": "Sellpy - Stickad kofta (stil)",
-    "title": "Calvin Klein Jeans, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Calvin Klein Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G0FqkfBWPs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/G0FqkfBWPs-2f9e-0.jpg",
-    "found_at": "2026-09-07T16:03:16Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren granatowa bluza męska  henley 3 guziki bawełniana Pony oldmoney klasyka",
-    "price": "117.4",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894173733-polo-ralph-lauren-granatowa-bluza-meska-henley-3-guziki-bawelniana-pony-oldmoney-klasyka",
-    "image_url": "https://images1.vinted.net/t/06_017db_URTXowkM66CLcXudGqNJojom/f800/1788605902.jpeg?s=da4da1df590ed5c243dfdcf63ebcc04fcefe0014",
-    "found_at": "2026-09-07T15:42:04Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Męski sweterek/blezer Massimo Dutti rozmiar M",
-    "price": "65.2",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9922514761-meski-sweterekblezer-massimo-dutti-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/02_011cc_dqSAE9GeT7X8pw71d4d9d8f5/f800/1788795541.jpeg?s=03ee2c1b81cfb6d32c0f6f0a1d135a8a13a24667",
-    "found_at": "2026-09-07T15:42:07Z"
   }
 ]
