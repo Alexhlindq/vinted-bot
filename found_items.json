@@ -1,5 +1,137 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren granatowa bluza męska  henley 3 guziki bawełniana Pony oldmoney klasyka",
+    "price": "117.4",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9894173733-polo-ralph-lauren-granatowa-bluza-meska-henley-3-guziki-bawelniana-pony-oldmoney-klasyka",
+    "image_url": "https://images1.vinted.net/t/06_017db_URTXowkM66CLcXudGqNJojom/f800/1788605902.jpeg?s=da4da1df590ed5c243dfdcf63ebcc04fcefe0014",
+    "found_at": "2026-09-07T15:42:04Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Męski sweterek/blezer Massimo Dutti rozmiar M",
+    "price": "65.2",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9922514761-meski-sweterekblezer-massimo-dutti-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/02_011cc_dqSAE9GeT7X8pw71d4d9d8f5/f800/1788795541.jpeg?s=03ee2c1b81cfb6d32c0f6f0a1d135a8a13a24667",
+    "found_at": "2026-09-07T15:42:07Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie Levis",
+    "price": "52.18",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9922490042-spodnie-levis",
+    "image_url": "https://images1.vinted.net/t/06_00e52_TaB7MQcc8D596Y9f1wYjfggP/f800/1788795433.jpeg?s=73195ec0e6aee51dbe621ceb96ceeca25621a9cb",
+    "found_at": "2026-09-07T15:42:09Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "67.76",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9922301101-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/05_022f1_SdFRP4VqW5L6jDQVi9DtH8Co/f800/1788794599.jpeg?s=1158213a7e72772bf5b4719bca83e7312a71a1c9",
+    "found_at": "2026-09-07T15:42:10Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Morris stickad tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9922531303-morris-stickad-troja",
+    "image_url": "https://images1.vinted.net/t/05_025d5_o7zHfJH1JJG7SrS3YT1b9Q4Y/f800/1788795614.jpeg?s=cbc9ef96cc4288fbf6326cab85bb2abc6fc965b9",
+    "found_at": "2026-09-07T15:42:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (Matinique)",
+    "title": "Matinique, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Matinique",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tD5rBLrqQa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/D1N7Eigz7p-df87-0.jpg",
+    "found_at": "2026-09-07T15:42:21Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch",
+    "title": "Abercrombie & Fitch, Pullover, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zUvrFdKpnw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/9xHfw9XEBU-6f40-0.jpg",
+    "found_at": "2026-09-07T15:43:25Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch",
+    "title": "Abercrombie & Fitch, Pullover, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/owwL18kdcC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/4mnzu7LGCe-7a30-0.jpg",
+    "found_at": "2026-09-07T15:43:26Z"
+  },
+  {
+    "search_name": "Sellpy - Springfield",
+    "title": "Springfield, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Springfield",
+    "size": "",
+    "url": "https://www.sellpy.se/item/56ed7PSXAK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/MkTxQQhDDf-3945-0.jpg",
+    "found_at": "2026-09-07T15:46:39Z"
+  },
+  {
+    "search_name": "Sellpy - Springfield",
+    "title": "Springfield, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Springfield",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3ZjNljcbl0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/4exFOfGdVv-2452-0.jpg",
+    "found_at": "2026-09-07T15:46:40Z"
+  },
+  {
+    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
+    "title": "Levi Strauss & Co, Oxfordskjorta, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/V7FuOV5BmL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/V7FuOV5BmL-2cfd-0.jpg",
+    "found_at": "2026-09-07T15:49:40Z"
+  },
+  {
+    "search_name": "Sellpy - Melerad stickad (stil)",
+    "title": "Tommy Hilfiger Denim, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger Denim",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2YPhLRbfMU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/2YPhLRbfMU-8619-0.jpg",
+    "found_at": "2026-09-07T15:51:54Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Jack og jones strik trøje.",
     "price": "158.11",
@@ -526,137 +658,5 @@
     "url": "https://www.vinted.se/items/9920614225-ralph-lauren-langaermet",
     "image_url": "https://images1.vinted.net/t/06_0070f_wLQh7NQxDXS6QDdPWSCMGKUj/f800/1788786556.jpeg?s=8f36f51cad6559948555094495e737ca945be1e7",
     "found_at": "2026-09-07T13:12:53Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Ralp Lauren M",
-    "price": "104.36",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9920593077-sweter-ralp-lauren-m",
-    "image_url": "https://images1.vinted.net/t/05_011bb_VfrCgEwwtndrXXLfcQvYQuit/f800/1788786448.jpeg?s=0849bc058e9510f1a542bafa2a5d9aa4c2624494",
-    "found_at": "2026-09-07T13:12:53Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polon paita",
-    "price": "111.99",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9920499951-polon-paita",
-    "image_url": "https://images1.vinted.net/t/02_0182b_8NhEfJzH4rx7dnMcpaKBBjwR/f800/1788785971.jpeg?s=db9690cfd0464d0ef3464b2254d174b55f600185",
-    "found_at": "2026-09-07T13:12:54Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hoddie",
-    "price": "48.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9920450664-hoddie",
-    "image_url": "https://images1.vinted.net/t/02_012cb_ma2DwbujqCsUyYtAB2VDSgJE/f800/1788785721.jpeg?s=ff88050bb721828f4b58e9dbe72903e438d13346",
-    "found_at": "2026-09-07T13:12:59Z"
-  },
-  {
-    "search_name": "Sellpy - Les Deux",
-    "title": "Les Deux, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Les Deux",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EvxTp8znxB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/EvxTp8znxB-6808-0.jpg",
-    "found_at": "2026-09-07T13:15:55Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days (Skjortor)",
-    "title": "These Glory Days, Skjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/A30pPUAuCL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/A30pPUAuCL-73d7-0.jpg",
-    "found_at": "2026-09-07T13:22:01Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Folk, Flanellskjorta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Folk",
-    "size": "",
-    "url": "https://www.sellpy.se/item/X0jCQXxk9R",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/X0jCQXxk9R-958b-0.jpg",
-    "found_at": "2026-09-07T13:22:28Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter L Massimo Dutti",
-    "price": "65.22",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9920419466-sweter-l-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/02_00aff_PoGFnZVksaBFeiDQmAYbVFUh/f800/1788785587.jpeg?s=8c4f1481de328b477597a3abb187cf2a4de80a6e",
-    "found_at": "2026-09-07T12:56:23Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s jeans",
-    "price": "45.17",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9920391972-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/06_00e54_o6oXVhQ2tTwJxgrRX1LZvz5q/f800/1788785424.jpeg?s=71814a6c31305f9dd6eeec406af37cfb5383bbac",
-    "found_at": "2026-09-07T12:56:25Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza holister",
-    "price": "65.22",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9888101584-bluza-holister",
-    "image_url": "https://images1.vinted.net/t/02_02453_GHeLNkvpSgJMCDpbYLTrTxDJ/f800/1788541942.jpeg?s=0ac0a81d836fa11fbc894c3085c432ff74edb5d7",
-    "found_at": "2026-09-07T12:56:26Z"
-  },
-  {
-    "search_name": "Sellpy - Hollister",
-    "title": "Hollister, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FjuxKcCEdv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/FjuxKcCEdv-c7a7-0.jpg",
-    "found_at": "2026-09-07T12:58:53Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Huvtröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CwhKzMOXLC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/CwhKzMOXLC-f905-0.jpg",
-    "found_at": "2026-09-07T13:00:11Z"
-  },
-  {
-    "search_name": "Sellpy - A Days March (Skjortor)",
-    "title": "A Day's March, Buttondown-skjorta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/OmF5yhHZpv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-3/OmF5yhHZpv-4fc0-0.jpg",
-    "found_at": "2026-09-07T13:02:12Z"
   }
 ]
