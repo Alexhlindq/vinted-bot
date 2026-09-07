@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Morris Sweatshirt",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9924765385-morris-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/01_003ce_NTtGnaCNPf1KWn3zMy17WVXf/f800/1788805432.jpeg?s=536b63d2eb69f359dc90d0c0067f228f40618856",
+    "found_at": "2026-09-07T18:30:27Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Stone island hoodie",
+    "price": "37.64",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9924844863-stone-island-hoodie",
+    "image_url": "https://images1.vinted.net/t/02_008ab_kXyygqptuDsZnR3VR4SdSHQ6/f800/1788805805.jpeg?s=656229bf659592a818caed4c73158f050ac5bd68",
+    "found_at": "2026-09-07T18:30:29Z"
+  },
+  {
+    "search_name": "Sellpy - Massimo Dutti",
+    "title": "Massimo Dutti, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kCH72rDzAi",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/kCH72rDzAi-a73b-0.jpg",
+    "found_at": "2026-09-07T18:34:06Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad kofta (stil)",
+    "title": "Pierre Cardin, Kofta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Pierre Cardin",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Kzt0jvQKOo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/Kzt0jvQKOo-d06c-0.jpg",
+    "found_at": "2026-09-07T18:40:25Z"
+  },
+  {
+    "search_name": "Sellpy - Grovstickad (stil)",
+    "title": "GANT, Tröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oNr0WQN65y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/oNr0WQN65y-963a-0.jpg",
+    "found_at": "2026-09-07T18:40:39Z"
+  },
+  {
+    "search_name": "Sellpy - Grovstickad (stil)",
+    "title": "Bläck, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3Tu9xJBsls",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/3Tu9xJBsls-cbd6-0.jpg",
+    "found_at": "2026-09-07T18:40:40Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
     "price": "117.4",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9922531303-morris-stickad-troja",
     "image_url": "https://images1.vinted.net/t/05_025d5_o7zHfJH1JJG7SrS3YT1b9Q4Y/f800/1788795614.jpeg?s=cbc9ef96cc4288fbf6326cab85bb2abc6fc965b9",
     "found_at": "2026-09-07T15:42:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (Matinique)",
-    "title": "Matinique, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Matinique",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tD5rBLrqQa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/D1N7Eigz7p-df87-0.jpg",
-    "found_at": "2026-09-07T15:42:21Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch",
-    "title": "Abercrombie & Fitch, Pullover, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zUvrFdKpnw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/9xHfw9XEBU-6f40-0.jpg",
-    "found_at": "2026-09-07T15:43:25Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch",
-    "title": "Abercrombie & Fitch, Pullover, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/owwL18kdcC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/4mnzu7LGCe-7a30-0.jpg",
-    "found_at": "2026-09-07T15:43:26Z"
-  },
-  {
-    "search_name": "Sellpy - Springfield",
-    "title": "Springfield, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Springfield",
-    "size": "",
-    "url": "https://www.sellpy.se/item/56ed7PSXAK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/MkTxQQhDDf-3945-0.jpg",
-    "found_at": "2026-09-07T15:46:39Z"
-  },
-  {
-    "search_name": "Sellpy - Springfield",
-    "title": "Springfield, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Springfield",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3ZjNljcbl0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/4exFOfGdVv-2452-0.jpg",
-    "found_at": "2026-09-07T15:46:40Z"
-  },
-  {
-    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
-    "title": "Levi Strauss & Co, Oxfordskjorta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/V7FuOV5BmL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/V7FuOV5BmL-2cfd-0.jpg",
-    "found_at": "2026-09-07T15:49:40Z"
   }
 ]
