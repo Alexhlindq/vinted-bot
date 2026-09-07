@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph lauren",
+    "price": "80.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9923502296-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_00f3b_sbDY1w9tmYCpMMKSjAqyqmwX/f800/1788799784.jpeg?s=9c5646af5b681d6cc8a069ddd99aa016f4e50b2b",
+    "found_at": "2026-09-07T16:54:08Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza miętowa z kapturem",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9886146088-bluza-mietowa-z-kapturem",
+    "image_url": "https://images1.vinted.net/t/02_01719_ZuKgMJMecUD7DRtaJA5BAnfU/f800/1788531840.jpeg?s=cfd4905c8bfb5a1347782d198ac5849f9dae7d18",
+    "found_at": "2026-09-07T16:54:13Z"
+  },
+  {
+    "search_name": "Sellpy - FSBN (Skjortor)",
+    "title": "FSBN, Jeansskjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "FSBN",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oCmw8petMp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/oCmw8petMp-7804-0.jpg",
+    "found_at": "2026-09-07T17:00:48Z"
+  },
+  {
+    "search_name": "Sellpy - Grovstickad (stil)",
+    "title": "Bogner, Tröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bogner",
+    "size": "",
+    "url": "https://www.sellpy.se/item/m70tsUyrIJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/m70tsUyrIJ-7be7-0.jpg",
+    "found_at": "2026-09-07T17:03:31Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bondelid stickad tröja",
     "price": "60.0",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9921183067-acne-studios-nash-face-t-shirt",
     "image_url": "https://images1.vinted.net/t/05_01fbc_Yqe4G2QA6Jfw4fRi3zbfNDbV/f800/1788789331.jpeg?s=db9545b35cce3fd10e2108379a931e1b2b04b400",
     "found_at": "2026-09-07T14:10:02Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cDEabneWuk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/cDEabneWuk-7986-0.jpg",
-    "found_at": "2026-09-07T14:13:57Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days",
-    "title": "These Glory Days, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CwPbkHwRV0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/CwPbkHwRV0-fc24-0.jpg",
-    "found_at": "2026-09-07T14:14:40Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days (Skjortor)",
-    "title": "These Glory Days, Jeansskjorta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HwYG1cLaii",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/HwYG1cLaii-7cac-0.jpg",
-    "found_at": "2026-09-07T14:19:26Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days (Skjortor)",
-    "title": "These Glory Days, Skjorta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uVs6SrdtlD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/uVs6SrdtlD-05c1-0.jpg",
-    "found_at": "2026-09-07T14:19:28Z"
   }
 ]
