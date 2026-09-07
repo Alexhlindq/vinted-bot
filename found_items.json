@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Vihreä huppari",
+    "price": "45.02",
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9919157903-vihrea-huppari",
+    "image_url": "https://images1.vinted.net/t/02_005e3_VoHme6L4YBDjq5tugnz8cuui/f800/1788778585.jpeg?s=d48b34e45290d4a142f55404bb7b1cd76aa0541f",
+    "found_at": "2026-09-07T11:09:54Z"
+  },
+  {
+    "search_name": "Sellpy - Hollister",
+    "title": "Hollister, Tröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "https://www.sellpy.se/item/h83RzGdT7n",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/h83RzGdT7n-64f4-0.jpg",
+    "found_at": "2026-09-07T11:12:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (Matinique) (Skjortor)",
+    "title": "Matinique, Skjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Matinique",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jAv9miGWWu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/jAv9miGWWu-09b1-0.jpg",
+    "found_at": "2026-09-07T11:14:48Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne Studios T-shirt",
     "price": "300.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/BE3yi9gPNQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/BE3yi9gPNQ-762d-0.jpg",
     "found_at": "2026-09-07T07:57:54Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "H&M, Flanellskjorta, Strl: M/L",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ebPkwL9S9v",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/ebPkwL9S9v-3ca8-0.jpg",
-    "found_at": "2026-09-07T08:04:44Z"
-  },
-  {
-    "search_name": "Sellpy - Sjalkrage kofta (stil)",
-    "title": "Ragwear, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Ragwear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DEyO6zaSHX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-10-l-3/DEyO6zaSHX-3376-0.jpg",
-    "found_at": "2026-09-07T08:04:52Z"
-  },
-  {
-    "search_name": "Sellpy - Boomerang",
-    "title": "Boomerang, Pullover, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yIJMRvWbTa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/yIJMRvWbTa-e00d-0.jpg",
-    "found_at": "2026-09-07T07:43:01Z"
   }
 ]
