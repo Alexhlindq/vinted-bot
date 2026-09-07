@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Bomberka bawełniana L XL",
+    "price": "73.05",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XL",
+    "url": "https://www.vinted.se/items/9816227881-bomberka-bawelniana-l-xl",
+    "image_url": "https://images1.vinted.net/t/01_025c6_rTADcoMttWpYarWu7fujNATQ/f800/1788005129.jpeg?s=177b417715c9c60fadfc6df990f3f93c375f269c",
+    "found_at": "2026-09-07T04:27:28Z"
+  },
+  {
     "search_name": "Sellpy - J.Lindeberg",
     "title": "J.Lindeberg, Collegetröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9911541461-polo-ralph-lauren-v-neck-sweatshirt",
     "image_url": "https://images1.vinted.net/t/02_0101b_fKa6Uch4Ec4oPU7twWcDBTZT/f800/1788711129.jpeg?s=ac96666eb989e29163b8d227ba7bc05e5f081d38",
     "found_at": "2026-09-06T21:31:28Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo ralph lauren paita",
-    "price": "112.52",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9909480579-polo-ralph-lauren-paita",
-    "image_url": "https://images1.vinted.net/t/06_019a9_YzRv4dTksuvWYQy3yY2nSdgh/f800/1788704482.jpeg?s=49dcd27ed506b11037ab387aa2c22f3068e3ce3a",
-    "found_at": "2026-09-06T21:31:29Z"
   }
 ]
