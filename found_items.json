@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza Polo ralph",
+    "price": "104.36",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9923126811-bluza-polo-ralph",
+    "image_url": "https://images1.vinted.net/t/06_00942_fB6Cy2A4crF6qLSPbMuRzUWG/f800/1788798180.jpeg?s=8e8bc9568c5120165842424b3e9ef0dea143387a",
+    "found_at": "2026-09-07T16:27:02Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "Premium by Jack & Jones, Överskjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Premium by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/J7pKnKXb8d",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/J7pKnKXb8d-c81f-0.jpg",
+    "found_at": "2026-09-07T16:31:57Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (Matinique) (Skjortor)",
+    "title": "Matinique, Skjorta, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Matinique",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2hD7WQ4QkM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/2hD7WQ4QkM-3b62-0.jpg",
+    "found_at": "2026-09-07T16:32:03Z"
+  },
+  {
+    "search_name": "Sellpy - Anerkjendt (Skjortor)",
+    "title": "Anerkjendt, Kortärmad skjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Anerkjendt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/I6aLSHZUXQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/WvdxFpk5Cm-2e74-0.jpg",
+    "found_at": "2026-09-07T16:33:11Z"
+  },
+  {
+    "search_name": "Sellpy - Boomerang (Skjortor)",
+    "title": "Boomerang, Jeansskjorta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WTEbYwitFc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/WTEbYwitFc-5432-0.jpg",
+    "found_at": "2026-09-07T16:33:21Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days (Skjortor)",
+    "title": "These Glory Days, Skjorta, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4vAdOjTEcB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/4vAdOjTEcB-c117-0.jpg",
+    "found_at": "2026-09-07T16:36:14Z"
+  },
+  {
+    "search_name": "Sellpy - Melerad stickad (stil)",
+    "title": "H&M, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/U2pHBgvETw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/U2pHBgvETw-6e65-0.jpg",
+    "found_at": "2026-09-07T16:36:50Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Carhartt sweatshirt",
     "price": "55.71",
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/zlPdJSSxHW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/zlPdJSSxHW-f705-0.jpg",
     "found_at": "2026-09-07T13:56:35Z"
-  },
-  {
-    "search_name": "Sellpy - Only & Sons",
-    "title": "Only & Sons, Jultröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xzTivCLXil",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/xzTivCLXil-f821-0.jpg",
-    "found_at": "2026-09-07T13:57:54Z"
-  },
-  {
-    "search_name": "Sellpy - Only & Sons",
-    "title": "Only & Sons, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JliUXJKz3f",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/JliUXJKz3f-5c04-0.jpg",
-    "found_at": "2026-09-07T13:57:55Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Yf1WCvOkQr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/Yf1WCvOkQr-1f9d-0.jpg",
-    "found_at": "2026-09-07T13:58:22Z"
-  },
-  {
-    "search_name": "Sellpy - Shaping New Tomorrow",
-    "title": "Shaping New Tomorrow, Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Shaping New Tomorrow",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jj5BSo0WSA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/IJmv4gHLVy-7209-0.jpg",
-    "found_at": "2026-09-07T13:58:25Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies)",
-    "title": "Superdry, Rugbytröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "https://www.sellpy.se/item/d2PzHvx9mC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-3/d2PzHvx9mC-a46f-0.jpg",
-    "found_at": "2026-09-07T13:59:02Z"
-  },
-  {
-    "search_name": "Sellpy - Grovstickad (stil)",
-    "title": "Filippa K, Polotröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Filippa K",
-    "size": "",
-    "url": "https://www.sellpy.se/item/c4DtdUDp9E",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-11/c4DtdUDp9E-0815-0.jpg",
-    "found_at": "2026-09-07T14:03:31Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza s Holliester",
-    "price": "46.96",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9920847082-bluza-s-holliester",
-    "image_url": "https://images1.vinted.net/t/05_009e8_wyAGZ5NpURkpy2US67N1PwXK/f800/1788787708.jpeg?s=0fc93775bbae5214fd3f1480fe9c8fd97ebd7e58",
-    "found_at": "2026-09-07T13:31:21Z"
   }
 ]
