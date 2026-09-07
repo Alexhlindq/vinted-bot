@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Massimo Dutti",
+    "title": "Massimo Dutti, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fCeDEmrYHj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/fCeDEmrYHj-757a-0.jpg",
+    "found_at": "2026-09-07T05:13:18Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Huvtröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DqdOGhQAUT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/DqdOGhQAUT-ca71-0.jpg",
+    "found_at": "2026-09-07T05:14:16Z"
+  },
+  {
     "search_name": "Sellpy - Selected Homme",
     "title": "Selected Homme, Tröja, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/dY9HZcEsHa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/dY9HZcEsHa-22fe-0.jpg",
     "found_at": "2026-09-06T23:56:50Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren sweter męski roz M",
-    "price": "101.7",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9914164285-polo-ralph-lauren-sweter-meski-roz-m",
-    "image_url": "https://images1.vinted.net/t/01_026bb_GRy3EzKHu8Ca2nf66KaA9FGg/f800/1788721082.jpeg?s=c73db980606e61c5e2461f3a80e82ec80be6e235",
-    "found_at": "2026-09-06T21:31:22Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph lauren tröja Stl S",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9913513212-ralph-lauren-troja-stl-s",
-    "image_url": "https://images1.vinted.net/t/05_00000_qob7YY5ouWfrp6qRmeMh3hii/f800/1788718236.jpeg?s=a8a8f3cc031bf6762ba3583b3c5da76284dcc70f",
-    "found_at": "2026-09-06T21:31:23Z"
   }
 ]
