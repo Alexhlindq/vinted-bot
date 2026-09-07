@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bondelid stickad tröja",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9923265255-bondelid-stickad-troja",
+    "image_url": "https://images1.vinted.net/t/06_01ce3_d2Bpgfy1mqdaX4SZwseSUPdT/f800/1788798771.jpeg?s=303cd1736bec79c19618c5a14df5893727477a0b",
+    "found_at": "2026-09-07T16:42:04Z"
+  },
+  {
+    "search_name": "Sellpy - FSBN (Skjortor)",
+    "title": "FSBN, Kortärmad skjorta, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "FSBN",
+    "size": "",
+    "url": "https://www.sellpy.se/item/whhCNAcsoX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/whhCNAcsoX-39b8-0.jpg",
+    "found_at": "2026-09-07T16:48:46Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza Polo ralph",
     "price": "104.36",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/uVs6SrdtlD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/uVs6SrdtlD-05c1-0.jpg",
     "found_at": "2026-09-07T14:19:28Z"
-  },
-  {
-    "search_name": "Sellpy - Grovstickad (stil)",
-    "title": "SikSilk, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "SikSilk",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CvfPrSZlcn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-j-1/CvfPrSZlcn-3f7d-0.jpg",
-    "found_at": "2026-09-07T14:20:02Z"
-  },
-  {
-    "search_name": "Sellpy - Hollister",
-    "title": "Hollister, Huvtröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zlPdJSSxHW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/zlPdJSSxHW-f705-0.jpg",
-    "found_at": "2026-09-07T13:56:35Z"
   }
 ]
