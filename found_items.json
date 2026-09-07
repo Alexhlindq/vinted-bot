@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza s Holliester",
+    "price": "46.96",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9920847082-bluza-s-holliester",
+    "image_url": "https://images1.vinted.net/t/05_009e8_wyAGZ5NpURkpy2US67N1PwXK/f800/1788787708.jpeg?s=0fc93775bbae5214fd3f1480fe9c8fd97ebd7e58",
+    "found_at": "2026-09-07T13:31:21Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "langærmet trøje",
+    "price": "45.17",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9920793383-langaermet-troje",
+    "image_url": "https://images1.vinted.net/t/06_01521_AxzUrq6hWW8FEKH1kqLVbcru/f800/1788787548.jpeg?s=eb0d932bfc5b5b0e3fa438154e8817e0e285a08a",
+    "found_at": "2026-09-07T13:31:22Z"
+  },
+  {
+    "search_name": "Sellpy - Billabong",
+    "title": "Billabong, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Billabong",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9Ljc0MQP6o",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/9Ljc0MQP6o-c475-0.jpg",
+    "found_at": "2026-09-07T13:33:02Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
+    "title": "Abercrombie & Fitch, Buttondown-skjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/KCd88bVz4l",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/KCd88bVz4l-5605-0.jpg",
+    "found_at": "2026-09-07T13:37:11Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
+    "title": "Abercrombie & Fitch, Skjorta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NYwR9WqKev",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/NYwR9WqKev-bade-0.jpg",
+    "found_at": "2026-09-07T13:37:13Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "Hansen, Flanellskjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/dpYbYs8Tea",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/dpYbYs8Tea-3a7a-0.jpg",
+    "found_at": "2026-09-07T13:40:45Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren langærmet!",
     "price": "73.78",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/6219639219-converse-x-come-des-garson",
     "image_url": "https://images1.vinted.net/t/04_0134c_dyedcbbY5ErAsRoK6xAQossN/f800/1745702824.jpeg?s=6b7c316b8901edab8acd7bcad7803270c7c3f264",
     "found_at": "2026-09-07T10:09:58Z"
-  },
-  {
-    "search_name": "Sellpy - FSBN",
-    "title": "FSBN, Tröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "FSBN",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WA2eeyqwBq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-l-5/WA2eeyqwBq-4c8e-0.jpg",
-    "found_at": "2026-09-07T10:12:03Z"
-  },
-  {
-    "search_name": "Sellpy - Massimo Dutti",
-    "title": "Massimo Dutti, Tröja, Strl: S/M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EEfJVborJz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/WL8v2A7hot-95bc-0.jpg",
-    "found_at": "2026-09-07T10:13:20Z"
-  },
-  {
-    "search_name": "Sellpy - Uniqlo (Skjortor)",
-    "title": "Uniqlo, Kortärmad skjorta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pEESGBQsO2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/pEESGBQsO2-7c0a-0.jpg",
-    "found_at": "2026-09-07T10:18:47Z"
-  },
-  {
-    "search_name": "Sellpy - NN.07",
-    "title": "NN07, Huvtröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jVNb90cI0n",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/jVNb90cI0n-0895-0.jpg",
-    "found_at": "2026-09-07T10:18:56Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Polo Ralph Lauren",
-    "price": "104.36",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9918409050-sweter-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/06_02051_fTBZS9nqVYCLSMiMB8F1upoB/f800/1788774125.jpeg?s=cf2e9b6f65284818d880dce43cdf096b032f18fe",
-    "found_at": "2026-09-07T09:46:10Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9897606622-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/02_0114d_XbcBJLcFXpAoX7VQPdabxu7E/f800/1788620920.jpeg?s=6c47034e8b3b773ff635ef150a2b023d60ab4ec7",
-    "found_at": "2026-09-07T09:46:14Z"
   }
 ]
