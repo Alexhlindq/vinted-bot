@@ -1,5 +1,115 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Tjocktröja Massimo dutti",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9921780124-tjocktroja-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/02_021d9_nF5M81VkgvXDJnBHoxkqLq4Q/f800/1788792220.jpeg?s=162103d1810190e99fe9050a7d9b2a992f16a249",
+    "found_at": "2026-09-07T14:55:42Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
+    "price": "221.76",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9921871595-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
+    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1788792648.jpeg?s=a382a38d5bd59c5d7dc2ce645a1f0049744e64ea",
+    "found_at": "2026-09-07T14:55:46Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios T-shirt",
+    "price": "150.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9921867285-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_01408_mSK2HioGh4dRur5xKP27Wyr7/f800/1788792629.jpeg?s=8b58eea956ff5ef434c39c5bf0101935c74b13ee",
+    "found_at": "2026-09-07T14:55:47Z"
+  },
+  {
+    "search_name": "Sellpy - A Days March",
+    "title": "A Day's March, Collegetröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "https://www.sellpy.se/item/6bXexGsx9S",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-1/6bXexGsx9S-fee6-0.jpg",
+    "found_at": "2026-09-07T14:56:54Z"
+  },
+  {
+    "search_name": "Sellpy - Makia",
+    "title": "Makia, Collegetröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Makia",
+    "size": "",
+    "url": "https://www.sellpy.se/item/u1grtzEyXa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/u1grtzEyXa-f7e9-0.jpg",
+    "found_at": "2026-09-07T14:59:05Z"
+  },
+  {
+    "search_name": "Sellpy - Superdry (hoodies)",
+    "title": "Superdry Track & Field, Collegetröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Superdry Track & Field",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HRxnekIJxc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/HRxnekIJxc-cef1-0.jpg",
+    "found_at": "2026-09-07T15:00:35Z"
+  },
+  {
+    "search_name": "Sellpy - Samsøe & Samsøe (favorit) (Skjortor)",
+    "title": "Samsøe & Samsøe, Skjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Samsøe & Samsøe",
+    "size": "",
+    "url": "https://www.sellpy.se/item/COBhSg0AvX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/COBhSg0AvX-cf48-0.jpg",
+    "found_at": "2026-09-07T15:00:48Z"
+  },
+  {
+    "search_name": "Sellpy - Anerkjendt (Skjortor)",
+    "title": "Anerkjendt, Skjorta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Anerkjendt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NqlOreAJHl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/MbuB5xoE4J-e8e1-0.jpg",
+    "found_at": "2026-09-07T15:01:52Z"
+  },
+  {
+    "search_name": "Sellpy - Springfield (Skjortor)",
+    "title": "Springfield, Buttondown-skjorta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Springfield",
+    "size": "",
+    "url": "https://www.sellpy.se/item/e62RgZysbw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/QE97lzkzbU-bdd5-0.jpg",
+    "found_at": "2026-09-07T15:04:38Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "Dickies, Flanellskjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Dickies",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HJYdBKX22C",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/HJYdBKX22C-05f6-0.jpg",
+    "found_at": "2026-09-07T15:05:06Z"
+  },
+  {
     "search_name": "Sellpy - Boomerang",
     "title": "Boomerang, Pullover, Strl: M",
     "price": 55,
@@ -548,115 +658,5 @@
     "url": "https://www.sellpy.se/item/C9NdfwbYSd",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-3/C9NdfwbYSd-24f2-0.jpg",
     "found_at": "2026-09-07T12:45:11Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Sweatshirt Bondelid",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9919895124-sweatshirt-bondelid",
-    "image_url": "https://images1.vinted.net/t/06_020e9_jGfbvd2saTLdjv5wGqbwzkPq/f800/1788782784.jpeg?s=61460261495356765282917c566bffd25da34360",
-    "found_at": "2026-09-07T12:12:46Z"
-  },
-  {
-    "search_name": "Sellpy - J.Lindeberg",
-    "title": "J.Lindeberg, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/y1ZIMDgYtm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/y1ZIMDgYtm-ffb2-0.jpg",
-    "found_at": "2026-09-07T12:15:20Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/w7H1LzrOqj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/w7H1LzrOqj-0cc8-0.jpg",
-    "found_at": "2026-09-07T12:16:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tommy Hilfiger",
-    "title": "Tommy Hilfiger, Tröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mLhTDJKdUR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/mLhTDJKdUR-7aa8-0.jpg",
-    "found_at": "2026-09-07T11:59:24Z"
-  },
-  {
-    "search_name": "Sellpy - Jack & Jones (Skjortor)",
-    "title": "Premium by Jack & Jones, Kortärmad skjorta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Premium by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EZwbGbp9qV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/EZwbGbp9qV-2de0-0.jpg",
-    "found_at": "2026-09-07T12:02:05Z"
-  },
-  {
-    "search_name": "Sellpy - Rutig skjorta (stil)",
-    "title": "Lacoste, Kortärmad skjorta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Lacoste",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Ye1EXDVydv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/Ye1EXDVydv-fbbe-0.jpg",
-    "found_at": "2026-09-07T12:04:32Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Ralph Lauren",
-    "price": "96.53",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9919549739-bluza-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_021b6_k3Y6fLFfBrvSfdfvcSPMY8sL/f800/1788780865.jpeg?s=bce92d908c6434f82e3ef640bac763f36d1b93d9",
-    "found_at": "2026-09-07T11:43:02Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Lecis jeans",
-    "price": "11.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9919526082-lecis-jeans",
-    "image_url": "https://images1.vinted.net/t/01_01265_XqZHAV3sx9RkeYjZjCjs38RN/f800/1788780731.jpeg?s=6e0c1ef0b4f16db63f84aee02d90f0f14a3b912a",
-    "found_at": "2026-09-07T11:43:07Z"
-  },
-  {
-    "search_name": "Sellpy - Jack & Jones",
-    "title": "Jack & Jones, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RasBHaAKzx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/RasBHaAKzx-46ed-0.jpg",
-    "found_at": "2026-09-07T11:45:55Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/V59iXmCJLa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/V59iXmCJLa-2e49-0.jpg",
-    "found_at": "2026-09-07T11:47:44Z"
   }
 ]
