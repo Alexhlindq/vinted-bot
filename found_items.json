@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Pullover, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/o2AFIXdJbw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/o2AFIXdJbw-be74-0.jpg",
+    "found_at": "2026-09-07T01:11:26Z"
+  },
+  {
+    "search_name": "Sellpy - Massimo Dutti",
+    "title": "Massimo Dutti, Rugbytröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/w6jAsBs56m",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/w6jAsBs56m-bf21-0.jpg",
+    "found_at": "2026-09-07T01:12:53Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg (Skjortor)",
+    "title": "J.Lindeberg, Skjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gEuaaLUNl4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/gEuaaLUNl4-4d55-0.jpg",
+    "found_at": "2026-09-07T01:17:05Z"
+  },
+  {
     "search_name": "Sellpy - Adidas Originals",
     "title": "Adidas Originals, Huvtröja, Strl: S",
     "price": 75,
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9903197358-ralp-lauren-polo-sweter-meski-prima-cotton-bawelna-m-top-premium-must-have-classic",
     "image_url": "https://images1.vinted.net/t/03_0202f_PzSXEGVEyWRSJj4eoArCZ7xW/f800/1788676710.jpeg?s=571c07eb4be0bcbc4941c4d1b2a1c3ba0cd8e1f2",
     "found_at": "2026-09-06T21:31:39Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter beżowy",
-    "price": "73.02",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9901845424-sweter-bezowy",
-    "image_url": "https://images1.vinted.net/t/05_021e5_MmFmaAER15mZ7eZtTy6p53Kv/f800/1788644420.jpeg?s=bdd3f45333da81a7d8adc7448d8e73e7392d948c",
-    "found_at": "2026-09-06T21:31:40Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren hoodie",
-    "price": "99.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9901729016-polo-ralph-lauren-hoodie",
-    "image_url": "https://images1.vinted.net/t/06_00935_Dero7z7rYYLtw2wWucLFSKDx/f800/1788643236.jpeg?s=a44e14e3abf06ab2fb4634f9207b3bb724827ad9",
-    "found_at": "2026-09-06T21:31:41Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Cienki sweterek Polo Ralph Lauren",
-    "price": "86.05",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897724650-cienki-sweterek-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_000e9_2bvqmYqRzN6HXQKSDTD9a5cZ/f800/1788621404.jpeg?s=bdb2b6a8dfe712626b21ed64812249c8f8ebbd7c",
-    "found_at": "2026-09-06T21:31:42Z"
   }
 ]
