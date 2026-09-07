@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Bondelid (favorit)",
+    "title": "Bondelid, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kOAC6HMAMu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/kOAC6HMAMu-d6a2-0.jpg",
+    "found_at": "2026-09-07T04:43:57Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Bomberka bawełniana L XL",
     "price": "73.05",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9911739861-ralph-lauren-troje-m-lilla",
     "image_url": "https://images1.vinted.net/t/03_007fb_oDmwQQTNXtoSjZ8sbS3n9jsi/f800/1788711778.jpeg?s=0cb2bd681bd7a695a60927f9224f680649cd7ac8",
     "found_at": "2026-09-06T21:31:27Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren v neck sweatshirt",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9911541461-polo-ralph-lauren-v-neck-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/02_0101b_fKa6Uch4Ec4oPU7twWcDBTZT/f800/1788711129.jpeg?s=ac96666eb989e29163b8d227ba7bc05e5f081d38",
-    "found_at": "2026-09-06T21:31:28Z"
   }
 ]
