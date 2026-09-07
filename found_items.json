@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter pomarańczowy/ koralowy Massimo Dutti męski",
+    "price": "52.18",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9917386270-sweter-pomaranczowy-koralowy-massimo-dutti-meski",
+    "image_url": "https://images1.vinted.net/t/04_01503_tDrkSHo8DwwES6uE44PPEFcF/f800/1788766911.jpeg?s=f46260c01a506f67f721b9def5585e2c9d4a7ad5",
+    "found_at": "2026-09-07T07:54:55Z"
+  },
+  {
+    "search_name": "Sellpy - Bondelid (favorit)",
+    "title": "Bondelid, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qUC8J4tsPE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/qUC8J4tsPE-fffe-0.jpg",
+    "found_at": "2026-09-07T07:55:35Z"
+  },
+  {
+    "search_name": "Sellpy - Adidas Originals",
+    "title": "Adidas Originals, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/H8Zk3CVbj6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/H8Zk3CVbj6-a3a0-0.jpg",
+    "found_at": "2026-09-07T07:56:19Z"
+  },
+  {
+    "search_name": "Sellpy - Jack & Jones",
+    "title": "Jack & Jones, Collegetröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BE3yi9gPNQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/BE3yi9gPNQ-762d-0.jpg",
+    "found_at": "2026-09-07T07:57:54Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "H&M, Flanellskjorta, Strl: M/L",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ebPkwL9S9v",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/ebPkwL9S9v-3ca8-0.jpg",
+    "found_at": "2026-09-07T08:04:44Z"
+  },
+  {
+    "search_name": "Sellpy - Sjalkrage kofta (stil)",
+    "title": "Ragwear, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Ragwear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DEyO6zaSHX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-10-l-3/DEyO6zaSHX-3376-0.jpg",
+    "found_at": "2026-09-07T08:04:52Z"
+  },
+  {
     "search_name": "Sellpy - Boomerang",
     "title": "Boomerang, Pullover, Strl: M",
     "price": 75,
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/DqdOGhQAUT",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/DqdOGhQAUT-ca71-0.jpg",
     "found_at": "2026-09-07T05:14:16Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vwsGC84zD7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/vwsGC84zD7-10c4-0.jpg",
-    "found_at": "2026-09-07T04:59:58Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme Identity, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Selected Homme Identity",
-    "size": "",
-    "url": "https://www.sellpy.se/item/E9FyxdPaLH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/E9FyxdPaLH-b4e4-0.jpg",
-    "found_at": "2026-09-07T04:59:59Z"
-  },
-  {
-    "search_name": "Sellpy - Bondelid (favorit)",
-    "title": "Bondelid, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kOAC6HMAMu",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/kOAC6HMAMu-d6a2-0.jpg",
-    "found_at": "2026-09-07T04:43:57Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Bomberka bawełniana L XL",
-    "price": "73.05",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "XL",
-    "url": "https://www.vinted.se/items/9816227881-bomberka-bawelniana-l-xl",
-    "image_url": "https://images1.vinted.net/t/01_025c6_rTADcoMttWpYarWu7fujNATQ/f800/1788005129.jpeg?s=177b417715c9c60fadfc6df990f3f93c375f269c",
-    "found_at": "2026-09-07T04:27:28Z"
-  },
-  {
-    "search_name": "Sellpy - J.Lindeberg",
-    "title": "J.Lindeberg, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RuBFI7gDxR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/RuBFI7gDxR-5442-0.jpg",
-    "found_at": "2026-09-07T03:13:06Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Lager 157, Flanellskjorta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Lager 157",
-    "size": "",
-    "url": "https://www.sellpy.se/item/SU3sL9ARCZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/SU3sL9ARCZ-3a38-0.jpg",
-    "found_at": "2026-09-07T03:02:40Z"
   }
 ]
