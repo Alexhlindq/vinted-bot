@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RuBFI7gDxR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/RuBFI7gDxR-5442-0.jpg",
+    "found_at": "2026-09-07T03:13:06Z"
+  },
+  {
     "search_name": "Sellpy - Flanellskjorta (stil)",
     "title": "Lager 157, Flanellskjorta, Strl: M",
     "price": 29,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9909480579-polo-ralph-lauren-paita",
     "image_url": "https://images1.vinted.net/t/06_019a9_YzRv4dTksuvWYQy3yY2nSdgh/f800/1788704482.jpeg?s=49dcd27ed506b11037ab387aa2c22f3068e3ce3a",
     "found_at": "2026-09-06T21:31:29Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Kofta från Polo Ralph Lauren",
-    "price": "125.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9909220351-kofta-fran-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_01436_tKefoWxvP8yjpU6kjtsT3zeD/f800/1788703617.jpeg?s=5b096e59ba4e18b29f2c39321ede12ad6a7f247f",
-    "found_at": "2026-09-06T21:31:30Z"
   }
 ]
