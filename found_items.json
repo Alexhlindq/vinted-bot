@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza",
+    "price": "99.14",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9887627537-bluza",
+    "image_url": "https://images1.vinted.net/t/02_0147c_u4wFFjbspQXgGbtJLcBcvbCH/f800/1788539468.jpeg?s=7943fe5e3f2f2879e6a539f32f62f5b3eaf0674a",
+    "found_at": "2026-09-07T05:40:59Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza",
+    "price": "39.13",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9916896372-bluza",
+    "image_url": "https://images1.vinted.net/t/02_0058a_DVidhFCP81poPxHPNgDVAEai/f800/1788758873.jpeg?s=61a282f5dbada6041c5a837510b2382da68be556",
+    "found_at": "2026-09-07T05:41:03Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch",
+    "title": "Abercrombie & Fitch, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GiElEyHJpZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/GiElEyHJpZ-be28-0.jpg",
+    "found_at": "2026-09-07T05:42:15Z"
+  },
+  {
+    "search_name": "Sellpy - Adidas Originals",
+    "title": "Adidas Originals, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WcbkroElR3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WcbkroElR3-b062-0.jpg",
+    "found_at": "2026-09-07T05:42:19Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eA4gHAG1cH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/eA4gHAG1cH-68f3-0.jpg",
+    "found_at": "2026-09-07T05:45:16Z"
+  },
+  {
     "search_name": "Sellpy - Massimo Dutti",
     "title": "Massimo Dutti, Tröja, Strl: M",
     "price": 45,
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/HYvwHqKUgN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/HYvwHqKUgN-5b46-0.jpg",
     "found_at": "2026-09-06T23:54:18Z"
-  },
-  {
-    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
-    "title": "Levi Strauss & Co, Jeansskjorta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hdGDg84mmW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EKOC2WfBA-460f-0.jpg",
-    "found_at": "2026-09-06T23:54:30Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Timberland, Flanellskjorta, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Timberland",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uuGYsaFd36",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/uuGYsaFd36-8be7-0.jpg",
-    "found_at": "2026-09-06T23:56:36Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Blåkläder Workwear, Flanellskjorta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Blåkläder Workwear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UrWbSrQwEH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/UrWbSrQwEH-d3f4-0.jpg",
-    "found_at": "2026-09-06T23:56:37Z"
-  },
-  {
-    "search_name": "Sellpy - Grovstickad (stil)",
-    "title": "Lyle & Scott, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9yN7tLQPJ2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/9yN7tLQPJ2-8d03-0.jpg",
-    "found_at": "2026-09-06T23:56:42Z"
-  },
-  {
-    "search_name": "Sellpy - Rutig skjorta (stil)",
-    "title": "Marks & Spencer, Kortärmad skjorta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Marks & Spencer",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dY9HZcEsHa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/dY9HZcEsHa-22fe-0.jpg",
-    "found_at": "2026-09-06T23:56:50Z"
   }
 ]
