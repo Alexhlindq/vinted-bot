@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jack & Jones",
+    "title": "Jack & Jones, Huvtröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/8S0QVyTQ4A",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/8S0QVyTQ4A-792d-0.jpg",
+    "found_at": "2026-09-07T11:30:34Z"
+  },
+  {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Collegetröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sVjWtvU3WZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/sVjWtvU3WZ-b521-0.jpg",
+    "found_at": "2026-09-07T11:31:47Z"
+  },
+  {
+    "search_name": "Sellpy - Rutig skjorta (stil)",
+    "title": "Lee, Skjorta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Lee",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9k16YsoC5y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/9k16YsoC5y-7bf4-0.jpg",
+    "found_at": "2026-09-07T11:37:35Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Vihreä huppari",
     "price": "45.02",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9917386270-sweter-pomaranczowy-koralowy-massimo-dutti-meski",
     "image_url": "https://images1.vinted.net/t/04_01503_tDrkSHo8DwwES6uE44PPEFcF/f800/1788766911.jpeg?s=f46260c01a506f67f721b9def5585e2c9d4a7ad5",
     "found_at": "2026-09-07T07:54:55Z"
-  },
-  {
-    "search_name": "Sellpy - Bondelid (favorit)",
-    "title": "Bondelid, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qUC8J4tsPE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/qUC8J4tsPE-fffe-0.jpg",
-    "found_at": "2026-09-07T07:55:35Z"
-  },
-  {
-    "search_name": "Sellpy - Adidas Originals",
-    "title": "Adidas Originals, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/H8Zk3CVbj6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/H8Zk3CVbj6-a3a0-0.jpg",
-    "found_at": "2026-09-07T07:56:19Z"
-  },
-  {
-    "search_name": "Sellpy - Jack & Jones",
-    "title": "Jack & Jones, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BE3yi9gPNQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/BE3yi9gPNQ-762d-0.jpg",
-    "found_at": "2026-09-07T07:57:54Z"
   }
 ]
