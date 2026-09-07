@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Uniqlo (Skjortor)",
+    "title": "Uniqlo, Buttondown-skjorta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BV8wcNIyQa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/BV8wcNIyQa-3042-0.jpg",
+    "found_at": "2026-09-07T16:03:00Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad kofta (stil)",
+    "title": "Calvin Klein Jeans, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Calvin Klein Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G0FqkfBWPs",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/G0FqkfBWPs-2f9e-0.jpg",
+    "found_at": "2026-09-07T16:03:16Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren granatowa bluza męska  henley 3 guziki bawełniana Pony oldmoney klasyka",
     "price": "117.4",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/NYwR9WqKev",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/NYwR9WqKev-bade-0.jpg",
     "found_at": "2026-09-07T13:37:13Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Hansen, Flanellskjorta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dpYbYs8Tea",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/dpYbYs8Tea-3a7a-0.jpg",
-    "found_at": "2026-09-07T13:40:45Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren langærmet!",
-    "price": "73.78",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9920614225-ralph-lauren-langaermet",
-    "image_url": "https://images1.vinted.net/t/06_0070f_wLQh7NQxDXS6QDdPWSCMGKUj/f800/1788786556.jpeg?s=8f36f51cad6559948555094495e737ca945be1e7",
-    "found_at": "2026-09-07T13:12:53Z"
   }
 ]
