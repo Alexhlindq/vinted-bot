@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter L Massimo Dutti",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9920419466-sweter-l-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/02_00aff_PoGFnZVksaBFeiDQmAYbVFUh/f800/1788785587.jpeg?s=8c4f1481de328b477597a3abb187cf2a4de80a6e",
+    "found_at": "2026-09-07T12:56:23Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s jeans",
+    "price": "45.17",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9920391972-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/06_00e54_o6oXVhQ2tTwJxgrRX1LZvz5q/f800/1788785424.jpeg?s=71814a6c31305f9dd6eeec406af37cfb5383bbac",
+    "found_at": "2026-09-07T12:56:25Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza holister",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9888101584-bluza-holister",
+    "image_url": "https://images1.vinted.net/t/02_02453_GHeLNkvpSgJMCDpbYLTrTxDJ/f800/1788541942.jpeg?s=0ac0a81d836fa11fbc894c3085c432ff74edb5d7",
+    "found_at": "2026-09-07T12:56:26Z"
+  },
+  {
+    "search_name": "Sellpy - Hollister",
+    "title": "Hollister, Huvtröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FjuxKcCEdv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/FjuxKcCEdv-c7a7-0.jpg",
+    "found_at": "2026-09-07T12:58:53Z"
+  },
+  {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CwhKzMOXLC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/CwhKzMOXLC-f905-0.jpg",
+    "found_at": "2026-09-07T13:00:11Z"
+  },
+  {
+    "search_name": "Sellpy - A Days March (Skjortor)",
+    "title": "A Day's March, Buttondown-skjorta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OmF5yhHZpv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-3/OmF5yhHZpv-4fc0-0.jpg",
+    "found_at": "2026-09-07T13:02:12Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Spodnie męskie Levi",
     "price": "65.22",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9876473091-jack-jones-distressed-skinny-jeans",
     "image_url": "https://images1.vinted.net/t/04_01433_G4KjABeqASiKF47uR1SKz7oE/f800/1788447541.jpeg?s=e576585a64213abbd5537ffe1f9c3d3c226701b7",
     "found_at": "2026-09-07T09:10:14Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Szara Bluza Hollister M Z Kapturem 1/4 Zip Melanż Męska Kangurka",
-    "price": "46.93",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9895475114-szara-bluza-hollister-m-z-kapturem-14-zip-melanz-meska-kangurka",
-    "image_url": "https://images1.vinted.net/t/02_00b2a_V3dZN2aNK8ETHAG3VEDwerVp/f800/1788611973.jpeg?s=a82503d52057501f726d491b2d5796d779a7a771",
-    "found_at": "2026-09-07T09:10:16Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "T-shirt acne studios czarny koszulka face patch oversize wyjazd malta [m]",
-    "price": "174.8",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9918014139-t-shirt-acne-studios-czarny-koszulka-face-patch-oversize-wyjazd-malta-m",
-    "image_url": "https://images1.vinted.net/t/02_01c94_pL8uE8Arj8xsWkZ2YzEi5tiB/f800/1788771693.jpeg?s=3aa60b9b9fdd2a0051ec8118093ae28020e7823e",
-    "found_at": "2026-09-07T09:10:18Z"
-  },
-  {
-    "search_name": "Sellpy - Dobber",
-    "title": "Dobber, Collegetröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5BBhIoaUkX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/5BBhIoaUkX-8d4b-0.jpg",
-    "found_at": "2026-09-07T09:12:17Z"
-  },
-  {
-    "search_name": "Sellpy - J.Lindeberg",
-    "title": "J.Lindeberg, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/r4k8dbL6Mr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/r4k8dbL6Mr-e698-0.jpg",
-    "found_at": "2026-09-07T09:12:51Z"
-  },
-  {
-    "search_name": "Sellpy - Kani",
-    "title": "Karl Kani, Huvtröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oWchGFbNuq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/oWchGFbNuq-2407-0.jpg",
-    "found_at": "2026-09-07T09:13:01Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies) (Skjortor)",
-    "title": "Superdry, Flanellskjorta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Bj0QOhWNCR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/Bj0QOhWNCR-8159-0.jpg",
-    "found_at": "2026-09-07T09:19:45Z"
   }
 ]
