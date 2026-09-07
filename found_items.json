@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 15",
+    "title": "Converse x come des Garson",
+    "price": "225.87",
+    "currency": "SEK",
+    "brand": "Comme des Garçons",
+    "size": "42,5",
+    "url": "https://www.vinted.se/items/6219639219-converse-x-come-des-garson",
+    "image_url": "https://images1.vinted.net/t/04_0134c_dyedcbbY5ErAsRoK6xAQossN/f800/1745702824.jpeg?s=6b7c316b8901edab8acd7bcad7803270c7c3f264",
+    "found_at": "2026-09-07T10:09:58Z"
+  },
+  {
+    "search_name": "Sellpy - FSBN",
+    "title": "FSBN, Tröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "FSBN",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WA2eeyqwBq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-l-5/WA2eeyqwBq-4c8e-0.jpg",
+    "found_at": "2026-09-07T10:12:03Z"
+  },
+  {
+    "search_name": "Sellpy - Massimo Dutti",
+    "title": "Massimo Dutti, Tröja, Strl: S/M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EEfJVborJz",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/WL8v2A7hot-95bc-0.jpg",
+    "found_at": "2026-09-07T10:13:20Z"
+  },
+  {
+    "search_name": "Sellpy - Uniqlo (Skjortor)",
+    "title": "Uniqlo, Kortärmad skjorta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pEESGBQsO2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/pEESGBQsO2-7c0a-0.jpg",
+    "found_at": "2026-09-07T10:18:47Z"
+  },
+  {
+    "search_name": "Sellpy - NN.07",
+    "title": "NN07, Huvtröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "NN07",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jVNb90cI0n",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/jVNb90cI0n-0895-0.jpg",
+    "found_at": "2026-09-07T10:18:56Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter Polo Ralph Lauren",
     "price": "104.36",
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/oUCOYt0QOs",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/oUCOYt0QOs-6509-0.jpg",
     "found_at": "2026-09-07T07:51:12Z"
-  },
-  {
-    "search_name": "Sellpy - Rutig skjorta (stil)",
-    "title": "Steve Menswear, Kortärmad skjorta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Steve Menswear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/L0aGHrl3pw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/L0aGHrl3pw-8f84-0.jpg",
-    "found_at": "2026-09-07T07:51:20Z"
-  },
-  {
-    "search_name": "Sellpy - Massimo Dutti",
-    "title": "Massimo Dutti, Rugbytröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HG5clUcoco",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/HG5clUcoco-8053-0.jpg",
-    "found_at": "2026-09-07T07:19:30Z"
-  },
-  {
-    "search_name": "Sellpy - Massimo Dutti",
-    "title": "Massimo Dutti, Rugbytröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HQKeyb2dTs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/HQKeyb2dTs-e5dd-0.jpg",
-    "found_at": "2026-09-07T07:19:31Z"
-  },
-  {
-    "search_name": "Sellpy - Massimo Dutti",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/I4vQQRiqPu",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-l-1/I4vQQRiqPu-6f92-0.jpg",
-    "found_at": "2026-09-07T07:19:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (Matinique) (Skjortor)",
-    "title": "Matinique, Skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Matinique",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MHok3Q5zN2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/zCWRKRN2jT-0e37-0.jpg",
-    "found_at": "2026-09-07T07:21:12Z"
   }
 ]
