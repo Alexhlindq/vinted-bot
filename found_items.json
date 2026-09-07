@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Bondelid (favorit) (Skjortor)",
+    "title": "Bondelid, Kortärmad skjorta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Z2WfLLprUs",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/Z2WfLLprUs-7e59-0.jpg",
+    "found_at": "2026-09-07T18:52:31Z"
+  },
+  {
+    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
+    "title": "Abercrombie & Fitch, Skjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/klZKD6X3nO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/klZKD6X3nO-7857-0.jpg",
+    "found_at": "2026-09-07T18:53:10Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "Paul Smith Jeans, Flanellskjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Paul Smith Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NbOZnQnwKu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-6/NbOZnQnwKu-cb2f-0.jpg",
+    "found_at": "2026-09-07T18:56:45Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Morris Sweatshirt",
     "price": "70.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9922514761-meski-sweterekblezer-massimo-dutti-rozmiar-m",
     "image_url": "https://images1.vinted.net/t/02_011cc_dqSAE9GeT7X8pw71d4d9d8f5/f800/1788795541.jpeg?s=03ee2c1b81cfb6d32c0f6f0a1d135a8a13a24667",
     "found_at": "2026-09-07T15:42:07Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie Levis",
-    "price": "52.18",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9922490042-spodnie-levis",
-    "image_url": "https://images1.vinted.net/t/06_00e52_TaB7MQcc8D596Y9f1wYjfggP/f800/1788795433.jpeg?s=73195ec0e6aee51dbe621ceb96ceeca25621a9cb",
-    "found_at": "2026-09-07T15:42:09Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans",
-    "price": "67.76",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9922301101-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/05_022f1_SdFRP4VqW5L6jDQVi9DtH8Co/f800/1788794599.jpeg?s=1158213a7e72772bf5b4719bca83e7312a71a1c9",
-    "found_at": "2026-09-07T15:42:10Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Morris stickad tröja",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9922531303-morris-stickad-troja",
-    "image_url": "https://images1.vinted.net/t/05_025d5_o7zHfJH1JJG7SrS3YT1b9Q4Y/f800/1788795614.jpeg?s=cbc9ef96cc4288fbf6326cab85bb2abc6fc965b9",
-    "found_at": "2026-09-07T15:42:11Z"
   }
 ]
