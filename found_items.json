@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Herr jeans från Diesel",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9918932788-herr-jeans-fran-diesel",
+    "image_url": "https://images1.vinted.net/t/02_00a14_brKgngWGR9JyWi34Gj11zUR7/f800/1788777249.jpeg?s=43a0931b5cfe3f8874f46b05996f9efcf9244667",
+    "found_at": "2026-09-07T10:42:04Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Unisex sweater with motive",
+    "price": "30.0",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9918974886-unisex-sweater-with-motive",
+    "image_url": "https://images1.vinted.net/t/02_006b2_rjQoPAJPsSmAvcGHmEpugW5D/f800/1788777501.jpeg?s=61f4c864a8521c3b35936d72784b0ccf261f17aa",
+    "found_at": "2026-09-07T10:42:06Z"
+  },
+  {
+    "search_name": "Sellpy - Hollister",
+    "title": "Hollister, Huvtröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QCBRXsAUW9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/QCBRXsAUW9-d9bd-0.jpg",
+    "found_at": "2026-09-07T10:44:33Z"
+  },
+  {
+    "search_name": "Sellpy - Uniqlo",
+    "title": "Uniqlo, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PMOgTKq5Py",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/PMOgTKq5Py-cddf-0.jpg",
+    "found_at": "2026-09-07T10:46:33Z"
+  },
+  {
     "search_name": "Sellpy - Adidas Originals",
     "title": "Adidas Originals, Huvtröja, Strl: S",
     "price": 50,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/WByfHrHyg4",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/WByfHrHyg4-457b-0.jpg",
     "found_at": "2026-09-07T07:45:54Z"
-  },
-  {
-    "search_name": "Sellpy - Samsøe & Samsøe (favorit) (Skjortor)",
-    "title": "Samsøe & Samsøe, Flanellskjorta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uF4IwYawil",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/uF4IwYawil-2f8b-0.jpg",
-    "found_at": "2026-09-07T07:46:36Z"
-  },
-  {
-    "search_name": "Sellpy - Bondelid (favorit) (Skjortor)",
-    "title": "Bondelid, Skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mRlIVE4Swy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/mRlIVE4Swy-51ea-0.jpg",
-    "found_at": "2026-09-07T07:46:41Z"
-  },
-  {
-    "search_name": "Sellpy - Boomerang (Skjortor)",
-    "title": "Boomerang, Skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kSIJcTAS1B",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/kSIJcTAS1B-8e34-0.jpg",
-    "found_at": "2026-09-07T07:47:48Z"
-  },
-  {
-    "search_name": "Sellpy - Hollister (Skjortor)",
-    "title": "Hollister, Buttondown-skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eZp4HH07mi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/eZp4HH07mi-8507-0.jpg",
-    "found_at": "2026-09-07T07:48:38Z"
   }
 ]
