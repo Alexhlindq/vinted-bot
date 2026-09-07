@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - ESPRIT",
+    "title": "EDC by ESPRIT, Jultröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "EDC by ESPRIT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/aZzzMOwRud",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/aZzzMOwRud-9d6c-0.jpg",
+    "found_at": "2026-09-07T17:53:52Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Tröja - Nudie",
     "price": "75.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/KYwozigDj5",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/KYwozigDj5-d54d-0.jpg",
     "found_at": "2026-09-07T15:26:12Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Tjocktröja Massimo dutti",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921780124-tjocktroja-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/02_021d9_nF5M81VkgvXDJnBHoxkqLq4Q/f800/1788792220.jpeg?s=162103d1810190e99fe9050a7d9b2a992f16a249",
-    "found_at": "2026-09-07T14:55:42Z"
   }
 ]
