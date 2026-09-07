@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tommy Hilfiger",
+    "title": "Tommy Hilfiger, Tröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mLhTDJKdUR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/mLhTDJKdUR-7aa8-0.jpg",
+    "found_at": "2026-09-07T11:59:24Z"
+  },
+  {
+    "search_name": "Sellpy - Jack & Jones (Skjortor)",
+    "title": "Premium by Jack & Jones, Kortärmad skjorta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Premium by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EZwbGbp9qV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/EZwbGbp9qV-2de0-0.jpg",
+    "found_at": "2026-09-07T12:02:05Z"
+  },
+  {
+    "search_name": "Sellpy - Rutig skjorta (stil)",
+    "title": "Lacoste, Kortärmad skjorta, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Lacoste",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ye1EXDVydv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/Ye1EXDVydv-fbbe-0.jpg",
+    "found_at": "2026-09-07T12:04:32Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza Ralph Lauren",
     "price": "96.53",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/UmhrQvdZbC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/UmhrQvdZbC-30ff-0.jpg",
     "found_at": "2026-09-07T08:37:38Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Dressmann, Flanellskjorta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Dressmann",
-    "size": "",
-    "url": "https://www.sellpy.se/item/M16l4RMLAf",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/M16l4RMLAf-c4d2-0.jpg",
-    "found_at": "2026-09-07T08:39:45Z"
-  },
-  {
-    "search_name": "Sellpy - Bondelid (favorit)",
-    "title": "Bondelid, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yEK8xFkOqK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/yEK8xFkOqK-a64e-0.jpg",
-    "found_at": "2026-09-07T08:11:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jack & Jones",
-    "title": "Jack & Jones, Polotröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UA53WQ5q8H",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/UA53WQ5q8H-cf6e-0.jpg",
-    "found_at": "2026-09-07T08:14:09Z"
   }
 ]
