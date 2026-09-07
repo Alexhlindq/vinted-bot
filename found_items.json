@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Ciemny jeans ",
+    "price": "70.44",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/2531940753-ciemny-jeans",
+    "image_url": "https://images1.vinted.net/t/03_01e4e_DNF4WnLu9ASDNo1pP72QA8RU/f800/1671889878.jpeg?s=07d35d674a4b181ca118cbb02cf0264a70d3d618",
+    "found_at": "2026-09-07T19:24:47Z"
+  },
+  {
+    "search_name": "Vinted bot 4",
+    "title": "Nudie jeans",
+    "price": "78.27",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/1947397368-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/03_02436_qs75i6KXLARMpTv9mBQXTRRS/f800/1620562477.jpeg?s=6285244d108b1f962c91db4f82348cff88aa1c33",
+    "found_at": "2026-09-07T19:24:48Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis bukser 514 model str W32 L30",
+    "price": "60.23",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9925382073-levis-bukser-514-model-str-w32-l30",
+    "image_url": "https://images1.vinted.net/t/03_02134_ZAFMV54ReLhGWBJaWfsQ3mAW/f800/1788808374.jpeg?s=0ca820e56c0dfd5b9d87bd04328211111be4f4e3",
+    "found_at": "2026-09-07T19:24:51Z"
+  },
+  {
+    "search_name": "Sellpy - Bondelid (favorit)",
+    "title": "Bondelid, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9hnFS63TyP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/9hnFS63TyP-cc88-0.jpg",
+    "found_at": "2026-09-07T19:25:27Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Pullover, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/0WXSB3fhdu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/0WXSB3fhdu-7e7a-0.jpg",
+    "found_at": "2026-09-07T19:27:23Z"
+  },
+  {
+    "search_name": "Sellpy - Massimo Dutti",
+    "title": "Massimo Dutti, Pullover, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2xWZEQZzuT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/2xWZEQZzuT-1349-0.jpg",
+    "found_at": "2026-09-07T19:28:20Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sort quarter zip",
     "price": "90.35",
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/oCmw8petMp",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/oCmw8petMp-7804-0.jpg",
     "found_at": "2026-09-07T17:00:48Z"
-  },
-  {
-    "search_name": "Sellpy - Grovstickad (stil)",
-    "title": "Bogner, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bogner",
-    "size": "",
-    "url": "https://www.sellpy.se/item/m70tsUyrIJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/m70tsUyrIJ-7be7-0.jpg",
-    "found_at": "2026-09-07T17:03:31Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bondelid stickad tröja",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9923265255-bondelid-stickad-troja",
-    "image_url": "https://images1.vinted.net/t/06_01ce3_d2Bpgfy1mqdaX4SZwseSUPdT/f800/1788798771.jpeg?s=303cd1736bec79c19618c5a14df5893727477a0b",
-    "found_at": "2026-09-07T16:42:04Z"
-  },
-  {
-    "search_name": "Sellpy - FSBN (Skjortor)",
-    "title": "FSBN, Kortärmad skjorta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "FSBN",
-    "size": "",
-    "url": "https://www.sellpy.se/item/whhCNAcsoX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/whhCNAcsoX-39b8-0.jpg",
-    "found_at": "2026-09-07T16:48:46Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Polo ralph",
-    "price": "104.36",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9923126811-bluza-polo-ralph",
-    "image_url": "https://images1.vinted.net/t/06_00942_fB6Cy2A4crF6qLSPbMuRzUWG/f800/1788798180.jpeg?s=8e8bc9568c5120165842424b3e9ef0dea143387a",
-    "found_at": "2026-09-07T16:27:02Z"
-  },
-  {
-    "search_name": "Sellpy - Overshirts",
-    "title": "Premium by Jack & Jones, Överskjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Premium by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/J7pKnKXb8d",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/J7pKnKXb8d-c81f-0.jpg",
-    "found_at": "2026-09-07T16:31:57Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (Matinique) (Skjortor)",
-    "title": "Matinique, Skjorta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Matinique",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2hD7WQ4QkM",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/2hD7WQ4QkM-3b62-0.jpg",
-    "found_at": "2026-09-07T16:32:03Z"
   }
 ]
