@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Sellpy - Bondelid (favorit)",
+    "title": "Bondelid, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yEK8xFkOqK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/yEK8xFkOqK-a64e-0.jpg",
+    "found_at": "2026-09-07T08:11:45Z"
+  },
+  {
+    "search_name": "Sellpy - Jack & Jones",
+    "title": "Jack & Jones, Polotröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/UA53WQ5q8H",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/UA53WQ5q8H-cf6e-0.jpg",
+    "found_at": "2026-09-07T08:14:09Z"
+  },
+  {
+    "search_name": "Sellpy - Superdry (hoodies)",
+    "title": "Superdry, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "https://www.sellpy.se/item/0mIZB0Tn9B",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-3/0mIZB0Tn9B-20b4-0.jpg",
+    "found_at": "2026-09-07T08:16:28Z"
+  },
+  {
+    "search_name": "Sellpy - Superdry (hoodies)",
+    "title": "Superdry, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G7iU3NzTOC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/z8xIsPdZwr-2e60-0.jpg",
+    "found_at": "2026-09-07T08:16:29Z"
+  },
+  {
+    "search_name": "Sellpy - Dockers (Skjortor)",
+    "title": "Dockers, Kortärmad skjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Dockers",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RUmBrM0C7S",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/RUmBrM0C7S-19a3-0.jpg",
+    "found_at": "2026-09-07T08:18:11Z"
+  },
+  {
+    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
+    "title": "Levi Strauss & Co, Flanellskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/0jZE13Kta0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/0jZE13Kta0-5c41-0.jpg",
+    "found_at": "2026-09-07T08:18:55Z"
+  },
+  {
+    "search_name": "Sellpy - Superdry (hoodies) (Skjortor)",
+    "title": "Superdry, Buttondown-skjorta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QE82ZaSojn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/QE82ZaSojn-c00e-0.jpg",
+    "found_at": "2026-09-07T08:20:43Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Sweter pomarańczowy/ koralowy Massimo Dutti męski",
     "price": "52.18",
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/ekW9RQX6aY",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/ekW9RQX6aY-9a02-0.jpg",
     "found_at": "2026-09-07T06:03:35Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza",
-    "price": "99.14",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9887627537-bluza",
-    "image_url": "https://images1.vinted.net/t/02_0147c_u4wFFjbspQXgGbtJLcBcvbCH/f800/1788539468.jpeg?s=7943fe5e3f2f2879e6a539f32f62f5b3eaf0674a",
-    "found_at": "2026-09-07T05:40:59Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza",
-    "price": "39.13",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9916896372-bluza",
-    "image_url": "https://images1.vinted.net/t/02_0058a_DVidhFCP81poPxHPNgDVAEai/f800/1788758873.jpeg?s=61a282f5dbada6041c5a837510b2382da68be556",
-    "found_at": "2026-09-07T05:41:03Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch",
-    "title": "Abercrombie & Fitch, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GiElEyHJpZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/GiElEyHJpZ-be28-0.jpg",
-    "found_at": "2026-09-07T05:42:15Z"
-  },
-  {
-    "search_name": "Sellpy - Adidas Originals",
-    "title": "Adidas Originals, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WcbkroElR3",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WcbkroElR3-b062-0.jpg",
-    "found_at": "2026-09-07T05:42:19Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eA4gHAG1cH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/eA4gHAG1cH-68f3-0.jpg",
-    "found_at": "2026-09-07T05:45:16Z"
-  },
-  {
-    "search_name": "Sellpy - Massimo Dutti",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fCeDEmrYHj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/fCeDEmrYHj-757a-0.jpg",
-    "found_at": "2026-09-07T05:13:18Z"
-  },
-  {
-    "search_name": "Sellpy - These Glory Days",
-    "title": "These Glory Days, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DqdOGhQAUT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/DqdOGhQAUT-ca71-0.jpg",
-    "found_at": "2026-09-07T05:14:16Z"
   }
 ]
