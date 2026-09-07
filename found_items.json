@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Diesel jeans 30/34",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9926808400-diesel-jeans-3034",
+    "image_url": "https://images1.vinted.net/t/04_0114a_UNQdHk9n8qHBWoyWjhgL8NH2/f800/1788817767.jpeg?s=e32b658b00b9e17cd27f1b8710a3075f20431451",
+    "found_at": "2026-09-07T21:51:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "John Devin, Skepparkavaj, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "John Devin",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Z0bb5t5Yjd",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/5mIde9E64c-6f47-0.jpg",
+    "found_at": "2026-09-07T21:52:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Adidas, Anorak, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Adidas",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/UeqGaI818D-101e-0.jpg",
+    "found_at": "2026-09-07T21:52:27Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Paul & Friends, Rugbytröja, Strl: S",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/wmZPs2khHf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/tVsBrnFWZx-c348-0.jpg",
     "found_at": "2026-09-07T20:27:48Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tenson, Anorak, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tenson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/B0aqkE0Mmf",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-10/wmZPs2khHf-65ca-0.jpg",
-    "found_at": "2026-09-07T20:27:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "These Glory Days, Parkas, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1OmRF3DKcL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/B0aqkE0Mmf-375d-0.jpg",
-    "found_at": "2026-09-07T20:27:50Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Pier One, Trenchcoat, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Pier One",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NInxw4VLmT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/1OmRF3DKcL-b73f-0.jpg",
-    "found_at": "2026-09-07T20:27:51Z"
   }
 ]
