@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2mjKifgfSV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/2mjKifgfSV-870a-0.jpg",
+    "found_at": "2026-09-07T01:57:50Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad hoodie (stil)",
+    "title": "L.O.G.G by H&M, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LwAhGVGsE8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/LwAhGVGsE8-bc90-0.jpg",
+    "found_at": "2026-09-07T02:02:58Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad hoodie (stil)",
+    "title": "Rexton, Huvtröja, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Rexton",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hPbGNcxfXD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/hPbGNcxfXD-054a-0.jpg",
+    "found_at": "2026-09-07T02:02:59Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad hoodie (stil)",
+    "title": "Bread & Boxers, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Bread & Boxers",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sL7FARBJBB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/sL7FARBJBB-b5e8-0.jpg",
+    "found_at": "2026-09-07T02:02:59Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad hoodie (stil)",
+    "title": "L.O.G.G by H&M, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/X32Ru5UlpW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/X32Ru5UlpW-06ab-0.jpg",
+    "found_at": "2026-09-07T02:03:00Z"
+  },
+  {
     "search_name": "Sellpy - J.Lindeberg",
     "title": "J.Lindeberg, Pullover, Strl: M",
     "price": 35,
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9908852160-bluza-lauren",
     "image_url": "https://images1.vinted.net/t/06_021c8_iZhsW6qciP45DdKY4Ekjw5sX/f800/1788702384.jpeg?s=d9710776b184adee66fe24037d751a4d5dc7adc2",
     "found_at": "2026-09-06T21:31:31Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Ralph Lauren",
-    "price": "78.23",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9908334795-bluza-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/01_020d9_TYErf5YyWE96jFHZgf4ntqmf/f800/1788700597.jpeg?s=b7b9326ee055bd33fc93565a5ba42d81816dd689",
-    "found_at": "2026-09-06T21:31:32Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "V-ringad tröja PRL",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9906654799-v-ringad-troja-prl",
-    "image_url": "https://images1.vinted.net/t/06_0116b_bHNcQDHYhQyCE1nYHSfkVr34/f800/1788694354.jpeg?s=94968a0378cc97f48555590ce35c18a5786e028f",
-    "found_at": "2026-09-06T21:31:34Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza polo ralph lauren",
-    "price": "75.62",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9905304202-bluza-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_00151_SNmP5xTuwEhNYqTjE1iyk7dH/f800/1788689000.jpeg?s=29f10e93d5b7b9d1e6d498ac0040a914c6777662",
-    "found_at": "2026-09-06T21:31:36Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweter Polo Ralph Lauren",
-    "price": "96.48",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9904391328-sweter-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_025a6_awPspKpZ1B7sXP5YrW46wZiP/f800/1788685142.jpeg?s=e7793f8dd7447a1059b04792210017c9341e2984",
-    "found_at": "2026-09-06T21:31:38Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralp Lauren polo sweter męski prima cotton bawełna M top premium must-have classic",
-    "price": "99.09",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9903197358-ralp-lauren-polo-sweter-meski-prima-cotton-bawelna-m-top-premium-must-have-classic",
-    "image_url": "https://images1.vinted.net/t/03_0202f_PzSXEGVEyWRSJj4eoArCZ7xW/f800/1788676710.jpeg?s=571c07eb4be0bcbc4941c4d1b2a1c3ba0cd8e1f2",
-    "found_at": "2026-09-06T21:31:39Z"
   }
 ]
