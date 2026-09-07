@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Paul & Friends, Rugbytröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Paul & Friends",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/TNnuOHfN3j-3c84-0.jpg",
+    "found_at": "2026-09-07T21:40:39Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Cat, Fleecetröja, Strl: S/M",
     "price": 35,
     "currency": "SEK",
@@ -646,17 +657,6 @@
     "size": "",
     "url": "https://www.sellpy.se/item/NInxw4VLmT",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/1OmRF3DKcL-b73f-0.jpg",
-    "found_at": "2026-09-07T20:27:51Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Allvädersjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qGz8nrLutE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/NInxw4VLmT-06d2-0.jpg",
     "found_at": "2026-09-07T20:27:51Z"
   }
 ]
