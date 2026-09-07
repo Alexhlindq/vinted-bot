@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza męska Dsquared2",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Dsquared2",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9923879613-bluza-meska-dsquared2",
+    "image_url": "https://images1.vinted.net/t/05_00310_cfhq2ZJiEFTWEC2BEo2wRQiH/f800/1788801419.jpeg?s=32c87a13506dd46f0f82bbf0f48dd2fa894dab37",
+    "found_at": "2026-09-07T17:25:40Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Gucci Tofflor",
+    "price": "229.0",
+    "currency": "SEK",
+    "brand": "Gucci",
+    "size": "42",
+    "url": "https://www.vinted.se/items/9899101238-gucci-tofflor",
+    "image_url": "https://images1.vinted.net/t/06_009ed_Wcx5ohD5wrTSPVJNy3H3wWra/f800/1788627232.jpeg?s=0f681e14c7123a5f066580a91525f71c74daa511",
+    "found_at": "2026-09-07T17:25:42Z"
+  },
+  {
+    "search_name": "Sellpy - Tommy Hilfiger",
+    "title": "Tommy Hilfiger Jeans, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/brurF6YOpg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/brurF6YOpg-09b0-0.jpg",
+    "found_at": "2026-09-07T17:30:11Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "Studio Total, Överskjorta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Studio Total",
+    "size": "",
+    "url": "https://www.sellpy.se/item/dPMgO5M9tF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/dPMgO5M9tF-03f7-0.jpg",
+    "found_at": "2026-09-07T17:30:41Z"
+  },
+  {
+    "search_name": "Sellpy - Lexington (Skjortor)",
+    "title": "Lexington, Buttondown-skjorta, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Lexington",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WUF6A4Y8Th",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/WUF6A4Y8Th-bea8-0.jpg",
+    "found_at": "2026-09-07T17:33:11Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days (Skjortor)",
+    "title": "These Glory Days, Kortärmad skjorta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WfXFkaAzcO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/WfXFkaAzcO-fab9-0.jpg",
+    "found_at": "2026-09-07T17:34:52Z"
+  },
+  {
+    "search_name": "Sellpy - NN.07",
+    "title": "NN07, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "NN07",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eHW7EjeuZ4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/eHW7EjeuZ4-ad4c-0.jpg",
+    "found_at": "2026-09-07T17:35:07Z"
+  },
+  {
     "search_name": "Vinted bot 9",
     "title": "Massimo Dutti Czarna Kurtka XL Lekko Ocieplana Wiatrówka Premium Elegancka",
     "price": "65.22",
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/COBhSg0AvX",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/COBhSg0AvX-cf48-0.jpg",
     "found_at": "2026-09-07T15:00:48Z"
-  },
-  {
-    "search_name": "Sellpy - Anerkjendt (Skjortor)",
-    "title": "Anerkjendt, Skjorta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Anerkjendt",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NqlOreAJHl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/MbuB5xoE4J-e8e1-0.jpg",
-    "found_at": "2026-09-07T15:01:52Z"
-  },
-  {
-    "search_name": "Sellpy - Springfield (Skjortor)",
-    "title": "Springfield, Buttondown-skjorta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Springfield",
-    "size": "",
-    "url": "https://www.sellpy.se/item/e62RgZysbw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/QE97lzkzbU-bdd5-0.jpg",
-    "found_at": "2026-09-07T15:04:38Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Dickies, Flanellskjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dickies",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HJYdBKX22C",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/HJYdBKX22C-05f6-0.jpg",
-    "found_at": "2026-09-07T15:05:06Z"
-  },
-  {
-    "search_name": "Sellpy - Boomerang",
-    "title": "Boomerang, Pullover, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yTdASdkHLj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/yTdASdkHLj-68b0-0.jpg",
-    "found_at": "2026-09-07T14:29:03Z"
-  },
-  {
-    "search_name": "Sellpy - FSBN",
-    "title": "FSBN, Huvtröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "FSBN",
-    "size": "",
-    "url": "https://www.sellpy.se/item/47NHgrnjPT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/47NHgrnjPT-6e03-0.jpg",
-    "found_at": "2026-09-07T14:29:31Z"
-  },
-  {
-    "search_name": "Sellpy - Selected Homme",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kVeq7BRrpj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/kVeq7BRrpj-966b-0.jpg",
-    "found_at": "2026-09-07T14:31:42Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
-    "title": "Abercrombie & Fitch, Flanellskjorta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pZ0AYEHhJr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/pZ0AYEHhJr-103b-0.jpg",
-    "found_at": "2026-09-07T14:33:16Z"
   }
 ]
