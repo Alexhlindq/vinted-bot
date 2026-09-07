@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios T-shirt",
+    "price": "300.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9919079402-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_01f9a_GZkmPovNRYPmXJdVzRq1wsdp/f800/1788778123.jpeg?s=6c4767b167f552076a77ee6275598777dbfb83ea",
+    "found_at": "2026-09-07T10:53:49Z"
+  },
+  {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lBnFrqaHyH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/lBnFrqaHyH-1adc-0.jpg",
+    "found_at": "2026-09-07T10:57:32Z"
+  },
+  {
+    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
+    "title": "Levi Strauss & Co, Jeansskjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/clmglWckr4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/clmglWckr4-d4b0-0.jpg",
+    "found_at": "2026-09-07T11:01:08Z"
+  },
+  {
+    "search_name": "Sellpy - Flanellskjorta (stil)",
+    "title": "Nordam, Flanellskjorta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Nordam",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EFtwjl6lNp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-6/EFtwjl6lNp-d113-0.jpg",
+    "found_at": "2026-09-07T11:03:12Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Herr jeans från Diesel",
     "price": "50.0",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/yIJMRvWbTa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/yIJMRvWbTa-e00d-0.jpg",
     "found_at": "2026-09-07T07:43:01Z"
-  },
-  {
-    "search_name": "Sellpy - Les Deux",
-    "title": "Les Deux, Collegetröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Les Deux",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eF5NrVnQKm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/eF5NrVnQKm-ffba-0.jpg",
-    "found_at": "2026-09-07T07:44:20Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/45eo4k4fPl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/45eo4k4fPl-f4f2-0.jpg",
-    "found_at": "2026-09-07T07:45:10Z"
-  },
-  {
-    "search_name": "Sellpy - Nike",
-    "title": "Nike, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sMBl5v17JQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/sMBl5v17JQ-72aa-0.jpg",
-    "found_at": "2026-09-07T07:45:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tommy Hilfiger",
-    "title": "Tommy Hilfiger Jeans, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WByfHrHyg4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/WByfHrHyg4-457b-0.jpg",
-    "found_at": "2026-09-07T07:45:54Z"
   }
 ]
