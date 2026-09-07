@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Collegetröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PybnMje0jS",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-16/PybnMje0jS-c921-0.jpg",
+    "found_at": "2026-09-07T00:19:30Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ho8DYlX9Vh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Ho8DYlX9Vh-0b5a-0.jpg",
+    "found_at": "2026-09-07T00:20:11Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JchYuMArC9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/JchYuMArC9-49b4-0.jpg",
+    "found_at": "2026-09-07T00:20:11Z"
+  },
+  {
+    "search_name": "Sellpy - NN.07",
+    "title": "NN07, Collegetröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "NN07",
+    "size": "",
+    "url": "https://www.sellpy.se/item/IjCE34WwNk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/IjCE34WwNk-0913-single.jpg",
+    "found_at": "2026-09-07T00:24:57Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "bluza Z Kapturem Hollister Rozmiar S",
     "price": "52.15",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9823172099-kamizelka-polo-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/06_00d2f_Fzms55ifNFrWPNpBuPP86VgH/f800/1788039830.jpeg?s=b0cf07b947fdcfc844404dc11cfbb79ef303ebf8",
     "found_at": "2026-09-06T21:31:50Z"
-  },
-  {
-    "search_name": "Vinted bot 3",
-    "title": "Kurtka Polo Ralph Lauren",
-    "price": "104.31",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9642975227-kurtka-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_01cec_hhWFSXy9iCGWrdjVZQe5awyC/f800/1786536133.jpeg?s=497eb76bc768b71c333b9d0c9ddfa6ff3d9e7419",
-    "found_at": "2026-09-06T21:31:51Z"
-  },
-  {
-    "search_name": "Vinted bot 3",
-    "title": "Polo Ralph lauren jakke",
-    "price": "105.38",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9485874275-polo-ralph-lauren-jakke",
-    "image_url": "https://images1.vinted.net/t/04_0001a_m5gL4z2eiNCc3swRCLwCdNGV/f800/1784979873.jpeg?s=539ee620caf742f950ebf128f4c44c151ad7aa64",
-    "found_at": "2026-09-06T21:31:53Z"
-  },
-  {
-    "search_name": "Vinted bot 3",
-    "title": "Militär Grön Ralph Lauren jacka",
-    "price": "125.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9255561806-militar-gron-ralph-lauren-jacka",
-    "image_url": "https://images1.vinted.net/t/05_00eaa_WnAjuj1kdjoVuE7gcPZSpLx1/f800/1782418597.jpeg?s=397f6344bcb53f4fcd7523ce59c8ad1b223ae0bc",
-    "found_at": "2026-09-06T21:31:54Z"
-  },
-  {
-    "search_name": "Vinted bot 3",
-    "title": "Tikkitakki",
-    "price": "112.52",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8709676578-tikkitakki",
-    "image_url": "https://images1.vinted.net/t/05_019cd_RejNvcQBrtGdLinvmzhy8Wty/f800/1776756256.jpeg?s=46e88a811a980f111f1ff36b48e633961fc60848",
-    "found_at": "2026-09-06T21:31:55Z"
   }
 ]
