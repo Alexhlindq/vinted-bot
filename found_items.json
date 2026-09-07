@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Emporio Armani, Huvtröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Emporio Armani",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EUEDFZJdAk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/IBuE4VyN18-6eb5-0.jpg",
+    "found_at": "2026-09-07T22:10:54Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nakata, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Nakata",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/ruqEozu3yN-772c-0.jpg",
+    "found_at": "2026-09-07T22:10:54Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Diesel jeans 30/34",
     "price": "60.0",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/JQ2di5nRAK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/MR4i4e0KNX-0c8f-0.jpg",
     "found_at": "2026-09-07T20:27:47Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Boomerang, Ytterväst, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gvHpQVZgbP",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/1Zsd6K09DD-d603-0.jpg",
-    "found_at": "2026-09-07T20:27:48Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Dobber, Vinterjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wmZPs2khHf",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/tVsBrnFWZx-c348-0.jpg",
-    "found_at": "2026-09-07T20:27:48Z"
   }
 ]
