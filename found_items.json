@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren cotton hoodie size M",
+    "price": "125.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9917116765-polo-ralph-lauren-cotton-hoodie-size-m",
+    "image_url": "https://images1.vinted.net/t/02_008b3_5BivHTMr7RBYU4qxCEAED9GF/f800/1788763250.jpeg?s=fc4ba47a86060b29987638446c13c3a3c17c7d54",
+    "found_at": "2026-09-07T06:57:39Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "Camouflage blå höstjacka från Polo Ralph Lauren",
+    "price": "199.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/8724724311-camouflage-bla-hostjacka-fran-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_019ee_8dbKo98cEg4ez2tEdGeNTWtP/f800/1776886167.jpeg?s=536248f46a3d50a86fa0877477dce754c60c07b3",
+    "found_at": "2026-09-07T06:57:40Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Zielony podkoszulek Massimo Dutti",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9814833862-zielony-podkoszulek-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/06_00c25_eXbdwaNQQXExNR6M9Zn6Sitt/f800/1787998573.jpeg?s=a1595c852ec96493d66fca2d68b3b79060cd9161",
+    "found_at": "2026-09-07T06:57:42Z"
+  },
+  {
+    "search_name": "Sellpy - Boomerang",
+    "title": "Boomerang, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bHwILlFGVG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/bHwILlFGVG-c64f-0.jpg",
+    "found_at": "2026-09-07T06:59:26Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme, Polotröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BIbFxNpO8y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/BIbFxNpO8y-4747-0.jpg",
+    "found_at": "2026-09-07T07:02:06Z"
+  },
+  {
+    "search_name": "Sellpy - A Days March (Skjortor)",
+    "title": "A Day's March, Flanellskjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SSC8DJdoJr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/SSC8DJdoJr-9be0-0.jpg",
+    "found_at": "2026-09-07T07:03:42Z"
+  },
+  {
+    "search_name": "Sellpy - Stickad hoodie (stil)",
+    "title": "Felix Hardy, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Felix Hardy",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JIijJ1qbqj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/JIijJ1qbqj-19fa-0.jpg",
+    "found_at": "2026-09-07T07:07:22Z"
+  },
+  {
     "search_name": "Sellpy - Selected Homme",
     "title": "Selected Homme, Tröja, Strl: M",
     "price": 70,
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/3ijDZ0GjRf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/3ijDZ0GjRf-62cc-0.jpg",
     "found_at": "2026-09-06T23:51:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tommy Hilfiger",
-    "title": "Tommy Hilfiger, Pullover, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NkPUSM6lZj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/EyXAQFGd49-06fa-0.jpg",
-    "found_at": "2026-09-06T23:51:21Z"
-  },
-  {
-    "search_name": "Sellpy - Overshirts",
-    "title": "Only & Sons, Överskjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cm23rDOAXh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/cm23rDOAXh-d061-0.jpg",
-    "found_at": "2026-09-06T23:51:50Z"
-  },
-  {
-    "search_name": "Sellpy - Asket (Skjortor)",
-    "title": "Arket, Kortärmad skjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ylmCq89i3z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-7/ylmCq89i3z-def3-0.jpg",
-    "found_at": "2026-09-06T23:53:04Z"
-  },
-  {
-    "search_name": "Sellpy - Asket (Skjortor)",
-    "title": "Arket, Skjorta, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WuwvBO0LH3",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/WuwvBO0LH3-1a7a-0.jpg",
-    "found_at": "2026-09-06T23:53:05Z"
-  },
-  {
-    "search_name": "Sellpy - Asket (Skjortor)",
-    "title": "Arket, Kortärmad skjorta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6RC2j3GUpA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-1/6RC2j3GUpA-2966-0.jpg",
-    "found_at": "2026-09-06T23:53:05Z"
-  },
-  {
-    "search_name": "Sellpy - Asket (Skjortor)",
-    "title": "Arket, Kortärmad skjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RMdoXV8y3D",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/RMdoXV8y3D-8ac1-0.jpg",
-    "found_at": "2026-09-06T23:53:06Z"
-  },
-  {
-    "search_name": "Sellpy - Asket (Skjortor)",
-    "title": "Arket, Kortärmad skjorta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vRRXBplXzZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/vRRXBplXzZ-5508-0.jpg",
-    "found_at": "2026-09-06T23:53:08Z"
   }
 ]
