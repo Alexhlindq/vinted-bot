@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Sweatshirt Bondelid",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9919895124-sweatshirt-bondelid",
+    "image_url": "https://images1.vinted.net/t/06_020e9_jGfbvd2saTLdjv5wGqbwzkPq/f800/1788782784.jpeg?s=61460261495356765282917c566bffd25da34360",
+    "found_at": "2026-09-07T12:12:46Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/y1ZIMDgYtm",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/y1ZIMDgYtm-ffb2-0.jpg",
+    "found_at": "2026-09-07T12:15:20Z"
+  },
+  {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Collegetröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/w7H1LzrOqj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/w7H1LzrOqj-0cc8-0.jpg",
+    "found_at": "2026-09-07T12:16:35Z"
+  },
+  {
     "search_name": "Sellpy - Tommy Hilfiger",
     "title": "Tommy Hilfiger, Tröja, Strl: S",
     "price": 55,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/8LVxvvhryd",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/8LVxvvhryd-67d9-0.jpg",
     "found_at": "2026-09-07T08:56:54Z"
-  },
-  {
-    "search_name": "Sellpy - Samsøe & Samsøe (favorit)",
-    "title": "Samsøe & Samsøe, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Qi2nG80JoC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Qi2nG80JoC-9249-0.jpg",
-    "found_at": "2026-09-07T08:30:36Z"
-  },
-  {
-    "search_name": "Sellpy - Anerkjendt (Skjortor)",
-    "title": "Anerkjendt, Kortärmad skjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Anerkjendt",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dKihEhDo2m",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/dKihEhDo2m-9cd0-0.jpg",
-    "found_at": "2026-09-07T08:36:22Z"
-  },
-  {
-    "search_name": "Sellpy - Lexington (Skjortor)",
-    "title": "Lexington, Skjorta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Lexington",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UmhrQvdZbC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/UmhrQvdZbC-30ff-0.jpg",
-    "found_at": "2026-09-07T08:37:38Z"
   }
 ]
