@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Cat, Fleecetröja, Strl: S/M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Cat",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/PdsOk0XQDv-7cc9-0.jpg",
+    "found_at": "2026-09-07T21:27:03Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Tommy Hilfiger Denim, Bomberjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger Denim",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/2GCwBpxHzb-62fe-0.jpg",
+    "found_at": "2026-09-07T21:27:06Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Grå quarter zip",
     "price": "75.29",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/qGz8nrLutE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/NInxw4VLmT-06d2-0.jpg",
     "found_at": "2026-09-07T20:27:51Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jobman, Softshelljacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jobman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sBH1AZ4NMm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
-    "found_at": "2026-09-07T20:27:53Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Henri Lloyd, Seglarjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Henri Lloyd",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bbkoEGaRVx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/sBH1AZ4NMm-f417-0.jpg",
-    "found_at": "2026-09-07T20:27:53Z"
   }
 ]
