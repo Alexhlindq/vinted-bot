@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QZ5dgNboD7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/QZ5dgNboD7-1bb7-0.jpg",
+    "found_at": "2026-09-07T09:33:08Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "Weekday, Överskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BRIiBhSQk7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/BRIiBhSQk7-3b3a-0.jpg",
+    "found_at": "2026-09-07T09:34:17Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "These Glory Days, Överskjorta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VbyfVEtpe5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/VbyfVEtpe5-ff7a-0.jpg",
+    "found_at": "2026-09-07T09:34:18Z"
+  },
+  {
+    "search_name": "Sellpy - ESPRIT (Skjortor)",
+    "title": "Essentials by ESPRIT, Skjorta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Essentials by ESPRIT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BIUMLT9Jgm",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/BIUMLT9Jgm-ce1f-0.jpg",
+    "found_at": "2026-09-07T09:36:01Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Jack jones distressed skinny jeans",
     "price": "40.0",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/6ObEpVbzSO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/6ObEpVbzSO-711e-0.jpg",
     "found_at": "2026-09-07T07:22:53Z"
-  },
-  {
-    "search_name": "Sellpy - Hollister (Skjortor)",
-    "title": "Hollister, Skjorta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KV32fXlFwn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/KV32fXlFwn-8b64-0.jpg",
-    "found_at": "2026-09-07T07:23:25Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Lee, Flanellskjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Lee",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pcZxYRFDPH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/pcZxYRFDPH-f6d4-0.jpg",
-    "found_at": "2026-09-07T07:25:54Z"
-  },
-  {
-    "search_name": "Sellpy - Flanellskjorta (stil)",
-    "title": "Kavu, Flanellskjorta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Kavu",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RF0TDKfRIj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/RF0TDKfRIj-8f08-0.jpg",
-    "found_at": "2026-09-07T07:25:55Z"
-  },
-  {
-    "search_name": "Sellpy - Rutig skjorta (stil)",
-    "title": "J.Crew, Buttondown-skjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "J.Crew",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5lsXqo8wqq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/5lsXqo8wqq-1634-0.jpg",
-    "found_at": "2026-09-07T07:26:09Z"
   }
 ]
