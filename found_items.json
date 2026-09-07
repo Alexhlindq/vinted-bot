@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Sellpy - Adidas Originals",
+    "title": "Adidas Originals, Huvtröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/8dUtUD3tBU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/8dUtUD3tBU-7708-0.jpg",
+    "found_at": "2026-09-07T00:47:52Z"
+  },
+  {
+    "search_name": "Sellpy - Nike",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mANrHVmeU6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/mANrHVmeU6-a052-0.jpg",
+    "found_at": "2026-09-07T00:50:20Z"
+  },
+  {
+    "search_name": "Sellpy - These Glory Days",
+    "title": "These Glory Days, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yCGC6DgJlo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/yCGC6DgJlo-8497-0.jpg",
+    "found_at": "2026-09-07T00:50:59Z"
+  },
+  {
+    "search_name": "Sellpy - Overshirts",
+    "title": "H&M, Överskjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RrZqWIacNI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-13/RrZqWIacNI-925f-0.jpg",
+    "found_at": "2026-09-07T00:51:29Z"
+  },
+  {
+    "search_name": "Sellpy - Nudie Jeans (Skjortor)",
+    "title": "Nudie Jeans, Kortärmad skjorta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DJYfF4dXfq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/DJYfF4dXfq-ae31-0.jpg",
+    "found_at": "2026-09-07T00:55:30Z"
+  },
+  {
+    "search_name": "Sellpy - Grovstickad (stil)",
+    "title": "GANT, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pCZoeJVUlk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/pCZoeJVUlk-5be7-0.jpg",
+    "found_at": "2026-09-07T00:55:51Z"
+  },
+  {
     "search_name": "Sellpy - Nike",
     "title": "Nike, Collegetröja, Strl: M",
     "price": 45,
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9897724650-cienki-sweterek-polo-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/02_000e9_2bvqmYqRzN6HXQKSDTD9a5cZ/f800/1788621404.jpeg?s=bdb2b6a8dfe712626b21ed64812249c8f8ebbd7c",
     "found_at": "2026-09-06T21:31:42Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren",
-    "price": "90.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896879722-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_003ee_3t9B6uKxzYziH8V2SgSu7vcU/f800/1788617934.jpeg?s=7546969ae21c2cdb0534ba6c8caba30186afde41",
-    "found_at": "2026-09-06T21:31:43Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
-    "price": "117.35",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9897125547-meska-granatowa-cienka-bluza-polo-ralph-lauren-crewneck-rap-hip-hop-skate",
-    "image_url": "https://images1.vinted.net/t/05_01559_yd3vkrwkRA2iwrtySBR2T7Ck/f800/1788618947.jpeg?s=e9a90ec2ea3ce75e55e8dd4f304de06c5a47caa6",
-    "found_at": "2026-09-06T21:31:44Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Tröja",
-    "price": "99.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9894102147-troja",
-    "image_url": "https://images1.vinted.net/t/06_00710_kQTKTqv9wwbUWoSACZoNQ1ER/f800/1788605555.jpeg?s=b865c742daa3e7c01fdf02aef07c7eadda4ed52c",
-    "found_at": "2026-09-06T21:31:46Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Stickad ralph lauren",
-    "price": "125.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9887921755-stickad-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/04_026b5_VmQPwKr4wHHBGd9xDDFenXjB/f800/1788540982.jpeg?s=700fc35bf6e080f4f85778112dcb53e80e2d73bd",
-    "found_at": "2026-09-06T21:31:47Z"
-  },
-  {
-    "search_name": "Vinted bot 2",
-    "title": "Bezrękawnik Polo",
-    "price": "39.12",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9887407080-bezrekawnik-polo",
-    "image_url": "https://images1.vinted.net/t/06_01ed8_6d4syeNoFc6EJc4sEuQQaqJ5/f800/1788538343.jpeg?s=78a675c0e404aa2243deab435506ca5fba3aa2d0",
-    "found_at": "2026-09-06T21:31:49Z"
-  },
-  {
-    "search_name": "Vinted bot 2",
-    "title": "Kamizelka polo ralph lauren",
-    "price": "117.35",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9823172099-kamizelka-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/06_00d2f_Fzms55ifNFrWPNpBuPP86VgH/f800/1788039830.jpeg?s=b0cf07b947fdcfc844404dc11cfbb79ef303ebf8",
-    "found_at": "2026-09-06T21:31:50Z"
   }
 ]
