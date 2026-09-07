@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vwsGC84zD7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/vwsGC84zD7-10c4-0.jpg",
+    "found_at": "2026-09-07T04:59:58Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme Identity, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Selected Homme Identity",
+    "size": "",
+    "url": "https://www.sellpy.se/item/E9FyxdPaLH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/E9FyxdPaLH-b4e4-0.jpg",
+    "found_at": "2026-09-07T04:59:59Z"
+  },
+  {
     "search_name": "Sellpy - Bondelid (favorit)",
     "title": "Bondelid, Tröja, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9913513212-ralph-lauren-troja-stl-s",
     "image_url": "https://images1.vinted.net/t/05_00000_qob7YY5ouWfrp6qRmeMh3hii/f800/1788718236.jpeg?s=a8a8f3cc031bf6762ba3583b3c5da76284dcc70f",
     "found_at": "2026-09-06T21:31:23Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Lonsleeve Polo Ralph Lauren granatowy S",
-    "price": "101.7",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9913026175-lonsleeve-polo-ralph-lauren-granatowy-s",
-    "image_url": "https://images1.vinted.net/t/06_000cd_uhmXXkkfXTkaCqbHY3pUXU6U/f800/1788716289.jpeg?s=070e228a64626cf808dc1ee251b086935c7b0724",
-    "found_at": "2026-09-06T21:31:24Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren trøje (M) lilla",
-    "price": "75.27",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9911739861-ralph-lauren-troje-m-lilla",
-    "image_url": "https://images1.vinted.net/t/03_007fb_oDmwQQTNXtoSjZ8sbS3n9jsi/f800/1788711778.jpeg?s=0cb2bd681bd7a695a60927f9224f680649cd7ac8",
-    "found_at": "2026-09-06T21:31:27Z"
   }
 ]
