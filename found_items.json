@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 9",
+    "title": "Massimo Dutti Czarna Kurtka XL Lekko Ocieplana Wiatrówka Premium Elegancka",
+    "price": "65.22",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XL",
+    "url": "https://www.vinted.se/items/8522283643-massimo-dutti-czarna-kurtka-xl-lekko-ocieplana-wiatrowka-premium-elegancka",
+    "image_url": "https://images1.vinted.net/t/05_01890_dzNSX3YHHdsUuQeKHgQxok6p/f800/1774865221.jpeg?s=4e4784dd68e9ebe9a884a21eb47f05f119bb6344",
+    "found_at": "2026-09-07T17:09:05Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza Tommy",
+    "price": "70.44",
+    "currency": "SEK",
+    "brand": "Hilfiger Denim",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9900974920-bluza-tommy",
+    "image_url": "https://images1.vinted.net/t/02_01109_NVzLpBY46e1wJQs4F16ZRj8k/f800/1788637428.jpeg?s=580023b1fa2303df7a4fabcff6661fe17cd48447",
+    "found_at": "2026-09-07T17:09:07Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Vintage stone island zip-up",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/7012264531-vintage-stone-island-zip-up",
+    "image_url": "https://images1.vinted.net/t/04_00960_kA5BrsjQiB4xKCe96ZsGhRWh/f800/1756985882.jpeg?s=276f58185e29a931e7b3d750292ad4a1f9f4c088",
+    "found_at": "2026-09-07T17:09:10Z"
+  },
+  {
+    "search_name": "Sellpy - Samsøe & Samsøe (favorit) (Skjortor)",
+    "title": "Samsøe & Samsøe, Skjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Samsøe & Samsøe",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YNN705C37E",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/YNN705C37E-a289-0.jpg",
+    "found_at": "2026-09-07T17:14:17Z"
+  },
+  {
+    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
+    "title": "Levi Strauss & Co, Flanellskjorta, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VoqlRamRoI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/SB8FjIHA0M-5ec6-0.jpg",
+    "found_at": "2026-09-07T17:16:31Z"
+  },
+  {
+    "search_name": "Sellpy - Superdry (hoodies) (Skjortor)",
+    "title": "Superdry, Flanellskjorta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HhZCk3sx2n",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/HhZCk3sx2n-ea61-0.jpg",
+    "found_at": "2026-09-07T17:18:22Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph lauren",
     "price": "80.0",
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/pZ0AYEHhJr",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/pZ0AYEHhJr-103b-0.jpg",
     "found_at": "2026-09-07T14:33:16Z"
-  },
-  {
-    "search_name": "Sellpy - Uniqlo (Skjortor)",
-    "title": "Uniqlo, Jeansskjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/in0MMBvLhX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-l-2/dLLJVA8ImN-efff-0.jpg",
-    "found_at": "2026-09-07T14:36:32Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios T-shirt",
-    "price": "225.87",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921287081-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/06_01a39_ZAas38KoMywHn8rq7gzq7z56/f800/1788789836.jpeg?s=55f834a3f52a0c5865a7faeb61ee5005039284fd",
-    "found_at": "2026-09-07T14:10:00Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Nash Face T-shirt",
-    "price": "263.51",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921219537-acne-studios-nash-face-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_01e0d_ogisagiSxiC8JiZW2RnerbZw/f800/1788789507.jpeg?s=f53080bb7accd846031dc8197f124bd2d74efcf1",
-    "found_at": "2026-09-07T14:10:01Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Nash Face T-shirt",
-    "price": "225.87",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921202416-acne-studios-nash-face-t-shirt",
-    "image_url": "https://images1.vinted.net/t/06_01fbc_gKEyDY9fca3mjWJtExTpeRK9/f800/1788789425.jpeg?s=061f869d4c69d4fcde5d9daa05435c00e3f6ad38",
-    "found_at": "2026-09-07T14:10:01Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Nash Face T-shirt",
-    "price": "263.51",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921193591-acne-studios-nash-face-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_0171f_4vkiJbAEWohDxxsG74W8BqF3/f800/1788789382.jpeg?s=9f64a709a091c74a1ff0e92d1e3e8cfc90732871",
-    "found_at": "2026-09-07T14:10:02Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Nash Face T-shirt",
-    "price": "225.87",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921183067-acne-studios-nash-face-t-shirt",
-    "image_url": "https://images1.vinted.net/t/05_01fbc_Yqe4G2QA6Jfw4fRi3zbfNDbV/f800/1788789331.jpeg?s=db9545b35cce3fd10e2108379a931e1b2b04b400",
-    "found_at": "2026-09-07T14:10:02Z"
   }
 ]
