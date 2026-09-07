@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Carhartt sweatshirt",
+    "price": "55.71",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9922919959-carhartt-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/04_017b2_6j6mesreThBYu7zcBzx9eM26/f800/1788797288.jpeg?s=dc4e06cfb7925803de29e6ca6e9ccb88bd7e01c3",
+    "found_at": "2026-09-07T16:09:47Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios sweatshirt",
+    "price": "188.22",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9922799880-acne-studios-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/01_00e79_7zCCa3RjJ1BvAryzMM95DAos/f800/1788796768.jpeg?s=2e174b2764433c24ae36d5f491fb04ccc415d2f9",
+    "found_at": "2026-09-07T16:09:49Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne T-shirt",
+    "price": "225.87",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9922766852-acne-t-shirt",
+    "image_url": "https://images1.vinted.net/t/01_023ef_7qJ21XNQVYoAfSwynxEngnv6/f800/1788796626.jpeg?s=894e4b8064265953537eeb83f6626165069b93f3",
+    "found_at": "2026-09-07T16:09:50Z"
+  },
+  {
+    "search_name": "Sellpy - Hollister",
+    "title": "Hollister, Huvtröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EnKjRkRJZW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/EnKjRkRJZW-beb5-0.jpg",
+    "found_at": "2026-09-07T16:12:16Z"
+  },
+  {
     "search_name": "Sellpy - Uniqlo (Skjortor)",
     "title": "Uniqlo, Buttondown-skjorta, Strl: M",
     "price": 45,
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9920847082-bluza-s-holliester",
     "image_url": "https://images1.vinted.net/t/05_009e8_wyAGZ5NpURkpy2US67N1PwXK/f800/1788787708.jpeg?s=0fc93775bbae5214fd3f1480fe9c8fd97ebd7e58",
     "found_at": "2026-09-07T13:31:21Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "langærmet trøje",
-    "price": "45.17",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9920793383-langaermet-troje",
-    "image_url": "https://images1.vinted.net/t/06_01521_AxzUrq6hWW8FEKH1kqLVbcru/f800/1788787548.jpeg?s=eb0d932bfc5b5b0e3fa438154e8817e0e285a08a",
-    "found_at": "2026-09-07T13:31:22Z"
-  },
-  {
-    "search_name": "Sellpy - Billabong",
-    "title": "Billabong, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Billabong",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9Ljc0MQP6o",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/9Ljc0MQP6o-c475-0.jpg",
-    "found_at": "2026-09-07T13:33:02Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
-    "title": "Abercrombie & Fitch, Buttondown-skjorta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KCd88bVz4l",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/KCd88bVz4l-5605-0.jpg",
-    "found_at": "2026-09-07T13:37:11Z"
-  },
-  {
-    "search_name": "Sellpy - Abercrombie & Fitch (Skjortor)",
-    "title": "Abercrombie & Fitch, Skjorta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NYwR9WqKev",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/NYwR9WqKev-bade-0.jpg",
-    "found_at": "2026-09-07T13:37:13Z"
   }
 ]
