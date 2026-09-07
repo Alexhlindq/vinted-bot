@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza Ralph Lauren",
+    "price": "96.53",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9919549739-bluza-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_021b6_k3Y6fLFfBrvSfdfvcSPMY8sL/f800/1788780865.jpeg?s=bce92d908c6434f82e3ef640bac763f36d1b93d9",
+    "found_at": "2026-09-07T11:43:02Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Lecis jeans",
+    "price": "11.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9919526082-lecis-jeans",
+    "image_url": "https://images1.vinted.net/t/01_01265_XqZHAV3sx9RkeYjZjCjs38RN/f800/1788780731.jpeg?s=6e0c1ef0b4f16db63f84aee02d90f0f14a3b912a",
+    "found_at": "2026-09-07T11:43:07Z"
+  },
+  {
+    "search_name": "Sellpy - Jack & Jones",
+    "title": "Jack & Jones, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RasBHaAKzx",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/RasBHaAKzx-46ed-0.jpg",
+    "found_at": "2026-09-07T11:45:55Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/V59iXmCJLa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/V59iXmCJLa-2e49-0.jpg",
+    "found_at": "2026-09-07T11:47:44Z"
+  },
+  {
+    "search_name": "Sellpy - Selected Homme",
+    "title": "Selected Homme Identity, Tröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Selected Homme Identity",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZxiGdXIpOU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/ZxiGdXIpOU-9d24-0.jpg",
+    "found_at": "2026-09-07T11:47:45Z"
+  },
+  {
+    "search_name": "Sellpy - Scotch & Soda (Skjortor)",
+    "title": "Amsterdams Blauw by Scotch & Soda, Jeansskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Amsterdams Blauw by Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JGraiIDht2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/JGraiIDht2-07eb-0.jpg",
+    "found_at": "2026-09-07T11:52:22Z"
+  },
+  {
     "search_name": "Sellpy - Jack & Jones",
     "title": "Jack & Jones, Huvtröja, Strl: M",
     "price": 29,
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/UA53WQ5q8H",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/UA53WQ5q8H-cf6e-0.jpg",
     "found_at": "2026-09-07T08:14:09Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies)",
-    "title": "Superdry, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0mIZB0Tn9B",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-3/0mIZB0Tn9B-20b4-0.jpg",
-    "found_at": "2026-09-07T08:16:28Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies)",
-    "title": "Superdry, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G7iU3NzTOC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/z8xIsPdZwr-2e60-0.jpg",
-    "found_at": "2026-09-07T08:16:29Z"
-  },
-  {
-    "search_name": "Sellpy - Dockers (Skjortor)",
-    "title": "Dockers, Kortärmad skjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dockers",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RUmBrM0C7S",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/RUmBrM0C7S-19a3-0.jpg",
-    "found_at": "2026-09-07T08:18:11Z"
-  },
-  {
-    "search_name": "Sellpy - Levi Strauss & Co (Skjortor)",
-    "title": "Levi Strauss & Co, Flanellskjorta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0jZE13Kta0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/0jZE13Kta0-5c41-0.jpg",
-    "found_at": "2026-09-07T08:18:55Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies) (Skjortor)",
-    "title": "Superdry, Buttondown-skjorta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QE82ZaSojn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/QE82ZaSojn-c00e-0.jpg",
-    "found_at": "2026-09-07T08:20:43Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter pomarańczowy/ koralowy Massimo Dutti męski",
-    "price": "52.18",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9917386270-sweter-pomaranczowy-koralowy-massimo-dutti-meski",
-    "image_url": "https://images1.vinted.net/t/04_01503_tDrkSHo8DwwES6uE44PPEFcF/f800/1788766911.jpeg?s=f46260c01a506f67f721b9def5585e2c9d4a7ad5",
-    "found_at": "2026-09-07T07:54:55Z"
   }
 ]
