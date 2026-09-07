@@ -1,6 +1,72 @@
 [
   {
     "search_name": "Vinted bot 12",
+    "title": "Tröja - Nudie",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9924039702-troja-nudie",
+    "image_url": "https://images1.vinted.net/t/02_00f8c_jJSa4dpMrPZj4F5YMFTh7n6a/f800/1788802127.jpeg?s=664f142bdf8189f1809d95be71edc12c1ea7103a",
+    "found_at": "2026-09-07T17:39:26Z"
+  },
+  {
+    "search_name": "Sellpy - J.Lindeberg",
+    "title": "J.Lindeberg, Pullover, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gBhlKjj9cH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/gBhlKjj9cH-1f56-0.jpg",
+    "found_at": "2026-09-07T17:42:05Z"
+  },
+  {
+    "search_name": "Sellpy - Levi Strauss & Co",
+    "title": "Levi Strauss & Co, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9S87UemNBn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/9S87UemNBn-2239-0.jpg",
+    "found_at": "2026-09-07T17:42:37Z"
+  },
+  {
+    "search_name": "Sellpy - A Days March (Skjortor)",
+    "title": "A Day's March, Buttondown-skjorta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZPFzj5x91E",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/ZPFzj5x91E-5a1e-0.jpg",
+    "found_at": "2026-09-07T17:45:33Z"
+  },
+  {
+    "search_name": "Sellpy - A Days March (Skjortor)",
+    "title": "A Day's March, Skjorta, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CmYkHX0wfL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/CmYkHX0wfL-6712-0.jpg",
+    "found_at": "2026-09-07T17:45:34Z"
+  },
+  {
+    "search_name": "Sellpy - Sjalkrage kofta (stil)",
+    "title": "Mouli, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Mouli",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ERddEwKaE5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/ERddEwKaE5-442d-0.jpg",
+    "found_at": "2026-09-07T17:49:32Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
     "title": "Bluza męska Dsquared2",
     "price": "65.22",
     "currency": "SEK",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9921780124-tjocktroja-massimo-dutti",
     "image_url": "https://images1.vinted.net/t/02_021d9_nF5M81VkgvXDJnBHoxkqLq4Q/f800/1788792220.jpeg?s=162103d1810190e99fe9050a7d9b2a992f16a249",
     "found_at": "2026-09-07T14:55:42Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
-    "price": "221.76",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9921871595-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
-    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1788792648.jpeg?s=a382a38d5bd59c5d7dc2ce645a1f0049744e64ea",
-    "found_at": "2026-09-07T14:55:46Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios T-shirt",
-    "price": "150.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9921867285-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/05_01408_mSK2HioGh4dRur5xKP27Wyr7/f800/1788792629.jpeg?s=8b58eea956ff5ef434c39c5bf0101935c74b13ee",
-    "found_at": "2026-09-07T14:55:47Z"
-  },
-  {
-    "search_name": "Sellpy - A Days March",
-    "title": "A Day's March, Collegetröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6bXexGsx9S",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-1/6bXexGsx9S-fee6-0.jpg",
-    "found_at": "2026-09-07T14:56:54Z"
-  },
-  {
-    "search_name": "Sellpy - Makia",
-    "title": "Makia, Collegetröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Makia",
-    "size": "",
-    "url": "https://www.sellpy.se/item/u1grtzEyXa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/u1grtzEyXa-f7e9-0.jpg",
-    "found_at": "2026-09-07T14:59:05Z"
-  },
-  {
-    "search_name": "Sellpy - Superdry (hoodies)",
-    "title": "Superdry Track & Field, Collegetröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Superdry Track & Field",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HRxnekIJxc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/HRxnekIJxc-cef1-0.jpg",
-    "found_at": "2026-09-07T15:00:35Z"
-  },
-  {
-    "search_name": "Sellpy - Samsøe & Samsøe (favorit) (Skjortor)",
-    "title": "Samsøe & Samsøe, Skjorta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/COBhSg0AvX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/COBhSg0AvX-cf48-0.jpg",
-    "found_at": "2026-09-07T15:00:48Z"
   }
 ]
