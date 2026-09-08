@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Vit ziphoodie med huva – Bondelid",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9935276946-vit-ziphoodie-med-huva-bondelid",
+    "image_url": "https://images1.vinted.net/t/05_006cc_cSnvmDA4oWRVpN91Nky89GiC/f800/1788894531.jpeg?s=dec788affa7b15c07785da9c1cb0eda85be85522",
+    "found_at": "2026-09-08T19:10:25Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Canda C&A, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Canda C&A",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lISjSuxBv9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/lISjSuxBv9-cd7f-0.jpg",
+    "found_at": "2026-09-08T19:11:03Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo koszulka",
     "price": "52.4",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9930106868-bluzka-z-kapturem",
     "image_url": "https://images1.vinted.net/t/05_0123a_CLPjbVPoV8s6JPx2BtF1KC6Z/f800/1788863518.jpeg?s=3d8d9cd4fe4c7a961352c11ca3c720b08c8c7a79",
     "found_at": "2026-09-08T10:45:28Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bondelid sweatshirt",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9930236164-bondelid-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/05_00585_KzguqhK2hYPLzM8N3DTSmsRN/f800/1788864275.jpeg?s=c969aa87215434153f803eed73597d1c610409ab",
-    "found_at": "2026-09-08T10:45:32Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 511 Slim Fit",
-    "price": "60.41",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9929915085-levis-511-slim-fit",
-    "image_url": "https://images1.vinted.net/t/05_00d68_imxRuVtwAfBBqp8Bt6uVPhNV/f800/1788862389.jpeg?s=951da98d818b9cb0a6f20f71977badbafbaaf82e",
-    "found_at": "2026-09-08T10:29:35Z"
   }
 ]
