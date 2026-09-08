@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Tröja",
+    "price": "65.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9930806538-troja",
+    "image_url": "https://images1.vinted.net/t/05_024fc_WLRLSY2tuTpGDHtUjcPuWQyT/f800/1788867551.jpeg?s=521cfc132258f2e5ef6e7e8e9ad2bc92c803ac56",
+    "found_at": "2026-09-08T11:42:26Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne Studios t-shirt",
     "price": "271.86",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/ut21vE7GMJ-9461-0.jpg",
     "found_at": "2026-09-07T20:53:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Salik, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Salik",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xVxqKr6Dom",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/5yAAwLudfX-e816-0.jpg",
-    "found_at": "2026-09-07T20:53:08Z"
   }
 ]
