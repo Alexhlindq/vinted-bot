@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Acne tröja grön",
+    "price": "150.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9934623022-acne-troja-gron",
+    "image_url": "https://images1.vinted.net/t/02_0130b_cZMFDyNtbJC1xyofTDU7nPeq/f800/1788891419.jpeg?s=4df718e63c6304767c46e190fb5ce8db616e1623",
+    "found_at": "2026-09-08T18:32:18Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Grey Levi's jeans W32 L30",
     "price": "67.74",
@@ -646,17 +657,6 @@
     "size": "S",
     "url": "https://www.vinted.se/items/9929766675-sweterek",
     "image_url": "https://images1.vinted.net/t/01_02477_pX1TRyQ8dwxMmbLuKje5wu2Q/f800/1788861514.jpeg?s=401c59ef868407edb297cc836b99fb639559ea9d",
-    "found_at": "2026-09-08T10:12:26Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek",
-    "price": "104.8",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9929761205-sweterek",
-    "image_url": "https://images1.vinted.net/t/04_00730_mwAocrWK7SM6FBawmKqb2VMr/f800/1788861481.jpeg?s=ef049ebaf0e7e18f4f5df631522811368926e75b",
     "found_at": "2026-09-08T10:12:26Z"
   }
 ]
