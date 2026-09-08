@@ -342,6 +342,18 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Premium Selection (kurerad, lyx)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/store/selection/premium-selection?maxPrice=75&brand=Polo+Ralph+Lauren&brand=Tommy+Hilfiger&brand=Lauren+Ralph+Lauren&brand=Sams%C3%B8e+%26+Sams%C3%B8e&brand=Ralph+Lauren&brand=Acne+Studios&brand=Fj%C3%A4llr%C3%A4ven&brand=Dolce+%26+Gabbana&brand=Gucci&brand=Burberry&brand=UGG&brand=Carhartt+WIP&brand=Prada&brand=Tot%C3%AAme&brand=Karl+Lagerfeld&brand=Isabel+Marant+%C3%89toile&brand=Missoni&brand=Moncler&brand=Dsquared2&brand=Carhartt&brand=Yves+Saint+Laurent&brand=Acne&brand=Stone+Island&brand=Balenciaga&brand=Saint+Laurent&brand=Givenchy&brand=Christian+Dior&brand=Tom+Ford&brand=Brunello+Cucinelli&brand=Louis+Vuitton&brand=Woolrich&brand=Burberry+Brit&brand=Valentino&brand=Fendi&brand=Dior&brand=Helmut+Lang&brand=Jacquemus&brand=Valentino+Garavani&brand=Lanvin&brand=Herm%C3%A8s&brand=Comme+des+Gar%C3%A7ons+PLAY&brand=Supreme&brand=Balmain&sizes=MEN-INT-S&sizes=MEN-INT-M&sizes=MEN-INT-XS&type=Tr%C3%B6ja&type=Collegetr%C3%B6ja&type=Huvtr%C3%B6ja&type=L%C3%A5ng%C3%A4rmad+t-shirt&type=Flanellskjorta&type=Kofta&type=Dunjacka&type=%C3%96verskjorta&type=Collegejacka&type=Trenchcoat&type=Vinterjacka",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
