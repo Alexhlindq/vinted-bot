@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Röd tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9932000343-rod-troja",
+    "image_url": "https://images1.vinted.net/t/06_004bb_tqTZSXpNN5itBnGssyM1Biix/f800/1788874162.jpeg?s=dece9ac77cd64f7ca4b16f3a22f8439860648f1a",
+    "found_at": "2026-09-08T13:33:11Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Preach, Ytterväst, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/TNnuOHfN3j-3c84-0.jpg",
     "found_at": "2026-09-07T21:40:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cat, Fleecetröja, Strl: S/M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Cat",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/PdsOk0XQDv-7cc9-0.jpg",
-    "found_at": "2026-09-07T21:27:03Z"
   }
 ]
