@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "sweter massimo dutti",
+    "price": "39.3",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9933125519-sweter-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/06_016f3_zYAPa7zMpDMoERBUKTmW3y8d/f800/1788880247.jpeg?s=f49a12485771e026f0dea8fd04d781f31fab2d51",
+    "found_at": "2026-09-08T16:31:27Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Bläck, Tröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9928618834-bluza-hollister",
     "image_url": "https://images1.vinted.net/t/06_01c10_rPPSj5EDCZLM1Vefcs7KKzUC/f800/1788853802.jpeg?s=f84ffbf0d56d66902a4810fa7cea1c1836789f7d",
     "found_at": "2026-09-08T08:10:56Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Diesel M",
-    "price": "65.5",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9928531726-bluza-diesel-m",
-    "image_url": "https://images1.vinted.net/t/06_00495_q3Vfs29j6LsRVQrVaKpxunNH/f800/1788852999.jpeg?s=e20d26a0efa691fe0c45cb3b13f3e4d6a3509f9d",
-    "found_at": "2026-09-08T07:46:38Z"
   }
 ]
