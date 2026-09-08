@@ -318,6 +318,18 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Scotch & Soda (huvtröjor/collegetröjor)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=scotch%20and%20soda&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=60",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "60",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
