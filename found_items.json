@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluzka z kapturem",
+    "price": "117.9",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9930106868-bluzka-z-kapturem",
+    "image_url": "https://images1.vinted.net/t/05_0123a_CLPjbVPoV8s6JPx2BtF1KC6Z/f800/1788863518.jpeg?s=3d8d9cd4fe4c7a961352c11ca3c720b08c8c7a79",
+    "found_at": "2026-09-08T10:45:28Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bondelid sweatshirt",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9930236164-bondelid-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/05_00585_KzguqhK2hYPLzM8N3DTSmsRN/f800/1788864275.jpeg?s=c969aa87215434153f803eed73597d1c610409ab",
+    "found_at": "2026-09-08T10:45:32Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi’s 511 Slim Fit",
     "price": "60.41",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ERzYXyxKWC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/RsJE3BOAed-f3da-0.jpg",
     "found_at": "2026-09-07T20:41:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Överskjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DLnijno928",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/5BCaHTUsxC-f895-0.jpg",
-    "found_at": "2026-09-07T20:41:59Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "McKinley, Allvädersjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "McKinley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gQG9FMGnLa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/DLnijno928-bb5c-0.jpg",
-    "found_at": "2026-09-07T20:41:59Z"
   }
 ]
