@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Boomerang, Ytterväst, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PEMZ7HV2av",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/1Zsd6K09DD-d603-0.jpg",
+    "found_at": "2026-09-08T17:41:12Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "T-shirt Acne Studios",
     "price": "262.01",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9929030296-bluza-meska",
     "image_url": "https://images1.vinted.net/t/06_00d87_RNwbBJMCQQ33aPPoxouP6rc7/f800/1788856998.jpeg?s=e2dba0514c2f484da204d3d37cbbd2fffd384e2a",
     "found_at": "2026-09-08T08:46:37Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "Converse comme des garçons",
-    "price": "226.55",
-    "currency": "SEK",
-    "brand": "Comme des Garçons Play",
-    "size": "42,5",
-    "url": "https://www.vinted.se/items/6072019985-converse-comme-des-garcons",
-    "image_url": "https://images1.vinted.net/t/04_00e5f_LAz52teHg3w5Gcsi6e5KSyuJ/f800/1743523085.jpeg?s=7f46435c62c5f773b2eb43378eb79e74cfef8560",
-    "found_at": "2026-09-08T08:46:39Z"
   }
 ]
