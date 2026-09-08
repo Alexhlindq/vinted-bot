@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweterek",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9929766675-sweterek",
+    "image_url": "https://images1.vinted.net/t/01_02477_pX1TRyQ8dwxMmbLuKje5wu2Q/f800/1788861514.jpeg?s=401c59ef868407edb297cc836b99fb639559ea9d",
+    "found_at": "2026-09-08T10:12:26Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Sweterek",
+    "price": "104.8",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9929761205-sweterek",
+    "image_url": "https://images1.vinted.net/t/04_00730_mwAocrWK7SM6FBawmKqb2VMr/f800/1788861481.jpeg?s=ef049ebaf0e7e18f4f5df631522811368926e75b",
+    "found_at": "2026-09-08T10:12:26Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister hoodie",
+    "price": "45.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9929898950-hollister-hoodie",
+    "image_url": "https://images1.vinted.net/t/06_0053c_ru6vHCfRWsxPN2g6noq42Gxt/f800/1788862294.jpeg?s=c7313aa6149f50b600a712e9eb93060bb4e68077",
+    "found_at": "2026-09-08T10:12:31Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Spodnie męskie Levis W30/L30",
     "price": "52.4",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/QprGFjsHUC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/t0E9nuPwwX-67ca-0.jpg",
     "found_at": "2026-09-07T20:27:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Weekday, Tröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CiebnVt8Fx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/QprGFjsHUC-7517-0.jpg",
-    "found_at": "2026-09-07T20:27:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Divided by H&M, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GL9wJAJaTa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-7/lXdp0fZaYT-095a-0.jpg",
-    "found_at": "2026-09-07T20:27:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Redrum, Huvtröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Redrum",
-    "size": "",
-    "url": "https://www.sellpy.se/item/OVZChHTJrb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/GL9wJAJaTa-eb11-0.jpg",
-    "found_at": "2026-09-07T20:27:20Z"
   }
 ]
