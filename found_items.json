@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "sweterek polo by ralph Lauren",
+    "price": "94.32",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9930864652-sweterek-polo-by-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_0093d_zCuM5QeMZ6yuY5UxJEjoKTxA/f800/1788867881.jpeg?s=076d0218df793df1897893d9791a9ae5a9d8cbd6",
+    "found_at": "2026-09-08T11:54:21Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Tröja",
     "price": "65.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/LHNzdIWgGP",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/sBBoKGUwjA-89d2-0.jpg",
     "found_at": "2026-09-07T21:10:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Mango, Tröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Mango",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/ut21vE7GMJ-9461-0.jpg",
-    "found_at": "2026-09-07T20:53:05Z"
   }
 ]
