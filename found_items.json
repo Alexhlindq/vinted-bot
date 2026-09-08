@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Boomerang, Ytterväst, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/XEDyeqibP5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/1Zsd6K09DD-d603-0.jpg",
+    "found_at": "2026-09-08T23:38:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mount Whitney, Dunjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Mount Whitney",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/uXH38HrG76-f876-0.jpg",
+    "found_at": "2026-09-08T23:38:05Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Didriksons 1913, Jacka, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Didriksons 1913",
+    "size": "",
+    "url": "https://www.sellpy.se/item/y9Qxh476Jp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/y9Qxh476Jp-7072-0.jpg",
+    "found_at": "2026-09-08T23:38:18Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Michael Kors, Jacka, Strl: S",
     "price": 50,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/anei0EOJGE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/k4nApAOhMG-74b6-0.jpg",
     "found_at": "2026-09-08T21:09:16Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Billabong, Överskjorta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Billabong",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
-    "found_at": "2026-09-08T20:54:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "The North Face, Fleecejacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "The North Face",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/Px2C2B1IjU-b483-0.jpg",
-    "found_at": "2026-09-08T20:42:14Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren M",
-    "price": "65.5",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9936111135-polo-ralph-lauren-m",
-    "image_url": "https://images1.vinted.net/t/05_01886_VRaSi8a9d94ZQigCPRCSbcRv/f800/1788899190.jpeg?s=7ca4209937e20a61455d068eaecfb14d9f174f2e",
-    "found_at": "2026-09-08T20:26:54Z"
   }
 ]
