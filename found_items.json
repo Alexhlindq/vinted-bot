@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bläck, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/3Tu9xJBsls-cbd6-0.jpg",
+    "found_at": "2026-09-08T16:11:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mount Whitney, Dunjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Mount Whitney",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bCSWUmLdH7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/uXH38HrG76-f876-0.jpg",
+    "found_at": "2026-09-08T16:12:01Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Car de la Car, Collegetröja, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9928531726-bluza-diesel-m",
     "image_url": "https://images1.vinted.net/t/06_00495_q3Vfs29j6LsRVQrVaKpxunNH/f800/1788852999.jpeg?s=e20d26a0efa691fe0c45cb3b13f3e4d6a3509f9d",
     "found_at": "2026-09-08T07:46:38Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Uniqlo blå tröja med dragkedja",
-    "price": "35.0",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9928357776-uniqlo-bla-troja-med-dragkedja",
-    "image_url": "https://images1.vinted.net/t/02_006e9_7ZcZ3PtEhdBaAL1fW2u5ThCf/f800/1788851159.jpeg?s=324420223c9be1a655c5751e86ed0e96640d2c0c",
-    "found_at": "2026-09-08T07:13:13Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Only & Sons, Överskjorta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/a5tGCGJAQ4-6a60-0.jpg",
-    "found_at": "2026-09-08T07:13:45Z"
   }
 ]
