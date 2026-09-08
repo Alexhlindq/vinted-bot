@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren M",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9936111135-polo-ralph-lauren-m",
+    "image_url": "https://images1.vinted.net/t/05_01886_VRaSi8a9d94ZQigCPRCSbcRv/f800/1788899190.jpeg?s=7ca4209937e20a61455d068eaecfb14d9f174f2e",
+    "found_at": "2026-09-08T20:26:54Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Morris, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "",
+    "url": "https://www.sellpy.se/item/peurqAl2kr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
+    "found_at": "2026-09-08T20:27:31Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Överskjorta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZYZo4caqWO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/cm23rDOAXh-d061-0.jpg",
+    "found_at": "2026-09-08T20:27:35Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Röhnisch, Vinterrock, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Röhnisch",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/wzPGhD447f-28fb-0.jpg",
+    "found_at": "2026-09-08T20:27:36Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren",
     "price": "112.9",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9931623627-levis-jeans",
     "image_url": "https://images1.vinted.net/t/05_01ccf_AGASqSMK3wHbd6a32dQKkA3D/f800/1788872151.jpeg?s=a34e13a146608b7f911abac97586ddddc99fc426",
     "found_at": "2026-09-08T12:57:18Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Stadium, Dunjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Stadium",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rJqKRW25BC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/cjOxR8w82w-899c-0.jpg",
-    "found_at": "2026-09-08T12:36:49Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Dieselin paita",
-    "price": "67.74",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9931053850-dieselin-paita",
-    "image_url": "https://images1.vinted.net/t/06_00f7a_WCuiso9NhPPq5eMR4CtVLShW/f800/1788868956.jpeg?s=1d95aaf1732a4a977715b015209ccbf90e09242a",
-    "found_at": "2026-09-08T12:13:29Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweterek polo by ralph Lauren",
-    "price": "94.32",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9930864652-sweterek-polo-by-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_0093d_zCuM5QeMZ6yuY5UxJEjoKTxA/f800/1788867881.jpeg?s=076d0218df793df1897893d9791a9ae5a9d8cbd6",
-    "found_at": "2026-09-08T11:54:21Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Tröja",
-    "price": "65.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9930806538-troja",
-    "image_url": "https://images1.vinted.net/t/05_024fc_WLRLSY2tuTpGDHtUjcPuWQyT/f800/1788867551.jpeg?s=521cfc132258f2e5ef6e7e8e9ad2bc92c803ac56",
-    "found_at": "2026-09-08T11:42:26Z"
   }
 ]
