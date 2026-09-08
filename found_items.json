@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pull & Bear, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Pull & Bear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/73kn11F37D",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/bNzXC4ENXq-cd71-0.jpg",
+    "found_at": "2026-09-08T14:12:15Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Uniqlo, Fleecetröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Lnwxh1JQDg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/FHFeq80hBv-304b-0.jpg",
+    "found_at": "2026-09-08T14:12:16Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Black Squad, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Black Squad",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/Lnwxh1JQDg-0471-0.jpg",
+    "found_at": "2026-09-08T14:12:16Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Miesten harmaa neuletakki",
     "price": "67.74",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/HPC5E6ePWa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/HPC5E6ePWa-ee5f-0.jpg",
     "found_at": "2026-09-08T02:11:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ben Sherman, Pullover, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ben Sherman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pGdgHNgDQX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/81wD7KreA7-a4c9-0.jpg",
-    "found_at": "2026-09-08T00:16:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Emporio Armani, Huvtröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Emporio Armani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EUEDFZJdAk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/IBuE4VyN18-6eb5-0.jpg",
-    "found_at": "2026-09-07T22:10:54Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nakata, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Nakata",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/ruqEozu3yN-772c-0.jpg",
-    "found_at": "2026-09-07T22:10:54Z"
   }
 ]
