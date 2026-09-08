@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HPC5E6ePWa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/HPC5E6ePWa-ee5f-0.jpg",
+    "found_at": "2026-09-08T02:11:23Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Ben Sherman, Pullover, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/lYpy2qZtlt",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/Kye6uhFshB-9fc9-0.jpg",
     "found_at": "2026-09-07T20:27:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Converse, Ytterväst, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Converse",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MR4i4e0KNX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
-    "found_at": "2026-09-07T20:27:46Z"
   }
 ]
