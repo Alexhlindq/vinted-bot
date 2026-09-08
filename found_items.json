@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Miesten harmaa neuletakki",
+    "price": "67.74",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9932233809-miesten-harmaa-neuletakki",
+    "image_url": "https://images1.vinted.net/t/05_02661_8SGZuuufpn5XF9fwKDpKvNtN/f800/1788875409.jpeg?s=3aad87476560666e7c6181c19bfb1532bf919531",
+    "found_at": "2026-09-08T13:54:49Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem Hollister",
+    "price": "47.16",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9932265057-bluza-z-kapturem-hollister",
+    "image_url": "https://images1.vinted.net/t/06_01783_zsGXiZRYyAGzsBkPg5Ynh3as/f800/1788875573.jpeg?s=dca85908753eb687325814c47ce6810cc1ccc82d",
+    "found_at": "2026-09-08T13:54:52Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Feikki Stone Island harmaa huppari",
+    "price": "44.59",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9932164483-feikki-stone-island-harmaa-huppari",
+    "image_url": "https://images1.vinted.net/t/03_01b3d_gFgKDVDKbfPArpH5Ep5gHh5W/f800/1788875050.jpeg?s=683c5f297c02764cb0a1c63ede8345662a657f21",
+    "found_at": "2026-09-08T13:54:53Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "ACNE Studios t shirt.",
+    "price": "225.04",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9932133453-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/03_00788_tLwAi4vtCs3zdjTZLi5q8BuV/f800/1788874888.jpeg?s=1513f118213cb801497574ac267fe4378a51d922",
+    "found_at": "2026-09-08T13:54:54Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Röd tröja",
     "price": "50.0",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/ruqEozu3yN-772c-0.jpg",
     "found_at": "2026-09-07T22:10:54Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Diesel jeans 30/34",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9926808400-diesel-jeans-3034",
-    "image_url": "https://images1.vinted.net/t/04_0114a_UNQdHk9n8qHBWoyWjhgL8NH2/f800/1788817767.jpeg?s=e32b658b00b9e17cd27f1b8710a3075f20431451",
-    "found_at": "2026-09-07T21:51:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "John Devin, Skepparkavaj, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "John Devin",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Z0bb5t5Yjd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/5mIde9E64c-6f47-0.jpg",
-    "found_at": "2026-09-07T21:52:27Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Adidas, Anorak, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Adidas",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/UeqGaI818D-101e-0.jpg",
-    "found_at": "2026-09-07T21:52:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Paul & Friends, Rugbytröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Paul & Friends",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/TNnuOHfN3j-3c84-0.jpg",
-    "found_at": "2026-09-07T21:40:39Z"
   }
 ]
