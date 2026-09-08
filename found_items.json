@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Uniqlo blå tröja med dragkedja",
+    "price": "35.0",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9928357776-uniqlo-bla-troja-med-dragkedja",
+    "image_url": "https://images1.vinted.net/t/02_006e9_7ZcZ3PtEhdBaAL1fW2u5ThCf/f800/1788851159.jpeg?s=324420223c9be1a655c5751e86ed0e96640d2c0c",
+    "found_at": "2026-09-08T07:13:13Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Överskjorta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/a5tGCGJAQ4-6a60-0.jpg",
+    "found_at": "2026-09-08T07:13:45Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren hoodie",
     "price": "99.0",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/PdsOk0XQDv",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/TNnuOHfN3j-3c84-0.jpg",
     "found_at": "2026-09-07T20:27:36Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cat, Fleecetröja, Strl: S/M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Cat",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wYMVkOeR2v",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/PdsOk0XQDv-7cc9-0.jpg",
-    "found_at": "2026-09-07T20:27:38Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Oakley, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Oakley",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/wYMVkOeR2v-b5d9-0.jpg",
-    "found_at": "2026-09-07T20:27:39Z"
   }
 ]
