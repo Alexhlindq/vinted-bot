@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo koszulka",
+    "price": "52.4",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9935050653-polo-koszulka",
+    "image_url": "https://images1.vinted.net/t/02_02619_Qjxj666BnW72oABbnR1LnP9d/f800/1788893419.jpeg?s=01701de3b2e39ce651d36fd35f308828878572d9",
+    "found_at": "2026-09-08T18:56:08Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren collegetröja",
+    "price": "80.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9934868888-ralph-lauren-collegetroja",
+    "image_url": "https://images1.vinted.net/t/02_016f0_1HebkEt4T7A7rhwGcD6nybQN/f800/1788892557.jpeg?s=191fd07c8feabf1b5cbfc8cf1c837fa064fe2585",
+    "found_at": "2026-09-08T18:56:08Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hoodie",
+    "price": "68.12",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9934976856-hoodie",
+    "image_url": "https://images1.vinted.net/t/02_00c13_euLtRviNVHasuQt9ijKfh7pq/f800/1788893068.jpeg?s=c6ecb45fb74c95bde1b53ccfba201215972f37fd",
+    "found_at": "2026-09-08T18:56:18Z"
+  },
+  {
+    "search_name": "Vinted bot 14",
+    "title": "Striktrøje",
+    "price": "51.35",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/8917511650-striktroje",
+    "image_url": "https://images1.vinted.net/t/06_013d8_YA3F74Uou9FyEpsQfXfdXJSX/f800/1778840243.jpeg?s=d363e7701dbc1bfc6b1057bb1e5d0849d86694e7",
+    "found_at": "2026-09-08T18:56:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Uniqlo, Fleecetröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/KqpI6CeJg2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/FHFeq80hBv-304b-0.jpg",
+    "found_at": "2026-09-08T18:56:51Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne tröja grön",
     "price": "150.0",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9929915085-levis-511-slim-fit",
     "image_url": "https://images1.vinted.net/t/05_00d68_imxRuVtwAfBBqp8Bt6uVPhNV/f800/1788862389.jpeg?s=951da98d818b9cb0a6f20f71977badbafbaaf82e",
     "found_at": "2026-09-08T10:29:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Yourturn, Huvtröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Yourturn",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qFos1sZtpO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/rTh3LAOBCU-a8d2-0.jpg",
-    "found_at": "2026-09-08T10:30:04Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bläck, Polotröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PHvPZhvAKV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/cl1WSftPXA-ce98-0.jpg",
-    "found_at": "2026-09-08T10:30:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo x UT, Collegetröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Uniqlo x UT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uVd6XWWDoE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/eafk2C435U-9341-0.jpg",
-    "found_at": "2026-09-08T10:30:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
-    "found_at": "2026-09-08T10:30:06Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek",
-    "price": "65.5",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9929766675-sweterek",
-    "image_url": "https://images1.vinted.net/t/01_02477_pX1TRyQ8dwxMmbLuKje5wu2Q/f800/1788861514.jpeg?s=401c59ef868407edb297cc836b99fb639559ea9d",
-    "found_at": "2026-09-08T10:12:26Z"
   }
 ]
