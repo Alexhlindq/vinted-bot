@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Hættetrøje",
+    "price": "113.28",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9935723708-haettetroje",
+    "image_url": "https://images1.vinted.net/t/06_02037_ToSDME1HtaoVT4r8KDywbSVE/f800/1788896865.jpeg?s=cf920d1da7b5f2190b170f3a3e8257619aa0e5f2",
+    "found_at": "2026-09-08T19:51:30Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Golden goose skor herr",
+    "price": "250.0",
+    "currency": "SEK",
+    "brand": "Golden Goose",
+    "size": "41",
+    "url": "https://www.vinted.se/items/9800185343-golden-goose-skor-herr",
+    "image_url": "https://images1.vinted.net/t/01_01917_h816rLRkSzjbjSfPommyY72N/f800/1787856938.jpeg?s=e0e0562e49b9ede715fdd283a8df1a8205d4ef69",
+    "found_at": "2026-09-08T19:51:36Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Vit ziphoodie med huva – Bondelid",
     "price": "50.0",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/OiDPnLDBsG",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/zFuSYLcVlg-dbcd-0.jpg",
     "found_at": "2026-09-08T10:57:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Volcom, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Volcom",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/OiDPnLDBsG-2c90-0.jpg",
-    "found_at": "2026-09-08T10:57:22Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluzka z kapturem",
-    "price": "117.9",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9930106868-bluzka-z-kapturem",
-    "image_url": "https://images1.vinted.net/t/05_0123a_CLPjbVPoV8s6JPx2BtF1KC6Z/f800/1788863518.jpeg?s=3d8d9cd4fe4c7a961352c11ca3c720b08c8c7a79",
-    "found_at": "2026-09-08T10:45:28Z"
   }
 ]
