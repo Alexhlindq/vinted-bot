@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "60.41",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9931623627-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/05_01ccf_AGASqSMK3wHbd6a32dQKkA3D/f800/1788872151.jpeg?s=a34e13a146608b7f911abac97586ddddc99fc426",
+    "found_at": "2026-09-08T12:57:18Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Stadium, Dunjacka, Strl: M",
     "price": 40,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/2GCwBpxHzb-62fe-0.jpg",
     "found_at": "2026-09-07T21:27:06Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Grå quarter zip",
-    "price": "75.29",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9896658413-gra-quarter-zip",
-    "image_url": "https://images1.vinted.net/t/05_01dab_Eq7M4upTFVpYMxQMXRyZPKPK/f800/1788617014.jpeg?s=64021f37f00b3538c13ee100ab277e6a3b718707",
-    "found_at": "2026-09-07T21:09:43Z"
   }
 ]
