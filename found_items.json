@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen, Bomberjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Helly Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/anei0EOJGE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/k4nApAOhMG-74b6-0.jpg",
+    "found_at": "2026-09-08T21:09:16Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Billabong, Överskjorta, Strl: S",
     "price": 50,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9932133453-acne-studios-t-shirt",
     "image_url": "https://images1.vinted.net/t/03_00788_tLwAi4vtCs3zdjTZLi5q8BuV/f800/1788874888.jpeg?s=1513f118213cb801497574ac267fe4378a51d922",
     "found_at": "2026-09-08T13:54:54Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Röd tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9932000343-rod-troja",
-    "image_url": "https://images1.vinted.net/t/06_004bb_tqTZSXpNN5itBnGssyM1Biix/f800/1788874162.jpeg?s=dece9ac77cd64f7ca4b16f3a22f8439860648f1a",
-    "found_at": "2026-09-08T13:33:11Z"
   }
 ]
