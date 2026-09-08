@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 511 Slim Fit",
+    "price": "60.41",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9929915085-levis-511-slim-fit",
+    "image_url": "https://images1.vinted.net/t/05_00d68_imxRuVtwAfBBqp8Bt6uVPhNV/f800/1788862389.jpeg?s=951da98d818b9cb0a6f20f71977badbafbaaf82e",
+    "found_at": "2026-09-08T10:29:35Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Yourturn, Huvtröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Yourturn",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qFos1sZtpO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/rTh3LAOBCU-a8d2-0.jpg",
+    "found_at": "2026-09-08T10:30:04Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bläck, Polotröja, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PHvPZhvAKV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/cl1WSftPXA-ce98-0.jpg",
+    "found_at": "2026-09-08T10:30:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Uniqlo x UT, Collegetröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Uniqlo x UT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uVd6XWWDoE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/eafk2C435U-9341-0.jpg",
+    "found_at": "2026-09-08T10:30:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "7 Days Active, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "7 Days Active",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
+    "found_at": "2026-09-08T10:30:06Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweterek",
     "price": "65.5",
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/gQG9FMGnLa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/DLnijno928-bb5c-0.jpg",
     "found_at": "2026-09-07T20:41:59Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Vinson Polo Club, Vinterjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Vinson Polo Club",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/OBVoeWMsj5-4c45-0.jpg",
-    "found_at": "2026-09-07T20:42:01Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Yourturn, Huvtröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Yourturn",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JG6XRtI0Ei",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/rTh3LAOBCU-a8d2-0.jpg",
-    "found_at": "2026-09-07T20:27:14Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Tröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5V9t4cdiIg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/m3bnBb5oHI-b4bf-0.jpg",
-    "found_at": "2026-09-07T20:27:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo, Tröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/t0E9nuPwwX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/Z3uVG6WEuY-4634-0.jpg",
-    "found_at": "2026-09-07T20:27:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Fruit of the Loom, Huvtröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Fruit of the Loom",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QprGFjsHUC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/t0E9nuPwwX-67ca-0.jpg",
-    "found_at": "2026-09-07T20:27:16Z"
   }
 ]
