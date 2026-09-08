@@ -348,7 +348,12 @@ def run_once(config, seen_ids):
             if bot_token and chat_id and "DITT_" not in str(bot_token):
                 photo_url = (item.get("photo") or {}).get("url", "")
                 item_url = item.get("url", "")
-                send_telegram(bot_token, chat_id, message, photo_url=photo_url, item_url=item_url)
+                # chat_id kan vara ett enda id ("123456") eller flera kommaseparerade
+                # ("123456,987654") om du vill att fler personer ska få notiserna.
+                for single_chat_id in str(chat_id).split(","):
+                    single_chat_id = single_chat_id.strip()
+                    if single_chat_id:
+                        send_telegram(bot_token, single_chat_id, message, photo_url=photo_url, item_url=item_url)
             else:
                 print("[Telegram] bot_token/chat_id är inte ifyllda i config.json – hoppar över notis.")
 
