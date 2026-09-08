@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Farkut",
+    "price": "56.45",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9928739554-farkut",
+    "image_url": "https://images1.vinted.net/t/02_00117_Lyi6f262T1c4Ay6nbND7Jeu3/f800/1788854838.jpeg?s=564f02c8460f138170a2d853f99268ebb32918c5",
+    "found_at": "2026-09-08T08:29:14Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza Hollister",
     "price": "65.5",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/7tC3HxBoul",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/6pZz8i1whb-a06c-0.jpg",
     "found_at": "2026-09-07T20:27:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ruqEozu3yN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
-    "found_at": "2026-09-07T20:27:34Z"
   }
 ]
