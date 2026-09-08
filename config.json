@@ -330,6 +330,18 @@
       "price_from": "",
       "price_to": "60",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Höstmode för honom (kurerad)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/store/edit/autumn-essentials-m?maxPrice=75&sizes=MEN-INT-M&sizes=MEN-INT-S&type=Tr%C3%B6ja&type=Jacka&type=%C3%96verskjorta&type=Collegetr%C3%B6ja&type=Vinterjacka&type=Fleecetr%C3%B6ja&type=Allv%C3%A4dersjacka&type=Huvtr%C3%B6ja&type=V%C3%A4ndbar+jacka&brand=Uniqlo&brand=These+Glory+Days&brand=ASOS+Design&brand=Weekday&brand=Arket&brand=Riley&brand=Bl%C3%A4ck&brand=NN07&brand=Sams%C3%B8e+%26+Sams%C3%B8e&brand=Selected+Homme&brand=Tom+Tailor&brand=Boss&brand=East+West&brand=Dismero&brand=ESPRIT&brand=Emilio&brand=Filippa+K&brand=J.Lindeberg&brand=Massimo+Dutti&brand=Morris&brand=Peak+Performance&brand=Race+Marine&brand=Puroego&brand=Profuomo",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
