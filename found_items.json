@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren",
+    "price": "112.9",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9935811081-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_019bd_LBhxrNcuesGCgCVWkz65km1m/f800/1788897354.jpeg?s=5378d5c64b4cb894b850dc4e4ae31b3a3d1e2d65",
+    "found_at": "2026-09-08T20:09:35Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "Vintage Ralph Lauren jacka",
+    "price": "380.0",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9935805281-vintage-ralph-lauren-jacka",
+    "image_url": "https://images1.vinted.net/t/06_016ef_ybiH3rvBLyrTx9yaW2J9Lk81/f800/1788897321.jpeg?s=92ec819e459b2420abc524ee3a7273541d529699",
+    "found_at": "2026-09-08T20:09:37Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie męskie Levis W30/L30",
+    "price": "39.3",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9935945740-spodnie-meskie-levis-w30l30",
+    "image_url": "https://images1.vinted.net/t/02_0215d_X9otkc4eb7Qfhoente12AWrb/f800/1788898149.jpeg?s=cb9046fc9d8ff1af31f3b80ab722eaca2b5d165b",
+    "found_at": "2026-09-08T20:09:40Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie Diesel",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9935809901-spodnie-diesel",
+    "image_url": "https://images1.vinted.net/t/04_012fe_CM1wBVAvSXhBuK6d8yZQbvKA/f800/1788897347.jpeg?s=ab21c3347fbb04845ea1bcbe86debabdf34fe4b4",
+    "found_at": "2026-09-08T20:09:41Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Hættetrøje",
     "price": "113.28",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9930806538-troja",
     "image_url": "https://images1.vinted.net/t/05_024fc_WLRLSY2tuTpGDHtUjcPuWQyT/f800/1788867551.jpeg?s=521cfc132258f2e5ef6e7e8e9ad2bc92c803ac56",
     "found_at": "2026-09-08T11:42:26Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios t-shirt",
-    "price": "271.86",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9930341045-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_01411_nwPRR3MwD7i6bWiXE2SSr3C7/f800/1788864875.jpeg?s=c36a0e1e75568caf4f6d7e3fe316e33cd93e1db2",
-    "found_at": "2026-09-08T11:11:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "J.Lindeberg, Pullover, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/zFuSYLcVlg-dbcd-0.jpg",
-    "found_at": "2026-09-08T11:12:05Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Dunjacka från Polo Ralph Lauren",
-    "price": "350.0",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9930287693-dunjacka-fran-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_00074_tu1VjiH4wMNWCaAXErYmqDn8/f800/1788864571.jpeg?s=92c5231566b4e60b18e09a6ce2de6a0617fe145b",
-    "found_at": "2026-09-08T10:56:47Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "J.Lindeberg, Pullover, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/OiDPnLDBsG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/zFuSYLcVlg-dbcd-0.jpg",
-    "found_at": "2026-09-08T10:57:22Z"
   }
 ]
