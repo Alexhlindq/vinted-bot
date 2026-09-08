@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka polo",
+    "price": "151.04",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9928186662-kurtka-polo",
+    "image_url": "https://images1.vinted.net/t/06_017ba_rYzrr53SLmZ1xY1SWh63qQ4u/f800/1788848857.jpeg?s=0cdd0db02d5b083155a85b62a95d1c21175b8be0",
+    "found_at": "2026-09-08T06:33:53Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi’s 505 c",
     "price": "65.5",
@@ -646,17 +657,6 @@
     "size": "",
     "url": "https://www.sellpy.se/item/6P3BBwGzkC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-12-k-16/kzHydGNyJd-b124-0.jpg",
-    "found_at": "2026-09-07T20:27:42Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Rockandblue, Vinterjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Rockandblue",
-    "size": "",
-    "url": "https://www.sellpy.se/item/aGcP3aODjr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/6P3BBwGzkC-80db-0.jpg",
     "found_at": "2026-09-07T20:27:42Z"
   }
 ]
