@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Mustat Diesel-farkut 30/30",
+    "price": "67.74",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9932727490-mustat-diesel-farkut-3030",
+    "image_url": "https://images1.vinted.net/t/06_01b4e_ERn75eToCbHunvyJDaUpiHVB/f800/1788878003.jpeg?s=c8fc5d939ffb1edd69cd7c3ac56b0e129e3cca62",
+    "found_at": "2026-09-08T14:47:40Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tröja, Bondelid",
+    "price": "25.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9932816733-troja-bondelid",
+    "image_url": "https://images1.vinted.net/t/05_00d3b_RVDTQgqHgv4UQhzy2HeQwz6c/f800/1788878458.jpeg?s=30a234143edbab6bb314e5e059932dda6b8b24d0",
+    "found_at": "2026-09-08T14:47:42Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Ben Sherman, Rock, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Ben Sherman",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hOoh9CYvdf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
+    "found_at": "2026-09-08T14:48:15Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza męska",
     "price": "52.4",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9928220166-polo-ralph-lauren-hoodie",
     "image_url": "https://images1.vinted.net/t/01_0192c_YKeeVA1Ve3zSZwdM2hjUHJtf/f800/1788849368.jpeg?s=11bd1f37cd0d22a933e2dd96758368b82b287263",
     "found_at": "2026-09-08T06:56:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Billabong, Överskjorta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Billabong",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MjAUwAhS5Z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
-    "found_at": "2026-09-08T06:57:13Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka polo",
-    "price": "151.04",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9928186662-kurtka-polo",
-    "image_url": "https://images1.vinted.net/t/06_017ba_rYzrr53SLmZ1xY1SWh63qQ4u/f800/1788848857.jpeg?s=0cdd0db02d5b083155a85b62a95d1c21175b8be0",
-    "found_at": "2026-09-08T06:33:53Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 505 c",
-    "price": "65.5",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9928090571-levis-505-c",
-    "image_url": "https://images1.vinted.net/t/06_01698_WUarUju69pXfm9tV1wzhsDgq/f800/1788847176.jpeg?s=c912acd8fdd75518ec17d0d5bb146f6cd3dc19f6",
-    "found_at": "2026-09-08T06:12:26Z"
   }
 ]
