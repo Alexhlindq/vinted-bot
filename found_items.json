@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie męskie Levis W30/L30",
+    "price": "52.4",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9929705458-spodnie-meskie-levis-w30l30",
+    "image_url": "https://images1.vinted.net/t/05_0119f_VpoJDRhMQS74SnzxQQ4hcWWS/f800/1788861157.jpeg?s=1cb20db57975c99b746d6da6a57d378143c8a8fa",
+    "found_at": "2026-09-08T09:56:38Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen, Skidjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Helly Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pWpktv5gdr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/cmZGUhYFbj-7292-0.jpg",
+    "found_at": "2026-09-08T09:57:14Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren crewneck navy old money tennis class",
     "price": "91.7",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/OVZChHTJrb",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/GL9wJAJaTa-eb11-0.jpg",
     "found_at": "2026-09-07T20:27:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nike Air Jordan, Huvtröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Nike Air Jordan",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jYeKFRYeam",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/OVZChHTJrb-c966-0.jpg",
-    "found_at": "2026-09-07T20:27:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ben Sherman, Pullover, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ben Sherman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BIARvfGbIu",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/81wD7KreA7-a4c9-0.jpg",
-    "found_at": "2026-09-07T20:27:22Z"
   }
 ]
