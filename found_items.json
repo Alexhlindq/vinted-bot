@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren Quarter zip",
+    "price": "112.9",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9929374975-polo-ralph-lauren-quarter-zip",
+    "image_url": "https://images1.vinted.net/t/01_026c3_aRAAZfGD74vye4kDQTSsHuBx/f800/1788859195.jpeg?s=5aa87e4009c7b9cee765fc88d7b7f41a68fecc6e",
+    "found_at": "2026-09-08T09:28:19Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren college",
+    "price": "95.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9929290939-polo-ralph-lauren-college",
+    "image_url": "https://images1.vinted.net/t/02_024a4_iCwCnDGFZkscycFxAzNMWWtQ/f800/1788858678.jpeg?s=0c66b13795bdba89e9c68dc692531311ec086a99",
+    "found_at": "2026-09-08T09:28:20Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Lewis 511",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9929313114-lewis-511",
+    "image_url": "https://images1.vinted.net/t/01_01516_Zywu6k2htzEgJJS9xHRi6e2M/f800/1788858816.jpeg?s=380c0fbdb8488d1baef24a3650dff7649c88fe80",
+    "found_at": "2026-09-08T09:28:24Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 512",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9929299355-levis-512",
+    "image_url": "https://images1.vinted.net/t/06_00e10_TZ9coj49nA8wxWmsqPoHxQPF/f800/1788858730.jpeg?s=61782412568ca842dc60a834120cc29ac85b9918",
+    "found_at": "2026-09-08T09:28:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Massimo Dutti, Rugbytröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/90kMqrl1HR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/4fkkApMZ29-11ae-0.jpg",
+    "found_at": "2026-09-08T09:28:55Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis 511",
     "price": "70.0",
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/csaDGTB23O",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/IehDFFPjnn-efbb-0.jpg",
     "found_at": "2026-09-07T20:27:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Boomerang, Jultröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/IBuE4VyN18",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/kbNsexvL1N-3039-0.jpg",
-    "found_at": "2026-09-07T20:27:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Emporio Armani, Huvtröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Emporio Armani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/u1B8eT8cmk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/IBuE4VyN18-6eb5-0.jpg",
-    "found_at": "2026-09-07T20:27:24Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Huvtröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9UIlewqbPx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/u1B8eT8cmk-ed9c-0.jpg",
-    "found_at": "2026-09-07T20:27:25Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bläck, Polotröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eXeRjeyGAV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/cl1WSftPXA-ce98-0.jpg",
-    "found_at": "2026-09-07T20:27:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Abercrombie & Fitch, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/z3C28obpXA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nvGaRTb1AP-ea10-0.jpg",
-    "found_at": "2026-09-07T20:27:26Z"
   }
 ]
