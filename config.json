@@ -366,6 +366,18 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search?query=h%C3%B6st+jackor&maxPrice=70&brand=-H%26M&brand=-Divided+by+H%26M&brand=-Vero+Moda&demography=Man&type=Jacka&type=Ytterv%C3%A4st&type=%C3%96verskjorta&type=Parkas&type=Kofta&type=Safarijacka&type=Arbetsjacka&type=Seglarjacka&sizes=MEN-INT-S&sizes=MEN-INT-M",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "70",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
