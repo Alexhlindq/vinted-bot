@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza męska",
+    "price": "52.4",
+    "currency": "SEK",
+    "brand": "Dsquared2",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9932672111-bluza-meska",
+    "image_url": "https://images1.vinted.net/t/06_00301_VH4tKYySYqavKW7rVxVwAKFR/f800/1788877716.jpeg?s=cf61a2507c753eabda4a073f1226dfbcdc552980",
+    "found_at": "2026-09-08T14:30:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Marlboro Classics, Dunjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Marlboro Classics",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YRaccFDiWr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/bbkoEGaRVx-6171-0.jpg",
+    "found_at": "2026-09-08T14:30:44Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Pull & Bear, Tröja, Strl: S",
     "price": 40,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9928090571-levis-505-c",
     "image_url": "https://images1.vinted.net/t/06_01698_WUarUju69pXfm9tV1wzhsDgq/f800/1788847176.jpeg?s=c912acd8fdd75518ec17d0d5bb146f6cd3dc19f6",
     "found_at": "2026-09-08T06:12:26Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen, Bomberjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Helly Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Px2C2B1IjU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/k4nApAOhMG-74b6-0.jpg",
-    "found_at": "2026-09-08T05:42:35Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HPC5E6ePWa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/HPC5E6ePWa-ee5f-0.jpg",
-    "found_at": "2026-09-08T02:11:23Z"
   }
 ]
