@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren hoodie",
+    "price": "99.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9928220166-polo-ralph-lauren-hoodie",
+    "image_url": "https://images1.vinted.net/t/01_0192c_YKeeVA1Ve3zSZwdM2hjUHJtf/f800/1788849368.jpeg?s=11bd1f37cd0d22a933e2dd96758368b82b287263",
+    "found_at": "2026-09-08T06:56:39Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Billabong, Överskjorta, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Billabong",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MjAUwAhS5Z",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
+    "found_at": "2026-09-08T06:57:13Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Kurtka polo",
     "price": "151.04",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/wYMVkOeR2v-b5d9-0.jpg",
     "found_at": "2026-09-07T20:27:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Överskjorta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kzHydGNyJd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/5BCaHTUsxC-f895-0.jpg",
-    "found_at": "2026-09-07T20:27:42Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Selected Homme, Bomberjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6P3BBwGzkC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-12-k-16/kzHydGNyJd-b124-0.jpg",
-    "found_at": "2026-09-07T20:27:42Z"
   }
 ]
