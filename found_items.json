@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "T-shirt Acne Studios",
+    "price": "262.01",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9933536689-t-shirt-acne-studios",
+    "image_url": "https://images1.vinted.net/t/02_022f7_CxW2aCX6ZXoahMSNLeJ6dmCz/f800/1788886822.jpeg?s=c0d4565c2a7ad903c1b752fe968efe6dfdaf5d91",
+    "found_at": "2026-09-08T17:10:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Gildan, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Gildan",
+    "size": "",
+    "url": "https://www.sellpy.se/item/76ZywpjNu2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/aTf54n5mCe-dcfe-0.jpg",
+    "found_at": "2026-09-08T17:10:35Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "sweter massimo dutti",
     "price": "39.3",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/6072019985-converse-comme-des-garcons",
     "image_url": "https://images1.vinted.net/t/04_00e5f_LAz52teHg3w5Gcsi6e5KSyuJ/f800/1743523085.jpeg?s=7f46435c62c5f773b2eb43378eb79e74cfef8560",
     "found_at": "2026-09-08T08:46:39Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Farkut",
-    "price": "56.45",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9928739554-farkut",
-    "image_url": "https://images1.vinted.net/t/02_00117_Lyi6f262T1c4Ay6nbND7Jeu3/f800/1788854838.jpeg?s=564f02c8460f138170a2d853f99268ebb32918c5",
-    "found_at": "2026-09-08T08:29:14Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "65.5",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9928618834-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_01c10_rPPSj5EDCZLM1Vefcs7KKzUC/f800/1788853802.jpeg?s=f84ffbf0d56d66902a4810fa7cea1c1836789f7d",
-    "found_at": "2026-09-08T08:10:56Z"
   }
 ]
