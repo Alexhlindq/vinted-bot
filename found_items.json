@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9928618834-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/06_01c10_rPPSj5EDCZLM1Vefcs7KKzUC/f800/1788853802.jpeg?s=f84ffbf0d56d66902a4810fa7cea1c1836789f7d",
+    "found_at": "2026-09-08T08:10:56Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza Diesel M",
     "price": "65.5",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ruqEozu3yN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
     "found_at": "2026-09-07T20:27:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nakata, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Nakata",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TNnuOHfN3j",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/ruqEozu3yN-772c-0.jpg",
-    "found_at": "2026-09-07T20:27:35Z"
   }
 ]
