@@ -1,6 +1,83 @@
 [
   {
     "search_name": "Vinted bot 10",
+    "title": "Levis 511",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9929275929-levis-511",
+    "image_url": "https://images1.vinted.net/t/05_01b59_i8K2QjK8VLNTM1fedgnnv51w/f800/1788858586.jpeg?s=f71f34a5091191aff0e6b3a3308900bde0bdaf4b",
+    "found_at": "2026-09-08T09:10:34Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 511",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9929254446-levis-511",
+    "image_url": "https://images1.vinted.net/t/06_026c7_6hjVRYiJPEJUpCQoPJNdzMYv/f800/1788858451.jpeg?s=348e9a9a2bf9f34ce862e247ab567f3f4ea1b226",
+    "found_at": "2026-09-08T09:10:35Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 511",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9929234995-levis-511",
+    "image_url": "https://images1.vinted.net/t/03_00c7d_NC2wbQXndcYLuR3UHgt9x4Xc/f800/1788858329.jpeg?s=46705d46faa09293b585199a58f6865c0b9a8b9a",
+    "found_at": "2026-09-08T09:10:36Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza męska czarna z haftem Hollister rozm. S",
+    "price": "49.78",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9929131976-bluza-meska-czarna-z-haftem-hollister-rozm-s",
+    "image_url": "https://images1.vinted.net/t/06_003e6_iUi1pxRhq5u8L2WaJjGazjNU/f800/1788858257.jpeg?s=52d2f5443bb3c3d5ac9dd4607d0c25daaa3bce53",
+    "found_at": "2026-09-08T09:10:37Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Huppari",
+    "price": "39.51",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9917406677-huppari",
+    "image_url": "https://images1.vinted.net/t/05_007d5_yMGggSgZtVtiwPGEwRJC7cD1/f800/1788767101.jpeg?s=db25666d0c00900621eff74cfe822d68b7228bba",
+    "found_at": "2026-09-08T09:10:38Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Oakley, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Oakley",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MMESuBJ1bO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/wYMVkOeR2v-b5d9-0.jpg",
+    "found_at": "2026-09-08T09:11:07Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "D+LJ, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "D+LJ",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/MMESuBJ1bO-2653-0.jpg",
+    "found_at": "2026-09-08T09:11:07Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
     "title": "Modne stylowe spodnie oryginalne Levis rozdarte",
     "price": "26.2",
     "currency": "SEK",
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/z3C28obpXA",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nvGaRTb1AP-ea10-0.jpg",
     "found_at": "2026-09-07T20:27:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cascallo, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Cascallo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eafk2C435U",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-l-2/z3C28obpXA-bc3f-0.jpg",
-    "found_at": "2026-09-07T20:27:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo x UT, Collegetröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Uniqlo x UT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zvxyefWLSG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/eafk2C435U-9341-0.jpg",
-    "found_at": "2026-09-07T20:27:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "MyWear Man, Jultröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "MyWear Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/w5eoS1pxyS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/RCEQL2KREX-0ca5-0.jpg",
-    "found_at": "2026-09-07T20:27:29Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Fila, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Fila",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sBBoKGUwjA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/w5eoS1pxyS-bba6-0.jpg",
-    "found_at": "2026-09-07T20:27:29Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Volcom, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Volcom",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wHr5hSDKmC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/sBBoKGUwjA-89d2-0.jpg",
-    "found_at": "2026-09-07T20:27:30Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/aTf54n5mCe",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
-    "found_at": "2026-09-07T20:27:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Morris, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "",
-    "url": "https://www.sellpy.se/item/H16j8MvDLE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
-    "found_at": "2026-09-07T20:27:32Z"
   }
 ]
