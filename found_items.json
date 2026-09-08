@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Ben Sherman, Pullover, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Ben Sherman",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pGdgHNgDQX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/81wD7KreA7-a4c9-0.jpg",
+    "found_at": "2026-09-08T00:16:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Emporio Armani, Huvtröja, Strl: S",
     "price": 60,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/MR4i4e0KNX",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
     "found_at": "2026-09-07T20:27:46Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bläck, Skepparkavaj, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JQ2di5nRAK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/MR4i4e0KNX-0c8f-0.jpg",
-    "found_at": "2026-09-07T20:27:47Z"
   }
 ]
