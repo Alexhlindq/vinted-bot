@@ -306,6 +306,18 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Grova stickade koftor",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/search/Man/Kl%C3%A4der/Tr%C3%B6jor-%26-Koftor?query=grovstickad%20kofta&sizes=MEN-INT-S&sizes=MEN-INT-M&maxPrice=75",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
