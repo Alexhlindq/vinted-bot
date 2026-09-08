@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot 10",
+    "title": "Modne stylowe spodnie oryginalne Levis rozdarte",
+    "price": "26.2",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9928994375-modne-stylowe-spodnie-oryginalne-levis-rozdarte",
+    "image_url": "https://images1.vinted.net/t/05_01afa_MQfekX9NJMNKCByX3yiYGMQv/f800/1788856750.jpeg?s=3115ff26a304f83240ec0736fd806ce74641825e",
+    "found_at": "2026-09-08T08:46:34Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis bukser 514 str W32 og L30",
+    "price": "67.97",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9925414333-levis-bukser-514-str-w32-og-l30",
+    "image_url": "https://images1.vinted.net/t/01_02148_aPYcFGdsPrxqoc1BAUtspydg/f800/1788808534.jpeg?s=ed111d7175b6eb2e22502986667fe14624d0dc9f",
+    "found_at": "2026-09-08T08:46:35Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza męska",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9929030296-bluza-meska",
+    "image_url": "https://images1.vinted.net/t/06_00d87_RNwbBJMCQQ33aPPoxouP6rc7/f800/1788856998.jpeg?s=e2dba0514c2f484da204d3d37cbbd2fffd384e2a",
+    "found_at": "2026-09-08T08:46:37Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Converse comme des garçons",
+    "price": "226.55",
+    "currency": "SEK",
+    "brand": "Comme des Garçons Play",
+    "size": "42,5",
+    "url": "https://www.vinted.se/items/6072019985-converse-comme-des-garcons",
+    "image_url": "https://images1.vinted.net/t/04_00e5f_LAz52teHg3w5Gcsi6e5KSyuJ/f800/1743523085.jpeg?s=7f46435c62c5f773b2eb43378eb79e74cfef8560",
+    "found_at": "2026-09-08T08:46:39Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
     "title": "Farkut",
     "price": "56.45",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/H16j8MvDLE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
     "found_at": "2026-09-07T20:27:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Scotch & Soda, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bNzXC4ENXq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
-    "found_at": "2026-09-07T20:27:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jhOk7JA0P0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/t3E5RJHu3d-51b2-0.jpg",
-    "found_at": "2026-09-07T20:27:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo, Fleecetröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6pZz8i1whb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/FHFeq80hBv-304b-0.jpg",
-    "found_at": "2026-09-07T20:27:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Rugbytröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7tC3HxBoul",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/6pZz8i1whb-a06c-0.jpg",
-    "found_at": "2026-09-07T20:27:33Z"
   }
 ]
