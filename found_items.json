@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren crewneck navy old money tennis class",
+    "price": "91.7",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9929514388-polo-ralph-lauren-crewneck-navy-old-money-tennis-class",
+    "image_url": "https://images1.vinted.net/t/05_01e61_2HDCcFWSupD39Rks9TptoAb4/f800/1788860033.jpeg?s=6bebee704838f51bcbf42dc595bb8aab5cff4fee",
+    "found_at": "2026-09-08T09:44:18Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Sweter cotton",
+    "price": "94.32",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9929504442-sweter-cotton",
+    "image_url": "https://images1.vinted.net/t/01_01e6e_fNawa3xBNbqR5LEPNDdBnjB3/f800/1788859974.jpeg?s=ad75166273436770164d64a13c2c56f70ffa11bf",
+    "found_at": "2026-09-08T09:44:18Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren Quarter zip",
     "price": "112.9",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/BIARvfGbIu",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/81wD7KreA7-a4c9-0.jpg",
     "found_at": "2026-09-07T20:27:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "A Day's March, Huvtröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "https://www.sellpy.se/item/IehDFFPjnn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/K8d1B3mCg8-ae5e-0.jpg",
-    "found_at": "2026-09-07T20:27:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Multiply Apparel, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Multiply Apparel",
-    "size": "",
-    "url": "https://www.sellpy.se/item/csaDGTB23O",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/IehDFFPjnn-efbb-0.jpg",
-    "found_at": "2026-09-07T20:27:23Z"
   }
 ]
