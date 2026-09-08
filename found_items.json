@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Dunjacka från Polo Ralph Lauren",
+    "price": "350.0",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9930287693-dunjacka-fran-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_00074_tu1VjiH4wMNWCaAXErYmqDn8/f800/1788864571.jpeg?s=92c5231566b4e60b18e09a6ce2de6a0617fe145b",
+    "found_at": "2026-09-08T10:56:47Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "J.Lindeberg, Pullover, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OiDPnLDBsG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/zFuSYLcVlg-dbcd-0.jpg",
+    "found_at": "2026-09-08T10:57:22Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Volcom, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Volcom",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/OiDPnLDBsG-2c90-0.jpg",
+    "found_at": "2026-09-08T10:57:22Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluzka z kapturem",
     "price": "117.9",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/WwHAeBlgAH",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/zpOQgtMS7n-3bb6-0.jpg",
     "found_at": "2026-09-07T20:53:09Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "8848 Altitude, Dunjacka, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "8848 Altitude",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/yhFxehEcxs-293f-0.jpg",
-    "found_at": "2026-09-07T20:53:10Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza hollister",
-    "price": "46.96",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9926257781-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_00b92_1csrbS2cVeGDbZS5PUxE3DKS/f800/1788813214.jpeg?s=cac746784873aae87b34f6eda215b2b1c12647ab",
-    "found_at": "2026-09-07T20:41:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Tröja, Strl: S/M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ERzYXyxKWC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/RsJE3BOAed-f3da-0.jpg",
-    "found_at": "2026-09-07T20:41:55Z"
   }
 ]
