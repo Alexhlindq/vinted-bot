@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen, Bomberjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Helly Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Px2C2B1IjU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/k4nApAOhMG-74b6-0.jpg",
+    "found_at": "2026-09-08T05:42:35Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/Kye6uhFshB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/aGcP3aODjr-3482-0.jpg",
     "found_at": "2026-09-07T20:27:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Scotch & Soda, Parkas, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lYpy2qZtlt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/Kye6uhFshB-9fc9-0.jpg",
-    "found_at": "2026-09-07T20:27:45Z"
   }
 ]
