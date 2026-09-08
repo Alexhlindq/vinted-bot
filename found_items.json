@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 505 c",
+    "price": "65.5",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9928090571-levis-505-c",
+    "image_url": "https://images1.vinted.net/t/06_01698_WUarUju69pXfm9tV1wzhsDgq/f800/1788847176.jpeg?s=c912acd8fdd75518ec17d0d5bb146f6cd3dc19f6",
+    "found_at": "2026-09-08T06:12:26Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Helly Hansen, Bomberjacka, Strl: M",
     "price": 40,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/aGcP3aODjr",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/6P3BBwGzkC-80db-0.jpg",
     "found_at": "2026-09-07T20:27:42Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Dickies, Parkas, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Dickies",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Kye6uhFshB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/aGcP3aODjr-3482-0.jpg",
-    "found_at": "2026-09-07T20:27:44Z"
   }
 ]
