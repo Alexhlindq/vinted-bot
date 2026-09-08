@@ -354,6 +354,18 @@
       "price_from": "",
       "price_to": "75",
       "currency": "SEK"
+    },
+    {
+      "name": "Sellpy - Arbets-/safarijackor (ej H&M/Zara/Lager157)",
+      "site": "sellpy",
+      "search_text": "",
+      "path": "/store/edit/autumn-essentials-m?maxPrice=75&type=%C3%96verskjorta&type=Safarijacka&type=Jaktjacka&type=Arbetsjacka&type=Allv%C3%A4dersjacka&type=Arbetsskjorta&brand=-H%26M&brand=-Lager+157&brand=-H%26M+Man&brand=-Zara&brand=-L.O.G.G+by+H%26M&sizes=MEN-INT-S&sizes=MEN-INT-M&demography=Man",
+      "catalog_ids": "",
+      "size_ids": "",
+      "brand_ids": "",
+      "price_from": "",
+      "price_to": "75",
+      "currency": "SEK"
     }
   ],
   "my_listings": {
