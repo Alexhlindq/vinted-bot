@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 15",
+    "title": "CDG x Converse",
+    "price": "210.0",
+    "currency": "SEK",
+    "brand": "Converse x Comme des Garçons",
+    "size": "41,5",
+    "url": "https://www.vinted.se/items/9138016576-cdg-x-converse",
+    "image_url": "https://images1.vinted.net/t/05_00081_HTrnn9yga22haePJztkmtA7T/f800/1781096997.jpeg?s=d90772e9af5a046fec3809f32e424d9547e14c15",
+    "found_at": "2026-09-09T22:09:54Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Black Squad, Vinterjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Black Squad",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mY6UfHeIJX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
+    "found_at": "2026-09-09T22:10:29Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Champion, Jacka, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Champion",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/mY6UfHeIJX-7433-0.jpg",
+    "found_at": "2026-09-09T22:10:30Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Mörkblå piké-tröja XS ACNE",
     "price": "295.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/CuFSXdtlIW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/kLcy8lz1cx-193e-0.jpg",
     "found_at": "2026-09-09T13:32:50Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M Studio, Collegetröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "H&M Studio",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-10/H16j8MvDLE-a7ab-0.jpg",
-    "found_at": "2026-09-09T13:32:52Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Luźna bluza męska z kapturem Hollister rozm. M/L",
-    "price": "57.52",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9940141715-luzna-bluza-meska-z-kapturem-hollister-rozm-ml",
-    "image_url": "https://images1.vinted.net/t/06_02177_ERqjpShdvmVuwu85ip2GGrSy/f800/1788950075.jpeg?s=81dbe32c4355bbcf699abc2a1bb1dbd47ea3983b",
-    "found_at": "2026-09-09T13:13:09Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FTEBnjODnz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/90kMqrl1HR-d50a-0.jpg",
-    "found_at": "2026-09-09T13:13:42Z"
   }
 ]
