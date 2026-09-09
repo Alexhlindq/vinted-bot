@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Ellesse, Collegetröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Ellesse",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/a7uSdAnihC-b06b-0.jpg",
+    "found_at": "2026-09-09T09:46:31Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Czarna kurtka puchowa Polo Ralph Lauren r. M / Puffer Jacket",
     "price": "261.42",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/8YIuaRXtuk",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
     "found_at": "2026-09-09T01:13:49Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sZgnzWrhn0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/PNhDjtzypu-5b64-0.jpg",
-    "found_at": "2026-09-09T01:13:50Z"
   }
 ]
