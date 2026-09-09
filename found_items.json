@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Jeansy Nudie Jeans Thin Finn Mortal Indigo W28 L32 Slim Tapered",
+    "price": "91.51",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9947536704-jeansy-nudie-jeans-thin-finn-mortal-indigo-w28-l32-slim-tapered",
+    "image_url": "https://images1.vinted.net/t/02_01056_rrA3CGxBnwXwbEKtXTYWdDXh/f800/1788986916.jpeg?s=94f7ccf3d274a630a36dd0c1ed438e57793fdd40",
+    "found_at": "2026-09-09T20:52:05Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios polo",
+    "price": "226.34",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9947532758-acne-studios-polo",
+    "image_url": "https://images1.vinted.net/t/02_002d7_7CTayaqEJzLp95EWdeh7N4we/f800/1788986885.jpeg?s=d940a96ba0d194f4e081ad998b41a33917021e34",
+    "found_at": "2026-09-09T20:52:13Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Club Monaco, Jacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Club Monaco",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PT6Cf8g3t1",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/PT6Cf8g3t1-b312-0.jpg",
+    "found_at": "2026-09-09T20:53:01Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lyle & Scott Vintage, Tröja, Strl: S",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
     "found_at": "2026-09-09T13:14:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/xysVm95dSh-bb5f-0.jpg",
-    "found_at": "2026-09-09T13:14:03Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Boomerang, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Boomerang",
-    "size": "",
-    "url": "https://www.sellpy.se/item/a9NDAxNciT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/a9NDAxNciT-e161-0.jpg",
-    "found_at": "2026-09-09T13:14:14Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek orginalny polo ralph lauren",
-    "price": "104.58",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9941495251-sweterek-orginalny-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_0263d_NKugdYMvEmDwfeyEK2uEJaQL/f800/1788957325.jpeg?s=d16872ae76275322f6e99d3c3d9227be1e616cc2",
-    "found_at": "2026-09-09T12:56:42Z"
   }
 ]
