@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis bootcut 527",
+    "price": "54.9",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9944618069-levis-bootcut-527",
+    "image_url": "https://images1.vinted.net/t/01_00f55_3ojDqhqFRdoaT4WrpCYpRCmv/f800/1788971501.jpeg?s=3b172284e96c582617176d097f1dcffbd817237c",
+    "found_at": "2026-09-09T16:45:52Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios T-Shirt",
+    "price": "300.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9944587984-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_01326_yJaauqdRVfwNRN5dhdoSH7ZL/f800/1788971369.jpeg?s=4483d8272c0cf4e5f1e02e359674e2c3c4fc205d",
+    "found_at": "2026-09-09T16:45:57Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Kofta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NLsWx9oQqJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/kzOmlZasDB-63ed-0.jpg",
+    "found_at": "2026-09-09T16:46:26Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "SOS, Jacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "SOS",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PrAYwCtaWZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/PrAYwCtaWZ-6747-0.jpg",
+    "found_at": "2026-09-09T16:46:47Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Strömberg, Jacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Strömberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bdgyLXoyQ7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/bdgyLXoyQ7-c95f-0.jpg",
+    "found_at": "2026-09-09T16:46:49Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne Studios T-shirt",
     "price": "250.0",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9938345039-jasnoniebieskie-spodnie-jeansowe-levis-model-511-slim",
     "image_url": "https://images1.vinted.net/t/06_0074d_zjLMnGWexj5uL9F1Eqsook3Y/f800/1788938568.jpeg?s=628c794c60ee199ff371e491c7935fc357ff0772",
     "found_at": "2026-09-09T07:30:06Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: S/M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Bsy0pD3iOf",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-13-k-15/CEHBpDQtLf-76d0-0.jpg",
-    "found_at": "2026-09-09T07:12:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Abercrombie & Fitch, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Abercrombie & Fitch",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uny6urF6fc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nvGaRTb1AP-ea10-0.jpg",
-    "found_at": "2026-09-09T06:57:13Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Bläck, Kofta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/r137jGnRvA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/r137jGnRvA-88e3-0.jpg",
-    "found_at": "2026-09-09T06:57:19Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Hollister college",
-    "price": "45.11",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9937943174-hollister-college",
-    "image_url": "https://images1.vinted.net/t/02_01e96_WtQVHn9MPmMvJBwysrGS9ren/f800/1788933491.jpeg?s=83ca00734100d2b247d7714395b3ca8ddc2fbf96",
-    "found_at": "2026-09-09T06:12:33Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Blue Polo Ralph Lauren collage",
-    "price": "118.43",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9920948718-blue-polo-ralph-lauren-collage",
-    "image_url": "https://images1.vinted.net/t/01_00c55_5bE9QPrVQJABC9sG2H3gPgN2/f800/1788929105.jpeg?s=1cbf8a188c06b2013f1c0f2b9baf2bff075f471c",
-    "found_at": "2026-09-09T04:55:34Z"
   }
 ]
