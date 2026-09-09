@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza męska",
+    "price": "65.36",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9943766566-bluza-meska",
+    "image_url": "https://images1.vinted.net/t/03_00d49_iV9qsGkuXaMbp7Za4nJ5ARyw/f800/1788967764.jpeg?s=e741dfce81ed3a409d241bc22d158c09886c1f20",
+    "found_at": "2026-09-09T15:30:56Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Grå Acne Studios langærmet",
+    "price": "241.43",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9943718460-gra-acne-studios-langaermet",
+    "image_url": "https://images1.vinted.net/t/01_024e8_56pnEpujhLqGxhgpq8L5JDg1/f800/1788967551.jpeg?s=b6e26a4514af51ebf656c3570dfb9d065de6f7af",
+    "found_at": "2026-09-09T15:30:59Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "DC Shoes, Huvtröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "DC Shoes",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vy1k9eKH8f",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
+    "found_at": "2026-09-09T15:31:28Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza",
     "price": "52.29",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/srjdkHxWq2",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/WIZvzbcn2u-dc73-0.jpg",
     "found_at": "2026-09-09T01:12:50Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Riley, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BFO87CKwA9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/srjdkHxWq2-78ff-0.jpg",
-    "found_at": "2026-09-09T01:12:51Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Jacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7kAk9Py9pS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/E0dPR0JcCj-288a-0.jpg",
-    "found_at": "2026-09-09T01:12:53Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qIVMlFEnbb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/8Bke6vPbqJ-a3de-0.jpg",
-    "found_at": "2026-09-09T01:12:54Z"
   }
 ]
