@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Green Bay, Regnjacka, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Green Bay",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Upd5TvAqGo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/upMdgdTK5F-75de-0.jpg",
+    "found_at": "2026-09-09T19:51:25Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Superdry Sport, Regnjacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Superdry Sport",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wLCCGZkX1M",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/anei0EOJGE-1a62-0.jpg",
+    "found_at": "2026-09-09T19:51:26Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren crewneck",
     "price": "45.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9940912586-bluza-diesel",
     "image_url": "https://images1.vinted.net/t/06_023e2_GUwn5W7FCZy9CgeYtYdxbN3h/f800/1788954367.jpeg?s=b23980513f6083fe5d92c84b85f7e4c7522e7c5d",
     "found_at": "2026-09-09T11:54:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Scotch & Soda, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
-    "found_at": "2026-09-09T11:54:50Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter cotton",
-    "price": "94.12",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9940552446-sweter-cotton",
-    "image_url": "https://images1.vinted.net/t/02_00644_j7Re5iq2R7Et7zRTzRMFjgtR/f800/1788952412.jpeg?s=6303629488da682d8e067ad4ceb401cabe3cd9b6",
-    "found_at": "2026-09-09T11:27:12Z"
   }
 ]
