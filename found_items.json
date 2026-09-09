@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios sweatshirt med Face-motiv – storlek M",
+    "price": "299.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9946032366-acne-studios-sweatshirt-med-face-motiv-storlek-m",
+    "image_url": "https://images1.vinted.net/t/06_01571_v6NAYqjukEioBhXzKpCJngUi/f800/1788978138.jpeg?s=263cb5b3dbd32ddee2c65bca8341f6056d92160f",
+    "found_at": "2026-09-09T18:34:27Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo RL ohut huppari M",
     "price": "112.79",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9939397282-bluza-acne-studios-crewneck-czarna-bluza-drill-streetwear-sweden-brand",
     "image_url": "https://images1.vinted.net/t/06_008da_qrMJUGJqYrFne27bheSAJ7Ly/f800/1788945890.jpeg?s=007b06da6089618cf82339e28a2fa8e2a16e7e80",
     "found_at": "2026-09-09T09:29:46Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Premium by Jack & Jones, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Premium by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QhyFyCpOCa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-1/QhyFyCpOCa-b1f7-0.jpg",
-    "found_at": "2026-09-09T09:30:22Z"
   }
 ]
