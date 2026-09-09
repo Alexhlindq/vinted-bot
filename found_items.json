@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Car de la Car, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Car de la Car",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
+    "found_at": "2026-09-09T10:44:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Karl Kani, Huvtröja, Strl: M",
     "price": 65,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/XWqiFjTqCX",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/rcU4VYGcxh-d975-0.jpg",
     "found_at": "2026-09-09T01:13:44Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/C4OPs6p7iK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/cgen4Uzq1i-a815-0.jpg",
-    "found_at": "2026-09-09T01:13:46Z"
   }
 ]
