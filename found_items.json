@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Czarna kurtka puchowa Polo Ralph Lauren r. M / Puffer Jacket",
+    "price": "261.42",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9939346704-czarna-kurtka-puchowa-polo-ralph-lauren-r-m-puffer-jacket",
+    "image_url": "https://images1.vinted.net/t/05_0255b_YMRrMj7e3PeDAo9JxnUUR46L/f800/1788945604.jpeg?s=6f6421918b8d3d1d17b58a313178f27256a41bdc",
+    "found_at": "2026-09-09T09:29:40Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Bluza Acne Studios crewneck czarna bluza drill streetwear sweden brand",
+    "price": "235.27",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9939397282-bluza-acne-studios-crewneck-czarna-bluza-drill-streetwear-sweden-brand",
+    "image_url": "https://images1.vinted.net/t/06_008da_qrMJUGJqYrFne27bheSAJ7Ly/f800/1788945890.jpeg?s=007b06da6089618cf82339e28a2fa8e2a16e7e80",
+    "found_at": "2026-09-09T09:29:46Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Premium by Jack & Jones, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Premium by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QhyFyCpOCa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-1/QhyFyCpOCa-b1f7-0.jpg",
+    "found_at": "2026-09-09T09:30:22Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Jack & Jones, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/p5xW2ARWmV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/p5xW2ARWmV-5c3c-0.jpg",
+    "found_at": "2026-09-09T09:30:37Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levisjeans",
     "price": "40.0",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/sZgnzWrhn0",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/PNhDjtzypu-5b64-0.jpg",
     "found_at": "2026-09-09T01:13:50Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "East West, Collegetröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "East West",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bL4Sn90AxL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/8YIuaRXtuk-2018-0.jpg",
-    "found_at": "2026-09-09T01:13:52Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Tom Tailor, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tom Tailor",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZAnUwggM1K",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/sZgnzWrhn0-0865-0.jpg",
-    "found_at": "2026-09-09T01:13:53Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YRdTW4lbXD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/ZAnUwggM1K-3de6-0.jpg",
-    "found_at": "2026-09-09T01:13:54Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GBXHo0FBAW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/PMOgTKq5Py-cddf-0.jpg",
-    "found_at": "2026-09-09T01:13:56Z"
   }
 ]
