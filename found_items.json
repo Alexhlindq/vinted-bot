@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Polo Ralph Lauren V-Neck Różowy / Jasny Róż M – Pima Cotton",
+    "price": "117.65",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9938948177-sweter-polo-ralph-lauren-v-neck-rozowy-jasny-roz-m-pima-cotton",
+    "image_url": "https://images1.vinted.net/t/04_01f15_S9GtDiVHts7MHHRGCpwLB3jb/f800/1788943198.jpeg?s=1afcf3238f79c3f33c3c3c38d5c95d51f8bbdc25",
+    "found_at": "2026-09-09T11:10:10Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 501 1993 made in usa",
+    "price": "65.36",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9908645101-levis-501-1993-made-in-usa",
+    "image_url": "https://images1.vinted.net/t/06_004d9_jMGJXhiv2mnQRDEfahmwDhY8/f800/1788701677.jpeg?s=b08dad84ea615aa30c66189723650ad54b254811",
+    "found_at": "2026-09-09T11:10:14Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Bluza stone island r.S",
+    "price": "196.08",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9430277269-bluza-stone-island-rs",
+    "image_url": "https://images1.vinted.net/t/06_01501_p87P93TztUUruUUSv9jDDkCh/f800/1784396819.jpeg?s=cccffeb9dc638fd76f470a680b913112284678b2",
+    "found_at": "2026-09-09T11:10:17Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios sweat",
+    "price": "271.61",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9940397831-acne-studios-sweat",
+    "image_url": "https://images1.vinted.net/t/04_0077e_cS6NrLqwdVaT8Krxm1Njg1sP/f800/1788951535.jpeg?s=b7c9a8f25863475c29913430259fb634ef9ec04c",
+    "found_at": "2026-09-09T11:10:19Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Car de la Car, Collegetröja, Strl: M",
     "price": 40,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/UGUer8ligI",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/RQ95Og3ktd-816f-0.jpg",
     "found_at": "2026-09-09T01:13:39Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FsaCGi5rZj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-7/n3gHhGfEYq-fc57-0.jpg",
-    "found_at": "2026-09-09T01:13:40Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rcU4VYGcxh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/UGUer8ligI-f206-0.jpg",
-    "found_at": "2026-09-09T01:13:41Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "J.Lindeberg, Tröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cgen4Uzq1i",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/FsaCGi5rZj-0b5e-0.jpg",
-    "found_at": "2026-09-09T01:13:43Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XWqiFjTqCX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/rcU4VYGcxh-d975-0.jpg",
-    "found_at": "2026-09-09T01:13:44Z"
   }
 ]
