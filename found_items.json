@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Boohoo Man, Jacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Boohoo Man",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lwVE7esdMQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/lwVE7esdMQ-eaa3-0.jpg",
+    "found_at": "2026-09-09T02:43:34Z"
+  },
+  {
     "search_name": "Sellpy - Höstmode för honom (kurerad)",
     "title": "Morris, Tröja, Strl: S",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/sJE1esxvyV",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/kAA1mXqKnj-4729-0.jpg",
     "found_at": "2026-09-09T00:16:28Z"
-  },
-  {
-    "search_name": "Sellpy - Arbets-/safarijackor (ej H&M/Zara/Lager157)",
-    "title": "Jules, Överskjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Jules",
-    "size": "",
-    "url": "https://www.sellpy.se/item/IvjwHBEnAE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-l-1/wCa2V7PC2l-bafe-0.jpg",
-    "found_at": "2026-09-09T00:16:30Z"
   }
 ]
