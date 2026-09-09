@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Orange Polo Ralph Lauren tröja",
+    "price": "90.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9947632107-orange-polo-ralph-lauren-troja",
+    "image_url": "https://images1.vinted.net/t/02_0200f_WoEpm7HNpK6gEsFkrB5omWqm/f800/1788987705.jpeg?s=e05cd50d9b064c5b0be22fef2ea679f9aff3cd8c",
+    "found_at": "2026-09-09T21:08:39Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "These Glory Days, Vinterjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/Wi9NDR3npP-b53a-0.jpg",
+    "found_at": "2026-09-09T21:09:15Z"
+  },
+  {
     "search_name": "Vinted bot 4",
     "title": "Jeansy Nudie Jeans Thin Finn Mortal Indigo W28 L32 Slim Tapered",
     "price": "91.51",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/FxhQ2BMOJh",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/YRdTW4lbXD-4a3c-single.jpg",
     "found_at": "2026-09-09T13:13:58Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xysVm95dSh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/GBXHo0FBAW-f810-0.jpg",
-    "found_at": "2026-09-09T13:13:59Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
-    "found_at": "2026-09-09T13:14:00Z"
   }
 ]
