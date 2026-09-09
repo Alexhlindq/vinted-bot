@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios T-shirt",
+    "price": "250.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9944542501-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/06_00bfb_ANYJPgoKYurdpyg2FromT28r/f800/1788971169.jpeg?s=14dfe78905796ded6d59444fda1c5f083ba00c50",
+    "found_at": "2026-09-09T16:29:01Z"
+  },
+  {
     "search_name": "Vinted bot 15",
     "title": "CDG Converse Beaters",
     "price": "100.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9920948718-blue-polo-ralph-lauren-collage",
     "image_url": "https://images1.vinted.net/t/01_00c55_5bE9QPrVQJABC9sG2H3gPgN2/f800/1788929105.jpeg?s=1cbf8a188c06b2013f1c0f2b9baf2bff075f471c",
     "found_at": "2026-09-09T04:55:34Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Czarne jeans spodnie levi slim 712 w32 vintage retro Classic skate y2k swag Usa Japan grunge",
-    "price": "65.36",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9937755037-czarne-jeans-spodnie-levi-slim-712-w32-vintage-retro-classic-skate-y2k-swag-usa-japan-grunge",
-    "image_url": "https://images1.vinted.net/t/06_006a4_D1aTvCo5fjgSezujdtYcgX1b/f800/1788928759.jpeg?s=1f27e0fc6032e1c397a8130ca1b9239fac119843",
-    "found_at": "2026-09-09T04:43:24Z"
   }
 ]
