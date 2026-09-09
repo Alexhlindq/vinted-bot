@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter polo Ralph Lauren puma cotton rozmiar XS",
+    "price": "101.96",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9943131881-sweter-polo-ralph-lauren-puma-cotton-rozmiar-xs",
+    "image_url": "https://images1.vinted.net/t/05_01725_pdErdT7m5usQgJM6jxCqiR6q/f800/1788964958.jpeg?s=1e6ffa19fd1e91c75aef23b6ee3ee76291caaea8",
+    "found_at": "2026-09-09T14:45:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/kLcy8lz1cx-193e-0.jpg",
+    "found_at": "2026-09-09T14:45:43Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Zestaw sweterków",
     "price": "39.22",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/A5W6lwsEzl",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/ceDvqDlG9U-8547-0.jpg",
     "found_at": "2026-09-09T01:12:59Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Peak Performance, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NvlIyNqyhK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/A5W6lwsEzl-5277-0.jpg",
-    "found_at": "2026-09-09T01:13:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Samsøe & Samsøe, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/C4nN4z4ox7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/NvlIyNqyhK-e9f9-0.jpg",
-    "found_at": "2026-09-09T01:13:02Z"
   }
 ]
