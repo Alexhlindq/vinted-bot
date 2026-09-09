@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot 8",
+    "title": "Zestaw sweterków",
+    "price": "39.22",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9942726849-zestaw-sweterkow",
+    "image_url": "https://images1.vinted.net/t/02_015d3_sqXjyg83wgjz5UzZZ2DfNr81/f800/1788963115.jpeg?s=0c65d0af5f88895e17cc5550897810344c6251ec",
+    "found_at": "2026-09-09T14:28:15Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
     "title": "Sweter w paski Massimo Dutti",
     "price": "65.36",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/C4nN4z4ox7",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/NvlIyNqyhK-e9f9-0.jpg",
     "found_at": "2026-09-09T01:13:02Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UrV8rSYRYe",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/ITKqVP9BCJ-86ae-0.jpg",
-    "found_at": "2026-09-09T01:13:03Z"
   }
 ]
