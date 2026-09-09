@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren crewneck",
+    "price": "45.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9946702379-ralph-lauren-crewneck",
+    "image_url": "https://images1.vinted.net/t/01_001ef_9o4V8yFPYAW9kzoBU5FThepn/f800/1788981662.jpeg?s=ec702c335ceaaedaa1c3b3df5661c64ac98727f9",
+    "found_at": "2026-09-09T19:25:17Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Sweatshirt",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9946579089-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/05_00e58_Pb1rxMjmU1GrSbabFZaKGBiE/f800/1788980996.jpeg?s=a9490ae718d27713b712effc78a9b91d9c62ac19",
+    "found_at": "2026-09-09T19:25:23Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen, Skidjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Helly Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/upMdgdTK5F",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/cmZGUhYFbj-7292-0.jpg",
+    "found_at": "2026-09-09T19:25:57Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Paul & Friends, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Paul & Friends",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ruEr3xoAnE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/ruEr3xoAnE-9252-0.jpg",
+    "found_at": "2026-09-09T19:26:00Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Dahlin, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Dahlin",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bvqei32wBn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/bvqei32wBn-64dd-0.jpg",
+    "found_at": "2026-09-09T19:26:02Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Visual Clothing Project, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Visual Clothing Project",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rrpISWaG8N",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/rrpISWaG8N-b1f0-0.jpg",
+    "found_at": "2026-09-09T19:26:04Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "H&M, Kofta, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yyvS7OHsOc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-3/yyvS7OHsOc-f981-0.jpg",
+    "found_at": "2026-09-09T19:26:06Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "NN07, Kofta, Strl: M",
     "price": 60,
@@ -581,82 +658,5 @@
     "url": "https://www.vinted.se/items/9940552446-sweter-cotton",
     "image_url": "https://images1.vinted.net/t/02_00644_j7Re5iq2R7Et7zRTzRMFjgtR/f800/1788952412.jpeg?s=6303629488da682d8e067ad4ceb401cabe3cd9b6",
     "found_at": "2026-09-09T11:27:12Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Polo Ralph Lauren V-Neck Różowy / Jasny Róż M – Pima Cotton",
-    "price": "117.65",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9938948177-sweter-polo-ralph-lauren-v-neck-rozowy-jasny-roz-m-pima-cotton",
-    "image_url": "https://images1.vinted.net/t/04_01f15_S9GtDiVHts7MHHRGCpwLB3jb/f800/1788943198.jpeg?s=1afcf3238f79c3f33c3c3c38d5c95d51f8bbdc25",
-    "found_at": "2026-09-09T11:10:10Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 501 1993 made in usa",
-    "price": "65.36",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9908645101-levis-501-1993-made-in-usa",
-    "image_url": "https://images1.vinted.net/t/06_004d9_jMGJXhiv2mnQRDEfahmwDhY8/f800/1788701677.jpeg?s=b08dad84ea615aa30c66189723650ad54b254811",
-    "found_at": "2026-09-09T11:10:14Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza stone island r.S",
-    "price": "196.08",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9430277269-bluza-stone-island-rs",
-    "image_url": "https://images1.vinted.net/t/06_01501_p87P93TztUUruUUSv9jDDkCh/f800/1784396819.jpeg?s=cccffeb9dc638fd76f470a680b913112284678b2",
-    "found_at": "2026-09-09T11:10:17Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios sweat",
-    "price": "271.61",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9940397831-acne-studios-sweat",
-    "image_url": "https://images1.vinted.net/t/04_0077e_cS6NrLqwdVaT8Krxm1Njg1sP/f800/1788951535.jpeg?s=b7c9a8f25863475c29913430259fb634ef9ec04c",
-    "found_at": "2026-09-09T11:10:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Car de la Car, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Car de la Car",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
-    "found_at": "2026-09-09T10:44:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/t3E5RJHu3d-51b2-0.jpg",
-    "found_at": "2026-09-09T10:11:19Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Black Squad, Vinterjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
-    "found_at": "2026-09-09T10:11:23Z"
   }
 ]
