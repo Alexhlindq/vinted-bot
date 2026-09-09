@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Karl Kani, Huvtröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Karl Kani",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/t3E5RJHu3d-51b2-0.jpg",
+    "found_at": "2026-09-09T10:11:19Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Black Squad, Vinterjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Black Squad",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
+    "found_at": "2026-09-09T10:11:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Ellesse, Collegetröja, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/C4OPs6p7iK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/cgen4Uzq1i-a815-0.jpg",
     "found_at": "2026-09-09T01:13:46Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2u3u92R1KC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/XWqiFjTqCX-653a-0.jpg",
-    "found_at": "2026-09-09T01:13:47Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Bläck, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8YIuaRXtuk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
-    "found_at": "2026-09-09T01:13:49Z"
   }
 ]
