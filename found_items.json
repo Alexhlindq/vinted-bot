@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza hollister",
+    "price": "47.06",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9946335243-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/05_014ba_pa8pUtZQrjNZ8EuqQDZgZJSW/f800/1788979703.jpeg?s=2de4a7af5ce8e9a8c339c75b00199689e2ce6395",
+    "found_at": "2026-09-09T18:53:15Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "SAND Leisure, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "SAND Leisure",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/1cRjyDIkun-7662-0.jpg",
+    "found_at": "2026-09-09T18:53:44Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne Studios sweatshirt med Face-motiv – storlek M",
     "price": "299.0",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/a7uSdAnihC-b06b-0.jpg",
     "found_at": "2026-09-09T09:46:31Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Czarna kurtka puchowa Polo Ralph Lauren r. M / Puffer Jacket",
-    "price": "261.42",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9939346704-czarna-kurtka-puchowa-polo-ralph-lauren-r-m-puffer-jacket",
-    "image_url": "https://images1.vinted.net/t/05_0255b_YMRrMj7e3PeDAo9JxnUUR46L/f800/1788945604.jpeg?s=6f6421918b8d3d1d17b58a313178f27256a41bdc",
-    "found_at": "2026-09-09T09:29:40Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Bluza Acne Studios crewneck czarna bluza drill streetwear sweden brand",
-    "price": "235.27",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9939397282-bluza-acne-studios-crewneck-czarna-bluza-drill-streetwear-sweden-brand",
-    "image_url": "https://images1.vinted.net/t/06_008da_qrMJUGJqYrFne27bheSAJ7Ly/f800/1788945890.jpeg?s=007b06da6089618cf82339e28a2fa8e2a16e7e80",
-    "found_at": "2026-09-09T09:29:46Z"
   }
 ]
