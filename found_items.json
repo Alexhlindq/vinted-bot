@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Męski sweter Polo Ralph Lauren | Rozmiar M | Bordowy",
+    "price": "78.43",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9945160569-meski-sweter-polo-ralph-lauren-rozmiar-m-bordowy",
+    "image_url": "https://images1.vinted.net/t/06_012cf_hqotJSbN7wFYAYAUp3tGZdaE/f800/1788974016.jpeg?s=1e52fcabbb70650e6046e21b8359f14a76b82b80",
+    "found_at": "2026-09-09T17:24:33Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Billabong, Överskjorta, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Billabong",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lQXVruYhIK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
+    "found_at": "2026-09-09T17:25:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "686, Skidjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "686",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
+    "found_at": "2026-09-09T17:25:12Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis bootcut 527",
     "price": "54.9",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/kLcy8lz1cx",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/peurqAl2kr-1c65-0.jpg",
     "found_at": "2026-09-09T09:12:26Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Couture Couture, Jacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Couture Couture",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kqIJg21iYH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/kqIJg21iYH-38a1-0.jpg",
-    "found_at": "2026-09-09T08:29:30Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott Vintage, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Lyle & Scott Vintage",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
-    "found_at": "2026-09-09T07:46:19Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jasnoniebieskie spodnie jeansowe Levi’s, model 511 Slim.",
-    "price": "39.22",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9938345039-jasnoniebieskie-spodnie-jeansowe-levis-model-511-slim",
-    "image_url": "https://images1.vinted.net/t/06_0074d_zjLMnGWexj5uL9F1Eqsook3Y/f800/1788938568.jpeg?s=628c794c60ee199ff371e491c7935fc357ff0772",
-    "found_at": "2026-09-09T07:30:06Z"
   }
 ]
