@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweterek orginalny polo ralph lauren",
+    "price": "104.58",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9941495251-sweterek-orginalny-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_0263d_NKugdYMvEmDwfeyEK2uEJaQL/f800/1788957325.jpeg?s=d16872ae76275322f6e99d3c3d9227be1e616cc2",
+    "found_at": "2026-09-09T12:56:42Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza hollister",
+    "price": "39.22",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9941682407-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/04_01746_1UK4F7PpS5QaUS4N7hTAGsLN/f800/1788958225.jpeg?s=d5755800d99a53c2ca07761410ea2b249f5d9111",
+    "found_at": "2026-09-09T12:56:48Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Scotch & Soda, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SuEVDxEM7Q",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
+    "found_at": "2026-09-09T12:57:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Arket, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/SuEVDxEM7Q-3083-0.jpg",
+    "found_at": "2026-09-09T12:57:19Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter Ralph Lauren / Klasyczny wełniany sweter męski",
     "price": "122.88",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/PE5FQsldwS",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/yaM2zVMG29-5272-0.jpg",
     "found_at": "2026-09-09T01:13:26Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Tom Tailor, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tom Tailor",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4wft1pEK3E",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/2oWJbrcgAq-7ce9-0.jpg",
-    "found_at": "2026-09-09T01:13:27Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6WhucSc5eh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/PE5FQsldwS-5d4e-0.jpg",
-    "found_at": "2026-09-09T01:13:29Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Emilio, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Emilio",
-    "size": "",
-    "url": "https://www.sellpy.se/item/921duIU6eK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/4wft1pEK3E-3fcd-0.jpg",
-    "found_at": "2026-09-09T01:13:30Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Samsøe & Samsøe, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HyQSueAgH5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/6WhucSc5eh-767d-0.jpg",
-    "found_at": "2026-09-09T01:13:32Z"
   }
 ]
