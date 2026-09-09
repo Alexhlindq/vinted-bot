@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot 13",
+    "title": "Hoodie från Morris",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9943894844-hoodie-fran-morris",
+    "image_url": "https://images1.vinted.net/t/05_023a2_aCfdC2oVT9KZNtrRJ4j1uA5K/f800/1788968327.jpeg?s=ccc8448805fcdecd02dc0887264d26f6a2c903ec",
+    "found_at": "2026-09-09T15:53:37Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Sko - Comme des Garcon",
+    "price": "150.9",
+    "currency": "SEK",
+    "brand": "Comme des Garçons Play",
+    "size": "42,5",
+    "url": "https://www.vinted.se/items/5419772709-sko-comme-des-garcon",
+    "image_url": "https://images1.vinted.net/t/04_00b2d_TM1HSSiyofMokmcV9zc2JCWV/f800/1732201347.jpeg?s=d71e976673f90b0ed9bc1066125de573bc76a525",
+    "found_at": "2026-09-09T15:53:39Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
     "title": "Bluza męska",
     "price": "65.36",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/WIZvzbcn2u",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
     "found_at": "2026-09-09T01:12:47Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Race Marine, Jacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Race Marine",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JbYIJiU9yj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/42nIDqEgb3-808f-0.jpg",
-    "found_at": "2026-09-09T01:12:48Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/srjdkHxWq2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/WIZvzbcn2u-dc73-0.jpg",
-    "found_at": "2026-09-09T01:12:50Z"
   }
 ]
