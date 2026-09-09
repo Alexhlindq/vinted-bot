@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza",
+    "price": "52.29",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9943338385-bluza",
+    "image_url": "https://images1.vinted.net/t/05_01555_SVHBP2phQSi8jZjT82G3zTp6/f800/1788965870.jpeg?s=4c4669251240f239c4b9dfeb4d1b61f1448b2c9a",
+    "found_at": "2026-09-09T15:13:55Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren tröja",
     "price": "110.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/qIVMlFEnbb",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/8Bke6vPbqJ-a3de-0.jpg",
     "found_at": "2026-09-09T01:12:54Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ceDvqDlG9U",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/7kAk9Py9pS-e4a3-0.jpg",
-    "found_at": "2026-09-09T01:12:56Z"
   }
 ]
