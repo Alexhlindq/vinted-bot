@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Ralph Lauren / Klasyczny wełniany sweter męski",
+    "price": "122.88",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9930144982-sweter-ralph-lauren-klasyczny-welniany-sweter-meski",
+    "image_url": "https://images1.vinted.net/t/06_016c2_jvVB8bHVY5gFbACk32ZPnCd4/f800/1788863743.jpeg?s=72cc3a50a939930c7e7afe4099aa828c581b85ee",
+    "found_at": "2026-09-09T12:34:45Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza Diesel",
     "price": "54.9",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/HyQSueAgH5",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/6WhucSc5eh-767d-0.jpg",
     "found_at": "2026-09-09T01:13:32Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QsJSBCgbzo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/921duIU6eK-5955-0.jpg",
-    "found_at": "2026-09-09T01:13:34Z"
   }
 ]
