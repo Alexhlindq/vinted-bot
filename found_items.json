@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter w paski Massimo Dutti",
+    "price": "65.36",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9942241142-sweter-w-paski-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/05_01abc_BCQdvyMxgEhxErPhZmuuMY2c/f800/1788960870.jpeg?s=0636eb01dcc9532bc964f16be12a95c10f280272",
+    "found_at": "2026-09-09T13:53:49Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza J.Lindeberg Bawełna Made in Portugal",
+    "price": "47.06",
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9942282901-bluza-jlindeberg-bawelna-made-in-portugal",
+    "image_url": "https://images1.vinted.net/t/06_01667_RtaxBk9VcL8XGVVgaBs1d7gb/f800/1788961066.jpeg?s=5319b468daf55cbb78123c470caba29ba0ba6b83",
+    "found_at": "2026-09-09T13:53:52Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios Face Logo Sweatshirt Bluza Czarna XS Oversize",
+    "price": "261.45",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9942309393-acne-studios-face-logo-sweatshirt-bluza-czarna-xs-oversize",
+    "image_url": "https://images1.vinted.net/t/05_00237_XpuwsRt2ArmSC5Xe3UiH8wt2/f800/1788961190.jpeg?s=51d078451f6ae9c450eef911d87b872113cba7ae",
+    "found_at": "2026-09-09T13:53:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Polo Club, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Polo Club",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/CuFSXdtlIW-cd75-0.jpg",
+    "found_at": "2026-09-09T13:54:22Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "T-shirt",
     "price": "120.72",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/UrV8rSYRYe",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/ITKqVP9BCJ-86ae-0.jpg",
     "found_at": "2026-09-09T01:13:03Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WIbsAdMeiC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/C4nN4z4ox7-2367-0.jpg",
-    "found_at": "2026-09-09T01:13:04Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "ASOS Design, Collegetröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GGGqwTYJTl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/UrV8rSYRYe-f37d-0.jpg",
-    "found_at": "2026-09-09T01:13:06Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Riley, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cgFwAzsoEx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/GGGqwTYJTl-ba85-0.jpg",
-    "found_at": "2026-09-09T01:13:07Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yGJ3qMTdia",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/FE57wARyrY-d11e-0.jpg",
-    "found_at": "2026-09-09T01:13:09Z"
   }
 ]
