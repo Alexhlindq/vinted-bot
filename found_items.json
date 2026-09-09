@@ -1,5 +1,104 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Luźna bluza męska z kapturem Hollister rozm. M/L",
+    "price": "57.52",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9940141715-luzna-bluza-meska-z-kapturem-hollister-rozm-ml",
+    "image_url": "https://images1.vinted.net/t/06_02177_ERqjpShdvmVuwu85ip2GGrSy/f800/1788950075.jpeg?s=81dbe32c4355bbcf699abc2a1bb1dbd47ea3983b",
+    "found_at": "2026-09-09T13:13:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Peak Performance, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FTEBnjODnz",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/90kMqrl1HR-d50a-0.jpg",
+    "found_at": "2026-09-09T13:13:42Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Black Squad, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Black Squad",
+    "size": "",
+    "url": "https://www.sellpy.se/item/m4ji1cLwIm",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/Lnwxh1JQDg-0471-0.jpg",
+    "found_at": "2026-09-09T13:13:44Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dope, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Dope",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/FLDbqAGhi6-35c6-0.jpg",
+    "found_at": "2026-09-09T13:13:46Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Weekday, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FxhQ2BMOJh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/YRdTW4lbXD-4a3c-single.jpg",
+    "found_at": "2026-09-09T13:13:58Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Weekday, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xysVm95dSh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/GBXHo0FBAW-f810-0.jpg",
+    "found_at": "2026-09-09T13:13:59Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Weekday, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
+    "found_at": "2026-09-09T13:14:00Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Arket, Tröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/xysVm95dSh-bb5f-0.jpg",
+    "found_at": "2026-09-09T13:14:03Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Boomerang, Jacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/a9NDAxNciT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/a9NDAxNciT-e161-0.jpg",
+    "found_at": "2026-09-09T13:14:14Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweterek orginalny polo ralph lauren",
     "price": "104.58",
@@ -559,104 +658,5 @@
     "url": "https://www.sellpy.se/item/JEt9cxjAhD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-9/xcGzkJWzai-10f2-0.jpg",
     "found_at": "2026-09-09T01:13:13Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qNpVrCvi4g",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/6CAmpHAkxf-3712-0.jpg",
-    "found_at": "2026-09-09T01:13:14Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JDdkTeZMkC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/JEt9cxjAhD-0056-0.jpg",
-    "found_at": "2026-09-09T01:13:16Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ySRaj44psr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/qNpVrCvi4g-e234-0.jpg",
-    "found_at": "2026-09-09T01:13:17Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Collegetröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Oul6gBbda2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/JDdkTeZMkC-bd61-0.jpg",
-    "found_at": "2026-09-09T01:13:19Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "NN07, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DCTCJ0azSU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-2/ySRaj44psr-b8f6-0.jpg",
-    "found_at": "2026-09-09T01:13:20Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TA9EFA7ty9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/o7hRBW0rtm-a487-0.jpg",
-    "found_at": "2026-09-09T01:13:22Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "NN07, Tröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sU5CUzLX0M",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/R9Jwu5qnXb-d295-0.jpg",
-    "found_at": "2026-09-09T01:13:23Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2oWJbrcgAq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-14/r37Scm6ngV-11bf-0.jpg",
-    "found_at": "2026-09-09T01:13:25Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PE5FQsldwS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/yaM2zVMG29-5272-0.jpg",
-    "found_at": "2026-09-09T01:13:26Z"
   }
 ]
