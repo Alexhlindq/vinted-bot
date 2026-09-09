@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Mörkblå piké-tröja XS ACNE",
+    "price": "295.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9947888329-morkbla-pike-troja-xs-acne",
+    "image_url": "https://images1.vinted.net/t/05_005ca_XiWTysSNzS7P6sgCj6PNsUm4/f800/1788990257.jpeg?s=feca42f7ad459e3670792cff3f3340af80d58fb5",
+    "found_at": "2026-09-09T21:51:22Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Barbour, Huvtröja, Strl: M",
     "price": 70,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/FTEBnjODnz",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/90kMqrl1HR-d50a-0.jpg",
     "found_at": "2026-09-09T13:13:42Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Black Squad, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "https://www.sellpy.se/item/m4ji1cLwIm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/Lnwxh1JQDg-0471-0.jpg",
-    "found_at": "2026-09-09T13:13:44Z"
   }
 ]
