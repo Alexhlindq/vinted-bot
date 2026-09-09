@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo RL ohut huppari M",
+    "price": "112.79",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9945583706-polo-rl-ohut-huppari-m",
+    "image_url": "https://images1.vinted.net/t/02_02127_6zz5vZnsCTrHtgZFKqSjKJBB/f800/1788975925.jpeg?s=c6e77db3a51b2c7f9ef3039bbb53e3cea9233bab",
+    "found_at": "2026-09-09T18:11:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Carin Wester, Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Carin Wester",
+    "size": "",
+    "url": "https://www.sellpy.se/item/51pexPatM7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/GYbLin9l4t-bcf6-0.jpg",
+    "found_at": "2026-09-09T18:12:32Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Season & Season, Jacka, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Season & Season",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9C8Sma4pJd",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/9C8Sma4pJd-d94b-0.jpg",
+    "found_at": "2026-09-09T18:12:46Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Męski sweter Polo Ralph Lauren | Rozmiar M | Bordowy",
     "price": "78.43",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/QhyFyCpOCa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-1/QhyFyCpOCa-b1f7-0.jpg",
     "found_at": "2026-09-09T09:30:22Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Jack & Jones, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/p5xW2ARWmV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/p5xW2ARWmV-5c3c-0.jpg",
-    "found_at": "2026-09-09T09:30:37Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levisjeans",
-    "price": "40.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9939106994-levisjeans",
-    "image_url": "https://images1.vinted.net/t/02_0136f_xo1hr18mqx7NqxpwhQsZwr3F/f800/1788944186.jpeg?s=05d6ba5c9d0fa39986400cd0ebc608e5f85fa538",
-    "found_at": "2026-09-09T09:11:55Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Quiksilver, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Quiksilver",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kLcy8lz1cx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/peurqAl2kr-1c65-0.jpg",
-    "found_at": "2026-09-09T09:12:26Z"
   }
 ]
