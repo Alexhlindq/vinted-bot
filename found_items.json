@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Diesel",
+    "price": "54.9",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9940912586-bluza-diesel",
+    "image_url": "https://images1.vinted.net/t/06_023e2_GUwn5W7FCZy9CgeYtYdxbN3h/f800/1788954367.jpeg?s=b23980513f6083fe5d92c84b85f7e4c7522e7c5d",
+    "found_at": "2026-09-09T11:54:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Scotch & Soda, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
+    "found_at": "2026-09-09T11:54:50Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter cotton",
     "price": "94.12",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/QsJSBCgbzo",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/921duIU6eK-5955-0.jpg",
     "found_at": "2026-09-09T01:13:34Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RQ95Og3ktd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/HyQSueAgH5-6269-0.jpg",
-    "found_at": "2026-09-09T01:13:35Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/n3gHhGfEYq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/QsJSBCgbzo-cdf5-0.jpg",
-    "found_at": "2026-09-09T01:13:37Z"
   }
 ]
