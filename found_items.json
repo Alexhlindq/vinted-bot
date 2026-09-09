@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "NN07, Kofta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "NN07",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/RQaI4uJ7BX-0bd2-0.jpg",
+    "found_at": "2026-09-09T19:09:23Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza hollister",
     "price": "47.06",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
     "found_at": "2026-09-09T10:11:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ellesse, Collegetröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Ellesse",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/a7uSdAnihC-b06b-0.jpg",
-    "found_at": "2026-09-09T09:46:31Z"
   }
 ]
