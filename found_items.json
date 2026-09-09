@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Ralph Lauren tröja",
+    "price": "110.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9943233153-ralph-lauren-troja",
+    "image_url": "https://images1.vinted.net/t/06_01101_U3E99bJk4LKRg7Ni4SRjXR9f/f800/1788965406.jpeg?s=84231cb4df5d1fad3bfd25a01c35a92c671c814b",
+    "found_at": "2026-09-09T14:57:39Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza męska",
+    "price": "67.98",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9942394703-bluza-meska",
+    "image_url": "https://images1.vinted.net/t/06_01dcd_azPsqZVzjMu2z5xBKehJd5Zd/f800/1788961583.jpeg?s=64a8bdb4baa79b66ed2eeccaf16e1bc820ec582b",
+    "found_at": "2026-09-09T14:57:44Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter polo Ralph Lauren puma cotton rozmiar XS",
     "price": "101.96",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ceDvqDlG9U",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/7kAk9Py9pS-e4a3-0.jpg",
     "found_at": "2026-09-09T01:12:56Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1bus4OKjp8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/qIVMlFEnbb-5ff6-0.jpg",
-    "found_at": "2026-09-09T01:12:57Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "ESPRIT, Jacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "ESPRIT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/A5W6lwsEzl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/ceDvqDlG9U-8547-0.jpg",
-    "found_at": "2026-09-09T01:12:59Z"
   }
 ]
