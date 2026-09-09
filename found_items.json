@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lyle & Scott Vintage, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Lyle & Scott Vintage",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TOdGc9ycng",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
+    "found_at": "2026-09-09T21:25:34Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Orange Polo Ralph Lauren tröja",
     "price": "90.0",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/FLDbqAGhi6-35c6-0.jpg",
     "found_at": "2026-09-09T13:13:46Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FxhQ2BMOJh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/YRdTW4lbXD-4a3c-single.jpg",
-    "found_at": "2026-09-09T13:13:58Z"
   }
 ]
