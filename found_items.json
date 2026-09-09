@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "7 Days Active, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "7 Days Active",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tQCu0sY0Ki",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/u1B8eT8cmk-ed9c-0.jpg",
+    "found_at": "2026-09-09T00:41:59Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Arket, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/KqpI6CeJg2-f782-0.jpg",
+    "found_at": "2026-09-09T00:42:00Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "These Glory Days, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HnrfCczp1V",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/HnrfCczp1V-7bad-0.jpg",
+    "found_at": "2026-09-09T00:42:17Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Ciszere, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Ciszere",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GrpQehu2DL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/GrpQehu2DL-1426-0.jpg",
+    "found_at": "2026-09-09T00:42:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "DC Shoes, Huvtröja, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/vNTdWKCOJZ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/vNTdWKCOJZ-76f7-0.jpg",
     "found_at": "2026-09-08T22:40:33Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "ASOS, Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "ASOS",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GtDnGwLvIO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-7/GtDnGwLvIO-2b99-0.jpg",
-    "found_at": "2026-09-08T22:40:34Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "L.O.G.G by H&M, Jacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "L.O.G.G by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/X3vLlINYwU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/X3vLlINYwU-fc6d-0.jpg",
-    "found_at": "2026-09-08T22:40:35Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Didriksons 1913, Jacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Didriksons 1913",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cBTcGiYvC6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/cBTcGiYvC6-45ed-0.jpg",
-    "found_at": "2026-09-08T22:40:36Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Only & Sons, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PRsebBffdw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/PRsebBffdw-0f6b-0.jpg",
-    "found_at": "2026-09-08T22:40:37Z"
   }
 ]
