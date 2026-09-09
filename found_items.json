@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S/M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Bsy0pD3iOf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-13-k-15/CEHBpDQtLf-76d0-0.jpg",
+    "found_at": "2026-09-09T07:12:33Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Abercrombie & Fitch, Huvtröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/HnrfCczp1V",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/HnrfCczp1V-7bad-0.jpg",
     "found_at": "2026-09-09T00:42:17Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Ciszere, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Ciszere",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GrpQehu2DL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/GrpQehu2DL-1426-0.jpg",
-    "found_at": "2026-09-09T00:42:18Z"
   }
 ]
