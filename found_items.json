@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter cotton",
+    "price": "94.12",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9940552446-sweter-cotton",
+    "image_url": "https://images1.vinted.net/t/02_00644_j7Re5iq2R7Et7zRTzRMFjgtR/f800/1788952412.jpeg?s=6303629488da682d8e067ad4ceb401cabe3cd9b6",
+    "found_at": "2026-09-09T11:27:12Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter Polo Ralph Lauren V-Neck Różowy / Jasny Róż M – Pima Cotton",
     "price": "117.65",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/n3gHhGfEYq",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/QsJSBCgbzo-cdf5-0.jpg",
     "found_at": "2026-09-09T01:13:37Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "These Glory Days, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UGUer8ligI",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/RQ95Og3ktd-816f-0.jpg",
-    "found_at": "2026-09-09T01:13:39Z"
   }
 ]
