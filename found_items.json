@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Abercrombie & Fitch, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uny6urF6fc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nvGaRTb1AP-ea10-0.jpg",
+    "found_at": "2026-09-09T06:57:13Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Bläck, Kofta, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/r137jGnRvA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/r137jGnRvA-88e3-0.jpg",
+    "found_at": "2026-09-09T06:57:19Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Hollister college",
     "price": "45.11",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/GrpQehu2DL",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/GrpQehu2DL-1426-0.jpg",
     "found_at": "2026-09-09T00:42:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "DC Shoes, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "DC Shoes",
-    "size": "",
-    "url": "https://www.sellpy.se/item/n1muaF6OG5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
-    "found_at": "2026-09-09T00:16:09Z"
-  },
-  {
-    "search_name": "Sellpy - Arbets-/safarijackor (ej H&M/Zara/Lager157)",
-    "title": "Only & Sons, Överskjorta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hnDzajTu6P",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/cm23rDOAXh-d061-0.jpg",
-    "found_at": "2026-09-09T00:16:24Z"
   }
 ]
