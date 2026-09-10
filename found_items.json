@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Nie kupowac! zaproponuj cenę🔥",
+    "price": "2.62",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9957515621-nie-kupowac-zaproponuj-cene",
+    "image_url": "https://images1.vinted.net/t/02_01da6_2M4yRtg2mMCTPdYNAcNNeZnm/f800/1789068888.jpeg?s=dbf59f73ec47f3f6ae91a03d6be66eab0392261c",
+    "found_at": "2026-09-10T19:37:06Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lyle & Scott Vintage, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Lyle & Scott Vintage",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tax5Ogke0Z",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
+    "found_at": "2026-09-10T19:37:40Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren Pullover",
     "price": "60.0",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9951237380-granatowy-sweterek-w-serek-massimo-dutti-m",
     "image_url": "https://images1.vinted.net/t/06_00847_XQm9Y99Q4PUxg6rCuSyx9NTt/f800/1789036499.jpeg?s=6fedead0fd1faa15754970ca11d6bd1cff469c50",
     "found_at": "2026-09-10T10:43:22Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Grå långärmad tjocktröja från bondelid",
-    "price": "42.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950984770-gra-langarmad-tjocktroja-fran-bondelid",
-    "image_url": "https://images1.vinted.net/t/01_00257_Jj4A3KoXM4kPRwAzBXUwW3bQ/f800/1789035015.jpeg?s=4a874b0cffa9f0a7f6e8a6511fb6ec9ec83385b7",
-    "found_at": "2026-09-10T10:28:04Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Holister",
-    "price": "68.04",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9951092014-holister",
-    "image_url": "https://images1.vinted.net/t/05_00b24_NSLEjgf6caysxUhQ5Wzo74b2/f800/1789035649.jpeg?s=6cd53febf11ca413c95f87e6c67e2283018c24e8",
-    "found_at": "2026-09-10T10:28:05Z"
   }
 ]
