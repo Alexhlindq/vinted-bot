@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 3",
+    "title": "Kurtka wiatrówka Ralph Lauren",
+    "price": "123.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9742118439-kurtka-wiatrowka-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_0097c_skKB1mBDwsQeBFnTezcLkXqX/f800/1787413249.jpeg?s=c0a238d5131c5bedf7eefe38f85abeafd9384538",
+    "found_at": "2026-09-10T13:11:09Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Stone Island piké , size  Slim.",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9913513883-stone-island-pike-size-slim",
+    "image_url": "https://images1.vinted.net/t/06_0180d_77yYpasXjNrdXnn72CCPHfTj/f800/1788718239.jpeg?s=0476a6c9c45a741c7e12d6322bee841e050ce2f3",
+    "found_at": "2026-09-10T13:11:15Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "acne studios crewneck",
+    "price": "261.7",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9952855272-acne-studios-crewneck",
+    "image_url": "https://images1.vinted.net/t/04_02112_Kc4daebxvPPZ8PUNMRKe2UPQ/f800/1789045403.jpeg?s=8e43c63b29d6a7b69db68fa19e07f16cf6e55499",
+    "found_at": "2026-09-10T13:11:17Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza bez kaptura Polo Ralph",
     "price": "94.21",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/mY6UfHeIJX",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
     "found_at": "2026-09-09T22:10:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Champion, Jacka, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Champion",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/mY6UfHeIJX-7433-0.jpg",
-    "found_at": "2026-09-09T22:10:30Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Mörkblå piké-tröja XS ACNE",
-    "price": "295.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9947888329-morkbla-pike-troja-xs-acne",
-    "image_url": "https://images1.vinted.net/t/05_005ca_XiWTysSNzS7P6sgCj6PNsUm4/f800/1788990257.jpeg?s=feca42f7ad459e3670792cff3f3340af80d58fb5",
-    "found_at": "2026-09-09T21:51:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Barbour, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/TOdGc9ycng-9f1a-0.jpg",
-    "found_at": "2026-09-09T21:39:44Z"
   }
 ]
