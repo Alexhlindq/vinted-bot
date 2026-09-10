@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Quiksilver, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Quiksilver",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pjiwdBXHnJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/GMHDWiHXcD-f574-0.jpg",
+    "found_at": "2026-09-10T06:56:58Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "7 Days Active, Huvtröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "7 Days Active",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/pjiwdBXHnJ-4b1a-0.jpg",
+    "found_at": "2026-09-10T06:56:59Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Tommy Hilfiger, Trenchcoat, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wHgmjWJcBF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-2/4Vm3KSEuGe-9225-0.jpg",
+    "found_at": "2026-09-10T06:57:03Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Carin Wester, Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Carin Wester",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/GYbLin9l4t-bcf6-0.jpg",
+    "found_at": "2026-09-10T06:57:04Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Ben Sherman, Rock, Strl: M",
     "price": 45,
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/5419772709-sko-comme-des-garcon",
     "image_url": "https://images1.vinted.net/t/04_00b2d_TM1HSSiyofMokmcV9zc2JCWV/f800/1732201347.jpeg?s=d71e976673f90b0ed9bc1066125de573bc76a525",
     "found_at": "2026-09-09T15:53:39Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza męska",
-    "price": "65.36",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9943766566-bluza-meska",
-    "image_url": "https://images1.vinted.net/t/03_00d49_iV9qsGkuXaMbp7Za4nJ5ARyw/f800/1788967764.jpeg?s=e741dfce81ed3a409d241bc22d158c09886c1f20",
-    "found_at": "2026-09-09T15:30:56Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Grå Acne Studios langærmet",
-    "price": "241.43",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9943718460-gra-acne-studios-langaermet",
-    "image_url": "https://images1.vinted.net/t/01_024e8_56pnEpujhLqGxhgpq8L5JDg1/f800/1788967551.jpeg?s=b6e26a4514af51ebf656c3570dfb9d065de6f7af",
-    "found_at": "2026-09-09T15:30:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "DC Shoes, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "DC Shoes",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vy1k9eKH8f",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
-    "found_at": "2026-09-09T15:31:28Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza",
-    "price": "52.29",
-    "currency": "SEK",
-    "brand": "Carhartt",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9943338385-bluza",
-    "image_url": "https://images1.vinted.net/t/05_01555_SVHBP2phQSi8jZjT82G3zTp6/f800/1788965870.jpeg?s=4c4669251240f239c4b9dfeb4d1b61f1448b2c9a",
-    "found_at": "2026-09-09T15:13:55Z"
   }
 ]
