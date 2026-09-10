@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 11",
+    "title": "Herr kofta",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9956086623-herr-kofta",
+    "image_url": "https://images1.vinted.net/t/02_014f2_FHQWvLveALnKCzH4LBaou63q/f800/1789061226.jpeg?s=fc4f2a33fe23b290b87a944550cdf19892aabd18",
+    "found_at": "2026-09-10T17:38:40Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren strl 160",
     "price": "100.0",
@@ -646,17 +657,6 @@
     "size": "48 | W32",
     "url": "https://www.vinted.se/items/9949709227-bytte-bytte-kobmand",
     "image_url": "https://images1.vinted.net/t/02_00a12_N78noBWyZkkMMRiwu6naSC71/f800/1789026768.jpeg?s=13194dcff94d64f10cc2dd795c4dc44a125667ed",
-    "found_at": "2026-09-10T08:10:36Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie Levi's 441 W31 L30 vintage beige beżowe jeansy wysoki stan straight Made in Italy",
-    "price": "52.34",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9942443338-spodnie-levis-441-w31-l30-vintage-beige-bezowe-jeansy-wysoki-stan-straight-made-in-italy",
-    "image_url": "https://images1.vinted.net/t/01_002d1_JvWEwDHya1BkP6Mfmf4vFQXG/f800/1788961806.jpeg?s=13246c163e43603a63843f4022365aa6c49304f9",
     "found_at": "2026-09-10T08:10:36Z"
   }
 ]
