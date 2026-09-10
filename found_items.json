@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 16",
+    "title": "Grå färgad Stone island sweatshirt långärmad tröja",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9954835327-gra-fargad-stone-island-sweatshirt-langarmad-troja",
+    "image_url": "https://images1.vinted.net/t/06_00521_gENJdLJGZGWDWhaXqCKsUxoi/f800/1789055264.jpeg?s=719168e708171a2c71991ddf1c69845fffd82e8a",
+    "found_at": "2026-09-10T15:55:23Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Tenson, Skidjacka, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/pjiwdBXHnJ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/GMHDWiHXcD-f574-0.jpg",
     "found_at": "2026-09-10T06:56:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Huvtröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/pjiwdBXHnJ-4b1a-0.jpg",
-    "found_at": "2026-09-10T06:56:59Z"
   }
 ]
