@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren M granatowy sweter Pima Cotton Slim Fit",
+    "price": "117.77",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9941955126-polo-ralph-lauren-m-granatowy-sweter-pima-cotton-slim-fit",
+    "image_url": "https://images1.vinted.net/t/02_010da_tLoDegDLGVz3gCvk4AYAxY2z/f800/1788959527.jpeg?s=9ea65474cb7470ef468c395ec7537a847f0cf3bf",
+    "found_at": "2026-09-10T22:24:22Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Zara, Jacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9952298383-bluza-bez-kaptura-polo-ralph",
     "image_url": "https://images1.vinted.net/t/05_004fe_SSe7cgkEe7E6Wq8kH36rBUfC/f800/1789042469.jpeg?s=f5a654437ffdc5d000bf5dfc2c28026d18989f1a",
     "found_at": "2026-09-10T12:35:14Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Shirt Acne Studio",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9952278184-shirt-acne-studio",
-    "image_url": "https://images1.vinted.net/t/06_000b3_eAPJ7wvTcbHappcBX9KHsmdD/f800/1789042358.jpeg?s=9f72519be2bd8e84196977d3ac62114d50cc1ce0",
-    "found_at": "2026-09-10T12:35:23Z"
   }
 ]
