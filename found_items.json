@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "7 Days Active, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "7 Days Active",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ROFBNTYzaM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
+    "found_at": "2026-09-10T00:35:41Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Quiksilver, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Quiksilver",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/ROFBNTYzaM-f354-0.jpg",
+    "found_at": "2026-09-10T00:35:42Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren tröja",
     "price": "125.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9942282901-bluza-jlindeberg-bawelna-made-in-portugal",
     "image_url": "https://images1.vinted.net/t/06_01667_RtaxBk9VcL8XGVVgaBs1d7gb/f800/1788961066.jpeg?s=5319b468daf55cbb78123c470caba29ba0ba6b83",
     "found_at": "2026-09-09T13:53:52Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Face Logo Sweatshirt Bluza Czarna XS Oversize",
-    "price": "261.45",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9942309393-acne-studios-face-logo-sweatshirt-bluza-czarna-xs-oversize",
-    "image_url": "https://images1.vinted.net/t/05_00237_XpuwsRt2ArmSC5Xe3UiH8wt2/f800/1788961190.jpeg?s=51d078451f6ae9c450eef911d87b872113cba7ae",
-    "found_at": "2026-09-09T13:53:56Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Polo Club, Huvtröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Polo Club",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/CuFSXdtlIW-cd75-0.jpg",
-    "found_at": "2026-09-09T13:54:22Z"
   }
 ]
