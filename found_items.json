@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo Dutti",
+    "price": "65.43",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "Onesize",
+    "url": "https://www.vinted.se/items/9955212517-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/06_014d8_veZKopoD2pkLvAp1do5FjbAp/f800/1789057041.jpeg?s=c5992212df8753833875a4d2ee43f723fcb58c84",
+    "found_at": "2026-09-10T16:26:35Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "Wełniany sweter na guziki s",
+    "price": "26.17",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9955157096-welniany-sweter-na-guziki-s",
+    "image_url": "https://images1.vinted.net/t/06_00f81_qqqhgdLty9PxqHBcya83SnZN/f800/1789056779.jpeg?s=e8a000f039cd1a172c8d4e9799f234ecc444e7e4",
+    "found_at": "2026-09-10T16:26:37Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Barbour, Huvtröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Barbour",
+    "size": "",
+    "url": "https://www.sellpy.se/item/P0MyQhtEG6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/TOdGc9ycng-9f1a-0.jpg",
+    "found_at": "2026-09-10T16:27:06Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Grå färgad Stone island sweatshirt långärmad tröja",
     "price": "200.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/R9RclQktHr",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/965tLIxem0-189e-0.jpg",
     "found_at": "2026-09-10T07:13:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bertoni, Skepparkavaj, Strl: M/L",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Bertoni",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wLCCGZkX1M-67d9-0.jpg",
-    "found_at": "2026-09-10T07:13:47Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Beihlche, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Beihlche",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6eiQbjXKJe",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/6eiQbjXKJe-2e29-0.jpg",
-    "found_at": "2026-09-10T07:13:50Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Quiksilver, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Quiksilver",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pjiwdBXHnJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/GMHDWiHXcD-f574-0.jpg",
-    "found_at": "2026-09-10T06:56:58Z"
   }
 ]
