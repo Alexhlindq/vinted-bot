@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Granatowy Bawełniany Sweter Polo by Ralph Lauren",
+    "price": "91.6",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9951931719-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_0145d_Umd8Ha7xkoX3Td3qUEZ1RST3/f800/1789040458.jpeg?s=02d16659e35374d40b8b7f5a3812660280580e92",
+    "found_at": "2026-09-10T11:41:15Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Bluza Ralp Lauren M",
+    "price": "102.06",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9951784067-bluza-ralp-lauren-m",
+    "image_url": "https://images1.vinted.net/t/06_01fdf_9sy4CgqkirZ5bsdvnWbs6Mpm/f800/1789039633.jpeg?s=441ae02b38304df064c63d0d492dc89223e06d25",
+    "found_at": "2026-09-10T11:41:17Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza S",
     "price": "13.09",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9947532758-acne-studios-polo",
     "image_url": "https://images1.vinted.net/t/02_002d7_7CTayaqEJzLp95EWdeh7N4we/f800/1788986885.jpeg?s=d940a96ba0d194f4e081ad998b41a33917021e34",
     "found_at": "2026-09-09T20:52:13Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Club Monaco, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Club Monaco",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PT6Cf8g3t1",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/PT6Cf8g3t1-b312-0.jpg",
-    "found_at": "2026-09-09T20:53:01Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott Vintage, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Lyle & Scott Vintage",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UI9NsLUzfq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
-    "found_at": "2026-09-09T20:42:20Z"
   }
 ]
