@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bondelid tröja",
+    "price": "68.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9953552327-bondelid-troja",
+    "image_url": "https://images1.vinted.net/t/06_01f3d_KQ1xXu67xuTGz7zorjDFNF11/f800/1789048942.jpeg?s=d041012891722593da17c461ee34917d38e39c3c",
+    "found_at": "2026-09-10T14:09:35Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren polo sweater",
     "price": "75.55",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/81G19q0jN3",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/rJqKRW25BC-f9a3-0.jpg",
     "found_at": "2026-09-10T01:54:21Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Macmichael, Fleecejacka, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Macmichael",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-8/51pexPatM7-ccbe-0.jpg",
-    "found_at": "2026-09-10T01:54:22Z"
   }
 ]
