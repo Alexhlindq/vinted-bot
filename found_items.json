@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie levis",
+    "price": "39.26",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9953747429-spodnie-levis",
+    "image_url": "https://images1.vinted.net/t/02_00608_Zi4fgDANDkwb2VD8GSGf7oDu/f800/1789049940.jpeg?s=c7e93534af5a161907f929325c322298c383ad5c",
+    "found_at": "2026-09-10T14:27:15Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza S Hollister",
+    "price": "52.34",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9953837317-bluza-s-hollister",
+    "image_url": "https://images1.vinted.net/t/02_0157b_r7jEv4btaupvvhARFahFdQ1a/f800/1789050403.jpeg?s=843bd08c46aba9b5d9cfba50b05faa86170647df",
+    "found_at": "2026-09-10T14:27:17Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bondelid tröja",
     "price": "68.0",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/pHGdjHRjRk-508f-0.jpg",
     "found_at": "2026-09-10T05:10:01Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "levis",
-    "price": "56.47",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9921145635-levis",
-    "image_url": "https://images1.vinted.net/t/02_016c3_8tyyyTeLN1j5AamznpDMuSZ3/f800/1789015595.jpeg?s=97536585d86f2f332fa4196752e8510f21d7d808",
-    "found_at": "2026-09-10T04:55:48Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Fleecejacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/81G19q0jN3",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/rJqKRW25BC-f9a3-0.jpg",
-    "found_at": "2026-09-10T01:54:21Z"
   }
 ]
