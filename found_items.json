@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren oryginalny sweter w paski marynarski guziki boki premium loose rozmiar S",
+    "price": "117.77",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9952128412-polo-ralph-lauren-oryginalny-sweter-w-paski-marynarski-guziki-boki-premium-loose-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/05_016c3_km9WyPC7LnUk6SASwkW9oqP2/f800/1789041533.jpeg?s=8ba309e7f202e325086dcf29158ea1d26999c010",
+    "found_at": "2026-09-10T12:12:41Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tjocktröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9952169959-tjocktroja",
+    "image_url": "https://images1.vinted.net/t/02_0148f_vKaPvGRnZVxK19exJmCjCgNJ/f800/1789041762.jpeg?s=bb85834c9a9335cd157c899b67351fa3a2c807ad",
+    "found_at": "2026-09-10T12:12:46Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Granatowy Bawełniany Sweter Polo by Ralph Lauren",
     "price": "91.6",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9947632107-orange-polo-ralph-lauren-troja",
     "image_url": "https://images1.vinted.net/t/02_0200f_WoEpm7HNpK6gEsFkrB5omWqm/f800/1788987705.jpeg?s=e05cd50d9b064c5b0be22fef2ea679f9aff3cd8c",
     "found_at": "2026-09-09T21:08:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "These Glory Days, Vinterjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/Wi9NDR3npP-b53a-0.jpg",
-    "found_at": "2026-09-09T21:09:15Z"
-  },
-  {
-    "search_name": "Vinted bot 4",
-    "title": "Jeansy Nudie Jeans Thin Finn Mortal Indigo W28 L32 Slim Tapered",
-    "price": "91.51",
-    "currency": "SEK",
-    "brand": "Nudie Jeans",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9947536704-jeansy-nudie-jeans-thin-finn-mortal-indigo-w28-l32-slim-tapered",
-    "image_url": "https://images1.vinted.net/t/02_01056_rrA3CGxBnwXwbEKtXTYWdDXh/f800/1788986916.jpeg?s=94f7ccf3d274a630a36dd0c1ed438e57793fdd40",
-    "found_at": "2026-09-09T20:52:05Z"
   }
 ]
