@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Bluza bez kaptura Polo Ralph",
+    "price": "94.21",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9952298383-bluza-bez-kaptura-polo-ralph",
+    "image_url": "https://images1.vinted.net/t/05_004fe_SSe7cgkEe7E6Wq8kH36rBUfC/f800/1789042469.jpeg?s=f5a654437ffdc5d000bf5dfc2c28026d18989f1a",
+    "found_at": "2026-09-10T12:35:14Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Shirt Acne Studio",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9952278184-shirt-acne-studio",
+    "image_url": "https://images1.vinted.net/t/06_000b3_eAPJ7wvTcbHappcBX9KHsmdD/f800/1789042358.jpeg?s=9f72519be2bd8e84196977d3ac62114d50cc1ce0",
+    "found_at": "2026-09-10T12:35:23Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren oryginalny sweter w paski marynarski guziki boki premium loose rozmiar S",
     "price": "117.77",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/TOdGc9ycng-9f1a-0.jpg",
     "found_at": "2026-09-09T21:39:44Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott Vintage, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Lyle & Scott Vintage",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TOdGc9ycng",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
-    "found_at": "2026-09-09T21:25:34Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Orange Polo Ralph Lauren tröja",
-    "price": "90.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9947632107-orange-polo-ralph-lauren-troja",
-    "image_url": "https://images1.vinted.net/t/02_0200f_WoEpm7HNpK6gEsFkrB5omWqm/f800/1788987705.jpeg?s=e05cd50d9b064c5b0be22fef2ea679f9aff3cd8c",
-    "found_at": "2026-09-09T21:08:39Z"
   }
 ]
