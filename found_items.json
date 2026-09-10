@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren strl 160",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9955891658-polo-ralph-lauren-strl-160",
+    "image_url": "https://images1.vinted.net/t/04_00140_CVsZ4i3qYx6oXRDfbmfCTe9Z/f800/1789060262.jpeg?s=f1f13a80489fbbf41b8dfaecec1dd8125959e2d4",
+    "found_at": "2026-09-10T17:25:23Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren – szary sweter Crewneck 100% bawełna",
     "price": "117.77",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9942443338-spodnie-levis-441-w31-l30-vintage-beige-bezowe-jeansy-wysoki-stan-straight-made-in-italy",
     "image_url": "https://images1.vinted.net/t/01_002d1_JvWEwDHya1BkP6Mfmf4vFQXG/f800/1788961806.jpeg?s=13246c163e43603a63843f4022365aa6c49304f9",
     "found_at": "2026-09-10T08:10:36Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QHEk5U4w5O",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/76ZywpjNu2-17a4-0.jpg",
-    "found_at": "2026-09-10T08:11:06Z"
   }
 ]
