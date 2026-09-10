@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza hollister m",
+    "price": "26.17",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9949376496-bluza-hollister-m",
+    "image_url": "https://images1.vinted.net/t/06_0253d_wPQpPWsVGxUdQtzB2oQ2gou6/f800/1789023472.jpeg?s=69c5665b19d01704999114c33f5c158abb816442",
+    "found_at": "2026-09-10T07:13:12Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Massimo Dutti, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/R9RclQktHr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/965tLIxem0-189e-0.jpg",
+    "found_at": "2026-09-10T07:13:43Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bertoni, Skepparkavaj, Strl: M/L",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Bertoni",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wLCCGZkX1M-67d9-0.jpg",
+    "found_at": "2026-09-10T07:13:47Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Beihlche, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Beihlche",
+    "size": "",
+    "url": "https://www.sellpy.se/item/6eiQbjXKJe",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/6eiQbjXKJe-2e29-0.jpg",
+    "found_at": "2026-09-10T07:13:50Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Quiksilver, Huvtröja, Strl: S",
     "price": 55,
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9944542501-acne-studios-t-shirt",
     "image_url": "https://images1.vinted.net/t/06_00bfb_ANYJPgoKYurdpyg2FromT28r/f800/1788971169.jpeg?s=14dfe78905796ded6d59444fda1c5f083ba00c50",
     "found_at": "2026-09-09T16:29:01Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "CDG Converse Beaters",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Converse x Comme des Garçons",
-    "size": "42,5",
-    "url": "https://www.vinted.se/items/9653768629-cdg-converse-beaters",
-    "image_url": "https://images1.vinted.net/t/06_024f4_Y8pEV2ebUYAiu9rk36MEvix5/f800/1786637787.jpeg?s=cbfc5e21025ca6c813be432e44a408a3b62584de",
-    "found_at": "2026-09-09T16:10:38Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/76ZywpjNu2-17a4-0.jpg",
-    "found_at": "2026-09-09T16:11:13Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hoodie från Morris",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9943894844-hoodie-fran-morris",
-    "image_url": "https://images1.vinted.net/t/05_023a2_aCfdC2oVT9KZNtrRJ4j1uA5K/f800/1788968327.jpeg?s=ccc8448805fcdecd02dc0887264d26f6a2c903ec",
-    "found_at": "2026-09-09T15:53:37Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "Sko - Comme des Garcon",
-    "price": "150.9",
-    "currency": "SEK",
-    "brand": "Comme des Garçons Play",
-    "size": "42,5",
-    "url": "https://www.vinted.se/items/5419772709-sko-comme-des-garcon",
-    "image_url": "https://images1.vinted.net/t/04_00b2d_TM1HSSiyofMokmcV9zc2JCWV/f800/1732201347.jpeg?s=d71e976673f90b0ed9bc1066125de573bc76a525",
-    "found_at": "2026-09-09T15:53:39Z"
   }
 ]
