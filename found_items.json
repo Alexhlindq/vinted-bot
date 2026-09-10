@@ -6,6 +6,17 @@
     "currency": "SEK",
     "brand": "Polo Ralph Lauren",
     "size": "M",
+    "url": "https://www.vinted.se/items/9952026001-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/01_01112_bAvDGLvDnkHBmRHdrfH5s5aH/f800/1789041038.jpeg?s=371d25b8ec588fdae025c2b4107494d8b2c45203",
+    "found_at": "2026-09-10T11:53:04Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Granatowy Bawełniany Sweter Polo by Ralph Lauren",
+    "price": "91.6",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
     "url": "https://www.vinted.se/items/9951931719-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/05_0145d_Umd8Ha7xkoX3Td3qUEZ1RST3/f800/1789040458.jpeg?s=02d16659e35374d40b8b7f5a3812660280580e92",
     "found_at": "2026-09-10T11:41:15Z"
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9947536704-jeansy-nudie-jeans-thin-finn-mortal-indigo-w28-l32-slim-tapered",
     "image_url": "https://images1.vinted.net/t/02_01056_rrA3CGxBnwXwbEKtXTYWdDXh/f800/1788986916.jpeg?s=94f7ccf3d274a630a36dd0c1ed438e57793fdd40",
     "found_at": "2026-09-09T20:52:05Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios polo",
-    "price": "226.34",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9947532758-acne-studios-polo",
-    "image_url": "https://images1.vinted.net/t/02_002d7_7CTayaqEJzLp95EWdeh7N4we/f800/1788986885.jpeg?s=d940a96ba0d194f4e081ad998b41a33917021e34",
-    "found_at": "2026-09-09T20:52:13Z"
   }
 ]
