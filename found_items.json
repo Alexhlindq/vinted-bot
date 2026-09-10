@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo ralph lauren sweter half zip quarter zip warkocz cable knit",
+    "price": "52.34",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950169128-polo-ralph-lauren-sweter-half-zip-quarter-zip-warkocz-cable-knit",
+    "image_url": "https://images1.vinted.net/t/06_012ae_V8tnSVcTSBP3pSVx2vL9X1Bn/f800/1789030189.jpeg?s=711bcb8270494b8368bc48ef40c12251b43b1994",
+    "found_at": "2026-09-10T09:09:54Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Spodnie męskie Diesel",
     "price": "52.34",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9946032366-acne-studios-sweatshirt-med-face-motiv-storlek-m",
     "image_url": "https://images1.vinted.net/t/06_01571_v6NAYqjukEioBhXzKpCJngUi/f800/1788978138.jpeg?s=263cb5b3dbd32ddee2c65bca8341f6056d92160f",
     "found_at": "2026-09-09T18:34:27Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo RL ohut huppari M",
-    "price": "112.79",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9945583706-polo-rl-ohut-huppari-m",
-    "image_url": "https://images1.vinted.net/t/02_02127_6zz5vZnsCTrHtgZFKqSjKJBB/f800/1788975925.jpeg?s=c6e77db3a51b2c7f9ef3039bbb53e3cea9233bab",
-    "found_at": "2026-09-09T18:11:58Z"
   }
 ]
