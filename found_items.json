@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza granatowa",
+    "price": "15.7",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9956271743-bluza-granatowa",
+    "image_url": "https://images1.vinted.net/t/03_00f83_MZ9Nkugr1rcsckfJaXxsfKxn/f800/1789062149.jpeg?s=c62660a0d7c7846a8c845072b7836ffd6dfd830d",
+    "found_at": "2026-09-10T17:52:02Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Huppari",
+    "price": "45.18",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9956345775-huppari",
+    "image_url": "https://images1.vinted.net/t/05_01e45_bJuk8khC2VynAyaNFbvx5FWH/f800/1789062521.jpeg?s=20da1392d9c1d622a71693feb11eaec05a774d2b",
+    "found_at": "2026-09-10T17:52:04Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios t-shirt",
+    "price": "104.68",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9956270045-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/04_01d63_8Kgtjw2DgCFxVfPcYB1Dospp/f800/1789062140.jpeg?s=5406937c1f354e23ea55cef6f20fc0c4812f254e",
+    "found_at": "2026-09-10T17:52:07Z"
+  },
+  {
     "search_name": "Vinted bot 11",
     "title": "Herr kofta",
     "price": "50.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9949877849-bluza",
     "image_url": "https://images1.vinted.net/t/06_01d4a_2b2j65dR7MzVYjfvKHypgerB/f800/1789028104.jpeg?s=b8e156b160c589d7ec5b525ea147eb874db5e0ed",
     "found_at": "2026-09-10T08:29:40Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męski sweter Ralph Lauren M",
-    "price": "102.06",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9949818415-meski-sweter-ralph-lauren-m",
-    "image_url": "https://images1.vinted.net/t/02_01c2e_G6LYAW3icNBAfWpUJPmDKA5r/f800/1789027652.jpeg?s=5b5d66ebe4d965b2254e8b45a9364bb66b84ecfe",
-    "found_at": "2026-09-10T08:10:31Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Hoodie",
-    "price": "90.66",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9949663786-hoodie",
-    "image_url": "https://images1.vinted.net/t/06_00f36_SfSsgDjeDyPYeYapr5C84n1Y/f800/1789026374.jpeg?s=04d6329888d65c76eef90d078ef08cc1e1405e07",
-    "found_at": "2026-09-10T08:10:32Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Bytte Bytte købmand",
-    "price": "30.22",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9949709227-bytte-bytte-kobmand",
-    "image_url": "https://images1.vinted.net/t/02_00a12_N78noBWyZkkMMRiwu6naSC71/f800/1789026768.jpeg?s=13194dcff94d64f10cc2dd795c4dc44a125667ed",
-    "found_at": "2026-09-10T08:10:36Z"
   }
 ]
