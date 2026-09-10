@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Tröja",
+    "price": "25.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950798544-troja",
+    "image_url": "https://images1.vinted.net/t/02_02031_chVEFxcQZxMz989TSquCFrLw/f800/1789033933.jpeg?s=1171116a97aaf3412e50af96b6730ba07e0e1084",
+    "found_at": "2026-09-10T09:55:31Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi's/Nike 511",
     "price": "45.33",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/bvqei32wBn",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/bvqei32wBn-64dd-0.jpg",
     "found_at": "2026-09-09T19:26:02Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Visual Clothing Project, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Visual Clothing Project",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rrpISWaG8N",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/rrpISWaG8N-b1f0-0.jpg",
-    "found_at": "2026-09-09T19:26:04Z"
   }
 ]
