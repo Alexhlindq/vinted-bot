@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Morris, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
+    "found_at": "2026-09-10T20:40:12Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "SAND Leisure, Tröja, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9951665040-bluza-s",
     "image_url": "https://images1.vinted.net/t/05_0154d_VmvTTziUdLT6NBEQ9BhMt3hD/f800/1789038957.jpeg?s=1329041ce8bc59de7177eda198e5c0f28900a9d6",
     "found_at": "2026-09-10T11:26:34Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister hoodie",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9951725193-hollister-hoodie",
-    "image_url": "https://images1.vinted.net/t/05_00cef_rhzELMc4GK8pLHfMmqW1TVRF/f800/1789039298.jpeg?s=fd4fa45e07e8fd96ffb89d96e48d435fb010f9c6",
-    "found_at": "2026-09-10T11:26:35Z"
   }
 ]
