@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Nudie jeans",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9949862710-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/06_01b12_R4sVQuTGUo1SbMKd1JAnpgth/f800/1789027991.jpeg?s=e6fd42d6c8a6d5202a90a85ee3043b5c655f7b04",
+    "found_at": "2026-09-10T08:29:36Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "bluza",
+    "price": "65.43",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9949877849-bluza",
+    "image_url": "https://images1.vinted.net/t/06_01d4a_2b2j65dR7MzVYjfvKHypgerB/f800/1789028104.jpeg?s=b8e156b160c589d7ec5b525ea147eb874db5e0ed",
+    "found_at": "2026-09-10T08:29:40Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Męski sweter Ralph Lauren M",
     "price": "102.06",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/9C8Sma4pJd",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/9C8Sma4pJd-d94b-0.jpg",
     "found_at": "2026-09-09T18:12:46Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męski sweter Polo Ralph Lauren | Rozmiar M | Bordowy",
-    "price": "78.43",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9945160569-meski-sweter-polo-ralph-lauren-rozmiar-m-bordowy",
-    "image_url": "https://images1.vinted.net/t/06_012cf_hqotJSbN7wFYAYAUp3tGZdaE/f800/1788974016.jpeg?s=1e52fcabbb70650e6046e21b8359f14a76b82b80",
-    "found_at": "2026-09-09T17:24:33Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Billabong, Överskjorta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Billabong",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lQXVruYhIK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
-    "found_at": "2026-09-09T17:25:11Z"
   }
 ]
