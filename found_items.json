@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot 12",
+    "title": "Grå långärmad tjocktröja från bondelid",
+    "price": "42.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950984770-gra-langarmad-tjocktroja-fran-bondelid",
+    "image_url": "https://images1.vinted.net/t/01_00257_Jj4A3KoXM4kPRwAzBXUwW3bQ/f800/1789035015.jpeg?s=4a874b0cffa9f0a7f6e8a6511fb6ec9ec83385b7",
+    "found_at": "2026-09-10T10:28:04Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Holister",
+    "price": "68.04",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9951092014-holister",
+    "image_url": "https://images1.vinted.net/t/05_00b24_NSLEjgf6caysxUhQ5Wzo74b2/f800/1789035649.jpeg?s=6cd53febf11ca413c95f87e6c67e2283018c24e8",
+    "found_at": "2026-09-10T10:28:05Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Bluza szara logo acne studios baggy scuffers mind relab premier stussy palace",
+    "price": "157.02",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9951132666-bluza-szara-logo-acne-studios-baggy-scuffers-mind-relab-premier-stussy-palace",
+    "image_url": "https://images1.vinted.net/t/06_00699_fmKjq3MxRrYiW42hcTc9SyjM/f800/1789035889.jpeg?s=189b078a59dfde46cfb9b2182fcc6a361b264f36",
+    "found_at": "2026-09-10T10:28:08Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
     "title": "Bondelid sweater",
     "price": "52.0",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9946702379-ralph-lauren-crewneck",
     "image_url": "https://images1.vinted.net/t/01_001ef_9o4V8yFPYAW9kzoBU5FThepn/f800/1788981662.jpeg?s=ec702c335ceaaedaa1c3b3df5661c64ac98727f9",
     "found_at": "2026-09-09T19:25:17Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Sweatshirt",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9946579089-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/05_00e58_Pb1rxMjmU1GrSbabFZaKGBiE/f800/1788980996.jpeg?s=a9490ae718d27713b712effc78a9b91d9c62ac19",
-    "found_at": "2026-09-09T19:25:23Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen, Skidjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Helly Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/upMdgdTK5F",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/cmZGUhYFbj-7292-0.jpg",
-    "found_at": "2026-09-09T19:25:57Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Paul & Friends, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Paul & Friends",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ruEr3xoAnE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/ruEr3xoAnE-9252-0.jpg",
-    "found_at": "2026-09-09T19:26:00Z"
   }
 ]
