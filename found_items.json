@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 17",
+    "title": "Cp Company overshirt",
+    "price": "226.65",
+    "currency": "SEK",
+    "brand": "C.P. Company",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9958216659-cp-company-overshirt",
+    "image_url": "https://images1.vinted.net/t/02_00468_c6Jv8spqySHdNsdQypatQ3Kt/f800/1789073724.jpeg?s=f10c3d89fe7cf37a8d0ec6acf54cdb96b615216a",
+    "found_at": "2026-09-10T21:08:40Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Museum, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Museum",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QsiIKfXSEZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/QsiIKfXSEZ-479b-0.jpg",
+    "found_at": "2026-09-10T21:09:23Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Stone island",
     "price": "169.42",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9952169959-tjocktroja",
     "image_url": "https://images1.vinted.net/t/02_0148f_vKaPvGRnZVxK19exJmCjCgNJ/f800/1789041762.jpeg?s=bb85834c9a9335cd157c899b67351fa3a2c807ad",
     "found_at": "2026-09-10T12:12:46Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Granatowy Bawełniany Sweter Polo by Ralph Lauren",
-    "price": "91.6",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9952026001-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/01_01112_bAvDGLvDnkHBmRHdrfH5s5aH/f800/1789041038.jpeg?s=371d25b8ec588fdae025c2b4107494d8b2c45203",
-    "found_at": "2026-09-10T11:53:04Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Granatowy Bawełniany Sweter Polo by Ralph Lauren",
-    "price": "91.6",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9951931719-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_0145d_Umd8Ha7xkoX3Td3qUEZ1RST3/f800/1789040458.jpeg?s=02d16659e35374d40b8b7f5a3812660280580e92",
-    "found_at": "2026-09-10T11:41:15Z"
   }
 ]
