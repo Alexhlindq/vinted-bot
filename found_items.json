@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza S",
+    "price": "13.09",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9951665040-bluza-s",
+    "image_url": "https://images1.vinted.net/t/05_0154d_VmvTTziUdLT6NBEQ9BhMt3hD/f800/1789038957.jpeg?s=1329041ce8bc59de7177eda198e5c0f28900a9d6",
+    "found_at": "2026-09-10T11:26:34Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister hoodie",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9951725193-hollister-hoodie",
+    "image_url": "https://images1.vinted.net/t/05_00cef_rhzELMc4GK8pLHfMmqW1TVRF/f800/1789039298.jpeg?s=fd4fa45e07e8fd96ffb89d96e48d435fb010f9c6",
+    "found_at": "2026-09-10T11:26:35Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Koszulka acne studios",
+    "price": "128.23",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9951775372-koszulka-acne-studios",
+    "image_url": "https://images1.vinted.net/t/05_0044e_7ErTbkncbWNYzcdmXDvqSkWH/f800/1789039584.jpeg?s=ffa682656470006f8d7ee015d6f5d83820b2c37e",
+    "found_at": "2026-09-10T11:26:38Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Sport Ralph Lauren - Quarter zip",
     "price": "109.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/UI9NsLUzfq",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/gYoq1teD8Z-81da-0.jpg",
     "found_at": "2026-09-09T20:42:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Fleeceväst, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/UI9NsLUzfq-f117-0.jpg",
-    "found_at": "2026-09-09T20:42:20Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeansy levis",
-    "price": "70.59",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9946112669-jeansy-levis",
-    "image_url": "https://images1.vinted.net/t/02_0037f_XakoBfiveqyncp4mj9rLb69G/f800/1788978546.jpeg?s=ed73a7f629556a822ffb206c829f1a44b223d460",
-    "found_at": "2026-09-09T20:10:12Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kofta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cpAq7h0Xn8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/cpAq7h0Xn8-840f-0.jpg",
-    "found_at": "2026-09-09T20:10:51Z"
   }
 ]
