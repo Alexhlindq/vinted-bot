@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Morris tröja",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9956811366-morris-troja",
+    "image_url": "https://images1.vinted.net/t/06_011c5_t8xJrukYNT1W9EjFski4Jsig/f800/1789064959.jpeg?s=99b8959b1c117ff282b361101ad7f7f9e89b3b0a",
+    "found_at": "2026-09-10T18:29:48Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "T-shirt Acne Studios Tiger Badge 👕",
+    "price": "250.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9956752265-t-shirt-acne-studios-tiger-badge",
+    "image_url": "https://images1.vinted.net/t/01_0229e_jCjPbquFAgraS3iDZS7aFfXx/f800/1789064643.jpeg?s=28fc98e70491a2c6f78e0d0fe125b42601309642",
+    "found_at": "2026-09-10T18:29:51Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Kofta, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ChDe0thvrE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/ChDe0thvrE-8ec9-0.jpg",
+    "found_at": "2026-09-10T18:30:28Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Diesel cowboy bukser",
     "price": "60.44",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9950657506-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
     "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789033111.jpeg?s=dbc6bdf9f9147fc1a096bf156c5b21c0c038e59e",
     "found_at": "2026-09-10T09:43:38Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios T-shirt",
-    "price": "151.1",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9950649159-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/05_01a65_8JXJ2cV74cM8vLkCP6HGZZPv/f800/1789033062.jpeg?s=c07d7acd33928e9aada5c9c44f53344528aa4604",
-    "found_at": "2026-09-10T09:43:39Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męska bluza z kapturem POLO",
-    "price": "117.77",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9950480415-meska-bluza-z-kapturem-polo",
-    "image_url": "https://images1.vinted.net/t/05_02121_Umnist18fiLrGQwphWgj7AcS/f800/1789032065.jpeg?s=0169402b1b3ba649a8ca003ca5f5e10ac06363ef",
-    "found_at": "2026-09-10T09:27:48Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo ralph lauren sweter half zip quarter zip warkocz cable knit",
-    "price": "52.34",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950169128-polo-ralph-lauren-sweter-half-zip-quarter-zip-warkocz-cable-knit",
-    "image_url": "https://images1.vinted.net/t/06_012ae_V8tnSVcTSBP3pSVx2vL9X1Bn/f800/1789030189.jpeg?s=711bcb8270494b8368bc48ef40c12251b43b1994",
-    "found_at": "2026-09-10T09:09:54Z"
   }
 ]
