@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "65.43",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9957563955-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/02_007c1_KcxsVRXpQUMWCUHYABqvygZA/f800/1789069174.jpeg?s=770882b46b5101afa42d47d370ea1dd851dac599",
+    "found_at": "2026-09-10T19:50:47Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Nie kupowac! zaproponuj cenę🔥",
     "price": "2.62",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/O0x17CHP3D-ea20-0.jpg",
     "found_at": "2026-09-10T11:10:28Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Granatowy sweterek w serek Massimo Dutti M",
-    "price": "65.43",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9951237380-granatowy-sweterek-w-serek-massimo-dutti-m",
-    "image_url": "https://images1.vinted.net/t/06_00847_XQm9Y99Q4PUxg6rCuSyx9NTt/f800/1789036499.jpeg?s=6fedead0fd1faa15754970ca11d6bd1cff469c50",
-    "found_at": "2026-09-10T10:43:22Z"
   }
 ]
