@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi's/Nike 511",
+    "price": "45.33",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9950595037-levisnike-511",
+    "image_url": "https://images1.vinted.net/t/05_0193f_mWTkjuj14rDEkt3jC4BmiuLc/f800/1789032745.jpeg?s=245806698e7d58606ceac10591d4612c0d483477",
+    "found_at": "2026-09-10T09:43:32Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister. S.",
+    "price": "47.11",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950651819-bluza-hollister-s",
+    "image_url": "https://images1.vinted.net/t/04_02413_rrpnpHZ3EWf5U5bAFFhWqf6A/f800/1789033078.jpeg?s=205257c8da1318b37ab574dafff1f48cdfd6505c",
+    "found_at": "2026-09-10T09:43:35Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
+    "price": "222.45",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950657506-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
+    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789033111.jpeg?s=dbc6bdf9f9147fc1a096bf156c5b21c0c038e59e",
+    "found_at": "2026-09-10T09:43:38Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios T-shirt",
+    "price": "151.1",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9950649159-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_01a65_8JXJ2cV74cM8vLkCP6HGZZPv/f800/1789033062.jpeg?s=c07d7acd33928e9aada5c9c44f53344528aa4604",
+    "found_at": "2026-09-10T09:43:39Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Męska bluza z kapturem POLO",
     "price": "117.77",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/rrpISWaG8N",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/rrpISWaG8N-b1f0-0.jpg",
     "found_at": "2026-09-09T19:26:04Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yyvS7OHsOc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-3/yyvS7OHsOc-f981-0.jpg",
-    "found_at": "2026-09-09T19:26:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "NN07, Kofta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/RQaI4uJ7BX-0bd2-0.jpg",
-    "found_at": "2026-09-09T19:09:23Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza hollister",
-    "price": "47.06",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9946335243-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/05_014ba_pa8pUtZQrjNZ8EuqQDZgZJSW/f800/1788979703.jpeg?s=2de4a7af5ce8e9a8c339c75b00199689e2ce6395",
-    "found_at": "2026-09-09T18:53:15Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "SAND Leisure, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "SAND Leisure",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/1cRjyDIkun-7662-0.jpg",
-    "found_at": "2026-09-09T18:53:44Z"
   }
 ]
