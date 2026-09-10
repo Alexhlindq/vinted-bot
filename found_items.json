@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Sport Ralph Lauren - Quarter zip",
+    "price": "109.0",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9951586531-polo-sport-ralph-lauren-quarter-zip",
+    "image_url": "https://images1.vinted.net/t/02_00e7a_6rF4jwQxLR6MveEMxDitCCdj/f800/1789038507.jpeg?s=5f18c4a7bcd7d8c6b9d7fd40352e27d6bca4bea3",
+    "found_at": "2026-09-10T11:09:48Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bertoni, Skepparkavaj, Strl: M/L",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Bertoni",
+    "size": "",
+    "url": "https://www.sellpy.se/item/O0x17CHP3D",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wLCCGZkX1M-67d9-0.jpg",
+    "found_at": "2026-09-10T11:10:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bershka, Collegejacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/O0x17CHP3D-ea20-0.jpg",
+    "found_at": "2026-09-10T11:10:28Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Granatowy sweterek w serek Massimo Dutti M",
     "price": "65.43",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/cpAq7h0Xn8",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/cpAq7h0Xn8-840f-0.jpg",
     "found_at": "2026-09-09T20:10:51Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Weekday, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/s3NhAOL4IB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/s3NhAOL4IB-bc00-0.jpg",
-    "found_at": "2026-09-09T20:11:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Green Bay, Regnjacka, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Green Bay",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Upd5TvAqGo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/upMdgdTK5F-75de-0.jpg",
-    "found_at": "2026-09-09T19:51:25Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Superdry Sport, Regnjacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Superdry Sport",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wLCCGZkX1M",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/anei0EOJGE-1a62-0.jpg",
-    "found_at": "2026-09-09T19:51:26Z"
   }
 ]
