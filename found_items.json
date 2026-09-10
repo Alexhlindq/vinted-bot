@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 16",
+    "title": "Stone island",
+    "price": "169.42",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9958180761-stone-island",
+    "image_url": "https://images1.vinted.net/t/02_01326_gtW6F1MdzosTY7wS3rWxgwgo/f800/1789073421.jpeg?s=daf28f8813db93e5a278f0a6b78fd8b166f216f7",
+    "found_at": "2026-09-10T20:52:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Haglöfs, Fleecetröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Haglöfs",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/tax5Ogke0Z-4218-0.jpg",
+    "found_at": "2026-09-10T20:52:34Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Morris, Tröja, Strl: S",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9951931719-granatowy-bawelniany-sweter-polo-by-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/05_0145d_Umd8Ha7xkoX3Td3qUEZ1RST3/f800/1789040458.jpeg?s=02d16659e35374d40b8b7f5a3812660280580e92",
     "found_at": "2026-09-10T11:41:15Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Ralp Lauren M",
-    "price": "102.06",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9951784067-bluza-ralp-lauren-m",
-    "image_url": "https://images1.vinted.net/t/06_01fdf_9sy4CgqkirZ5bsdvnWbs6Mpm/f800/1789039633.jpeg?s=441ae02b38304df064c63d0d492dc89223e06d25",
-    "found_at": "2026-09-10T11:41:17Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza S",
-    "price": "13.09",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9951665040-bluza-s",
-    "image_url": "https://images1.vinted.net/t/05_0154d_VmvTTziUdLT6NBEQ9BhMt3hD/f800/1789038957.jpeg?s=1329041ce8bc59de7177eda198e5c0f28900a9d6",
-    "found_at": "2026-09-10T11:26:34Z"
   }
 ]
