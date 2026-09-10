@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Woolblendmark, Väst, Strl: S/M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Woolblendmark",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qIgCfHHabw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/qIgCfHHabw-5f28-0.jpg",
+    "found_at": "2026-09-10T18:47:00Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Morris tröja",
     "price": "75.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9950651819-bluza-hollister-s",
     "image_url": "https://images1.vinted.net/t/04_02413_rrpnpHZ3EWf5U5bAFFhWqf6A/f800/1789033078.jpeg?s=205257c8da1318b37ab574dafff1f48cdfd6505c",
     "found_at": "2026-09-10T09:43:35Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
-    "price": "222.45",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950657506-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
-    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789033111.jpeg?s=dbc6bdf9f9147fc1a096bf156c5b21c0c038e59e",
-    "found_at": "2026-09-10T09:43:38Z"
   }
 ]
