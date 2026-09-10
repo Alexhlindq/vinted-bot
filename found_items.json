@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister huppari koko S",
+    "price": "45.18",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9953176749-hollister-huppari-koko-s",
+    "image_url": "https://images1.vinted.net/t/02_00aa2_XnmL3nyp8Fj6QGEAj35YRgnV/f800/1789047052.jpeg?s=270197054b4296f5dc272029921544dd99a43822",
+    "found_at": "2026-09-10T13:42:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JtkBxDVgmg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/QHEk5U4w5O-5c7c-0.jpg",
+    "found_at": "2026-09-10T13:42:34Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "True North, Fleeceväst, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "True North",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/JtkBxDVgmg-a5a5-0.jpg",
+    "found_at": "2026-09-10T13:42:35Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza",
     "price": "13.09",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/ROFBNTYzaM",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
     "found_at": "2026-09-10T00:35:41Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Quiksilver, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Quiksilver",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/ROFBNTYzaM-f354-0.jpg",
-    "found_at": "2026-09-10T00:35:42Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren tröja",
-    "price": "125.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9948328581-ralph-lauren-troja",
-    "image_url": "https://images1.vinted.net/t/02_01548_TJc3m9QPwuwFHgcgizijBeUM/f800/1788997426.jpeg?s=3ec9d3120c11b893b4886d7567fc599d99ba100a",
-    "found_at": "2026-09-09T23:51:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "ASOS, Jacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "ASOS",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CtuYXbcaV9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/CtuYXbcaV9-2f28-0.jpg",
-    "found_at": "2026-09-09T22:51:30Z"
   }
 ]
