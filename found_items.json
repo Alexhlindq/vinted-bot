@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Męski sweter Ralph Lauren M",
+    "price": "102.06",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9949818415-meski-sweter-ralph-lauren-m",
+    "image_url": "https://images1.vinted.net/t/02_01c2e_G6LYAW3icNBAfWpUJPmDKA5r/f800/1789027652.jpeg?s=5b5d66ebe4d965b2254e8b45a9364bb66b84ecfe",
+    "found_at": "2026-09-10T08:10:31Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Hoodie",
+    "price": "90.66",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9949663786-hoodie",
+    "image_url": "https://images1.vinted.net/t/06_00f36_SfSsgDjeDyPYeYapr5C84n1Y/f800/1789026374.jpeg?s=04d6329888d65c76eef90d078ef08cc1e1405e07",
+    "found_at": "2026-09-10T08:10:32Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Bytte Bytte købmand",
+    "price": "30.22",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9949709227-bytte-bytte-kobmand",
+    "image_url": "https://images1.vinted.net/t/02_00a12_N78noBWyZkkMMRiwu6naSC71/f800/1789026768.jpeg?s=13194dcff94d64f10cc2dd795c4dc44a125667ed",
+    "found_at": "2026-09-10T08:10:36Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie Levi's 441 W31 L30 vintage beige beżowe jeansy wysoki stan straight Made in Italy",
+    "price": "52.34",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9942443338-spodnie-levis-441-w31-l30-vintage-beige-bezowe-jeansy-wysoki-stan-straight-made-in-italy",
+    "image_url": "https://images1.vinted.net/t/01_002d1_JvWEwDHya1BkP6Mfmf4vFQXG/f800/1788961806.jpeg?s=13246c163e43603a63843f4022365aa6c49304f9",
+    "found_at": "2026-09-10T08:10:36Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Uniqlo, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QHEk5U4w5O",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/76ZywpjNu2-17a4-0.jpg",
+    "found_at": "2026-09-10T08:11:06Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/QHEk5U4w5O-5c7c-0.jpg",
+    "found_at": "2026-09-10T08:11:07Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Svart T-shirt",
     "price": "80.0",
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/lQXVruYhIK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/RjuUe7xu6y-0a47-0.jpg",
     "found_at": "2026-09-09T17:25:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "686, Skidjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "686",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
-    "found_at": "2026-09-09T17:25:12Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis bootcut 527",
-    "price": "54.9",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9944618069-levis-bootcut-527",
-    "image_url": "https://images1.vinted.net/t/01_00f55_3ojDqhqFRdoaT4WrpCYpRCmv/f800/1788971501.jpeg?s=3b172284e96c582617176d097f1dcffbd817237c",
-    "found_at": "2026-09-09T16:45:52Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios T-Shirt",
-    "price": "300.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9944587984-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_01326_yJaauqdRVfwNRN5dhdoSH7ZL/f800/1788971369.jpeg?s=4483d8272c0cf4e5f1e02e359674e2c3c4fc205d",
-    "found_at": "2026-09-09T16:45:57Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Kofta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NLsWx9oQqJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/kzOmlZasDB-63ed-0.jpg",
-    "found_at": "2026-09-09T16:46:26Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "SOS, Jacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "SOS",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PrAYwCtaWZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/PrAYwCtaWZ-6747-0.jpg",
-    "found_at": "2026-09-09T16:46:47Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Strömberg, Jacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Strömberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bdgyLXoyQ7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/bdgyLXoyQ7-c95f-0.jpg",
-    "found_at": "2026-09-09T16:46:49Z"
   }
 ]
