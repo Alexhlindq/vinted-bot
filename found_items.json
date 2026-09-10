@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Fleecejacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/81G19q0jN3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/rJqKRW25BC-f9a3-0.jpg",
+    "found_at": "2026-09-10T01:54:21Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Macmichael, Fleecejacka, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Macmichael",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-8/51pexPatM7-ccbe-0.jpg",
+    "found_at": "2026-09-10T01:54:22Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "7 Days Active, Huvtröja, Strl: M",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9942726849-zestaw-sweterkow",
     "image_url": "https://images1.vinted.net/t/02_015d3_sqXjyg83wgjz5UzZZ2DfNr81/f800/1788963115.jpeg?s=0c65d0af5f88895e17cc5550897810344c6251ec",
     "found_at": "2026-09-09T14:28:15Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter w paski Massimo Dutti",
-    "price": "65.36",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9942241142-sweter-w-paski-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/05_01abc_BCQdvyMxgEhxErPhZmuuMY2c/f800/1788960870.jpeg?s=0636eb01dcc9532bc964f16be12a95c10f280272",
-    "found_at": "2026-09-09T13:53:49Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza J.Lindeberg Bawełna Made in Portugal",
-    "price": "47.06",
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9942282901-bluza-jlindeberg-bawelna-made-in-portugal",
-    "image_url": "https://images1.vinted.net/t/06_01667_RtaxBk9VcL8XGVVgaBs1d7gb/f800/1788961066.jpeg?s=5319b468daf55cbb78123c470caba29ba0ba6b83",
-    "found_at": "2026-09-09T13:53:52Z"
   }
 ]
