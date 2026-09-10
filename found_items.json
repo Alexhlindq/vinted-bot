@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Uniqlo",
+    "price": "52.34",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9955502643-bluza-uniqlo",
+    "image_url": "https://images1.vinted.net/t/05_017e9_Lj8EcKw6gYTdgcV4YAiHqpSQ/f800/1789058407.jpeg?s=92a3a1acbd92ede2ed5b9f4e2ce5a4ba155a8765",
+    "found_at": "2026-09-10T16:41:17Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Grafitowa bluza męska z kapturem oversize hollister basic jodrlka",
+    "price": "65.43",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9955488203-grafitowa-bluza-meska-z-kapturem-oversize-hollister-basic-jodrlka",
+    "image_url": "https://images1.vinted.net/t/01_00ee0_GboSbY2rt7L2YAE46r9jSJqH/f800/1789058340.jpeg?s=fe3efcaa0ddc73abd74f05594111ea4f7707bb3d",
+    "found_at": "2026-09-10T16:41:18Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Massimo Dutti",
     "price": "65.43",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9949537737-svart-t-shirt",
     "image_url": "https://images1.vinted.net/t/06_0161e_kPwZJcChhN6hBAMBumfg1mag/f800/1789025206.jpeg?s=a1adf4f8ab3fa1d9274e9f34899aae64db0a240f",
     "found_at": "2026-09-10T07:30:08Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza hollister m",
-    "price": "26.17",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9949376496-bluza-hollister-m",
-    "image_url": "https://images1.vinted.net/t/06_0253d_wPQpPWsVGxUdQtzB2oQ2gou6/f800/1789023472.jpeg?s=69c5665b19d01704999114c33f5c158abb816442",
-    "found_at": "2026-09-10T07:13:12Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/R9RclQktHr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/965tLIxem0-189e-0.jpg",
-    "found_at": "2026-09-10T07:13:43Z"
   }
 ]
