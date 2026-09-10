@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren long sleeves",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9957190474-ralph-lauren-long-sleeves",
+    "image_url": "https://images1.vinted.net/t/06_008b0_i4ajvxeeV2L29ij11xD9n7Vi/f800/1789067029.jpeg?s=a60bae0c87a31f6c9014c973682ebcfd73178dc4",
+    "found_at": "2026-09-10T19:07:54Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeans calamity Janes stl 24",
+    "price": "65.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9957009502-jeans-calamity-janes-stl-24",
+    "image_url": "https://images1.vinted.net/t/02_01635_Q15PwrNf2uQyQmYRQR1bPHM2/f800/1789066031.jpeg?s=29f115576321cbd29b15c40e81ca2d7c15688758",
+    "found_at": "2026-09-10T19:07:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Tierra, Allvädersjacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Tierra",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/cWk8Ki44ln-f4fd-single.jpg",
+    "found_at": "2026-09-10T19:08:30Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Berac, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Berac",
+    "size": "",
+    "url": "https://www.sellpy.se/item/x3pNqerpZT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/x3pNqerpZT-7960-0.jpg",
+    "found_at": "2026-09-10T19:08:33Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Woolblendmark, Väst, Strl: S/M",
     "price": 55,
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9951132666-bluza-szara-logo-acne-studios-baggy-scuffers-mind-relab-premier-stussy-palace",
     "image_url": "https://images1.vinted.net/t/06_00699_fmKjq3MxRrYiW42hcTc9SyjM/f800/1789035889.jpeg?s=189b078a59dfde46cfb9b2182fcc6a361b264f36",
     "found_at": "2026-09-10T10:28:08Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bondelid sweater",
-    "price": "52.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950965422-bondelid-sweater",
-    "image_url": "https://images1.vinted.net/t/06_02699_zcDxGjaQWgM7MqrSs6a6bneK/f800/1789034899.jpeg?s=da9b45edff461c6a64e4e681616e25928247c6fa",
-    "found_at": "2026-09-10T10:10:10Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Tröja",
-    "price": "25.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950798544-troja",
-    "image_url": "https://images1.vinted.net/t/02_02031_chVEFxcQZxMz989TSquCFrLw/f800/1789033933.jpeg?s=1171116a97aaf3412e50af96b6730ba07e0e1084",
-    "found_at": "2026-09-10T09:55:31Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi's/Nike 511",
-    "price": "45.33",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9950595037-levisnike-511",
-    "image_url": "https://images1.vinted.net/t/05_0193f_mWTkjuj14rDEkt3jC4BmiuLc/f800/1789032745.jpeg?s=245806698e7d58606ceac10591d4612c0d483477",
-    "found_at": "2026-09-10T09:43:32Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister. S.",
-    "price": "47.11",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9950651819-bluza-hollister-s",
-    "image_url": "https://images1.vinted.net/t/04_02413_rrpnpHZ3EWf5U5bAFFhWqf6A/f800/1789033078.jpeg?s=205257c8da1318b37ab574dafff1f48cdfd6505c",
-    "found_at": "2026-09-10T09:43:35Z"
   }
 ]
