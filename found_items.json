@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bondelid sweater",
+    "price": "52.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9950965422-bondelid-sweater",
+    "image_url": "https://images1.vinted.net/t/06_02699_zcDxGjaQWgM7MqrSs6a6bneK/f800/1789034899.jpeg?s=da9b45edff461c6a64e4e681616e25928247c6fa",
+    "found_at": "2026-09-10T10:10:10Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Tröja",
     "price": "25.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ruEr3xoAnE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/ruEr3xoAnE-9252-0.jpg",
     "found_at": "2026-09-09T19:26:00Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dahlin, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Dahlin",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bvqei32wBn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/bvqei32wBn-64dd-0.jpg",
-    "found_at": "2026-09-09T19:26:02Z"
   }
 ]
