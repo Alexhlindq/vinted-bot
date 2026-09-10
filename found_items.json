@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Ralph Lauren Pullover",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9957250050-ralph-lauren-pullover",
+    "image_url": "https://images1.vinted.net/t/02_00568_jZ5GAmgpgeErLV3wCPwP7XeD/f800/1789067364.jpeg?s=cba0176774d70d145d319d2490fbff95e9d1d01e",
+    "found_at": "2026-09-10T19:23:02Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren long sleeves",
     "price": "70.0",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9951092014-holister",
     "image_url": "https://images1.vinted.net/t/05_00b24_NSLEjgf6caysxUhQ5Wzo74b2/f800/1789035649.jpeg?s=6cd53febf11ca413c95f87e6c67e2283018c24e8",
     "found_at": "2026-09-10T10:28:05Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Bluza szara logo acne studios baggy scuffers mind relab premier stussy palace",
-    "price": "157.02",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9951132666-bluza-szara-logo-acne-studios-baggy-scuffers-mind-relab-premier-stussy-palace",
-    "image_url": "https://images1.vinted.net/t/06_00699_fmKjq3MxRrYiW42hcTc9SyjM/f800/1789035889.jpeg?s=189b078a59dfde46cfb9b2182fcc6a361b264f36",
-    "found_at": "2026-09-10T10:28:08Z"
   }
 ]
