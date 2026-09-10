@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza",
+    "price": "13.09",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9953109275-bluza",
+    "image_url": "https://images1.vinted.net/t/02_01be5_Hb1AETmGkZ1taeEum9RrGUG7/f800/1789046708.jpeg?s=d821092677f42f898107e161422a5817f2ed3aca",
+    "found_at": "2026-09-10T13:26:56Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Sail Racing, Seglarjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Sail Racing",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SSXq7hPJ1w",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/SSXq7hPJ1w-b064-0.jpg",
+    "found_at": "2026-09-10T13:27:42Z"
+  },
+  {
     "search_name": "Vinted bot 3",
     "title": "Kurtka wiatrówka Ralph Lauren",
     "price": "123.0",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/CtuYXbcaV9",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/CtuYXbcaV9-2f28-0.jpg",
     "found_at": "2026-09-09T22:51:30Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "CDG x Converse",
-    "price": "210.0",
-    "currency": "SEK",
-    "brand": "Converse x Comme des Garçons",
-    "size": "41,5",
-    "url": "https://www.vinted.se/items/9138016576-cdg-x-converse",
-    "image_url": "https://images1.vinted.net/t/05_00081_HTrnn9yga22haePJztkmtA7T/f800/1781096997.jpeg?s=d90772e9af5a046fec3809f32e424d9547e14c15",
-    "found_at": "2026-09-09T22:09:54Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Black Squad, Vinterjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mY6UfHeIJX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/pWpktv5gdr-85a4-0.jpg",
-    "found_at": "2026-09-09T22:10:29Z"
   }
 ]
