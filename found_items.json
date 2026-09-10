@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "31.4",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9958787356-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/05_013ff_9TVN28D9BQXaq8RbskjWrtF6/f800/1789080951.jpeg?s=7bb39e100435b39e6c6c4931cf2d74ea73936594",
+    "found_at": "2026-09-10T23:08:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "DC Shoes, Huvtröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "DC Shoes",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Q1wva03arz",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
+    "found_at": "2026-09-10T23:08:45Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren M granatowy sweter Pima Cotton Slim Fit",
     "price": "117.77",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9913513883-stone-island-pike-size-slim",
     "image_url": "https://images1.vinted.net/t/06_0180d_77yYpasXjNrdXnn72CCPHfTj/f800/1788718239.jpeg?s=0476a6c9c45a741c7e12d6322bee841e050ce2f3",
     "found_at": "2026-09-10T13:11:15Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "acne studios crewneck",
-    "price": "261.7",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9952855272-acne-studios-crewneck",
-    "image_url": "https://images1.vinted.net/t/04_02112_Kc4daebxvPPZ8PUNMRKe2UPQ/f800/1789045403.jpeg?s=8e43c63b29d6a7b69db68fa19e07f16cf6e55499",
-    "found_at": "2026-09-10T13:11:17Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza bez kaptura Polo Ralph",
-    "price": "94.21",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9952298383-bluza-bez-kaptura-polo-ralph",
-    "image_url": "https://images1.vinted.net/t/05_004fe_SSe7cgkEe7E6Wq8kH36rBUfC/f800/1789042469.jpeg?s=f5a654437ffdc5d000bf5dfc2c28026d18989f1a",
-    "found_at": "2026-09-10T12:35:14Z"
   }
 ]
