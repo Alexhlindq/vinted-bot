@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "levis",
+    "price": "56.47",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9921145635-levis",
+    "image_url": "https://images1.vinted.net/t/02_016c3_8tyyyTeLN1j5AamznpDMuSZ3/f800/1789015595.jpeg?s=97536585d86f2f332fa4196752e8510f21d7d808",
+    "found_at": "2026-09-10T04:55:48Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Everest, Fleecejacka, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/kLcy8lz1cx-193e-0.jpg",
     "found_at": "2026-09-09T14:45:43Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Zestaw sweterków",
-    "price": "39.22",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9942726849-zestaw-sweterkow",
-    "image_url": "https://images1.vinted.net/t/02_015d3_sqXjyg83wgjz5UzZZ2DfNr81/f800/1788963115.jpeg?s=0c65d0af5f88895e17cc5550897810344c6251ec",
-    "found_at": "2026-09-09T14:28:15Z"
   }
 ]
