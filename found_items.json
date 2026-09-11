@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Collegetröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/nX80YDClic",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
+    "found_at": "2026-09-11T04:43:15Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Adidas Originals, Collegetröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-j-1/vPoMJlsQSm-b28f-0.jpg",
+    "found_at": "2026-09-11T04:43:17Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Massimo Dutti tröja herr L",
     "price": "54.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9953552327-bondelid-troja",
     "image_url": "https://images1.vinted.net/t/06_01f3d_KQ1xXu67xuTGz7zorjDFNF11/f800/1789048942.jpeg?s=d041012891722593da17c461ee34917d38e39c3c",
     "found_at": "2026-09-10T14:09:35Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren polo sweater",
-    "price": "75.55",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9953311945-ralph-lauren-polo-sweater",
-    "image_url": "https://images1.vinted.net/t/02_01a65_q47TufYQJYX35xKBnpWaPmGK/f800/1789047732.jpeg?s=b8ac2722baef5e50e890a6d83a1136722d524463",
-    "found_at": "2026-09-10T13:54:47Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister huppari koko S",
-    "price": "45.18",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9953176749-hollister-huppari-koko-s",
-    "image_url": "https://images1.vinted.net/t/02_00aa2_XnmL3nyp8Fj6QGEAj35YRgnV/f800/1789047052.jpeg?s=270197054b4296f5dc272029921544dd99a43822",
-    "found_at": "2026-09-10T13:42:05Z"
   }
 ]
