@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 16",
+    "title": "Sweter Stone Island",
+    "price": "184.18",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9806693925-sweter-stone-island",
+    "image_url": "https://images1.vinted.net/t/06_01b6e_HmhFEEkQUPAiLi7dSX8ac8Hv/f800/1787924420.jpeg?s=53a7538e265bbc17dc0d0207b0936828c96d3b2f",
+    "found_at": "2026-09-11T20:09:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Massimo Dutti, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/WpmyMygTK0-2b86-0.jpg",
+    "found_at": "2026-09-11T20:09:54Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Jeans från Levis",
     "price": "75.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9961194662-t-shirt",
     "image_url": "https://images1.vinted.net/t/05_0141a_TbZaFrkE9qQSM7pX1QP6bPWX/f800/1789119265.jpeg?s=112b78b310a7a25368486e1f14da8d6141771365",
     "found_at": "2026-09-11T09:45:04Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Tröja Bondelid",
-    "price": "25.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9960889834-troja-bondelid",
-    "image_url": "https://images1.vinted.net/t/02_0087c_KhmmgzdmPSXiVoaBZ5qZJuzD/f800/1789117403.jpeg?s=36e6a8c4c29275823b637293a0a8f859b52a919b",
-    "found_at": "2026-09-11T09:14:08Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "JL tröja",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9960872694-jl-troja",
-    "image_url": "https://images1.vinted.net/t/02_002eb_Zk2jz4eshRQELBAmXroiVb1X/f800/1789117296.jpeg?s=f7269b70921d5479faeb15ced3451459eb92efae",
-    "found_at": "2026-09-11T09:14:10Z"
   }
 ]
