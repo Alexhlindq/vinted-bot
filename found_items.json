@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "bluza crewneck Polo Ralph Lauren size S ciemnoszara PRL small logo lightweight",
+    "price": "105.23",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9968814020-bluza-crewneck-polo-ralph-lauren-size-s-ciemnoszara-prl-small-logo-lightweight",
+    "image_url": "https://images1.vinted.net/t/06_01ae1_XXu4XmfXvAQ4cec7azCyFcXi/f800/1789165080.jpeg?s=233f86b5597c33b75aa1d10ad5fa60f626e4207f",
+    "found_at": "2026-09-11T22:25:09Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Blend, Jacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Blend",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Go0Kf9lAxt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/Go0Kf9lAxt-76b4-0.jpg",
+    "found_at": "2026-09-11T22:26:02Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Morris tröja",
     "price": "65.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9961797278-bondelid-swearshirt-stl-s",
     "image_url": "https://images1.vinted.net/t/06_019f6_4NuvGS5S2hgqBDbmbNVducQ6/f800/1789122817.jpeg?s=0663bea1cfc20a6efeacd997dcc2b0c01a793bfe",
     "found_at": "2026-09-11T10:43:09Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne WallStreet skjorte",
-    "price": "228.38",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9961763707-acne-wallstreet-skjorte",
-    "image_url": "https://images1.vinted.net/t/01_01177_xYwTURZ52DGXdLuR8GDmA4x5/f800/1789122616.jpeg?s=7140e69c6f99b1ab643d881d8073532bb3f85f33",
-    "found_at": "2026-09-11T10:43:13Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Hugo Boss, Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Hugo Boss",
-    "size": "",
-    "url": "https://www.sellpy.se/item/M50z5SkZzB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/M50z5SkZzB-f8ab-0.jpg",
-    "found_at": "2026-09-11T10:44:00Z"
   }
 ]
