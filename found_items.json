@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka puchowa Polo Ralph Lauren granatowa r. S",
+    "price": "207.89",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/8460817498-kurtka-puchowa-polo-ralph-lauren-granatowa-r-s",
+    "image_url": "https://images1.vinted.net/t/01_016ec_ib5TyniD9hey9V3JeaU64LkN/f800/1776625698.jpeg?s=72008d9787c26e633cb55cbee03b53ff5d70abe6",
+    "found_at": "2026-09-11T18:45:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Wellensteyn, Arbetsjacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Wellensteyn",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZwspJ0AgSo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
+    "found_at": "2026-09-11T18:46:01Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Sweterek męski bluza Hollister wyprzedaż",
     "price": "52.63",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9960506783-smartcasual-sweter-z-welna-suit-club",
     "image_url": "https://images1.vinted.net/t/04_0230f_1NGSHdVN1FDpXKPKQgtm9phw/f800/1789114825.jpeg?s=dc61b06d833c4f49a8c5580b58d1110c59f7f701",
     "found_at": "2026-09-11T08:45:23Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne denim jakke",
-    "price": "190.31",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9960175125-acne-denim-jakke",
-    "image_url": "https://images1.vinted.net/t/02_00a7b_HWD4E92393Ao3mEWEgR8Zq4p/f800/1789112107.jpeg?s=882935b3867fbbcb7d825e50fb826c1864c0d7e0",
-    "found_at": "2026-09-11T07:43:23Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Polo",
-    "price": "118.42",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9959903504-sweter-polo",
-    "image_url": "https://images1.vinted.net/t/05_00071_88Vby7hR5WibgxpekaTnicRA/f800/1789111202.jpeg?s=704f1a7771bd42a04c4c90fe715675e66d2013bc",
-    "found_at": "2026-09-11T07:27:57Z"
   }
 ]
