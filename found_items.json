@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza damska",
+    "price": "21.05",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9965065240-bluza-damska",
+    "image_url": "https://images1.vinted.net/t/02_009e6_9g6DRpMbPbDHjcT7W7FHKuhJ/f800/1789140418.jpeg?s=5a39b5ad9a3c6686f3f097fb3dfc3496a4dd3a69",
+    "found_at": "2026-09-11T15:42:06Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Boohoo Man, Shearlingjacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/anei0EOJGE-1a62-0.jpg",
     "found_at": "2026-09-11T00:14:24Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "31.4",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9958787356-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/05_013ff_9TVN28D9BQXaq8RbskjWrtF6/f800/1789080951.jpeg?s=7bb39e100435b39e6c6c4931cf2d74ea73936594",
-    "found_at": "2026-09-10T23:08:18Z"
   }
 ]
