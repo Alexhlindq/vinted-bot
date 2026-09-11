@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweterek meski polo",
+    "price": "105.26",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9963507137-sweterek-meski-polo",
+    "image_url": "https://images1.vinted.net/t/01_00065_Fdgo67CtXDGMiuUT8VogeoFC/f800/1789132437.jpeg?s=b9d6c52c88213b59048fa72cb01c71859b627ef3",
+    "found_at": "2026-09-11T13:27:55Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "Ralph Lauren Polo jacka",
+    "price": "400.0",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/8590353821-ralph-lauren-polo-jacka",
+    "image_url": "https://images1.vinted.net/t/05_008cf_Pc2auqv6QGq9SgioxwAThkqf/f800/1775576083.jpeg?s=1a610c1fb002467b2bfaf213eefe88e436bc8a88",
+    "found_at": "2026-09-11T13:27:58Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Carhartt granatowe spodnie cargo",
+    "price": "73.68",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9963592149-carhartt-granatowe-spodnie-cargo",
+    "image_url": "https://images1.vinted.net/t/02_00128_r5JBdNKyNzHbPqtGykNBfJ5s/f800/1789132876.jpeg?s=ebcc04df58f7d633b75ce23d6af823250eb0e648",
+    "found_at": "2026-09-11T13:28:01Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweterek meskipolo",
     "price": "105.26",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/uqLgY0v4Yg",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-1/uqLgY0v4Yg-3084-0.jpg",
     "found_at": "2026-09-10T20:10:01Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "GANT, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XUcDiBlyTh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-15/XUcDiBlyTh-4a3e-0.jpg",
-    "found_at": "2026-09-10T20:10:03Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Bench, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Bench",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NR6gsyBbbW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/NR6gsyBbbW-a204-0.jpg",
-    "found_at": "2026-09-10T20:10:05Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "65.43",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9957563955-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/02_007c1_KcxsVRXpQUMWCUHYABqvygZA/f800/1789069174.jpeg?s=770882b46b5101afa42d47d370ea1dd851dac599",
-    "found_at": "2026-09-10T19:50:47Z"
   }
 ]
