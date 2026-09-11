@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "T-shirt",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9961194662-t-shirt",
+    "image_url": "https://images1.vinted.net/t/05_0141a_TbZaFrkE9qQSM7pX1QP6bPWX/f800/1789119265.jpeg?s=112b78b310a7a25368486e1f14da8d6141771365",
+    "found_at": "2026-09-11T09:45:04Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Tröja Bondelid",
     "price": "25.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9955488203-grafitowa-bluza-meska-z-kapturem-oversize-hollister-basic-jodrlka",
     "image_url": "https://images1.vinted.net/t/01_00ee0_GboSbY2rt7L2YAE46r9jSJqH/f800/1789058340.jpeg?s=fe3efcaa0ddc73abd74f05594111ea4f7707bb3d",
     "found_at": "2026-09-10T16:41:18Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Massimo Dutti",
-    "price": "65.43",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "Onesize",
-    "url": "https://www.vinted.se/items/9955212517-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/06_014d8_veZKopoD2pkLvAp1do5FjbAp/f800/1789057041.jpeg?s=c5992212df8753833875a4d2ee43f723fcb58c84",
-    "found_at": "2026-09-10T16:26:35Z"
   }
 ]
