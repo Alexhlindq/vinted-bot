@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot 10",
+    "title": "Vintage spodnie Diesel Darron straight skin fashion modne piękne cudowne",
+    "price": "68.42",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9967557925-vintage-spodnie-diesel-darron-straight-skin-fashion-modne-piekne-cudowne",
+    "image_url": "https://images1.vinted.net/t/01_009bf_J4hApUiC4vVhcYnohzP893Jp/f800/1789153884.jpeg?s=53bdf3a7f7ffd0dc11867e8e9daf5789e42d6403",
+    "found_at": "2026-09-11T19:24:29Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
     "title": "Diesel jeans",
     "price": "60.0",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/XqhIUVUqC9",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
     "found_at": "2026-09-11T09:14:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bench, Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bench",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/XqhIUVUqC9-4ed8-0.jpg",
-    "found_at": "2026-09-11T09:14:44Z"
   }
 ]
