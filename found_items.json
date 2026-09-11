@@ -1,6 +1,72 @@
 [
   {
     "search_name": "Vinted bot 8",
+    "title": "Męski sweter L",
+    "price": "65.79",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9962017374-meski-sweter-l",
+    "image_url": "https://images1.vinted.net/t/02_000a7_ZknaSExR3LDCL24CjtWkvhfQ/f800/1789124123.jpeg?s=bbe225cc03ff8a88cba0a639c65668ba24c7cd52",
+    "found_at": "2026-09-11T11:09:52Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "Bondelid kofta",
+    "price": "40.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9962145471-bondelid-kofta",
+    "image_url": "https://images1.vinted.net/t/04_01edc_sJF1YYfLofFoMwfNQXT61TH5/f800/1789124875.jpeg?s=3db8c332837af915db5719fced460ce8cca1e43c",
+    "found_at": "2026-09-11T11:09:55Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Bluza stone Island Y2k",
+    "price": "197.36",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9962124460-bluza-stone-island-y2k",
+    "image_url": "https://images1.vinted.net/t/05_020ea_uw8Xi3od4uPYRcrLfxEA6ZQn/f800/1789124753.jpeg?s=0ef2f5c7c882dbcdad3fe2a369e97bd73fe29199",
+    "found_at": "2026-09-11T11:09:58Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios tvåfärgad skjorta",
+    "price": "295.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9962025140-acne-studios-tvafargad-skjorta",
+    "image_url": "https://images1.vinted.net/t/06_01ada_TdUdMmzqDdXcXmH9p11sWG8A/f800/1789124170.jpeg?s=0ea649cf3cfae0f56fece483b45e5fd4171c5240",
+    "found_at": "2026-09-11T11:09:59Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Bpt3e2DKgx",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/kLcy8lz1cx-193e-0.jpg",
+    "found_at": "2026-09-11T11:10:26Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Kappa, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Kappa",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/Bpt3e2DKgx-026c-0.jpg",
+    "found_at": "2026-09-11T11:10:26Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
     "title": "Bluza z długim rękawem Massimo Dutti",
     "price": "65.79",
     "currency": "SEK",
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/ChDe0thvrE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/ChDe0thvrE-8ec9-0.jpg",
     "found_at": "2026-09-10T18:30:28Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Diesel cowboy bukser",
-    "price": "60.44",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9945836231-diesel-cowboy-bukser",
-    "image_url": "https://images1.vinted.net/t/05_003a7_ntzbcxiveSUuCkzXWteS812u/f800/1788977158.jpeg?s=64eab7421b2ed2b7ec9762f7092b66828c1e2a4a",
-    "found_at": "2026-09-10T18:11:19Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza hollister",
-    "price": "47.11",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9956384918-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/02_015ed_C9FwDpkxuVckdBybRfESoWPs/f800/1789062723.jpeg?s=c490a49ee89bfbf377cc66d1ee79932729650c07",
-    "found_at": "2026-09-10T18:11:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EKojnjiLpH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-11/7tC3HxBoul-ac2e-0.jpg",
-    "found_at": "2026-09-10T18:11:56Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UAYPtF1xAb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/UAYPtF1xAb-9599-0.jpg",
-    "found_at": "2026-09-10T18:12:03Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza granatowa",
-    "price": "15.7",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9956271743-bluza-granatowa",
-    "image_url": "https://images1.vinted.net/t/03_00f83_MZ9Nkugr1rcsckfJaXxsfKxn/f800/1789062149.jpeg?s=c62660a0d7c7846a8c845072b7836ffd6dfd830d",
-    "found_at": "2026-09-10T17:52:02Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Huppari",
-    "price": "45.18",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9956345775-huppari",
-    "image_url": "https://images1.vinted.net/t/05_01e45_bJuk8khC2VynAyaNFbvx5FWH/f800/1789062521.jpeg?s=20da1392d9c1d622a71693feb11eaec05a774d2b",
-    "found_at": "2026-09-10T17:52:04Z"
   }
 ]
