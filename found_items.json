@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "zdjecie Kurtka polo ralph",
+    "price": "263.15",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9962476995-zdjecie-kurtka-polo-ralph",
+    "image_url": "https://images1.vinted.net/t/06_021bf_h9Ge5NwSNFdLydsfdWHkGPnw/f800/1789126794.jpeg?s=9e26439c82ebf270edc5c7865969e8fc62cdc9bf",
+    "found_at": "2026-09-11T11:52:04Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Cienki pulower Massimo Dutti r L",
+    "price": "52.63",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9962506515-cienki-pulower-massimo-dutti-r-l",
+    "image_url": "https://images1.vinted.net/t/02_01892_6A8qHyH6Kd3ZhFszEYcZAMA8/f800/1789126963.jpeg?s=d68b3b5bde2cff1580d8e99daa2d6b67a7553d96",
+    "found_at": "2026-09-11T11:52:07Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Vinson Polo Club, Vinterjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Vinson Polo Club",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GDGC7MoBk4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/OBVoeWMsj5-4c45-0.jpg",
+    "found_at": "2026-09-11T11:52:42Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Nike, Collegetröja, Strl: M",
     "price": 65,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/cWk8Ki44ln-f4fd-single.jpg",
     "found_at": "2026-09-10T19:08:30Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Berac, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Berac",
-    "size": "",
-    "url": "https://www.sellpy.se/item/x3pNqerpZT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/x3pNqerpZT-7960-0.jpg",
-    "found_at": "2026-09-10T19:08:33Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Woolblendmark, Väst, Strl: S/M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Woolblendmark",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qIgCfHHabw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/qIgCfHHabw-5f28-0.jpg",
-    "found_at": "2026-09-10T18:47:00Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Morris tröja",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9956811366-morris-troja",
-    "image_url": "https://images1.vinted.net/t/06_011c5_t8xJrukYNT1W9EjFski4Jsig/f800/1789064959.jpeg?s=99b8959b1c117ff282b361101ad7f7f9e89b3b0a",
-    "found_at": "2026-09-10T18:29:48Z"
   }
 ]
