@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Collegetröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FTGoLzTHst",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/i7B2I7moey-5cfc-0.jpg",
+    "found_at": "2026-09-11T11:40:13Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren Hoodie Grå",
     "price": "112.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9956811366-morris-troja",
     "image_url": "https://images1.vinted.net/t/06_011c5_t8xJrukYNT1W9EjFski4Jsig/f800/1789064959.jpeg?s=99b8959b1c117ff282b361101ad7f7f9e89b3b0a",
     "found_at": "2026-09-10T18:29:48Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "T-shirt Acne Studios Tiger Badge 👕",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9956752265-t-shirt-acne-studios-tiger-badge",
-    "image_url": "https://images1.vinted.net/t/01_0229e_jCjPbquFAgraS3iDZS7aFfXx/f800/1789064643.jpeg?s=28fc98e70491a2c6f78e0d0fe125b42601309642",
-    "found_at": "2026-09-10T18:29:51Z"
   }
 ]
