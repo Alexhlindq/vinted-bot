@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Klasyczna Bluza",
+    "price": "97.36",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9961410669-klasyczna-bluza",
+    "image_url": "https://images1.vinted.net/t/06_01c2d_wR9YjBQReqDuSFLg6NEZrMV4/f800/1789120535.jpeg?s=24a71c5de597adc65505c6797f81a3c33a3d9bc7",
+    "found_at": "2026-09-11T09:56:10Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "T-shirt",
     "price": "200.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9955502643-bluza-uniqlo",
     "image_url": "https://images1.vinted.net/t/05_017e9_Lj8EcKw6gYTdgcV4YAiHqpSQ/f800/1789058407.jpeg?s=92a3a1acbd92ede2ed5b9f4e2ce5a4ba155a8765",
     "found_at": "2026-09-10T16:41:17Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Grafitowa bluza męska z kapturem oversize hollister basic jodrlka",
-    "price": "65.43",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9955488203-grafitowa-bluza-meska-z-kapturem-oversize-hollister-basic-jodrlka",
-    "image_url": "https://images1.vinted.net/t/01_00ee0_GboSbY2rt7L2YAE46r9jSJqH/f800/1789058340.jpeg?s=fe3efcaa0ddc73abd74f05594111ea4f7707bb3d",
-    "found_at": "2026-09-10T16:41:18Z"
   }
 ]
