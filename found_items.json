@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Superdry Sport, Regnjacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Superdry Sport",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/anei0EOJGE-1a62-0.jpg",
+    "found_at": "2026-09-11T00:14:24Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza Hollister",
     "price": "31.4",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9742118439-kurtka-wiatrowka-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/06_0097c_skKB1mBDwsQeBFnTezcLkXqX/f800/1787413249.jpeg?s=c0a238d5131c5bedf7eefe38f85abeafd9384538",
     "found_at": "2026-09-10T13:11:09Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island piké , size  Slim.",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9913513883-stone-island-pike-size-slim",
-    "image_url": "https://images1.vinted.net/t/06_0180d_77yYpasXjNrdXnn72CCPHfTj/f800/1788718239.jpeg?s=0476a6c9c45a741c7e12d6322bee841e050ce2f3",
-    "found_at": "2026-09-10T13:11:15Z"
   }
 ]
