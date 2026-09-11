@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Tröja Bondelid",
+    "price": "25.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9960889834-troja-bondelid",
+    "image_url": "https://images1.vinted.net/t/02_0087c_KhmmgzdmPSXiVoaBZ5qZJuzD/f800/1789117403.jpeg?s=36e6a8c4c29275823b637293a0a8f859b52a919b",
+    "found_at": "2026-09-11T09:14:08Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "JL tröja",
+    "price": "70.0",
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9960872694-jl-troja",
+    "image_url": "https://images1.vinted.net/t/02_002eb_Zk2jz4eshRQELBAmXroiVb1X/f800/1789117296.jpeg?s=f7269b70921d5479faeb15ced3451459eb92efae",
+    "found_at": "2026-09-11T09:14:10Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "686, Skidjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "686",
+    "size": "",
+    "url": "https://www.sellpy.se/item/XqhIUVUqC9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
+    "found_at": "2026-09-11T09:14:43Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bench, Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bench",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/XqhIUVUqC9-4ed8-0.jpg",
+    "found_at": "2026-09-11T09:14:44Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Smartcasual, sweter z wełną Suit Club",
     "price": "65.79",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9955212517-massimo-dutti",
     "image_url": "https://images1.vinted.net/t/06_014d8_veZKopoD2pkLvAp1do5FjbAp/f800/1789057041.jpeg?s=c5992212df8753833875a4d2ee43f723fcb58c84",
     "found_at": "2026-09-10T16:26:35Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Wełniany sweter na guziki s",
-    "price": "26.17",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9955157096-welniany-sweter-na-guziki-s",
-    "image_url": "https://images1.vinted.net/t/06_00f81_qqqhgdLty9PxqHBcya83SnZN/f800/1789056779.jpeg?s=e8a000f039cd1a172c8d4e9799f234ecc444e7e4",
-    "found_at": "2026-09-10T16:26:37Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Barbour, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Barbour",
-    "size": "",
-    "url": "https://www.sellpy.se/item/P0MyQhtEG6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/TOdGc9ycng-9f1a-0.jpg",
-    "found_at": "2026-09-10T16:27:06Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Grå färgad Stone island sweatshirt långärmad tröja",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9954835327-gra-fargad-stone-island-sweatshirt-langarmad-troja",
-    "image_url": "https://images1.vinted.net/t/06_00521_gENJdLJGZGWDWhaXqCKsUxoi/f800/1789055264.jpeg?s=719168e708171a2c71991ddf1c69845fffd82e8a",
-    "found_at": "2026-09-10T15:55:23Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tenson, Skidjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Tenson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MHzTcYL5WP",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/UGLXKCbYZ7-e2dc-0.jpg",
-    "found_at": "2026-09-10T15:12:56Z"
   }
 ]
