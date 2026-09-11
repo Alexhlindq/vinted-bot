@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "hoodie från ralph lauren",
+    "price": "104.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9968146141-hoodie-fran-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_00d31_vQdAeCEgZdF2oknoJJ9gkWx6/f800/1789158008.jpeg?s=78a3e9b3f9117dfea72cdb62b30057385a73a3ec",
+    "found_at": "2026-09-11T20:26:38Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Sweter Stone Island",
     "price": "184.18",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9961410669-klasyczna-bluza",
     "image_url": "https://images1.vinted.net/t/06_01c2d_wR9YjBQReqDuSFLg6NEZrMV4/f800/1789120535.jpeg?s=24a71c5de597adc65505c6797f81a3c33a3d9bc7",
     "found_at": "2026-09-11T09:56:10Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "T-shirt",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9961194662-t-shirt",
-    "image_url": "https://images1.vinted.net/t/05_0141a_TbZaFrkE9qQSM7pX1QP6bPWX/f800/1789119265.jpeg?s=112b78b310a7a25368486e1f14da8d6141771365",
-    "found_at": "2026-09-11T09:45:04Z"
   }
 ]
