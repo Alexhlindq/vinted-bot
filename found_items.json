@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweterek meskipolo",
+    "price": "105.26",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9963363245-sweterek-meskipolo",
+    "image_url": "https://images1.vinted.net/t/01_01268_vb58J51erm8jXcKjCDzWni2w/f800/1789131681.jpeg?s=21eb888329c2bd045b41cb290a22553eae873b1a",
+    "found_at": "2026-09-11T13:09:48Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "sweterek ralph lauren",
     "price": "118.42",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9957563955-bluza-hollister",
     "image_url": "https://images1.vinted.net/t/02_007c1_KcxsVRXpQUMWCUHYABqvygZA/f800/1789069174.jpeg?s=770882b46b5101afa42d47d370ea1dd851dac599",
     "found_at": "2026-09-10T19:50:47Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Nie kupowac! zaproponuj cenę🔥",
-    "price": "2.62",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9957515621-nie-kupowac-zaproponuj-cene",
-    "image_url": "https://images1.vinted.net/t/02_01da6_2M4yRtg2mMCTPdYNAcNNeZnm/f800/1789068888.jpeg?s=dbf59f73ec47f3f6ae91a03d6be66eab0392261c",
-    "found_at": "2026-09-10T19:37:06Z"
   }
 ]
