@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bershka, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bST4zcqcPv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/FTGoLzTHst-618b-0.jpg",
+    "found_at": "2026-09-11T23:37:35Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Car de la Car, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Car de la Car",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RkBdFM8Vzj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
+    "found_at": "2026-09-11T23:37:37Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9962025140-acne-studios-tvafargad-skjorta",
     "image_url": "https://images1.vinted.net/t/06_01ada_TdUdMmzqDdXcXmH9p11sWG8A/f800/1789124170.jpeg?s=0ea649cf3cfae0f56fece483b45e5fd4171c5240",
     "found_at": "2026-09-11T11:09:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Bpt3e2DKgx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/kLcy8lz1cx-193e-0.jpg",
-    "found_at": "2026-09-11T11:10:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Kappa, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Kappa",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/Bpt3e2DKgx-026c-0.jpg",
-    "found_at": "2026-09-11T11:10:26Z"
   }
 ]
