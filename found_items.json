@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Polo",
+    "price": "118.42",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9959903504-sweter-polo",
+    "image_url": "https://images1.vinted.net/t/05_00071_88Vby7hR5WibgxpekaTnicRA/f800/1789111202.jpeg?s=704f1a7771bd42a04c4c90fe715675e66d2013bc",
+    "found_at": "2026-09-11T07:27:57Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo huppari (valkoinen)",
+    "price": "113.8",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9946613625-polo-huppari-valkoinen",
+    "image_url": "https://images1.vinted.net/t/02_007ce_aZWLezaQF2jVJwA13rmjVC5u/f800/1789111260.jpeg?s=64ab0f3515a108f07a17999aad016b8e4524961e",
+    "found_at": "2026-09-11T07:27:58Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Urban Outfitters, Kofta, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Urban Outfitters",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/eLBVvznfoN-a782-0.jpg",
+    "found_at": "2026-09-11T07:28:29Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Kofta, Strl: M",
     "price": 50,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-13/ZjlaPj8juG-dbb3-0.jpg",
     "found_at": "2026-09-10T14:57:32Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Klasyczny sweterek Polo Ralph Lauren - Old Money Aesthetic",
-    "price": "117.77",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9953906092-klasyczny-sweterek-polo-ralph-lauren-old-money-aesthetic",
-    "image_url": "https://images1.vinted.net/t/02_00a31_Jsys5BmWByjzSPNEcW1NFhtc/f800/1789050754.jpeg?s=cc231fdf943c2d41e2d48bf7f42ecf5886c55f66",
-    "found_at": "2026-09-10T14:43:55Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka puchowa granatowa y2k S drip",
-    "price": "314.04",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9953858325-kurtka-puchowa-granatowa-y2k-s-drip",
-    "image_url": "https://images1.vinted.net/t/02_012b0_nekxkCzpVSbP52tAEeE9XdwH/f800/1789050511.jpeg?s=0296b78791869e29642a8ff64d862104f67a0c5b",
-    "found_at": "2026-09-10T14:43:59Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hoddie",
-    "price": "48.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9953954952-hoddie",
-    "image_url": "https://images1.vinted.net/t/02_012cb_ma2DwbujqCsUyYtAB2VDSgJE/f800/1789051001.jpeg?s=00fcb6606b1f8d9530c5b4359df406cf452b631c",
-    "found_at": "2026-09-10T14:44:03Z"
   }
 ]
