@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Skidjacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G3MiUyeFsA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/MjAUwAhS5Z-99fa-0.jpg",
+    "found_at": "2026-09-11T21:09:51Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Bomberjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/zpOQgtMS7n-3bb6-0.jpg",
+    "found_at": "2026-09-11T21:09:52Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "hoodie från ralph lauren",
     "price": "104.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9961551520-szara-bluza-polo-ralph-lauren-r-m",
     "image_url": "https://images1.vinted.net/t/06_004c0_BUcKpSijaYuwrqjP6WDXwqP8/f800/1789121364.jpeg?s=4f8e8d95dc217e4349dcea2b40c204b547bf1df9",
     "found_at": "2026-09-11T10:28:18Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios skjorte/overshirt",
-    "price": "150.73",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9961730706-acne-studios-skjorteovershirt",
-    "image_url": "https://images1.vinted.net/t/01_00116_GoSNhjm5Xj4UDW6xKRNjBc2j/f800/1789122421.jpeg?s=a17f42e8f48baa52f05e274c4652cc4498ce04d5",
-    "found_at": "2026-09-11T10:28:27Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Klasyczna Bluza",
-    "price": "97.36",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9961410669-klasyczna-bluza",
-    "image_url": "https://images1.vinted.net/t/06_01c2d_wR9YjBQReqDuSFLg6NEZrMV4/f800/1789120535.jpeg?s=24a71c5de597adc65505c6797f81a3c33a3d9bc7",
-    "found_at": "2026-09-11T09:56:10Z"
   }
 ]
