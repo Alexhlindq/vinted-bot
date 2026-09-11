@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Tröja",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9966287030-troja",
+    "image_url": "https://images1.vinted.net/t/02_00f83_hByHhaR2tXVz1fgqqNLGnVaA/f800/1789146502.jpeg?s=841ec0091f871a90adb9f3ce12f840a7b60e8679",
+    "found_at": "2026-09-11T17:08:49Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Fina Levis jeans!",
+    "price": "69.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9966269488-fina-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/06_02246_6L3AhfhrzAXCwZaRpngpBqDM/f800/1789146411.jpeg?s=7aecda84412b8834ee8f100bc82d955a0c4ef669",
+    "found_at": "2026-09-11T17:08:54Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie levi’s",
+    "price": "65.79",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9966189256-spodnie-levis",
+    "image_url": "https://images1.vinted.net/t/02_01bab_u5EurPUo1Wa68BK3gDakaWJ5/f800/1789146000.jpeg?s=5bef41dca9a046601d98057f6372e4cf4a8b218c",
+    "found_at": "2026-09-11T17:08:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Dobber, Jacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fnUIHDCsoA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/MX3k1zt6J3-661a-0.jpg",
+    "found_at": "2026-09-11T17:09:31Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza Ralph Lauren",
     "price": "76.31",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/eLBVvznfoN-a782-0.jpg",
     "found_at": "2026-09-11T07:28:29Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mxIu9ayHbo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/mxIu9ayHbo-93b5-0.jpg",
-    "found_at": "2026-09-11T06:56:41Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yBqHSW61lH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/yBqHSW61lH-698d-0.jpg",
-    "found_at": "2026-09-11T06:56:42Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Stadium, Dunjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Stadium",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/cjOxR8w82w-899c-0.jpg",
-    "found_at": "2026-09-11T05:53:13Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/nX80YDClic",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
-    "found_at": "2026-09-11T04:43:15Z"
   }
 ]
