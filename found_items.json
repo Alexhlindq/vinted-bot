@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo Dutti tröja herr L",
+    "price": "54.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9845245929-massimo-dutti-troja-herr-l",
+    "image_url": "https://images1.vinted.net/t/05_00b3e_5G97pRz7JvkPt6yR65ERDGJ1/f800/1789099028.jpeg?s=b6ddf5df16868411e2f7d655cb276857902a35b8",
+    "found_at": "2026-09-11T04:10:48Z"
+  },
+  {
     "search_name": "Sellpy - Höstmode för honom (kurerad)",
     "title": "Selected Homme, Tröja, Strl: M",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9953176749-hollister-huppari-koko-s",
     "image_url": "https://images1.vinted.net/t/02_00aa2_XnmL3nyp8Fj6QGEAj35YRgnV/f800/1789047052.jpeg?s=270197054b4296f5dc272029921544dd99a43822",
     "found_at": "2026-09-10T13:42:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JtkBxDVgmg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/QHEk5U4w5O-5c7c-0.jpg",
-    "found_at": "2026-09-10T13:42:34Z"
   }
 ]
