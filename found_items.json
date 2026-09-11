@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Uniqlo x UT, Collegetröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Uniqlo x UT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SEhtE3giqz",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/eafk2C435U-9341-0.jpg",
+    "found_at": "2026-09-11T00:36:43Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Superdry Sport, Regnjacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/SSXq7hPJ1w",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/SSXq7hPJ1w-b064-0.jpg",
     "found_at": "2026-09-10T13:27:42Z"
-  },
-  {
-    "search_name": "Vinted bot 3",
-    "title": "Kurtka wiatrówka Ralph Lauren",
-    "price": "123.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9742118439-kurtka-wiatrowka-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/06_0097c_skKB1mBDwsQeBFnTezcLkXqX/f800/1787413249.jpeg?s=c0a238d5131c5bedf7eefe38f85abeafd9384538",
-    "found_at": "2026-09-10T13:11:09Z"
   }
 ]
