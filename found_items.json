@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Bluza Ralph Lauren",
+    "price": "76.31",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9965700579-bluza-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_006c9_KBaqiHgm1ZyWjG3QyinCLdG8/f800/1789143557.jpeg?s=cbcb53c434cc048f70b538c81fc91868086122c1",
+    "found_at": "2026-09-11T16:27:57Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Bluza Polo Ralph Lauren",
+    "price": "92.1",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9965676292-bluza-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_00bd9_9T6cgte513Dv6BiHUJ74Dabg/f800/1789143437.jpeg?s=1577ac3cc785705a614aa66bc609bd98c6967648",
+    "found_at": "2026-09-11T16:27:58Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweterek meskipolo",
     "price": "105.26",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/nX80YDClic",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
     "found_at": "2026-09-11T04:43:15Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Adidas Originals, Collegetröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-j-1/vPoMJlsQSm-b28f-0.jpg",
-    "found_at": "2026-09-11T04:43:17Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Massimo Dutti tröja herr L",
-    "price": "54.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9845245929-massimo-dutti-troja-herr-l",
-    "image_url": "https://images1.vinted.net/t/05_00b3e_5G97pRz7JvkPt6yR65ERDGJ1/f800/1789099028.jpeg?s=b6ddf5df16868411e2f7d655cb276857902a35b8",
-    "found_at": "2026-09-11T04:10:48Z"
   }
 ]
