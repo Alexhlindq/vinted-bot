@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Stadium, Dunjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Stadium",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/cjOxR8w82w-899c-0.jpg",
+    "found_at": "2026-09-11T05:53:13Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Collegetröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9953837317-bluza-s-hollister",
     "image_url": "https://images1.vinted.net/t/02_0157b_r7jEv4btaupvvhARFahFdQ1a/f800/1789050403.jpeg?s=843bd08c46aba9b5d9cfba50b05faa86170647df",
     "found_at": "2026-09-10T14:27:17Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bondelid tröja",
-    "price": "68.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9953552327-bondelid-troja",
-    "image_url": "https://images1.vinted.net/t/06_01f3d_KQ1xXu67xuTGz7zorjDFNF11/f800/1789048942.jpeg?s=d041012891722593da17c461ee34917d38e39c3c",
-    "found_at": "2026-09-10T14:09:35Z"
   }
 ]
