@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Adidas, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Adidas",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7P9qhbcoms",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/lfVPBKighs-488c-0.jpg",
+    "found_at": "2026-09-11T17:39:13Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Tröja",
     "price": "60.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9946613625-polo-huppari-valkoinen",
     "image_url": "https://images1.vinted.net/t/02_007ce_aZWLezaQF2jVJwA13rmjVC5u/f800/1789111260.jpeg?s=64ab0f3515a108f07a17999aad016b8e4524961e",
     "found_at": "2026-09-11T07:27:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Urban Outfitters, Kofta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Urban Outfitters",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/eLBVvznfoN-a782-0.jpg",
-    "found_at": "2026-09-11T07:28:29Z"
   }
 ]
