@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/24nDXLRR0y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-1/24nDXLRR0y-e9fa-0.jpg",
+    "found_at": "2026-09-11T23:08:28Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Collegetröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/Bpt3e2DKgx-026c-0.jpg",
     "found_at": "2026-09-11T11:10:26Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Bluza z długim rękawem Massimo Dutti",
-    "price": "65.79",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9961863955-bluza-z-dlugim-rekawem-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/06_01687_QBuwEFC5oV2txVyzkkWnuana/f800/1789123212.jpeg?s=b61bc51912c654c4f3afbfe8427083540e096707",
-    "found_at": "2026-09-11T10:43:06Z"
   }
 ]
