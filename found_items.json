@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Szara bluza Polo Ralph Lauren r. M",
+    "price": "105.23",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9961551520-szara-bluza-polo-ralph-lauren-r-m",
+    "image_url": "https://images1.vinted.net/t/06_004c0_BUcKpSijaYuwrqjP6WDXwqP8/f800/1789121364.jpeg?s=4f8e8d95dc217e4349dcea2b40c204b547bf1df9",
+    "found_at": "2026-09-11T10:28:18Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios skjorte/overshirt",
+    "price": "150.73",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9961730706-acne-studios-skjorteovershirt",
+    "image_url": "https://images1.vinted.net/t/01_00116_GoSNhjm5Xj4UDW6xKRNjBc2j/f800/1789122421.jpeg?s=a17f42e8f48baa52f05e274c4652cc4498ce04d5",
+    "found_at": "2026-09-11T10:28:27Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Klasyczna Bluza",
     "price": "97.36",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9955777048-polo-ralph-lauren-szary-sweter-crewneck-100-bawelna",
     "image_url": "https://images1.vinted.net/t/05_0050d_G7LJUowbKGG2aWV8a59Ah1v5/f800/1789059704.jpeg?s=afa1bcc077413182d6d125370b4f56407a151772",
     "found_at": "2026-09-10T17:09:06Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios shirt",
-    "price": "250.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9955754069-acne-studios-shirt",
-    "image_url": "https://images1.vinted.net/t/04_007a0_63CrK3WpjT8JC1kKqSGbvrRM/f800/1789059596.jpeg?s=b3c0bbd11b83a1a8c35501d18728548096e03e8f",
-    "found_at": "2026-09-10T17:09:12Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Uniqlo",
-    "price": "52.34",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9955502643-bluza-uniqlo",
-    "image_url": "https://images1.vinted.net/t/05_017e9_Lj8EcKw6gYTdgcV4YAiHqpSQ/f800/1789058407.jpeg?s=92a3a1acbd92ede2ed5b9f4e2ce5a4ba155a8765",
-    "found_at": "2026-09-10T16:41:17Z"
   }
 ]
