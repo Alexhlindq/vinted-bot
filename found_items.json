@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Selected Homme, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FnHMZRYwh2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/6CAmpHAkxf-3712-0.jpg",
+    "found_at": "2026-09-11T01:10:00Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "NN07, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "NN07",
+    "size": "",
+    "url": "https://www.sellpy.se/item/UtF4vib43a",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-2/ySRaj44psr-b8f6-0.jpg",
+    "found_at": "2026-09-11T01:10:01Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Bläck, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zBESNJaf4s",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
+    "found_at": "2026-09-11T01:10:02Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Uniqlo x UT, Collegetröja, Strl: M",
     "price": 29,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/JtkBxDVgmg",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/QHEk5U4w5O-5c7c-0.jpg",
     "found_at": "2026-09-10T13:42:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "True North, Fleeceväst, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "True North",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/JtkBxDVgmg-a5a5-0.jpg",
-    "found_at": "2026-09-10T13:42:35Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza",
-    "price": "13.09",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9953109275-bluza",
-    "image_url": "https://images1.vinted.net/t/02_01be5_Hb1AETmGkZ1taeEum9RrGUG7/f800/1789046708.jpeg?s=d821092677f42f898107e161422a5817f2ed3aca",
-    "found_at": "2026-09-10T13:26:56Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Sail Racing, Seglarjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Sail Racing",
-    "size": "",
-    "url": "https://www.sellpy.se/item/SSXq7hPJ1w",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/SSXq7hPJ1w-b064-0.jpg",
-    "found_at": "2026-09-10T13:27:42Z"
   }
 ]
