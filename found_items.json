@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Bluza z długim rękawem Massimo Dutti",
+    "price": "65.79",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9961863955-bluza-z-dlugim-rekawem-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/06_01687_QBuwEFC5oV2txVyzkkWnuana/f800/1789123212.jpeg?s=b61bc51912c654c4f3afbfe8427083540e096707",
+    "found_at": "2026-09-11T10:43:06Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bondelid Swearshirt Stl S",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9961797278-bondelid-swearshirt-stl-s",
+    "image_url": "https://images1.vinted.net/t/06_019f6_4NuvGS5S2hgqBDbmbNVducQ6/f800/1789122817.jpeg?s=0663bea1cfc20a6efeacd997dcc2b0c01a793bfe",
+    "found_at": "2026-09-11T10:43:09Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne WallStreet skjorte",
+    "price": "228.38",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9961763707-acne-wallstreet-skjorte",
+    "image_url": "https://images1.vinted.net/t/01_01177_xYwTURZ52DGXdLuR8GDmA4x5/f800/1789122616.jpeg?s=7140e69c6f99b1ab643d881d8073532bb3f85f33",
+    "found_at": "2026-09-11T10:43:13Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Hugo Boss, Jacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Hugo Boss",
+    "size": "",
+    "url": "https://www.sellpy.se/item/M50z5SkZzB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/M50z5SkZzB-f8ab-0.jpg",
+    "found_at": "2026-09-11T10:44:00Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Szara bluza Polo Ralph Lauren r. M",
     "price": "105.23",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9956345775-huppari",
     "image_url": "https://images1.vinted.net/t/05_01e45_bJuk8khC2VynAyaNFbvx5FWH/f800/1789062521.jpeg?s=20da1392d9c1d622a71693feb11eaec05a774d2b",
     "found_at": "2026-09-10T17:52:04Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios t-shirt",
-    "price": "104.68",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9956270045-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/04_01d63_8Kgtjw2DgCFxVfPcYB1Dospp/f800/1789062140.jpeg?s=5406937c1f354e23ea55cef6f20fc0c4812f254e",
-    "found_at": "2026-09-10T17:52:07Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Herr kofta",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9956086623-herr-kofta",
-    "image_url": "https://images1.vinted.net/t/02_014f2_FHQWvLveALnKCzH4LBaou63q/f800/1789061226.jpeg?s=fc4f2a33fe23b290b87a944550cdf19892aabd18",
-    "found_at": "2026-09-10T17:38:40Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren strl 160",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9955891658-polo-ralph-lauren-strl-160",
-    "image_url": "https://images1.vinted.net/t/04_00140_CVsZ4i3qYx6oXRDfbmfCTe9Z/f800/1789060262.jpeg?s=f1f13a80489fbbf41b8dfaecec1dd8125959e2d4",
-    "found_at": "2026-09-10T17:25:23Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren – szary sweter Crewneck 100% bawełna",
-    "price": "117.77",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9955777048-polo-ralph-lauren-szary-sweter-crewneck-100-bawelna",
-    "image_url": "https://images1.vinted.net/t/05_0050d_G7LJUowbKGG2aWV8a59Ah1v5/f800/1789059704.jpeg?s=afa1bcc077413182d6d125370b4f56407a151772",
-    "found_at": "2026-09-10T17:09:06Z"
   }
 ]
