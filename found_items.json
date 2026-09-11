@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweterek meskipolo",
+    "price": "105.26",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9965437343-sweterek-meskipolo",
+    "image_url": "https://images1.vinted.net/t/01_01268_vb58J51erm8jXcKjCDzWni2w/f800/1789142257.jpeg?s=b5e96335712d7c20587ff3ab7b61120fc862e66e",
+    "found_at": "2026-09-11T16:10:34Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister bluza damska cienka rozmiar s",
+    "price": "44.73",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9965529846-hollister-bluza-damska-cienka-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/05_020c7_yjvNBmyd4uvBz9D5BhUe8VCK/f800/1789142715.jpeg?s=811d9b5fceda12834ae0dae7c164f7ea1fe3eb7d",
+    "found_at": "2026-09-11T16:10:41Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister S z kapturem, niebieski melanż",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9965426196-bluza-hollister-s-z-kapturem-niebieski-melanz",
+    "image_url": "https://images1.vinted.net/t/04_018e7_FJvCBZH7fEuY5B2wFdfegDWr/f800/1789142203.jpeg?s=368f9377d8a9cfcc69a44b37b279e48bd4b2d8ce",
+    "found_at": "2026-09-11T16:10:42Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "D+LJ, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "D+LJ",
+    "size": "",
+    "url": "https://www.sellpy.se/item/P8vcrH3jIe",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/MMESuBJ1bO-2653-0.jpg",
+    "found_at": "2026-09-11T16:11:11Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lindbergh, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Lindbergh",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rgoG2xQLbo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/rgoG2xQLbo-8781-0.jpg",
+    "found_at": "2026-09-11T16:11:18Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza damska",
     "price": "21.05",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9845245929-massimo-dutti-troja-herr-l",
     "image_url": "https://images1.vinted.net/t/05_00b3e_5G97pRz7JvkPt6yR65ERDGJ1/f800/1789099028.jpeg?s=b6ddf5df16868411e2f7d655cb276857902a35b8",
     "found_at": "2026-09-11T04:10:48Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FnHMZRYwh2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/6CAmpHAkxf-3712-0.jpg",
-    "found_at": "2026-09-11T01:10:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "NN07, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UtF4vib43a",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-2/ySRaj44psr-b8f6-0.jpg",
-    "found_at": "2026-09-11T01:10:01Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Bläck, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zBESNJaf4s",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
-    "found_at": "2026-09-11T01:10:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Uniqlo x UT, Collegetröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Uniqlo x UT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/SEhtE3giqz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/eafk2C435U-9341-0.jpg",
-    "found_at": "2026-09-11T00:36:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Superdry Sport, Regnjacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Superdry Sport",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/anei0EOJGE-1a62-0.jpg",
-    "found_at": "2026-09-11T00:14:24Z"
   }
 ]
