@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Boohoo Man, Shearlingjacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Boohoo Man",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GQwHuzXSui",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/wUMmmgU8b2-54e3-0.jpg",
+    "found_at": "2026-09-11T15:27:27Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Weekday, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NnmXVMo4Ao",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
+    "found_at": "2026-09-11T15:27:37Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Uniqlo, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
+    "found_at": "2026-09-11T15:27:38Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Stone Island sweatshirt str s",
     "price": "152.25",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9958787356-bluza-hollister",
     "image_url": "https://images1.vinted.net/t/05_013ff_9TVN28D9BQXaq8RbskjWrtF6/f800/1789080951.jpeg?s=7bb39e100435b39e6c6c4931cf2d74ea73936594",
     "found_at": "2026-09-10T23:08:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "DC Shoes, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "DC Shoes",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Q1wva03arz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
-    "found_at": "2026-09-10T23:08:45Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren M granatowy sweter Pima Cotton Slim Fit",
-    "price": "117.77",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9941955126-polo-ralph-lauren-m-granatowy-sweter-pima-cotton-slim-fit",
-    "image_url": "https://images1.vinted.net/t/02_010da_tLoDegDLGVz3gCvk4AYAxY2z/f800/1788959527.jpeg?s=9ea65474cb7470ef468c395ec7537a847f0cf3bf",
-    "found_at": "2026-09-10T22:24:22Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Zara, Jacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Zara",
-    "size": "",
-    "url": "https://www.sellpy.se/item/c22Q5X8rsy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/c22Q5X8rsy-841b-0.jpg",
-    "found_at": "2026-09-10T21:39:01Z"
   }
 ]
