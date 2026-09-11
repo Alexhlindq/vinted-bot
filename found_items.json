@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Diesel jeans",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9967399291-diesel-jeans",
+    "image_url": "https://images1.vinted.net/t/01_0228a_X6AzTtran8D5vCH5PHLtepnh/f800/1789152869.jpeg?s=217fdc735ecfe30377956ead5d241322d02e3fa2",
+    "found_at": "2026-09-11T18:55:47Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Kurtka puchowa Polo Ralph Lauren granatowa r. S",
     "price": "207.89",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/XqhIUVUqC9-4ed8-0.jpg",
     "found_at": "2026-09-11T09:14:44Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Smartcasual, sweter z wełną Suit Club",
-    "price": "65.79",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9960506783-smartcasual-sweter-z-welna-suit-club",
-    "image_url": "https://images1.vinted.net/t/04_0230f_1NGSHdVN1FDpXKPKQgtm9phw/f800/1789114825.jpeg?s=dc61b06d833c4f49a8c5580b58d1110c59f7f701",
-    "found_at": "2026-09-11T08:45:23Z"
   }
 ]
