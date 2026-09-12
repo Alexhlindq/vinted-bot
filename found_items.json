@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans 511",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9976147223-levis-jeans-511",
+    "image_url": "https://images1.vinted.net/t/02_001b7_SsTtnmzWnePUnLPPZYW66FFL/f800/1789226427.jpeg?s=c635d2d85401170dd677bb9f1a46151b8319f764",
+    "found_at": "2026-09-12T15:24:28Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Dżinsy męskie granatowe Levi's 512 W31 L32",
+    "price": "60.55",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9975984867-dzinsy-meskie-granatowe-levis-512-w31-l32",
+    "image_url": "https://images1.vinted.net/t/02_02648_tqHrVURwxAtUgPs98womUBVj/f800/1789225763.jpeg?s=7a1a8d9a2ad639a8ba2b534c062b0899513d29d6",
+    "found_at": "2026-09-12T15:24:29Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "ASOS Design, Collegetröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "https://www.sellpy.se/item/16CLUBvxlT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/zBESNJaf4s-c2fc-0.jpg",
+    "found_at": "2026-09-12T15:25:08Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Capitto, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Capitto",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SdXmFid3XC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/SdXmFid3XC-865e-0.jpg",
+    "found_at": "2026-09-12T15:25:17Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Golf ralph lauren",
     "price": "105.3",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9970041719-meski-sweterekmassimo-dutti-bawelna-z-kaszmirem-rozmiar-l",
     "image_url": "https://images1.vinted.net/t/06_0100c_TRWa3zTSGjzkxszJcZzX1J9D/f800/1789196044.jpeg?s=6095ba723907c9a9e6959fca5d6e88c5b7539ffa",
     "found_at": "2026-09-12T07:08:18Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza męska Hollister rozm. S",
-    "price": "39.49",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9970013392-bluza-meska-hollister-rozm-s",
-    "image_url": "https://images1.vinted.net/t/06_00a14_xg1FzFYD5uVamz5hrCFVgbAP/f800/1789195830.jpeg?s=700ab41631b67adbb02eff2b4f2d0022dfc85882",
-    "found_at": "2026-09-12T06:53:59Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Cinque, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Cinque",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lHCSiLGt4X",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/lHCSiLGt4X-727c-0.jpg",
-    "found_at": "2026-09-12T06:31:39Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9969736630-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/01_018a2_M3WnDWf29Yja48zfZmwvaxdU/f800/1789191094.jpeg?s=fa8444a89847a66ce37e8f1854f402ede0b5989d",
-    "found_at": "2026-09-12T05:38:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Archive, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Archive",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
-    "found_at": "2026-09-12T04:26:33Z"
   }
 ]
