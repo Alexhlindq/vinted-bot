@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Koszulka z długim rękawem i kapturem Hollister Granatowy rozmiar S",
+    "price": "28.96",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9975056977-koszulka-z-dlugim-rekawem-i-kapturem-hollister-granatowy-rozmiar-s",
+    "image_url": "https://images1.vinted.net/t/02_00552_VZjr17FvshhQzMQHTKEAWetQ/f800/1789221958.jpeg?s=83958accb2a4166f1209e4fc4890299f7894db44",
+    "found_at": "2026-09-12T14:09:08Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne linne",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9975078157-acne-linne",
+    "image_url": "https://images1.vinted.net/t/02_00930_LN8QCqMbwu7xiVq2wDrobeb3/f800/1789222046.jpeg?s=52a6b5b7016e4ee2f96bc42bbc5ea7e58137af0e",
+    "found_at": "2026-09-12T14:09:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Fleecejacka, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ERjg9sXJLS",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/81G19q0jN3-3da4-0.jpg",
+    "found_at": "2026-09-12T14:09:43Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "sweter",
     "price": "118.47",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9968627333-morris-troja",
     "image_url": "https://images1.vinted.net/t/02_02584_WP7fiMkBLhnLDqx43GLf2xMU/f800/1789162570.jpeg?s=267df9a8b1ad44d24b7eb9ad79e19dc580bc7b53",
     "found_at": "2026-09-11T21:36:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Skidjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G3MiUyeFsA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/MjAUwAhS5Z-99fa-0.jpg",
-    "found_at": "2026-09-11T21:09:51Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Bomberjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/zpOQgtMS7n-3bb6-0.jpg",
-    "found_at": "2026-09-11T21:09:52Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "hoodie från ralph lauren",
-    "price": "104.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9968146141-hoodie-fran-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_00d31_vQdAeCEgZdF2oknoJJ9gkWx6/f800/1789158008.jpeg?s=78a3e9b3f9117dfea72cdb62b30057385a73a3ec",
-    "found_at": "2026-09-11T20:26:38Z"
   }
 ]
