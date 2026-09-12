@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Oryginalne Spodnie Levi’s Premium  W30 L34  Granatowe Jeansy",
+    "price": "73.71",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9971645483-oryginalne-spodnie-levis-premium-w30-l34-granatowe-jeansy",
+    "image_url": "https://images1.vinted.net/t/04_00d94_bf5wHp2gevVazAdNk4Nw5Vef/f800/1789206462.jpeg?s=488468e5ed42dc911983e089ae088ad0b12daa2d",
+    "found_at": "2026-09-12T12:46:51Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph lauren huppari",
     "price": "113.82",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9966946353-sweterek-meski-bluza-hollister-wyprzedaz",
     "image_url": "https://images1.vinted.net/t/02_01ace_MXH7KebZmdpL7fr2MQr3QJs4/f800/1789150121.jpeg?s=13b778e5179a67e419a5b5e9987fc9a5317c1893",
     "found_at": "2026-09-11T18:10:44Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Adidas, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Adidas",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7P9qhbcoms",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/lfVPBKighs-488c-0.jpg",
-    "found_at": "2026-09-11T17:39:13Z"
   }
 ]
