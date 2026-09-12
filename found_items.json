@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bondelid tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9971472509-bondelid-troja",
+    "image_url": "https://images1.vinted.net/t/06_00953_UP9JTd1En8AbsCMU3uXZAL1Y/f800/1789205707.jpeg?s=23f315eb17ec285c3f49b34774b48823bf282574",
+    "found_at": "2026-09-12T09:38:34Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "swetrek kitaro",
     "price": "65.81",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9964104280-bluza-hollister",
     "image_url": "https://images1.vinted.net/t/06_020b4_EeruToH5KXSoKWBYVKfMzGdm/f800/1789135498.jpeg?s=9e0c822cd889c25946f1725c35a70603a668398b",
     "found_at": "2026-09-11T14:17:27Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Koszula Acne Studios Designer Classy",
-    "price": "184.2",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9964149744-koszula-acne-studios-designer-classy",
-    "image_url": "https://images1.vinted.net/t/01_018e7_6Kua8mwUW8Cr9NYqHVN1SKw8/f800/1789135732.jpeg?s=17b6e31c6c5a52d96aeb913fc52735af8b2bb96e",
-    "found_at": "2026-09-11T14:17:31Z"
   }
 ]
