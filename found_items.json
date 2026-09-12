@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren Polo",
+    "price": "76.13",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9970898314-ralph-lauren-polo",
+    "image_url": "https://images1.vinted.net/t/05_00d78_G2keYCoYG5tQ7e4Xhc9horBC/f800/1789202591.jpeg?s=ff64de51024b28bafeb919656db67888bb76d5b2",
+    "found_at": "2026-09-12T08:51:37Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans, straight",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9970929485-levis-jeans-straight",
+    "image_url": "https://images1.vinted.net/t/04_0052c_KMfCa4awnvhepzvjVc1KeaCy/f800/1789202768.jpeg?s=d1f48a5cc66aa5914cadbfc3247d86e0f56af4cb",
+    "found_at": "2026-09-12T08:51:42Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapture. Hollister",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9970979510-bluza-z-kapture-hollister",
+    "image_url": "https://images1.vinted.net/t/06_000a2_yxb4z1cBM7rXoUashM4QFjrM/f800/1789203049.jpeg?s=605bec29cdc4040e357f6a303661932e8effc37c",
+    "found_at": "2026-09-12T08:51:45Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "DC Shoes, Huvtröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "DC Shoes",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rC9Qzt7xqZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
+    "found_at": "2026-09-12T08:52:15Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Disneyland Paris, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Disneyland Paris",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/nX80YDClic-0ff7-0.jpg",
+    "found_at": "2026-09-12T08:52:16Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Helly Hansen Workwear, Fleecejacka, Strl: S",
     "price": 35,
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9963507137-sweterek-meski-polo",
     "image_url": "https://images1.vinted.net/t/01_00065_Fdgo67CtXDGMiuUT8VogeoFC/f800/1789132437.jpeg?s=b9d6c52c88213b59048fa72cb01c71859b627ef3",
     "found_at": "2026-09-11T13:27:55Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Ralph Lauren Polo jacka",
-    "price": "400.0",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/8590353821-ralph-lauren-polo-jacka",
-    "image_url": "https://images1.vinted.net/t/05_008cf_Pc2auqv6QGq9SgioxwAThkqf/f800/1775576083.jpeg?s=1a610c1fb002467b2bfaf213eefe88e436bc8a88",
-    "found_at": "2026-09-11T13:27:58Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Carhartt granatowe spodnie cargo",
-    "price": "73.68",
-    "currency": "SEK",
-    "brand": "Carhartt",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9963592149-carhartt-granatowe-spodnie-cargo",
-    "image_url": "https://images1.vinted.net/t/02_00128_r5JBdNKyNzHbPqtGykNBfJ5s/f800/1789132876.jpeg?s=ebcc04df58f7d633b75ce23d6af823250eb0e648",
-    "found_at": "2026-09-11T13:28:01Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek meskipolo",
-    "price": "105.26",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9963363245-sweterek-meskipolo",
-    "image_url": "https://images1.vinted.net/t/01_01268_vb58J51erm8jXcKjCDzWni2w/f800/1789131681.jpeg?s=21eb888329c2bd045b41cb290a22553eae873b1a",
-    "found_at": "2026-09-11T13:09:48Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweterek ralph lauren",
-    "price": "118.42",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9957010455-sweterek-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_018a2_K6ejRjVR5mdHHXk4QePRaeT1/f800/1789066037.jpeg?s=ca082f9022efa731b9f710f3285f3217f610b29b",
-    "found_at": "2026-09-11T12:55:42Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Dissaray t shirt",
-    "price": "207.89",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9963124043-dissaray-t-shirt",
-    "image_url": "https://images1.vinted.net/t/06_00f54_QA8taSCAwhYxs7rfhSqSod2h/f800/1789130409.jpeg?s=6d48ee271332348fd91a7a21755f6ac6a8418024",
-    "found_at": "2026-09-11T12:55:48Z"
   }
 ]
