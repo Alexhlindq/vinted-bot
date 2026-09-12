@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "swetrek kitaro",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9971331176-swetrek-kitaro",
+    "image_url": "https://images1.vinted.net/t/06_00f40_EmU9w3nPHiwUYbdBQTEuvrMf/f800/1789204915.jpeg?s=6c7c2dd75c7d1c6b5c2ee974f4116bb572ad781e",
+    "found_at": "2026-09-12T09:25:08Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tjocktröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9971338720-tjocktroja",
+    "image_url": "https://images1.vinted.net/t/06_010b2_AxaXCHjfaf3Y7uSiTDYLAuJT/f800/1789204953.jpeg?s=3622e2168f6de975fb78237d5beb0a46d7076ee7",
+    "found_at": "2026-09-12T09:25:14Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter polo Ralph Laurent",
     "price": "65.81",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9964149744-koszula-acne-studios-designer-classy",
     "image_url": "https://images1.vinted.net/t/01_018e7_6Kua8mwUW8Cr9NYqHVN1SKw8/f800/1789135732.jpeg?s=17b6e31c6c5a52d96aeb913fc52735af8b2bb96e",
     "found_at": "2026-09-11T14:17:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Multiply Apparel, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Multiply Apparel",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VaqKLAYEkC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/IehDFFPjnn-efbb-0.jpg",
-    "found_at": "2026-09-11T14:17:59Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Polo Ralph Lauren puffer jacket kurtka męska old money rrl usa bear luxury outdoor",
-    "price": "234.2",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9963906326-polo-ralph-lauren-puffer-jacket-kurtka-meska-old-money-rrl-usa-bear-luxury-outdoor",
-    "image_url": "https://images1.vinted.net/t/01_02173_ZLZe8R2vTRQAoHBTbNavZ2rR/f800/1789134481.jpeg?s=56670713b40215d9ad9430c6d820fa2fbb0dbc93",
-    "found_at": "2026-09-11T13:54:53Z"
   }
 ]
