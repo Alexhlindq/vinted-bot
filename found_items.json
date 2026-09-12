@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "686, Skidjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "686",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Q8MRCYrUR4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
+    "found_at": "2026-09-12T19:50:43Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Jeansjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/twipAWZsTd",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
+    "found_at": "2026-09-12T19:50:44Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Melka, Dunjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Melka",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/twipAWZsTd-ef7a-0.jpg",
+    "found_at": "2026-09-12T19:50:45Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Wełniany kaszmirowy sweter męski Massimo Dutti XS S",
     "price": "39.49",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9973592785-ralph-lauren-huppari",
     "image_url": "https://images1.vinted.net/t/05_01e1c_qxagWrMJJd9z6j4VcUXtYGJa/f800/1789215673.jpeg?s=1f254074d7344fd465f0c361e8a2d2026b412335",
     "found_at": "2026-09-12T12:30:26Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Diesel szara bluza dresowa crewneck logo 14Y 160 cm XS/S klasyczna",
-    "price": "39.49",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9973632483-diesel-szara-bluza-dresowa-crewneck-logo-14y-160-cm-xss-klasyczna",
-    "image_url": "https://images1.vinted.net/t/04_00703_Uzw1xUVgXgTvayMdeSdRoynK/f800/1789215851.jpeg?s=bfae4c9bd3e6c666a5d7321b80fa4cb8db846858",
-    "found_at": "2026-09-12T12:30:30Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Massimo Dutti tröja marinblå ull och kashmir - Small",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9973253676-massimo-dutti-troja-marinbla-ull-och-kashmir-small",
-    "image_url": "https://images1.vinted.net/t/02_02377_NKEFG1qH2K5c51f1GK65RtMc/f800/r1/1789214131.jpeg?s=1fa779ace2885537eccd43f3678219020dcf95ca",
-    "found_at": "2026-09-12T12:11:44Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Uniqlo white/grey sweatshirt",
-    "price": "70.0",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9973064899-uniqlo-whitegrey-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/02_00ecd_Ka613TDwGZTSVRqwR4zPwqLy/f800/1789213263.jpeg?s=551c9be492097ef380d186e155f8d018c44628c7",
-    "found_at": "2026-09-12T11:50:27Z"
   }
 ]
