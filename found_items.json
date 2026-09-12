@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter granatowy Ralph Lauren",
+    "price": "102.67",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9972168516-sweter-granatowy-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_0246e_JMQs4Fh3kDo9xNQt8GyU8eB8/f800/1789208966.jpeg?s=0f9aef491e5d2cc350448acad46aece73acf0031",
+    "found_at": "2026-09-12T10:37:57Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Męski sweterek Polo r M",
     "price": "100.04",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
     "found_at": "2026-09-11T15:27:38Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island sweatshirt str s",
-    "price": "152.25",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9964542881-stone-island-sweatshirt-str-s",
-    "image_url": "https://images1.vinted.net/t/02_006e0_dNvR6thNBrRYXsMyXWPj11F9/f800/1789137786.jpeg?s=427c3d74d132d368c12788129f2c14e390195188",
-    "found_at": "2026-09-11T14:56:49Z"
   }
 ]
