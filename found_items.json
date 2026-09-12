@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Golf ralph lauren",
+    "price": "105.3",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9975692842-golf-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_013d0_FnX3drxwybzr9JEfj92a28Zw/f800/1789224572.jpeg?s=71e787357416ba5f3b379535ef7e54740913bacc",
+    "found_at": "2026-09-12T14:51:11Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Bluza  Polo Ralph Lauren",
+    "price": "78.98",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9975580433-bluza-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_02261_W9X4j3EHuo8cpDFf8Gp4Rfd8/f800/1789224115.jpeg?s=e4fbe558e6073efd6a85097e6f0f70a1cdeba98e",
+    "found_at": "2026-09-12T14:51:13Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo dutti sweter",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9975613753-massimo-dutti-sweter",
+    "image_url": "https://images1.vinted.net/t/06_00fd8_6BmrT6weUcN6NJ7yNGcY56es/f800/1789224250.jpeg?s=ae7aa920e0405dc9cb4287932b7336fbb27a5a23",
+    "found_at": "2026-09-12T14:51:17Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 514 jeans (32/30)",
+    "price": "68.29",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9975562192-levis-514-jeans-3230",
+    "image_url": "https://images1.vinted.net/t/06_00085_ir2iHpzSAPPeb2Ad89SjR99b/f800/1789224042.jpeg?s=79c8e693c0ccfc361547dc3a9c23b22234c53f7d",
+    "found_at": "2026-09-12T14:51:19Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Męski sweterek Massimo Dutti kaszmir z bawełną",
     "price": "65.81",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
     "found_at": "2026-09-12T04:26:33Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo tröja",
-    "price": "80.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9969414649-polo-troja",
-    "image_url": "https://images1.vinted.net/t/05_001d1_Mbf3QgFZsUU4SS2NvFE9Ribb/f800/1789179269.jpeg?s=0d8fc1a9621778c56afe7afb50065cf23c66ffc4",
-    "found_at": "2026-09-12T02:26:16Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "EMP, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "EMP",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZpVGk2w30D",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-14/ZpVGk2w30D-de07-0.jpg",
-    "found_at": "2026-09-12T01:09:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bershka, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bST4zcqcPv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/FTGoLzTHst-618b-0.jpg",
-    "found_at": "2026-09-11T23:37:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Car de la Car, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Car de la Car",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RkBdFM8Vzj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
-    "found_at": "2026-09-11T23:37:37Z"
   }
 ]
