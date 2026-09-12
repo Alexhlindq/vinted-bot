@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 19",
+    "title": "Top uden ærme fra Acne Studios i grå",
+    "price": "114.2",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9973010293-top-uden-aerme-fra-acne-studios-i-gra",
+    "image_url": "https://images1.vinted.net/t/06_01abb_HDoDtMvVU2fYqT5JssAmzav8/f800/1789213008.jpeg?s=a7c68c242e3fe4ec1e4f93609eb1c5e26f464013",
+    "found_at": "2026-09-12T11:37:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Car de la Car, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Car de la Car",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rbALmrSAAU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
+    "found_at": "2026-09-12T11:37:49Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Jack's Sportswear, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack's Sportswear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RUOOBvC8K9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/RUOOBvC8K9-a51e-0.jpg",
+    "found_at": "2026-09-12T11:37:56Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Överskjorta, Strl: M",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/fnUIHDCsoA",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/MX3k1zt6J3-661a-0.jpg",
     "found_at": "2026-09-11T17:09:31Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Ralph Lauren",
-    "price": "76.31",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9965700579-bluza-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_006c9_KBaqiHgm1ZyWjG3QyinCLdG8/f800/1789143557.jpeg?s=cbcb53c434cc048f70b538c81fc91868086122c1",
-    "found_at": "2026-09-11T16:27:57Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Polo Ralph Lauren",
-    "price": "92.1",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9965676292-bluza-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_00bd9_9T6cgte513Dv6BiHUJ74Dabg/f800/1789143437.jpeg?s=1577ac3cc785705a614aa66bc609bd98c6967648",
-    "found_at": "2026-09-11T16:27:58Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek meskipolo",
-    "price": "105.26",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9965437343-sweterek-meskipolo",
-    "image_url": "https://images1.vinted.net/t/01_01268_vb58J51erm8jXcKjCDzWni2w/f800/1789142257.jpeg?s=b5e96335712d7c20587ff3ab7b61120fc862e66e",
-    "found_at": "2026-09-11T16:10:34Z"
   }
 ]
