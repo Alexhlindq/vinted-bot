@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka puchowa Ralph Lauren",
+    "price": "315.91",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9980214918-kurtka-puchowa-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_008ad_m2BuVckNJfsXxPsbKtXhE1BJ/f800/1789249688.jpeg?s=c331b4b1e1b7ef6bc7100eb7c719498a1c463534",
+    "found_at": "2026-09-12T21:50:28Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter cienki Kaszmir",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9980175061-sweter-cienki-kaszmir",
+    "image_url": "https://images1.vinted.net/t/05_01dbd_SAcv5GWj8FwTbh2E18fTbvCR/f800/1789249245.jpeg?s=5495d7f3c1300629c0f3f062c485e69e0a47497c",
+    "found_at": "2026-09-12T21:50:30Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Haglöfs, Fleecetröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Haglöfs",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Cfvj0qPFIg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/tax5Ogke0Z-4218-0.jpg",
+    "found_at": "2026-09-12T21:51:00Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Zip tröja brun",
     "price": "75.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9973870193-meski-sweterek-massimo-dutti-kaszmir-z-bawelna",
     "image_url": "https://images1.vinted.net/t/05_001a4_1F354gMKcwmmaPGh9mJiKpoC/f800/1789216905.jpeg?s=aeff1fbba718aeb8e7593dcfaaaa99705b44876e",
     "found_at": "2026-09-12T14:39:58Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios. Lång hoodie utan ärmar med fickor.",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9975549381-acne-studios-lang-hoodie-utan-armar-med-fickor",
-    "image_url": "https://images1.vinted.net/t/02_0025a_r25Cjr1LdJji8GR8iTZfswGj/f800/1789223989.jpeg?s=bb57b26bce18110fe8364032e8b6b7bb2d02b181",
-    "found_at": "2026-09-12T14:40:03Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Czarny sweterek polo ralph lauren",
-    "price": "118.47",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9974814748-czarny-sweterek-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_0036e_PTz8cfahFiMBZkwMXTpPsAGU/f800/1789220947.jpeg?s=340609a44015419fed0380a35944dd1dcb042e39",
-    "found_at": "2026-09-12T14:25:50Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister bluza",
-    "price": "68.45",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9975128749-hollister-bluza",
-    "image_url": "https://images1.vinted.net/t/01_010cc_ufcZZwgdamH1dpP7PoMgjMvc/f800/1789222256.jpeg?s=2d4e6e42257766f58777d818eabfe55ed730c793",
-    "found_at": "2026-09-12T14:25:55Z"
   }
 ]
