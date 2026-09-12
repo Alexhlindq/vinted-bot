@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza diesel",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9980503849-bluza-diesel",
+    "image_url": "https://images1.vinted.net/t/06_012db_RNUuV2dPRYNkSSYKVyjS39dc/f800/1789254945.jpeg?s=c6ed2e8d5f6a80ae891ee3f9c984b74cf2c29092",
+    "found_at": "2026-09-12T23:24:26Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Cat, Arbetsjacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9975580433-bluza-polo-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/02_02261_W9X4j3EHuo8cpDFf8Gp4Rfd8/f800/1789224115.jpeg?s=e4fbe558e6073efd6a85097e6f0f70a1cdeba98e",
     "found_at": "2026-09-12T14:51:13Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Massimo dutti sweter",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9975613753-massimo-dutti-sweter",
-    "image_url": "https://images1.vinted.net/t/06_00fd8_6BmrT6weUcN6NJ7yNGcY56es/f800/1789224250.jpeg?s=ae7aa920e0405dc9cb4287932b7336fbb27a5a23",
-    "found_at": "2026-09-12T14:51:17Z"
   }
 ]
