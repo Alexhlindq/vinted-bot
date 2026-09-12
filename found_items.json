@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter M",
+    "price": "86.88",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9979814937-sweter-m",
+    "image_url": "https://images1.vinted.net/t/06_001b0_qmixLgoUVYkoN1rCCUzQhT99/f800/1789245870.jpeg?s=d795b2350ac664676e98f1b73609eb20380730de",
+    "found_at": "2026-09-12T20:54:30Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka Rayaln Polo",
+    "price": "394.89",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/8436701339-kurtka-rayaln-polo",
+    "image_url": "https://images1.vinted.net/t/04_01261_h4Ei7San1b9UYXccRcY5mTmX/f800/1773956535.jpeg?s=6834b2db086ec24ff35cdabbe90de00073d25839",
+    "found_at": "2026-09-12T20:54:32Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Costume National, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Costume National",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tT56Al1rym",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vmRU4jznRb-75f2-0.jpg",
+    "found_at": "2026-09-12T20:55:02Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Björn Borg, Collegetröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Björn Borg",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-14/rbALmrSAAU-906e-0.jpg",
+    "found_at": "2026-09-12T20:55:03Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Basic elegancki sweter quarter zip Polo Ralph Lauren vintage",
     "price": "76.34",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9974741711-sweter",
     "image_url": "https://images1.vinted.net/t/02_004d8_51iVGEWaAbwun4YougJLV7aR/f800/1789220642.jpeg?s=86a4f0b728502cf5e731025f1ce468faf3f071e0",
     "found_at": "2026-09-12T13:50:20Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Szary sweter",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "XL",
-    "url": "https://www.vinted.se/items/9974558473-szary-sweter",
-    "image_url": "https://images1.vinted.net/t/05_01fa6_eHxEzvGfUUJ6A4obpWuA6io4/f800/1789219869.jpeg?s=d24ff90d9a1ea1d95859226afed21a34da4dcac9",
-    "found_at": "2026-09-12T13:37:14Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Vintage Levikset",
-    "price": "45.53",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9974522486-vintage-levikset",
-    "image_url": "https://images1.vinted.net/t/02_0012d_bMTgeGFB3RG5pF1x8JNzazEw/f800/1789219718.jpeg?s=62801aa75c2c3f6f524bd25eed164d5fe52eec98",
-    "found_at": "2026-09-12T13:37:17Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza sweter uniqlo",
-    "price": "50.02",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9974452594-bluza-sweter-uniqlo",
-    "image_url": "https://images1.vinted.net/t/06_0148e_iNQynt4bvgmthHxe3X7HUU7A/f800/1789219425.jpeg?s=2bc4e385feabf12f854a9113583d8f9d019c82aa",
-    "found_at": "2026-09-12T13:24:50Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "A Day's March, Tröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/zzPAiGY3ta-f1d6-0.jpg",
-    "found_at": "2026-09-12T13:25:21Z"
   }
 ]
