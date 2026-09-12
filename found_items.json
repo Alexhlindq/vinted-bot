@@ -1,6 +1,72 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Men’s sweater Polo Ralph Lauren",
+    "price": "56.91",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9972483675-mens-sweater-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_000bd_b6WL173opnYzarSX9i1XqGku/f800/1789210485.jpeg?s=c8617dbe668db070979a5c9ed92455e5559f729f",
+    "found_at": "2026-09-12T11:08:27Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Blå lång tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9972455454-bla-lang-troja",
+    "image_url": "https://images1.vinted.net/t/03_01f0d_iou2W385urRJKnsqd69t8oGB/f800/1789210349.jpeg?s=30bf0f880145fe4ce46aa50e45e62e17af13d3d8",
+    "found_at": "2026-09-12T11:08:29Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Farkut",
+    "price": "56.91",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9972484877-farkut",
+    "image_url": "https://images1.vinted.net/t/02_00cfb_pQjRG1Fm2oK2f4abKdBYdZ5s/f800/1789210491.jpeg?s=2632a3e30afa584b9d806c3bf702d36bdbc92c62",
+    "found_at": "2026-09-12T11:08:33Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy Levi's vintage low rise unisex",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9972299054-jeansy-levis-vintage-low-rise-unisex",
+    "image_url": "https://images1.vinted.net/t/02_01fed_v6fevwoE6cKDW8uoconLzTRv/f800/1789209596.jpeg?s=ce2637ca4ece544671a2a8e965a86342c0db13e1",
+    "found_at": "2026-09-12T11:08:35Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Diesel",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9972432202-bluza-diesel",
+    "image_url": "https://images1.vinted.net/t/06_001d6_nq7dM3CWaskH5Js5SNeZqejv/f800/1789210237.jpeg?s=56bf49986f0d08db423cdc21186c52773ee0d840",
+    "found_at": "2026-09-12T11:08:37Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Peak Performance, Parkas, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/o0LYb03MXc-f531-0.jpg",
+    "found_at": "2026-09-12T11:09:12Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza",
     "price": "52.65",
     "currency": "SEK",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9965529846-hollister-bluza-damska-cienka-rozmiar-s",
     "image_url": "https://images1.vinted.net/t/05_020c7_yjvNBmyd4uvBz9D5BhUe8VCK/f800/1789142715.jpeg?s=811d9b5fceda12834ae0dae7c164f7ea1fe3eb7d",
     "found_at": "2026-09-11T16:10:41Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister S z kapturem, niebieski melanż",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9965426196-bluza-hollister-s-z-kapturem-niebieski-melanz",
-    "image_url": "https://images1.vinted.net/t/04_018e7_FJvCBZH7fEuY5B2wFdfegDWr/f800/1789142203.jpeg?s=368f9377d8a9cfcc69a44b37b279e48bd4b2d8ce",
-    "found_at": "2026-09-11T16:10:42Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "D+LJ, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "D+LJ",
-    "size": "",
-    "url": "https://www.sellpy.se/item/P8vcrH3jIe",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/MMESuBJ1bO-2653-0.jpg",
-    "found_at": "2026-09-11T16:11:11Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Lindbergh, Kofta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Lindbergh",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rgoG2xQLbo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/rgoG2xQLbo-8781-0.jpg",
-    "found_at": "2026-09-11T16:11:18Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza damska",
-    "price": "21.05",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9965065240-bluza-damska",
-    "image_url": "https://images1.vinted.net/t/02_009e6_9g6DRpMbPbDHjcT7W7FHKuhJ/f800/1789140418.jpeg?s=5a39b5ad9a3c6686f3f097fb3dfc3496a4dd3a69",
-    "found_at": "2026-09-11T15:42:06Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Boohoo Man, Shearlingjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Boohoo Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GQwHuzXSui",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/wUMmmgU8b2-54e3-0.jpg",
-    "found_at": "2026-09-11T15:27:27Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NnmXVMo4Ao",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
-    "found_at": "2026-09-11T15:27:37Z"
   }
 ]
