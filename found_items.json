@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Cat, Arbetsjacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Cat",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1tf5cNuIA0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/ptDKQPbiXp-4922-0.jpg",
+    "found_at": "2026-09-12T22:09:34Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Image Wear, Ytterväst, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Image Wear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7zCUp8sYK2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/wHgmjWJcBF-38b7-0.jpg",
+    "found_at": "2026-09-12T22:09:35Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Kurtka puchowa Ralph Lauren",
     "price": "315.91",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9975613753-massimo-dutti-sweter",
     "image_url": "https://images1.vinted.net/t/06_00fd8_6BmrT6weUcN6NJ7yNGcY56es/f800/1789224250.jpeg?s=ae7aa920e0405dc9cb4287932b7336fbb27a5a23",
     "found_at": "2026-09-12T14:51:17Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 514 jeans (32/30)",
-    "price": "68.29",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9975562192-levis-514-jeans-3230",
-    "image_url": "https://images1.vinted.net/t/06_00085_ir2iHpzSAPPeb2Ad89SjR99b/f800/1789224042.jpeg?s=79c8e693c0ccfc361547dc3a9c23b22234c53f7d",
-    "found_at": "2026-09-12T14:51:19Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Męski sweterek Massimo Dutti kaszmir z bawełną",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9973870193-meski-sweterek-massimo-dutti-kaszmir-z-bawelna",
-    "image_url": "https://images1.vinted.net/t/05_001a4_1F354gMKcwmmaPGh9mJiKpoC/f800/1789216905.jpeg?s=aeff1fbba718aeb8e7593dcfaaaa99705b44876e",
-    "found_at": "2026-09-12T14:39:58Z"
   }
 ]
