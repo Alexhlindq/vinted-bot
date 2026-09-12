@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Czarny sweterek polo ralph lauren",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9974814748-czarny-sweterek-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_0036e_PTz8cfahFiMBZkwMXTpPsAGU/f800/1789220947.jpeg?s=340609a44015419fed0380a35944dd1dcb042e39",
+    "found_at": "2026-09-12T14:25:50Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister bluza",
+    "price": "68.45",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9975128749-hollister-bluza",
+    "image_url": "https://images1.vinted.net/t/01_010cc_ufcZZwgdamH1dpP7PoMgjMvc/f800/1789222256.jpeg?s=2d4e6e42257766f58777d818eabfe55ed730c793",
+    "found_at": "2026-09-12T14:25:55Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne linne",
+    "price": "150.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9975187807-acne-linne",
+    "image_url": "https://images1.vinted.net/t/05_00bf8_vGxriNtKtTusjNtsw6n6ukxv/f800/1789222500.jpeg?s=715a29ce7033aa842540ad7f403ff5656f0d2e37",
+    "found_at": "2026-09-12T14:25:58Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Koszulka z długim rękawem i kapturem Hollister Granatowy rozmiar S",
     "price": "28.96",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/XAVRhF3quD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
     "found_at": "2026-09-11T22:50:58Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "bluza crewneck Polo Ralph Lauren size S ciemnoszara PRL small logo lightweight",
-    "price": "105.23",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9968814020-bluza-crewneck-polo-ralph-lauren-size-s-ciemnoszara-prl-small-logo-lightweight",
-    "image_url": "https://images1.vinted.net/t/06_01ae1_XXu4XmfXvAQ4cec7azCyFcXi/f800/1789165080.jpeg?s=233f86b5597c33b75aa1d10ad5fa60f626e4207f",
-    "found_at": "2026-09-11T22:25:09Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Blend, Jacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Blend",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Go0Kf9lAxt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/Go0Kf9lAxt-76b4-0.jpg",
-    "found_at": "2026-09-11T22:26:02Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Morris tröja",
-    "price": "65.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9968627333-morris-troja",
-    "image_url": "https://images1.vinted.net/t/02_02584_WP7fiMkBLhnLDqx43GLf2xMU/f800/1789162570.jpeg?s=267df9a8b1ad44d24b7eb9ad79e19dc580bc7b53",
-    "found_at": "2026-09-11T21:36:43Z"
   }
 ]
