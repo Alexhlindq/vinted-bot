@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levi jeans",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9977418031-levi-jeans",
+    "image_url": "https://images1.vinted.net/t/06_02089_Wy7Brr3Lbh7mpRdRpMsbj9uK/f800/1789231801.jpeg?s=b68ab636ae5d737b911062f0546beba758ad054e",
+    "found_at": "2026-09-12T16:50:24Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9977354617-bluza-z-kapturem",
+    "image_url": "https://images1.vinted.net/t/02_006c7_oJZ1nZXU9SnwXmY9K4DTcEBV/f800/1789231518.jpeg?s=dd89754a888caf3e0ed6787abf86139c97e3cfbb",
+    "found_at": "2026-09-12T16:50:26Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Męski sweterek",
+    "price": "31.59",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9977328168-meski-sweterek",
+    "image_url": "https://images1.vinted.net/t/06_01c38_inAf74j9pnwWNnHXEFGiEYPR/f800/1789231399.jpeg?s=5d7c32bd403a231a467f4cc77435833f8391cb63",
+    "found_at": "2026-09-12T16:50:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Peak Performance, Fleeceväst, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3j35rPCBw5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/UI9NsLUzfq-f117-0.jpg",
+    "found_at": "2026-09-12T16:50:54Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo ralph lauren trøje str 18-20",
     "price": "114.2",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/bST4zcqcPv-8c30-0.jpg",
     "found_at": "2026-09-12T09:09:45Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren Polo",
-    "price": "76.13",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9970898314-ralph-lauren-polo",
-    "image_url": "https://images1.vinted.net/t/05_00d78_G2keYCoYG5tQ7e4Xhc9horBC/f800/1789202591.jpeg?s=ff64de51024b28bafeb919656db67888bb76d5b2",
-    "found_at": "2026-09-12T08:51:37Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans, straight",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9970929485-levis-jeans-straight",
-    "image_url": "https://images1.vinted.net/t/04_0052c_KMfCa4awnvhepzvjVc1KeaCy/f800/1789202768.jpeg?s=d1f48a5cc66aa5914cadbfc3247d86e0f56af4cb",
-    "found_at": "2026-09-12T08:51:42Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza z kapture. Hollister",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9970979510-bluza-z-kapture-hollister",
-    "image_url": "https://images1.vinted.net/t/06_000a2_yxb4z1cBM7rXoUashM4QFjrM/f800/1789203049.jpeg?s=605bec29cdc4040e357f6a303661932e8effc37c",
-    "found_at": "2026-09-12T08:51:45Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "DC Shoes, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "DC Shoes",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rC9Qzt7xqZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
-    "found_at": "2026-09-12T08:52:15Z"
   }
 ]
