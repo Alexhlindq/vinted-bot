@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Wełniany kaszmirowy sweter męski Massimo Dutti XS S",
+    "price": "39.49",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9978906601-welniany-kaszmirowy-sweter-meski-massimo-dutti-xs-s",
+    "image_url": "https://images1.vinted.net/t/02_0035b_1WDWQadxjxrAX3aV7ktNrsYx/f800/1789239694.jpeg?s=ebd647a5b5615c6744f500c2de73ce92038d0f16",
+    "found_at": "2026-09-12T19:07:58Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis jeans",
     "price": "60.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9973064899-uniqlo-whitegrey-sweatshirt",
     "image_url": "https://images1.vinted.net/t/02_00ecd_Ka613TDwGZTSVRqwR4zPwqLy/f800/1789213263.jpeg?s=551c9be492097ef380d186e155f8d018c44628c7",
     "found_at": "2026-09-12T11:50:27Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Top uden ærme fra Acne Studios i grå",
-    "price": "114.2",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9973010293-top-uden-aerme-fra-acne-studios-i-gra",
-    "image_url": "https://images1.vinted.net/t/06_01abb_HDoDtMvVU2fYqT5JssAmzav8/f800/1789213008.jpeg?s=a7c68c242e3fe4ec1e4f93609eb1c5e26f464013",
-    "found_at": "2026-09-12T11:37:19Z"
   }
 ]
