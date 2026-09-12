@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Snygga nudie jeans",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9800583667-snygga-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/05_01929_Knar1MMVuhSK3vwe1jXZ6nJB/f800/1789247926.jpeg?s=5677c0738ab46c7f2b458ac53d4c6417979ae1a2",
+    "found_at": "2026-09-12T21:25:07Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Premium, Jeans, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi's Premium",
+    "size": "",
+    "url": "https://www.sellpy.se/item/XnZxdKZ0Qv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-2/XnZxdKZ0Qv-93b0-0.jpg",
+    "found_at": "2026-09-12T21:25:18Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "2 swetry chłopiec Ralph Lauren",
     "price": "118.47",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9975187807-acne-linne",
     "image_url": "https://images1.vinted.net/t/05_00bf8_vGxriNtKtTusjNtsw6n6ukxv/f800/1789222500.jpeg?s=715a29ce7033aa842540ad7f403ff5656f0d2e37",
     "found_at": "2026-09-12T14:25:58Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Koszulka z długim rękawem i kapturem Hollister Granatowy rozmiar S",
-    "price": "28.96",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9975056977-koszulka-z-dlugim-rekawem-i-kapturem-hollister-granatowy-rozmiar-s",
-    "image_url": "https://images1.vinted.net/t/02_00552_VZjr17FvshhQzMQHTKEAWetQ/f800/1789221958.jpeg?s=83958accb2a4166f1209e4fc4890299f7894db44",
-    "found_at": "2026-09-12T14:09:08Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne linne",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9975078157-acne-linne",
-    "image_url": "https://images1.vinted.net/t/02_00930_LN8QCqMbwu7xiVq2wDrobeb3/f800/1789222046.jpeg?s=52a6b5b7016e4ee2f96bc42bbc5ea7e58137af0e",
-    "found_at": "2026-09-12T14:09:11Z"
   }
 ]
