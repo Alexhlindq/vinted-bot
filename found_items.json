@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo ralph lauren trøje str 18-20",
+    "price": "114.2",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9945497963-polo-ralph-lauren-troje-str-18-20",
+    "image_url": "https://images1.vinted.net/t/05_00154_ztFYNaqyHBYTHLT21rqGJf2n/f800/1789225572.jpeg?s=83a8c82416bcfe1c5792b9290d57c2d98f02d8dc",
+    "found_at": "2026-09-12T16:38:36Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Morris, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bOfEYWkR0W",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
+    "found_at": "2026-09-12T16:39:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Peak Performance, Huvtröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/bOfEYWkR0W-c8a8-0.jpg",
+    "found_at": "2026-09-12T16:39:12Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph lauren",
     "price": "80.0",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/rC9Qzt7xqZ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/5V9t4cdiIg-1437-0.jpg",
     "found_at": "2026-09-12T08:52:15Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Disneyland Paris, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Disneyland Paris",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/nX80YDClic-0ff7-0.jpg",
-    "found_at": "2026-09-12T08:52:16Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen Workwear, Fleecejacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Helly Hansen Workwear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/o0LYb03MXc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-15/98Vzgtyjyy-fb86-0.jpg",
-    "found_at": "2026-09-12T08:41:00Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza polo ralph",
-    "price": "92.14",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9970716430-bluza-polo-ralph",
-    "image_url": "https://images1.vinted.net/t/04_00fc3_LL6SqyYGEvsmDjW7jMMEuiYP/f800/1789201527.jpeg?s=5e9b4c54f87829eafc7775fa94899ae44fc586c0",
-    "found_at": "2026-09-12T08:25:59Z"
   }
 ]
