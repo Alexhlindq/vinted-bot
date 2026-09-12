@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Szary sweter",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XL",
+    "url": "https://www.vinted.se/items/9974558473-szary-sweter",
+    "image_url": "https://images1.vinted.net/t/05_01fa6_eHxEzvGfUUJ6A4obpWuA6io4/f800/1789219869.jpeg?s=d24ff90d9a1ea1d95859226afed21a34da4dcac9",
+    "found_at": "2026-09-12T13:37:14Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Vintage Levikset",
+    "price": "45.53",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9974522486-vintage-levikset",
+    "image_url": "https://images1.vinted.net/t/02_0012d_bMTgeGFB3RG5pF1x8JNzazEw/f800/1789219718.jpeg?s=62801aa75c2c3f6f524bd25eed164d5fe52eec98",
+    "found_at": "2026-09-12T13:37:17Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza sweter uniqlo",
     "price": "50.02",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9806693925-sweter-stone-island",
     "image_url": "https://images1.vinted.net/t/06_01b6e_HmhFEEkQUPAiLi7dSX8ac8Hv/f800/1787924420.jpeg?s=53a7538e265bbc17dc0d0207b0936828c96d3b2f",
     "found_at": "2026-09-11T20:09:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/WpmyMygTK0-2b86-0.jpg",
-    "found_at": "2026-09-11T20:09:54Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeans från Levis",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9967709140-jeans-fran-levis",
-    "image_url": "https://images1.vinted.net/t/05_01c22_hKnAZ6UPfxj2z1NELc5LY3pF/f800/1789154880.jpeg?s=2aa0cfe527b318befdefc795edd2f062531f086d",
-    "found_at": "2026-09-11T19:37:34Z"
   }
 ]
