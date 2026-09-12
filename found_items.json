@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Morris, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "",
+    "url": "https://www.sellpy.se/item/42nIDqEgb3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
+    "found_at": "2026-09-12T09:51:09Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bondelid tröja",
     "price": "50.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9964432928-ralph-lauren-cashmere",
     "image_url": "https://images1.vinted.net/t/02_01c69_frpNkyp4wbXbBu6MuV1ExiiM/f800/1789137212.jpeg?s=aec6dce636ef6553337e2cd2269bb2f3f5b5ef30",
     "found_at": "2026-09-11T14:42:54Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "63.16",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9964104280-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/06_020b4_EeruToH5KXSoKWBYVKfMzGdm/f800/1789135498.jpeg?s=9e0c822cd889c25946f1725c35a70603a668398b",
-    "found_at": "2026-09-11T14:17:27Z"
   }
 ]
