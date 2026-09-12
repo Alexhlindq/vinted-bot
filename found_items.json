@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Zip tröja brun",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9980111416-zip-troja-brun",
+    "image_url": "https://images1.vinted.net/t/02_02152_ZcF8HCEeNECwPAx2DrZzypMB/f800/1789248570.jpeg?s=23986909c3facdf852e94cff4f3e0b87cb875cfa",
+    "found_at": "2026-09-12T21:37:46Z"
+  },
+  {
     "search_name": "Vinted bot 4",
     "title": "Snygga nudie jeans",
     "price": "100.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9975128749-hollister-bluza",
     "image_url": "https://images1.vinted.net/t/01_010cc_ufcZZwgdamH1dpP7PoMgjMvc/f800/1789222256.jpeg?s=2d4e6e42257766f58777d818eabfe55ed730c793",
     "found_at": "2026-09-12T14:25:55Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne linne",
-    "price": "150.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9975187807-acne-linne",
-    "image_url": "https://images1.vinted.net/t/05_00bf8_vGxriNtKtTusjNtsw6n6ukxv/f800/1789222500.jpeg?s=715a29ce7033aa842540ad7f403ff5656f0d2e37",
-    "found_at": "2026-09-12T14:25:58Z"
   }
 ]
