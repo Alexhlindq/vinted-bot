@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Camel Active, Jacka, Strl: S/M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Camel Active",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oG86s7hP7M",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/oG86s7hP7M-cb7c-0.jpg",
+    "found_at": "2026-09-12T20:10:20Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "686, Skidjacka, Strl: M",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9971645483-oryginalne-spodnie-levis-premium-w30-l34-granatowe-jeansy",
     "image_url": "https://images1.vinted.net/t/04_00d94_bf5wHp2gevVazAdNk4Nw5Vef/f800/1789206462.jpeg?s=488468e5ed42dc911983e089ae088ad0b12daa2d",
     "found_at": "2026-09-12T12:46:51Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph lauren huppari",
-    "price": "113.82",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9973592785-ralph-lauren-huppari",
-    "image_url": "https://images1.vinted.net/t/05_01e1c_qxagWrMJJd9z6j4VcUXtYGJa/f800/1789215673.jpeg?s=1f254074d7344fd465f0c361e8a2d2026b412335",
-    "found_at": "2026-09-12T12:30:26Z"
   }
 ]
