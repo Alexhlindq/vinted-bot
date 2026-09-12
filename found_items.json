@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister Rozmiar M",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9970339943-bluza-hollister-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/06_007c1_yC9HJW9osg6TNV2GyPYNx86q/f800/1789198835.jpeg?s=60dc56a171de494d9b65eedb2443ca260a5cfdc3",
+    "found_at": "2026-09-12T07:50:24Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza chłopięca r. S",
     "price": "23.69",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9962951161-huvtroja",
     "image_url": "https://images1.vinted.net/t/05_00679_LTc6RehDuBiq2jgA2u3YLUAM/f800/1789129462.jpeg?s=83a1327de13e2e5cbe540f9e8f571e0b0d1f3529",
     "found_at": "2026-09-11T12:34:41Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Bondelid, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GDE6AWc0MH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/GDE6AWc0MH-a6f0-0.jpg",
-    "found_at": "2026-09-11T12:35:22Z"
   }
 ]
