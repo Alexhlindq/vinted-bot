@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza polo ralph",
+    "price": "92.14",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9970716430-bluza-polo-ralph",
+    "image_url": "https://images1.vinted.net/t/04_00fc3_LL6SqyYGEvsmDjW7jMMEuiYP/f800/1789201527.jpeg?s=5e9b4c54f87829eafc7775fa94899ae44fc586c0",
+    "found_at": "2026-09-12T08:25:59Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza Hollister Rozmiar M",
     "price": "52.65",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/gYwRrWCLxx",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/aTf54n5mCe-dcfe-0.jpg",
     "found_at": "2026-09-11T12:56:14Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Huvtröja",
-    "price": "35.0",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9962951161-huvtroja",
-    "image_url": "https://images1.vinted.net/t/05_00679_LTc6RehDuBiq2jgA2u3YLUAM/f800/1789129462.jpeg?s=83a1327de13e2e5cbe540f9e8f571e0b0d1f3529",
-    "found_at": "2026-09-11T12:34:41Z"
   }
 ]
