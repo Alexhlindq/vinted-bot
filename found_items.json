@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo Dutti tröja marinblå ull och kashmir - Small",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9973253676-massimo-dutti-troja-marinbla-ull-och-kashmir-small",
+    "image_url": "https://images1.vinted.net/t/02_02377_NKEFG1qH2K5c51f1GK65RtMc/f800/r1/1789214131.jpeg?s=1fa779ace2885537eccd43f3678219020dcf95ca",
+    "found_at": "2026-09-12T12:11:44Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Uniqlo white/grey sweatshirt",
     "price": "70.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9966269488-fina-levis-jeans",
     "image_url": "https://images1.vinted.net/t/06_02246_6L3AhfhrzAXCwZaRpngpBqDM/f800/1789146411.jpeg?s=7aecda84412b8834ee8f100bc82d955a0c4ef669",
     "found_at": "2026-09-11T17:08:54Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie levi’s",
-    "price": "65.79",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9966189256-spodnie-levis",
-    "image_url": "https://images1.vinted.net/t/02_01bab_u5EurPUo1Wa68BK3gDakaWJ5/f800/1789146000.jpeg?s=5bef41dca9a046601d98057f6372e4cf4a8b218c",
-    "found_at": "2026-09-11T17:08:55Z"
   }
 ]
