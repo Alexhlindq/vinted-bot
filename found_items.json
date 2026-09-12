@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter polo Ralph Laurent",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9971162247-sweter-polo-ralph-laurent",
+    "image_url": "https://images1.vinted.net/t/02_024f8_A1L2pNe1SbjWzNnsJLai6oa9/f800/1789204045.jpeg?s=a274c46728aed4a0da2b5c3714bb80fc5ce7914b",
+    "found_at": "2026-09-12T09:09:13Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
+    "price": "223.77",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9971079157-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
+    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789203598.jpeg?s=9470e524d32e43e98d5c4aaad8c5e726633fdd69",
+    "found_at": "2026-09-12T09:09:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "STANLEY/STELLA, Collegetröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "STANLEY/STELLA",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/bST4zcqcPv-8c30-0.jpg",
+    "found_at": "2026-09-12T09:09:45Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren Polo",
     "price": "76.13",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9963906326-polo-ralph-lauren-puffer-jacket-kurtka-meska-old-money-rrl-usa-bear-luxury-outdoor",
     "image_url": "https://images1.vinted.net/t/01_02173_ZLZe8R2vTRQAoHBTbNavZ2rR/f800/1789134481.jpeg?s=56670713b40215d9ad9430c6d820fa2fbb0dbc93",
     "found_at": "2026-09-11T13:54:53Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Vit Bondelid Hoodie",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9963833866-vit-bondelid-hoodie",
-    "image_url": "https://images1.vinted.net/t/04_003f1_eRpgwG8jP586SKyxY6Hetomr/f800/1789134114.jpeg?s=e83e6a7538a2968dbd980ab8ab15a1229d649182",
-    "found_at": "2026-09-11T13:43:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Arket, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vmRU4jznRb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/KqpI6CeJg2-f782-0.jpg",
-    "found_at": "2026-09-11T13:43:47Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweterek meski polo",
-    "price": "105.26",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9963507137-sweterek-meski-polo",
-    "image_url": "https://images1.vinted.net/t/01_00065_Fdgo67CtXDGMiuUT8VogeoFC/f800/1789132437.jpeg?s=b9d6c52c88213b59048fa72cb01c71859b627ef3",
-    "found_at": "2026-09-11T13:27:55Z"
   }
 ]
