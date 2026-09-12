@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Uniqlo herrtröja",
+    "price": "40.0",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9976222546-uniqlo-herrtroja",
+    "image_url": "https://images1.vinted.net/t/05_01c56_hyQfYmqUnm4wNdJfvdftxehK/f800/1789226734.jpeg?s=47cdd72b1ebfec2779a2ca39d2e1f87d6f21d9d2",
+    "found_at": "2026-09-12T15:37:24Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Męska cienka bluza z kapturem Hollister California niebieski melanż M kangurka",
+    "price": "50.02",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9976297554-meska-cienka-bluza-z-kapturem-hollister-california-niebieski-melanz-m-kangurka",
+    "image_url": "https://images1.vinted.net/t/06_00251_coEWP68KKgZfF7d85L6Ep38R/f800/1789227040.jpeg?s=9cf5dfad53361445f0f8e56821e7713914e33ed3",
+    "found_at": "2026-09-12T15:37:25Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "bluza uniqlo dryvent",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9976286896-bluza-uniqlo-dryvent",
+    "image_url": "https://images1.vinted.net/t/01_00050_dTmsACGCrnBuqJS7y3oSNxx7/f800/1789226997.jpeg?s=b0d53991c9bc260413c5efd1954f0a52f47e7b8f",
+    "found_at": "2026-09-12T15:37:26Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis jeans 511",
     "price": "75.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9970339943-bluza-hollister-rozmiar-m",
     "image_url": "https://images1.vinted.net/t/06_007c1_yC9HJW9osg6TNV2GyPYNx86q/f800/1789198835.jpeg?s=60dc56a171de494d9b65eedb2443ca260a5cfdc3",
     "found_at": "2026-09-12T07:50:24Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza chłopięca r. S",
-    "price": "23.69",
-    "currency": "SEK",
-    "brand": "Dsquared2",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9970255390-bluza-chlopieca-r-s",
-    "image_url": "https://images1.vinted.net/t/02_00d03_QSQ1NMbRWWZe6jDcbtpb5kyG/f800/1789198134.jpeg?s=ceadb7e45b32afc86014844eb87308a815e50b58",
-    "found_at": "2026-09-12T07:37:12Z"
-  },
-  {
-    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
-    "title": "Polo Ralph Lauren, Chinos, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2MugQ0XnUk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-9/2MugQ0XnUk-bb50-0.jpg",
-    "found_at": "2026-09-12T07:37:37Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Męski sweterek,Massimo Dutti, bawełna z kaszmirem, rozmiar L,",
-    "price": "71.08",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9970041719-meski-sweterekmassimo-dutti-bawelna-z-kaszmirem-rozmiar-l",
-    "image_url": "https://images1.vinted.net/t/06_0100c_TRWa3zTSGjzkxszJcZzX1J9D/f800/1789196044.jpeg?s=6095ba723907c9a9e6959fca5d6e88c5b7539ffa",
-    "found_at": "2026-09-12T07:08:18Z"
   }
 ]
