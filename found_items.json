@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9952133066-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/02_00a90_DZtk8Z5F7ZkBB2egCbESmP2f/f800/1789238790.jpeg?s=14e118983cf6014e5a53637fb155a25e7f512e3f",
+    "found_at": "2026-09-12T18:51:01Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren S wada malutka",
     "price": "118.47",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9973010293-top-uden-aerme-fra-acne-studios-i-gra",
     "image_url": "https://images1.vinted.net/t/06_01abb_HDoDtMvVU2fYqT5JssAmzav8/f800/1789213008.jpeg?s=a7c68c242e3fe4ec1e4f93609eb1c5e26f464013",
     "found_at": "2026-09-12T11:37:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Car de la Car, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Car de la Car",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rbALmrSAAU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
-    "found_at": "2026-09-12T11:37:49Z"
   }
 ]
