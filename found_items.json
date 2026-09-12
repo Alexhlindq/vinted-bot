@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Cinque, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Cinque",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lHCSiLGt4X",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/lHCSiLGt4X-727c-0.jpg",
+    "found_at": "2026-09-12T06:31:39Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren",
     "price": "100.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/FTGoLzTHst",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/i7B2I7moey-5cfc-0.jpg",
     "found_at": "2026-09-11T11:40:13Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren Hoodie Grå",
-    "price": "112.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9962201721-polo-ralph-lauren-hoodie-gra",
-    "image_url": "https://images1.vinted.net/t/05_000f8_Nw71i9Ti81X8QdYMkvS2CoCe/f800/1789125204.jpeg?s=766d86149ba27576899479204efdf55b1e47b948",
-    "found_at": "2026-09-11T11:26:15Z"
   }
 ]
