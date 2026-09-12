@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen Workwear, Fleecejacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Helly Hansen Workwear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/o0LYb03MXc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-15/98Vzgtyjyy-fb86-0.jpg",
+    "found_at": "2026-09-12T08:41:00Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza polo ralph",
     "price": "92.14",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9963124043-dissaray-t-shirt",
     "image_url": "https://images1.vinted.net/t/06_00f54_QA8taSCAwhYxs7rfhSqSod2h/f800/1789130409.jpeg?s=6d48ee271332348fd91a7a21755f6ac6a8418024",
     "found_at": "2026-09-11T12:55:48Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Gildan, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Gildan",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gYwRrWCLxx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/aTf54n5mCe-dcfe-0.jpg",
-    "found_at": "2026-09-11T12:56:14Z"
   }
 ]
