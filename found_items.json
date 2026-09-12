@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "2 swetry chłopiec Ralph Lauren",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9979979013-2-swetry-chlopiec-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/06_001e3_94neBjodJQiZRBF798YkjnaD/f800/1789247281.jpeg?s=b79724cdb20fbdfd2f883e213bab0d4b51101dec",
+    "found_at": "2026-09-12T21:08:48Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rHnMDwWthG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-3/WWy7m6OaBb-2fa1-0.jpg",
+    "found_at": "2026-09-12T21:08:58Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter M",
     "price": "86.88",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9975078157-acne-linne",
     "image_url": "https://images1.vinted.net/t/02_00930_LN8QCqMbwu7xiVq2wDrobeb3/f800/1789222046.jpeg?s=52a6b5b7016e4ee2f96bc42bbc5ea7e58137af0e",
     "found_at": "2026-09-12T14:09:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Fleecejacka, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ERjg9sXJLS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/81G19q0jN3-3da4-0.jpg",
-    "found_at": "2026-09-12T14:09:43Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "sweter",
-    "price": "118.47",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9974741711-sweter",
-    "image_url": "https://images1.vinted.net/t/02_004d8_51iVGEWaAbwun4YougJLV7aR/f800/1789220642.jpeg?s=86a4f0b728502cf5e731025f1ce468faf3f071e0",
-    "found_at": "2026-09-12T13:50:20Z"
   }
 ]
