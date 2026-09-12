@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph lauren t-shirt",
+    "price": "114.2",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9977976258-ralph-lauren-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_02574_Xm2SZRhj5LscX5aPDwPFdoQC/f800/1789234465.jpeg?s=f030ec4716876b6edb111eff22c59f11e2a11ebe",
+    "found_at": "2026-09-12T17:37:00Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Quarter zip Bondelid",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9977885997-quarter-zip-bondelid",
+    "image_url": "https://images1.vinted.net/t/02_01e2b_5Csfe5jm4moHo5XJ4swMMC4r/f800/1789234012.jpeg?s=928712806ba4b42609d734ae35bd25ff9b70f51a",
+    "found_at": "2026-09-12T17:37:04Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza męska Dsquared 2",
     "price": "31.59",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/42nIDqEgb3",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
     "found_at": "2026-09-12T09:51:09Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bondelid tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9971472509-bondelid-troja",
-    "image_url": "https://images1.vinted.net/t/06_00953_UP9JTd1En8AbsCMU3uXZAL1Y/f800/1789205707.jpeg?s=23f315eb17ec285c3f49b34774b48823bf282574",
-    "found_at": "2026-09-12T09:38:34Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "swetrek kitaro",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9971331176-swetrek-kitaro",
-    "image_url": "https://images1.vinted.net/t/06_00f40_EmU9w3nPHiwUYbdBQTEuvrMf/f800/1789204915.jpeg?s=6c7c2dd75c7d1c6b5c2ee974f4116bb572ad781e",
-    "found_at": "2026-09-12T09:25:08Z"
   }
 ]
