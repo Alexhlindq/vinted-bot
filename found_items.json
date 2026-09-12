@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Męski sweterek Massimo Dutti kaszmir z bawełną",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9973870193-meski-sweterek-massimo-dutti-kaszmir-z-bawelna",
+    "image_url": "https://images1.vinted.net/t/05_001a4_1F354gMKcwmmaPGh9mJiKpoC/f800/1789216905.jpeg?s=aeff1fbba718aeb8e7593dcfaaaa99705b44876e",
+    "found_at": "2026-09-12T14:39:58Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios. Lång hoodie utan ärmar med fickor.",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9975549381-acne-studios-lang-hoodie-utan-armar-med-fickor",
+    "image_url": "https://images1.vinted.net/t/02_0025a_r25Cjr1LdJji8GR8iTZfswGj/f800/1789223989.jpeg?s=bb57b26bce18110fe8364032e8b6b7bb2d02b181",
+    "found_at": "2026-09-12T14:40:03Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Czarny sweterek polo ralph lauren",
     "price": "118.47",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/RkBdFM8Vzj",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
     "found_at": "2026-09-11T23:37:37Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/24nDXLRR0y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-1/24nDXLRR0y-e9fa-0.jpg",
-    "found_at": "2026-09-11T23:08:28Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XAVRhF3quD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
-    "found_at": "2026-09-11T22:50:58Z"
   }
 ]
