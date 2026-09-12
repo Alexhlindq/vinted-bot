@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "sweter",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9974741711-sweter",
+    "image_url": "https://images1.vinted.net/t/02_004d8_51iVGEWaAbwun4YougJLV7aR/f800/1789220642.jpeg?s=86a4f0b728502cf5e731025f1ce468faf3f071e0",
+    "found_at": "2026-09-12T13:50:20Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Szary sweter",
     "price": "52.65",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9968146141-hoodie-fran-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/02_00d31_vQdAeCEgZdF2oknoJJ9gkWx6/f800/1789158008.jpeg?s=78a3e9b3f9117dfea72cdb62b30057385a73a3ec",
     "found_at": "2026-09-11T20:26:38Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Sweter Stone Island",
-    "price": "184.18",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9806693925-sweter-stone-island",
-    "image_url": "https://images1.vinted.net/t/06_01b6e_HmhFEEkQUPAiLi7dSX8ac8Hv/f800/1787924420.jpeg?s=53a7538e265bbc17dc0d0207b0936828c96d3b2f",
-    "found_at": "2026-09-11T20:09:27Z"
   }
 ]
