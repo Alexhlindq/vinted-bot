@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Bluza",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9972381344-bluza",
+    "image_url": "https://images1.vinted.net/t/06_01a56_U4qDRWQctcp7UxXAFvf3xQfv/f800/1789209993.jpeg?s=af5f9fba671cd26261ec46dc258541ba3337a4af",
+    "found_at": "2026-09-12T10:50:13Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Sweter granatowy Ralph Lauren",
     "price": "102.67",
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/NnmXVMo4Ao",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/FxhQ2BMOJh-4774-0.jpg",
     "found_at": "2026-09-11T15:27:37Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
-    "found_at": "2026-09-11T15:27:38Z"
   }
 ]
