@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren V-ringad tröja",
+    "price": "109.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9977424749-polo-ralph-lauren-v-ringad-troja",
+    "image_url": "https://images1.vinted.net/t/01_02456_MDYDrWFYg9mqaj6mjsSYvpAE/f800/1789231831.jpeg?s=1e1f239313638b8b75e862cdf5b33aeadf04f592",
+    "found_at": "2026-09-12T17:08:47Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy Levis r 31/32",
+    "price": "50.02",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9977431620-jeansy-levis-r-3132",
+    "image_url": "https://images1.vinted.net/t/02_00781_cZbt1Z3puiqSJGELrV7eMDQu/f800/1789231862.jpeg?s=dd370fac4c34f2a9e0a47f02953f64ee0d29ea58",
+    "found_at": "2026-09-12T17:08:51Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Urban Classics, Anorak, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Urban Classics",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
+    "found_at": "2026-09-12T17:09:26Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levi jeans",
     "price": "60.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9971338720-tjocktroja",
     "image_url": "https://images1.vinted.net/t/06_010b2_AxaXCHjfaf3Y7uSiTDYLAuJT/f800/1789204953.jpeg?s=3622e2168f6de975fb78237d5beb0a46d7076ee7",
     "found_at": "2026-09-12T09:25:14Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter polo Ralph Laurent",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9971162247-sweter-polo-ralph-laurent",
-    "image_url": "https://images1.vinted.net/t/02_024f8_A1L2pNe1SbjWzNnsJLai6oa9/f800/1789204045.jpeg?s=a274c46728aed4a0da2b5c3714bb80fc5ce7914b",
-    "found_at": "2026-09-12T09:09:13Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
-    "price": "223.77",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9971079157-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
-    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789203598.jpeg?s=9470e524d32e43e98d5c4aaad8c5e726633fdd69",
-    "found_at": "2026-09-12T09:09:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "STANLEY/STELLA, Collegetröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "STANLEY/STELLA",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/bST4zcqcPv-8c30-0.jpg",
-    "found_at": "2026-09-12T09:09:45Z"
   }
 ]
