@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Męski sweterek,Massimo Dutti, bawełna z kaszmirem, rozmiar L,",
+    "price": "71.08",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9970041719-meski-sweterekmassimo-dutti-bawelna-z-kaszmirem-rozmiar-l",
+    "image_url": "https://images1.vinted.net/t/06_0100c_TRWa3zTSGjzkxszJcZzX1J9D/f800/1789196044.jpeg?s=6095ba723907c9a9e6959fca5d6e88c5b7539ffa",
+    "found_at": "2026-09-12T07:08:18Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Bluza męska Hollister rozm. S",
     "price": "39.49",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9962506515-cienki-pulower-massimo-dutti-r-l",
     "image_url": "https://images1.vinted.net/t/02_01892_6A8qHyH6Kd3ZhFszEYcZAMA8/f800/1789126963.jpeg?s=d68b3b5bde2cff1580d8e99daa2d6b67a7553d96",
     "found_at": "2026-09-11T11:52:07Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Vinson Polo Club, Vinterjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Vinson Polo Club",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GDGC7MoBk4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/OBVoeWMsj5-4c45-0.jpg",
-    "found_at": "2026-09-11T11:52:42Z"
   }
 ]
