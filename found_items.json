@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Sweter Polo",
+    "price": "105.3",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9978524328-sweter-polo",
+    "image_url": "https://images1.vinted.net/t/06_00cf9_83Bh9QYQC8nw4Pa6x8pSYzDM/f800/1789237429.jpeg?s=3019bb05fc49ac056f5a9fd6bc4c836875ef5ec5",
+    "found_at": "2026-09-12T18:26:38Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Pole Ralph lauren",
+    "price": "95.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9978445597-pole-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_02239_LXj6yecHEbfd1NzJ7npcnfC6/f800/1789236975.jpeg?s=68df90bbf2d55a97c7e9f6861b9c7beddbccc9dc",
+    "found_at": "2026-09-12T18:26:39Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza z kapturem Hollister szara czarna wkładana M męska sportowa",
+    "price": "13.16",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9978489747-bluza-z-kapturem-hollister-szara-czarna-wkladana-m-meska-sportowa",
+    "image_url": "https://images1.vinted.net/t/01_01682_C7pQjrQrrTQ7DgfRgFSgJUYS/f800/1789237229.jpeg?s=0cdb1321b2f1add9209175d7f47e1e4bf9f2ad84",
+    "found_at": "2026-09-12T18:26:45Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Car de la Car, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Car de la Car",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AEarGxOD1U",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
+    "found_at": "2026-09-12T18:27:16Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza",
     "price": "102.67",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9972455454-bla-lang-troja",
     "image_url": "https://images1.vinted.net/t/03_01f0d_iou2W385urRJKnsqd69t8oGB/f800/1789210349.jpeg?s=30bf0f880145fe4ce46aa50e45e62e17af13d3d8",
     "found_at": "2026-09-12T11:08:29Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Farkut",
-    "price": "56.91",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9972484877-farkut",
-    "image_url": "https://images1.vinted.net/t/02_00cfb_pQjRG1Fm2oK2f4abKdBYdZ5s/f800/1789210491.jpeg?s=2632a3e30afa584b9d806c3bf702d36bdbc92c62",
-    "found_at": "2026-09-12T11:08:33Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeansy Levi's vintage low rise unisex",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9972299054-jeansy-levis-vintage-low-rise-unisex",
-    "image_url": "https://images1.vinted.net/t/02_01fed_v6fevwoE6cKDW8uoconLzTRv/f800/1789209596.jpeg?s=ce2637ca4ece544671a2a8e965a86342c0db13e1",
-    "found_at": "2026-09-12T11:08:35Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Diesel",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9972432202-bluza-diesel",
-    "image_url": "https://images1.vinted.net/t/06_001d6_nq7dM3CWaskH5Js5SNeZqejv/f800/1789210237.jpeg?s=56bf49986f0d08db423cdc21186c52773ee0d840",
-    "found_at": "2026-09-12T11:08:37Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Peak Performance, Parkas, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/o0LYb03MXc-f531-0.jpg",
-    "found_at": "2026-09-12T11:09:12Z"
   }
 ]
