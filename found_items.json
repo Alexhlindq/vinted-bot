@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Basic elegancki sweter quarter zip Polo Ralph Lauren vintage",
+    "price": "76.34",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9979785545-basic-elegancki-sweter-quarter-zip-polo-ralph-lauren-vintage",
+    "image_url": "https://images1.vinted.net/t/02_00ae0_wGj2jjBAJu9D8jN8MBhycjr9/f800/1789245638.jpeg?s=f280f13a27ba3cc8f5584b63f45fb68bc2cf38b3",
+    "found_at": "2026-09-12T20:42:19Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Jeansjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
+    "found_at": "2026-09-12T20:42:53Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi's Premium, Jeans, Strl: M",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/zzPAiGY3ta-f1d6-0.jpg",
     "found_at": "2026-09-12T13:25:21Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Polo Ralph Lauren",
-    "price": "92.14",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9974198065-sweter-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_02544_6EHU9CfHyiwd6hnGvXbKq9FJ/f800/1789218332.jpeg?s=1bbfaafaf9813df9b58a3adb9f0b601c9346a84d",
-    "found_at": "2026-09-12T13:08:28Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
-    "price": "118.47",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9974147594-meska-granatowa-cienka-bluza-polo-ralph-lauren-crewneck-rap-hip-hop-skate",
-    "image_url": "https://images1.vinted.net/t/05_01559_yd3vkrwkRA2iwrtySBR2T7Ck/f800/1789218111.jpeg?s=85116e6e8cb0d6684371c4d49f0aa9161703006f",
-    "found_at": "2026-09-12T13:08:29Z"
   }
 ]
