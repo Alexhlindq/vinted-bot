@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph lauren huppari",
+    "price": "113.82",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9973592785-ralph-lauren-huppari",
+    "image_url": "https://images1.vinted.net/t/05_01e1c_qxagWrMJJd9z6j4VcUXtYGJa/f800/1789215673.jpeg?s=1f254074d7344fd465f0c361e8a2d2026b412335",
+    "found_at": "2026-09-12T12:30:26Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Diesel szara bluza dresowa crewneck logo 14Y 160 cm XS/S klasyczna",
+    "price": "39.49",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9973632483-diesel-szara-bluza-dresowa-crewneck-logo-14y-160-cm-xss-klasyczna",
+    "image_url": "https://images1.vinted.net/t/04_00703_Uzw1xUVgXgTvayMdeSdRoynK/f800/1789215851.jpeg?s=bfae4c9bd3e6c666a5d7321b80fa4cb8db846858",
+    "found_at": "2026-09-12T12:30:30Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Massimo Dutti tröja marinblå ull och kashmir - Small",
     "price": "75.0",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/7P9qhbcoms",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/lfVPBKighs-488c-0.jpg",
     "found_at": "2026-09-11T17:39:13Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Tröja",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9966287030-troja",
-    "image_url": "https://images1.vinted.net/t/02_00f83_hByHhaR2tXVz1fgqqNLGnVaA/f800/1789146502.jpeg?s=841ec0091f871a90adb9f3ce12f840a7b60e8679",
-    "found_at": "2026-09-11T17:08:49Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Fina Levis jeans!",
-    "price": "69.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9966269488-fina-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/06_02246_6L3AhfhrzAXCwZaRpngpBqDM/f800/1789146411.jpeg?s=7aecda84412b8834ee8f100bc82d955a0c4ef669",
-    "found_at": "2026-09-11T17:08:54Z"
   }
 ]
