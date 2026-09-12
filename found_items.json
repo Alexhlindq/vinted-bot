@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Polo Ralph Lauren",
+    "price": "92.14",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9974198065-sweter-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_02544_6EHU9CfHyiwd6hnGvXbKq9FJ/f800/1789218332.jpeg?s=1bbfaafaf9813df9b58a3adb9f0b601c9346a84d",
+    "found_at": "2026-09-12T13:08:28Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Męska granatowa cienka bluza Polo Ralph Lauren crewneck rap hip hop skate",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9974147594-meska-granatowa-cienka-bluza-polo-ralph-lauren-crewneck-rap-hip-hop-skate",
+    "image_url": "https://images1.vinted.net/t/05_01559_yd3vkrwkRA2iwrtySBR2T7Ck/f800/1789218111.jpeg?s=85116e6e8cb0d6684371c4d49f0aa9161703006f",
+    "found_at": "2026-09-12T13:08:29Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeans",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9973951345-jeans",
+    "image_url": "https://images1.vinted.net/t/04_006fc_mtkActHWBkoPxzB192bVypH3/f800/1789217260.jpeg?s=3c31241da4701dbc99121917b40ef63a9f53627b",
+    "found_at": "2026-09-12T13:08:33Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Oryginalne Spodnie Levi’s Premium  W30 L34  Granatowe Jeansy",
     "price": "73.71",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9967399291-diesel-jeans",
     "image_url": "https://images1.vinted.net/t/01_0228a_X6AzTtran8D5vCH5PHLtepnh/f800/1789152869.jpeg?s=217fdc735ecfe30377956ead5d241322d02e3fa2",
     "found_at": "2026-09-11T18:55:47Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka puchowa Polo Ralph Lauren granatowa r. S",
-    "price": "207.89",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8460817498-kurtka-puchowa-polo-ralph-lauren-granatowa-r-s",
-    "image_url": "https://images1.vinted.net/t/01_016ec_ib5TyniD9hey9V3JeaU64LkN/f800/1776625698.jpeg?s=72008d9787c26e633cb55cbee03b53ff5d70abe6",
-    "found_at": "2026-09-11T18:45:27Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Wellensteyn, Arbetsjacka, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Wellensteyn",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZwspJ0AgSo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
-    "found_at": "2026-09-11T18:46:01Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Sweterek męski bluza Hollister wyprzedaż",
-    "price": "52.63",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9966946353-sweterek-meski-bluza-hollister-wyprzedaz",
-    "image_url": "https://images1.vinted.net/t/02_01ace_MXH7KebZmdpL7fr2MQr3QJs4/f800/1789150121.jpeg?s=13b778e5179a67e419a5b5e9987fc9a5317c1893",
-    "found_at": "2026-09-11T18:10:44Z"
   }
 ]
