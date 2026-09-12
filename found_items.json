@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza sweter uniqlo",
+    "price": "50.02",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9974452594-bluza-sweter-uniqlo",
+    "image_url": "https://images1.vinted.net/t/06_0148e_iNQynt4bvgmthHxe3X7HUU7A/f800/1789219425.jpeg?s=2bc4e385feabf12f854a9113583d8f9d019c82aa",
+    "found_at": "2026-09-12T13:24:50Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "A Day's March, Tröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/zzPAiGY3ta-f1d6-0.jpg",
+    "found_at": "2026-09-12T13:25:21Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter Polo Ralph Lauren",
     "price": "92.14",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9967709140-jeans-fran-levis",
     "image_url": "https://images1.vinted.net/t/05_01c22_hKnAZ6UPfxj2z1NELc5LY3pF/f800/1789154880.jpeg?s=2aa0cfe527b318befdefc795edd2f062531f086d",
     "found_at": "2026-09-11T19:37:34Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Vintage spodnie Diesel Darron straight skin fashion modne piękne cudowne",
-    "price": "68.42",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9967557925-vintage-spodnie-diesel-darron-straight-skin-fashion-modne-piekne-cudowne",
-    "image_url": "https://images1.vinted.net/t/01_009bf_J4hApUiC4vVhcYnohzP893Jp/f800/1789153884.jpeg?s=53bdf3a7f7ffd0dc11867e8e9daf5789e42d6403",
-    "found_at": "2026-09-11T19:24:29Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Diesel jeans",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9967399291-diesel-jeans",
-    "image_url": "https://images1.vinted.net/t/01_0228a_X6AzTtran8D5vCH5PHLtepnh/f800/1789152869.jpeg?s=217fdc735ecfe30377956ead5d241322d02e3fa2",
-    "found_at": "2026-09-11T18:55:47Z"
   }
 ]
