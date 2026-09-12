@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza chłopięca r. S",
+    "price": "23.69",
+    "currency": "SEK",
+    "brand": "Dsquared2",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9970255390-bluza-chlopieca-r-s",
+    "image_url": "https://images1.vinted.net/t/02_00d03_QSQ1NMbRWWZe6jDcbtpb5kyG/f800/1789198134.jpeg?s=ceadb7e45b32afc86014844eb87308a815e50b58",
+    "found_at": "2026-09-12T07:37:12Z"
+  },
+  {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Polo Ralph Lauren, Chinos, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2MugQ0XnUk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-9/2MugQ0XnUk-bb50-0.jpg",
+    "found_at": "2026-09-12T07:37:37Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Męski sweterek,Massimo Dutti, bawełna z kaszmirem, rozmiar L,",
     "price": "71.08",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/GDE6AWc0MH",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/GDE6AWc0MH-a6f0-0.jpg",
     "found_at": "2026-09-11T12:35:22Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "zdjecie Kurtka polo ralph",
-    "price": "263.15",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9962476995-zdjecie-kurtka-polo-ralph",
-    "image_url": "https://images1.vinted.net/t/06_021bf_h9Ge5NwSNFdLydsfdWHkGPnw/f800/1789126794.jpeg?s=9e26439c82ebf270edc5c7865969e8fc62cdc9bf",
-    "found_at": "2026-09-11T11:52:04Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Cienki pulower Massimo Dutti r L",
-    "price": "52.63",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9962506515-cienki-pulower-massimo-dutti-r-l",
-    "image_url": "https://images1.vinted.net/t/02_01892_6A8qHyH6Kd3ZhFszEYcZAMA8/f800/1789126963.jpeg?s=d68b3b5bde2cff1580d8e99daa2d6b67a7553d96",
-    "found_at": "2026-09-11T11:52:07Z"
   }
 ]
