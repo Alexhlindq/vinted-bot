@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Polo Ralph Lauren dunjacka – svart/mörkgrå",
+    "price": "400.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9991204277-polo-ralph-lauren-dunjacka-svartmorkgra",
+    "image_url": "https://images1.vinted.net/t/06_00983_aeBxBF54MC2gyubZw1LHzg1Q/f800/1789318548.jpeg?s=af0e092f56a5b78fe638753530a186f8f9e1a953",
+    "found_at": "2026-09-13T17:08:44Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios Nash Face T-Shirt szary XS",
+    "price": "289.58",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9991281473-acne-studios-nash-face-t-shirt-szary-xs",
+    "image_url": "https://images1.vinted.net/t/02_01f71_gxtRQt7hS8jCjUounMMJMmp5/f800/1789318806.jpeg?s=d1a670b906947b1d1f766c348c7032fd67ad5839",
+    "found_at": "2026-09-13T17:08:53Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Disney, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Disney",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3CIzcnEFak",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
+    "found_at": "2026-09-13T17:09:22Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Arket, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "https://www.sellpy.se/item/l9FSLWxZX2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/P8vcrH3jIe-fe8b-0.jpg",
+    "found_at": "2026-09-13T17:09:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uRd2ApAgmX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-13T17:09:25Z"
+  },
+  {
+    "search_name": "Sellpy - Arbets-/safarijackor (ej H&M/Zara/Lager157)",
+    "title": "Joy, Allvädersjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Joy",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/Axy79zUnbC-f619-0.jpg",
+    "found_at": "2026-09-13T17:09:41Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza polo",
     "price": "118.47",
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9985973096-polo-ralph-lauren-troja",
     "image_url": "https://images1.vinted.net/t/06_011e6_RYLdindduU7ApfKaXwubRQiV/f800/1789301949.jpeg?s=e625d776e492f93737fdc102b1c752b43559082e",
     "found_at": "2026-09-13T12:31:12Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Koszula z krótkim rękawem Acne Studios S/S Oversized Cotton Poplin Shirt s",
-    "price": "223.77",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9986170859-koszula-z-krotkim-rekawem-acne-studios-ss-oversized-cotton-poplin-shirt-s",
-    "image_url": "https://images1.vinted.net/t/05_022ae_6oEhwW1jCqKkqS2S8kCANbZ2/f800/1789302628.jpeg?s=fbe99fda69dae058084b7e48ad306ad3dc48fd56",
-    "found_at": "2026-09-13T12:31:20Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne sweatshirt",
-    "price": "300.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985940932-acne-sweatshirt",
-    "image_url": "https://images1.vinted.net/t/04_01e5e_kPsym5zqvzns9TG73rnxdLzC/f800/1789301837.jpeg?s=dbf43f349cbed81bb73ac3dc189cc95c8d58fe35",
-    "found_at": "2026-09-13T12:31:21Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Męski Polo Ralph Lauren M Beżowy V-Neck Serek",
-    "price": "118.47",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9985609589-sweter-meski-polo-ralph-lauren-m-bezowy-v-neck-serek",
-    "image_url": "https://images1.vinted.net/t/06_009ed_2mc9Zzete8ruHWu6aKaMsWEA/f800/1789300659.jpeg?s=e7801fea669276598722bc7e12045b502c5b1cf8",
-    "found_at": "2026-09-13T12:11:40Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s szare w32",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9985758934-levis-szare-w32",
-    "image_url": "https://images1.vinted.net/t/06_021d5_T1Wg66SKecR5ThQAxEfsB1Am/f800/1789301192.jpeg?s=c04c2786ef3802256e2eb5332a1e7b622c3a2c0f",
-    "found_at": "2026-09-13T12:11:44Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister hoodie (intresse koll!)",
-    "price": "11.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985725255-hollister-hoodie-intresse-koll",
-    "image_url": "https://images1.vinted.net/t/05_02607_FS4LsBZVtgcQ6AGPShDkQPGR/f800/1789301072.jpeg?s=9ba6c06843a78f66f3edd1d9d018014794427fdb",
-    "found_at": "2026-09-13T12:11:46Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister hoodie (intresse koll!)",
-    "price": "11.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985693880-hollister-hoodie-intresse-koll",
-    "image_url": "https://images1.vinted.net/t/02_00344_uMZ8u5PyLh8bTUWwbXEJRH6v/f800/1789300960.jpeg?s=a7c62ff8d408363be6acc1cbca6becdd8fef8561",
-    "found_at": "2026-09-13T12:11:47Z"
   }
 ]
