@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 14",
+    "title": "Pullover Bondelid",
+    "price": "51.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/8891525284-pullover-bondelid",
+    "image_url": "https://images1.vinted.net/t/03_00d7c_QnQCxcM5qDx5GDzvtLN7wtfq/f800/1778599344.jpeg?s=15404a0ae8696f5ba30781131f2830c21eecd913",
+    "found_at": "2026-09-13T18:55:14Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Vintage Ralph lauren trøje",
     "price": "114.2",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9988103215-kardigan-uniqlo-z-kolnierzem-szalowym",
     "image_url": "https://images1.vinted.net/t/01_0011a_QagAzC4LbPGXw3puUkxyEUnR/f800/1789308920.jpeg?s=433c2d3550eb39c9cff4b731423ee8a2aa3560e3",
     "found_at": "2026-09-13T14:25:00Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Mörkblå hooodie",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9988135447-morkbla-hooodie",
-    "image_url": "https://images1.vinted.net/t/04_00442_3LxHPCnyUv1dwcUteGZbcvqY/f800/1789309021.jpeg?s=4e5c4d31ddfbc1309b370f57ae30f8b697442dba",
-    "found_at": "2026-09-13T14:25:02Z"
   }
 ]
