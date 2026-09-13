@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Club hoddie",
+    "price": "105.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9986241739-polo-club-hoddie",
+    "image_url": "https://images1.vinted.net/t/01_01e64_15P2JbBYq7STCmn1P6KY5g7t/f800/1789302871.jpeg?s=32393f8f71e8db01629d31c1fea34dae41764805",
+    "found_at": "2026-09-13T12:53:44Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "60.91",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9986371963-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/01_01408_cr2kzuU1SnZBCcW1EkeDtcLX/f800/1789303313.jpeg?s=43e6adf5746bbbb9ff1a6c7b5dba4cbcb23ce76f",
+    "found_at": "2026-09-13T12:53:49Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph lauren tröja",
     "price": "105.0",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/TNu4hbWd85",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/TNu4hbWd85-33e5-0.jpg",
     "found_at": "2026-09-13T06:44:08Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YlBDXyW38W",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/YlBDXyW38W-7d91-0.jpg",
-    "found_at": "2026-09-13T06:16:36Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Świetna bluza Hollister",
-    "price": "23.69",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9981371180-swietna-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/04_026b5_NPA2k7juY5kKXdtmTJA7BnGa/f800/1789278341.jpeg?s=d45b0c5d8b2adb7567d3afa32e31a5768410be46",
-    "found_at": "2026-09-13T05:50:50Z"
   }
 ]
