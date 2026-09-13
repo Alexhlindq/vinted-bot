@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza męska M",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9993225060-bluza-meska-m",
+    "image_url": "https://images1.vinted.net/t/02_0244e_C8pEZUhCz6DSFsqpkWTytSim/f800/1789326565.jpeg?s=db88954d5908638ba309f692c94663b4e38bba19",
+    "found_at": "2026-09-13T19:23:02Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Kappa, Collegetröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/DTXW8EMJxB-fa53-0.jpg",
     "found_at": "2026-09-13T14:38:46Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s jeans 501",
-    "price": "74.61",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9988244040-levis-jeans-501",
-    "image_url": "https://images1.vinted.net/t/02_00371_itoRZJSEKPX2SAVgRao4DsZm/f800/1789309359.jpeg?s=b1fba6ef2c9067b863d414be04bcfd30526d5440",
-    "found_at": "2026-09-13T14:24:58Z"
   }
 ]
