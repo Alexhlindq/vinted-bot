@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 13",
+    "title": "Świetna bluza Hollister",
+    "price": "23.69",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9981371180-swietna-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/04_026b5_NPA2k7juY5kKXdtmTJA7BnGa/f800/1789278341.jpeg?s=d45b0c5d8b2adb7567d3afa32e31a5768410be46",
+    "found_at": "2026-09-13T05:50:50Z"
+  },
+  {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Polo Ralph Lauren, Chinos, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Q9LflA1PeU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-3/Q9LflA1PeU-da7f-0.jpg",
+    "found_at": "2026-09-13T05:51:14Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Boohoo Man, Shearlingjacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Boohoo Man",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yvz2TJgY18",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-5/wUMmmgU8b2-54e3-0.jpg",
+    "found_at": "2026-09-13T05:51:21Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Jacka, Strl: M",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9976297554-meska-cienka-bluza-z-kapturem-hollister-california-niebieski-melanz-m-kangurka",
     "image_url": "https://images1.vinted.net/t/06_00251_coEWP68KKgZfF7d85L6Ep38R/f800/1789227040.jpeg?s=9cf5dfad53361445f0f8e56821e7713914e33ed3",
     "found_at": "2026-09-12T15:37:25Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "bluza uniqlo dryvent",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9976286896-bluza-uniqlo-dryvent",
-    "image_url": "https://images1.vinted.net/t/01_00050_dTmsACGCrnBuqJS7y3oSNxx7/f800/1789226997.jpeg?s=b0d53991c9bc260413c5efd1954f0a52f47e7b8f",
-    "found_at": "2026-09-12T15:37:26Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans 511",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9976147223-levis-jeans-511",
-    "image_url": "https://images1.vinted.net/t/02_001b7_SsTtnmzWnePUnLPPZYW66FFL/f800/1789226427.jpeg?s=c635d2d85401170dd677bb9f1a46151b8319f764",
-    "found_at": "2026-09-12T15:24:28Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Dżinsy męskie granatowe Levi's 512 W31 L32",
-    "price": "60.55",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9975984867-dzinsy-meskie-granatowe-levis-512-w31-l32",
-    "image_url": "https://images1.vinted.net/t/02_02648_tqHrVURwxAtUgPs98womUBVj/f800/1789225763.jpeg?s=7a1a8d9a2ad639a8ba2b534c062b0899513d29d6",
-    "found_at": "2026-09-12T15:24:29Z"
   }
 ]
