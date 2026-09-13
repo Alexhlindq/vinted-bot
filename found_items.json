@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "sweter w serek Polo Ralph Lauren",
+    "price": "105.3",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9991729762-sweter-w-serek-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_00fd7_G9XpbEoxv5vznKAXh3L8Hf4k/f800/1789321704.jpeg?s=cafcc5ff94861bb2eb2fdfd4440ee64cebc9f5b4",
+    "found_at": "2026-09-13T17:50:08Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lgSs38xcFc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-13T17:50:42Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Polo Ralph learuen longsleev v neck",
     "price": "100.0",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9986931183-bluza-stone-island-raczej-replica",
     "image_url": "https://images1.vinted.net/t/02_00217_pPohcLotSAruygGvhp92A78t/f800/1789305174.jpeg?s=fc3d4d80ea9095cd1d9b7afd4dacb3ae338c9f6e",
     "found_at": "2026-09-13T13:25:13Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza damska",
-    "price": "92.14",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9986838397-bluza-damska",
-    "image_url": "https://images1.vinted.net/t/05_025ff_KrDCJvPh7d7whkwLrzGg25Lz/f800/1789304867.jpeg?s=97c5f78c8d9c60a71cefbd124ce25a6661a5dc80",
-    "found_at": "2026-09-13T13:09:19Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Morris kofta",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9986696263-morris-kofta",
-    "image_url": "https://images1.vinted.net/t/02_01ba9_VEoeV2qfgpkwaht5tHFUn9Hq/f800/1789304394.jpeg?s=085a31cfb24072a05895f08359c28de89792e003",
-    "found_at": "2026-09-13T13:09:24Z"
   }
 ]
