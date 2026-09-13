@@ -1,5 +1,104 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren strl 170",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9983485972-polo-ralph-lauren-strl-170",
+    "image_url": "https://images1.vinted.net/t/05_00f29_kVtYNssWAFDFkyiLy66dL4Pz/f800/1789292792.jpeg?s=224a30efe4112707ee6ae802de21cc123f46bfd4",
+    "found_at": "2026-09-13T09:48:30Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren strl 170",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9983422159-polo-ralph-lauren-strl-170",
+    "image_url": "https://images1.vinted.net/t/05_00ba2_d2WwFqaRyRgXwKgrr7atp9rU/f800/1789292547.jpeg?s=05688ddcadc5ff79fa647c612ed4d1c510dd4888",
+    "found_at": "2026-09-13T09:48:31Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "różowy sweter polo ralph lauren",
+    "price": "84.24",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9983368581-rozowy-sweter-polo-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_0260d_nrdtXUA6JDUhqGtGhMmv7652/f800/1789292342.jpeg?s=387aab2869ccc9cde3dced471a20d3ea2b791867",
+    "found_at": "2026-09-13T09:48:32Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Sweter męski polo Ralph Lauren vintage Streetwear swag dril drip Viral niebieski",
+    "price": "78.98",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9983072278-sweter-meski-polo-ralph-lauren-vintage-streetwear-swag-dril-drip-viral-niebieski",
+    "image_url": "https://images1.vinted.net/t/02_0038f_68WHTgiFdXJMcNLW1CGHAJW7/f800/1789291166.jpeg?s=668436111357b9425863c1db28eaf597e1abe4a0",
+    "found_at": "2026-09-13T09:48:33Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "kamizelka vest blekitna baby blue elegancka old money",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9983309093-kamizelka-vest-blekitna-baby-blue-elegancka-old-money",
+    "image_url": "https://images1.vinted.net/t/04_02336_SLrtLVmn8bnPSaweQoFKf1fW/f800/1789292576.jpeg?s=421e5f75068104d8a968610b3c77e19df8223588",
+    "found_at": "2026-09-13T09:48:36Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Tröja Massimo Dutti",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "L",
+    "url": "https://www.vinted.se/items/9982819321-troja-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/02_00582_frgcXfyRyw4p6rY8HbUC3dyx/f800/1789290088.jpeg?s=e044ca108b1796c590ce1adffa4c7ef0c07f037c",
+    "found_at": "2026-09-13T09:48:37Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeans",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9982897463-jeans",
+    "image_url": "https://images1.vinted.net/t/05_02138_GB4t57MBMkoNeZ3p9Z6U8nLS/f800/1789290431.jpeg?s=747e32c1ab20dd666f6c429a93225f2a351dc3fb",
+    "found_at": "2026-09-13T09:48:39Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi's w30/L32",
+    "price": "60.0",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9982587805-levis-w30l32",
+    "image_url": "https://images1.vinted.net/t/04_015f1_3i4rYay8iCFuQpLKi3iKtGoQ/f800/1789289033.jpeg?s=0ce4123d423198713dce099d11d850beb9440909",
+    "found_at": "2026-09-13T09:48:40Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YkgUwwtNPK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/FCqHnEwmJi-36da-0.jpg",
+    "found_at": "2026-09-13T09:49:24Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Levis 511 W32/L32",
     "price": "60.91",
@@ -559,104 +658,5 @@
     "url": "https://www.vinted.se/items/9978524328-sweter-polo",
     "image_url": "https://images1.vinted.net/t/06_00cf9_83Bh9QYQC8nw4Pa6x8pSYzDM/f800/1789237429.jpeg?s=3019bb05fc49ac056f5a9fd6bc4c836875ef5ec5",
     "found_at": "2026-09-12T18:26:38Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Pole Ralph lauren",
-    "price": "95.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9978445597-pole-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_02239_LXj6yecHEbfd1NzJ7npcnfC6/f800/1789236975.jpeg?s=68df90bbf2d55a97c7e9f6861b9c7beddbccc9dc",
-    "found_at": "2026-09-12T18:26:39Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza z kapturem Hollister szara czarna wkładana M męska sportowa",
-    "price": "13.16",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978489747-bluza-z-kapturem-hollister-szara-czarna-wkladana-m-meska-sportowa",
-    "image_url": "https://images1.vinted.net/t/01_01682_C7pQjrQrrTQ7DgfRgFSgJUYS/f800/1789237229.jpeg?s=0cdb1321b2f1add9209175d7f47e1e4bf9f2ad84",
-    "found_at": "2026-09-12T18:26:45Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Car de la Car, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Car de la Car",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AEarGxOD1U",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
-    "found_at": "2026-09-12T18:27:16Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza",
-    "price": "102.67",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9978315641-bluza",
-    "image_url": "https://images1.vinted.net/t/01_0117c_JsomuDDmFHVRKKrMU3k21U5Y/f800/1789236251.jpeg?s=7beaabcb17ad0c756123b84ccf6bdf2e374305c6",
-    "found_at": "2026-09-12T18:10:19Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza damska M",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978380349-bluza-damska-m",
-    "image_url": "https://images1.vinted.net/t/05_00c12_EC8Ma6mjkA4YPdu1po9BNQsD/f800/1789236610.jpeg?s=27feb5d897da9a46e8fe69d8151e3d4a2bc26553",
-    "found_at": "2026-09-12T18:10:25Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios Randig T-shirt",
-    "price": "290.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978210853-acne-studios-randig-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_0135e_pHP5qjpfTi5dH1TSFeY42WfN/f800/1789235684.jpeg?s=71e590145e7ad0e63b2877645410fd2753fa65ca",
-    "found_at": "2026-09-12T18:10:29Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2MVbG4gFPZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/2MVbG4gFPZ-5cb1-0.jpg",
-    "found_at": "2026-09-12T18:11:09Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph lauren t-shirt",
-    "price": "114.2",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9977976258-ralph-lauren-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_02574_Xm2SZRhj5LscX5aPDwPFdoQC/f800/1789234465.jpeg?s=f030ec4716876b6edb111eff22c59f11e2a11ebe",
-    "found_at": "2026-09-12T17:37:00Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Quarter zip Bondelid",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9977885997-quarter-zip-bondelid",
-    "image_url": "https://images1.vinted.net/t/02_01e2b_5Csfe5jm4moHo5XJ4swMMC4r/f800/1789234012.jpeg?s=928712806ba4b42609d734ae35bd25ff9b70f51a",
-    "found_at": "2026-09-12T17:37:04Z"
   }
 ]
