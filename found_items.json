@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "bluza szara rozmiar M",
+    "price": "39.49",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9984298811-bluza-szara-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/06_008a3_hNHTBbhzMTCSATxT66Kyefpj/f800/1789295826.jpeg?s=1a9f93a86a6be2648d010298a669526cb4414397",
+    "found_at": "2026-09-13T10:51:24Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne Studios T-shirt",
+    "price": "83.75",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9984495154-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_0146e_vezL6mDfc72x4UmH9LWAiUZm/f800/1789296554.jpeg?s=b71ef0a33e8423ce71e3a87747017045b1c5711e",
+    "found_at": "2026-09-13T10:51:28Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EaxAic34Dl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-4/EaxAic34Dl-2556-0.jpg",
+    "found_at": "2026-09-13T10:51:34Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Peak Performance, Rugbytröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/VmfnPVg6nM-9b38-0.jpg",
+    "found_at": "2026-09-13T10:52:00Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "686, Skidjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "686",
+    "size": "",
+    "url": "https://www.sellpy.se/item/j4V5syc1SB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
+    "found_at": "2026-09-13T10:52:06Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Pull & Bear, Collegejacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Pull & Bear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/j4V5syc1SB-e4dd-0.jpg",
+    "found_at": "2026-09-13T10:52:09Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Hoodia",
     "price": "50.0",
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/tT56Al1rym",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vmRU4jznRb-75f2-0.jpg",
     "found_at": "2026-09-12T20:55:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Björn Borg, Collegetröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Björn Borg",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-14/rbALmrSAAU-906e-0.jpg",
-    "found_at": "2026-09-12T20:55:03Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Basic elegancki sweter quarter zip Polo Ralph Lauren vintage",
-    "price": "76.34",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9979785545-basic-elegancki-sweter-quarter-zip-polo-ralph-lauren-vintage",
-    "image_url": "https://images1.vinted.net/t/02_00ae0_wGj2jjBAJu9D8jN8MBhycjr9/f800/1789245638.jpeg?s=f280f13a27ba3cc8f5584b63f45fb68bc2cf38b3",
-    "found_at": "2026-09-12T20:42:19Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Jeansjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
-    "found_at": "2026-09-12T20:42:53Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi's Premium, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi's Premium",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zKQDcnc8AG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-12/zKQDcnc8AG-d768-0.jpg",
-    "found_at": "2026-09-12T20:26:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Marlboro Classics, Dunjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Marlboro Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WUb72XA5Jr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/bbkoEGaRVx-6171-0.jpg",
-    "found_at": "2026-09-12T20:27:13Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Camel Active, Jacka, Strl: S/M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Camel Active",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oG86s7hP7M",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/oG86s7hP7M-cb7c-0.jpg",
-    "found_at": "2026-09-12T20:10:20Z"
   }
 ]
