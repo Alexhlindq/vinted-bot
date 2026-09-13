@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot 10",
+    "title": "Levis jeans",
+    "price": "45.68",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9987965367-levis-jeans",
+    "image_url": "https://images1.vinted.net/t/05_0142d_DBtFbnbYi8Rc6RpMmHGzz5xq/f800/1789308488.jpeg?s=7a6b6ca8acc860ac18d84014b2bd2ef1156ef28f",
+    "found_at": "2026-09-13T14:09:19Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hoodie från hollister",
+    "price": "46.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9987861415-hoodie-fran-hollister",
+    "image_url": "https://images1.vinted.net/t/05_01139_zf9JkxZQQ1RxzKBteyoobnJZ/f800/1789308159.jpeg?s=c99ec194de7c7e0021a091ac1f7507299465ce2a",
+    "found_at": "2026-09-13T14:09:21Z"
+  },
+  {
+    "search_name": "Vinted bot 15",
+    "title": "Buty jak nowe 1 raz załóżone r.42",
+    "price": "131.63",
+    "currency": "SEK",
+    "brand": "Gucci",
+    "size": "42",
+    "url": "https://www.vinted.se/items/9987672745-buty-jak-nowe-1-raz-zalozone-r42",
+    "image_url": "https://images1.vinted.net/t/01_00ca0_hMxn2oXpvvc6GEwW5xxYPDf9/f800/1789307564.jpeg?s=2c31145d040620586de460fb28ad939ea80c922c",
+    "found_at": "2026-09-13T14:09:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "A Day's March, Rugbytröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/QihLCSjdNU-af49-0.jpg",
+    "found_at": "2026-09-13T14:09:54Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
     "title": "Granatowe spodnie Levi’s 754 jeansy",
     "price": "65.81",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9982897463-jeans",
     "image_url": "https://images1.vinted.net/t/05_02138_GB4t57MBMkoNeZ3p9Z6U8nLS/f800/1789290431.jpeg?s=747e32c1ab20dd666f6c429a93225f2a351dc3fb",
     "found_at": "2026-09-13T09:48:39Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi's w30/L32",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9982587805-levis-w30l32",
-    "image_url": "https://images1.vinted.net/t/04_015f1_3i4rYay8iCFuQpLKi3iKtGoQ/f800/1789289033.jpeg?s=0ce4123d423198713dce099d11d850beb9440909",
-    "found_at": "2026-09-13T09:48:40Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YkgUwwtNPK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/FCqHnEwmJi-36da-0.jpg",
-    "found_at": "2026-09-13T09:49:24Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 511 W32/L32",
-    "price": "60.91",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9982405133-levis-511-w32l32",
-    "image_url": "https://images1.vinted.net/t/05_0216b_3y3stgQSLoqqrywLh295i4QH/f800/1789288126.jpeg?s=7eec16b0590fa52e85f9b54b0a57fdeb86f053cf",
-    "found_at": "2026-09-13T08:40:55Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister tröja",
-    "price": "48.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9982519324-hollister-troja",
-    "image_url": "https://images1.vinted.net/t/05_0218e_sfcZ3YjofZhwU2N62xrSeQEB/f800/1789288702.jpeg?s=86cbe4490b8d50ecf57f99f515b29bdd219f0d26",
-    "found_at": "2026-09-13T08:40:57Z"
   }
 ]
