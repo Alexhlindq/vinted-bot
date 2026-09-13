@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Massimo DUTTI sweater",
+    "price": "57.86",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9981702943-massimo-dutti-sweater",
+    "image_url": "https://images1.vinted.net/t/02_00854_m7UsG144MSEcJeLyggM9NQ6X/f800/1789283234.jpeg?s=443bd5501739de9572d9e7c63e8d68968e7b1c5e",
+    "found_at": "2026-09-13T07:11:43Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Morris T-shirt",
     "price": "35.0",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9945497963-polo-ralph-lauren-troje-str-18-20",
     "image_url": "https://images1.vinted.net/t/05_00154_ztFYNaqyHBYTHLT21rqGJf2n/f800/1789225572.jpeg?s=83a8c82416bcfe1c5792b9290d57c2d98f02d8dc",
     "found_at": "2026-09-12T16:38:36Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Morris, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bOfEYWkR0W",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
-    "found_at": "2026-09-12T16:39:11Z"
   }
 ]
