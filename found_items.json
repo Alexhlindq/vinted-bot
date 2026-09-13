@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren tröja",
+    "price": "115.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9991659862-ralph-lauren-troja",
+    "image_url": "https://images1.vinted.net/t/01_00fd5_HFFyHbpeXyuuV5GtVLXif3V5/f800/1789320129.jpeg?s=d06f8be18d24e1280b446bc30181b1e17702e45e",
+    "found_at": "2026-09-13T17:24:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Puma, Dunjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Puma",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EqpCkm5vwi",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/tCPgj5c1wq-343b-0.jpg",
+    "found_at": "2026-09-13T17:24:38Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Tommy Hilfiger, Bomberjacka, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/oc8WanFTBc-bad4-0.jpg",
+    "found_at": "2026-09-13T17:24:39Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Polo Ralph Lauren dunjacka – svart/mörkgrå",
     "price": "400.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/nswLx6cKuT",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/nswLx6cKuT-051f-0.jpg",
     "found_at": "2026-09-13T13:10:05Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Club hoddie",
-    "price": "105.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9986241739-polo-club-hoddie",
-    "image_url": "https://images1.vinted.net/t/01_01e64_15P2JbBYq7STCmn1P6KY5g7t/f800/1789302871.jpeg?s=32393f8f71e8db01629d31c1fea34dae41764805",
-    "found_at": "2026-09-13T12:53:44Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans",
-    "price": "60.91",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9986371963-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/01_01408_cr2kzuU1SnZBCcW1EkeDtcLX/f800/1789303313.jpeg?s=43e6adf5746bbbb9ff1a6c7b5dba4cbcb23ce76f",
-    "found_at": "2026-09-13T12:53:49Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph lauren tröja",
-    "price": "105.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985973096-polo-ralph-lauren-troja",
-    "image_url": "https://images1.vinted.net/t/06_011e6_RYLdindduU7ApfKaXwubRQiV/f800/1789301949.jpeg?s=e625d776e492f93737fdc102b1c752b43559082e",
-    "found_at": "2026-09-13T12:31:12Z"
   }
 ]
