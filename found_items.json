@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "nudie jeans",
+    "price": "99.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9988735095-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/03_00926_n61WkoYW5HanZbMNLoKXPhfi/f800/1789310880.jpeg?s=3faa34f0383763972f63c28f13f48b2faa639425",
+    "found_at": "2026-09-13T14:50:35Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "These Glory Days, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/A0W1HcGgsF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Ho8DYlX9Vh-0b5a-0.jpg",
+    "found_at": "2026-09-13T14:51:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Silly Santa, Jultröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Silly Santa",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/A0W1HcGgsF-09a9-single.jpg",
+    "found_at": "2026-09-13T14:51:10Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Ralph Lauren striktrøje",
     "price": "97.45",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9983678744-acne-studios-hoodie",
     "image_url": "https://images1.vinted.net/t/04_010a8_jNHFrvyYQswnRhgav2qvwq4h/f800/1789295017.jpeg?s=17c9d0fa63f2010decb728e9cb875adeda44945b",
     "found_at": "2026-09-13T10:39:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Archive, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Archive",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VmfnPVg6nM",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
-    "found_at": "2026-09-13T10:39:27Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka Polo Ralph Lauren RLX M",
-    "price": "260.63",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9983853048-kurtka-polo-ralph-lauren-rlx-m",
-    "image_url": "https://images1.vinted.net/t/01_015b1_eD3bgw21AhkMocurV2Wv3tV1/f800/1789294165.jpeg?s=2a2bab51f44a250a9f051d64d9a1723611eb1339",
-    "found_at": "2026-09-13T10:16:16Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Tröja",
-    "price": "35.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9983850435-troja",
-    "image_url": "https://images1.vinted.net/t/06_01662_ByLBVa3XnXReX5JT2abf46en/f800/1789294155.jpeg?s=54c3e5207e3c60521f436aa1b62b70719b3bf1ae",
-    "found_at": "2026-09-13T10:16:20Z"
   }
 ]
