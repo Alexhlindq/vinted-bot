@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YlBDXyW38W",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/YlBDXyW38W-7d91-0.jpg",
+    "found_at": "2026-09-13T06:16:36Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Świetna bluza Hollister",
     "price": "23.69",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9976222546-uniqlo-herrtroja",
     "image_url": "https://images1.vinted.net/t/05_01c56_hyQfYmqUnm4wNdJfvdftxehK/f800/1789226734.jpeg?s=47cdd72b1ebfec2779a2ca39d2e1f87d6f21d9d2",
     "found_at": "2026-09-12T15:37:24Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Męska cienka bluza z kapturem Hollister California niebieski melanż M kangurka",
-    "price": "50.02",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9976297554-meska-cienka-bluza-z-kapturem-hollister-california-niebieski-melanz-m-kangurka",
-    "image_url": "https://images1.vinted.net/t/06_00251_coEWP68KKgZfF7d85L6Ep38R/f800/1789227040.jpeg?s=9cf5dfad53361445f0f8e56821e7713914e33ed3",
-    "found_at": "2026-09-12T15:37:25Z"
   }
 ]
