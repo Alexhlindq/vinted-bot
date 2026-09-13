@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 511 W32/L32",
+    "price": "60.91",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9982405133-levis-511-w32l32",
+    "image_url": "https://images1.vinted.net/t/05_0216b_3y3stgQSLoqqrywLh295i4QH/f800/1789288126.jpeg?s=7eec16b0590fa52e85f9b54b0a57fdeb86f053cf",
+    "found_at": "2026-09-13T08:40:55Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister tröja",
+    "price": "48.0",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9982519324-hollister-troja",
+    "image_url": "https://images1.vinted.net/t/05_0218e_sfcZ3YjofZhwU2N62xrSeQEB/f800/1789288702.jpeg?s=86cbe4490b8d50ecf57f99f515b29bdd219f0d26",
+    "found_at": "2026-09-13T08:40:57Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Urban Classics, Anorak, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9977885997-quarter-zip-bondelid",
     "image_url": "https://images1.vinted.net/t/02_01e2b_5Csfe5jm4moHo5XJ4swMMC4r/f800/1789234012.jpeg?s=928712806ba4b42609d734ae35bd25ff9b70f51a",
     "found_at": "2026-09-12T17:37:04Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza męska Dsquared 2",
-    "price": "31.59",
-    "currency": "SEK",
-    "brand": "Dsquared2",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9977730897-bluza-meska-dsquared-2",
-    "image_url": "https://images1.vinted.net/t/05_00cd6_vU4BrLAAbUMVobFHe9niJJnQ/f800/1789233251.jpeg?s=1fb702d328d51f2b5814fe6dae084e9a353f13d1",
-    "found_at": "2026-09-12T17:23:36Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren V-ringad tröja",
-    "price": "109.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9977424749-polo-ralph-lauren-v-ringad-troja",
-    "image_url": "https://images1.vinted.net/t/01_02456_MDYDrWFYg9mqaj6mjsSYvpAE/f800/1789231831.jpeg?s=1e1f239313638b8b75e862cdf5b33aeadf04f592",
-    "found_at": "2026-09-12T17:08:47Z"
   }
 ]
