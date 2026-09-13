@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Farkut",
+    "price": "56.91",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9990735386-farkut",
+    "image_url": "https://images1.vinted.net/t/01_00433_e5v4e5cctJ487QSjs3Pg2qAX/f800/1789317026.jpeg?s=a72aa68a3d854791c82943cf54c5bb7c26d51c0b",
+    "found_at": "2026-09-13T16:39:45Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Sweter Polo Ralph Loren",
     "price": "105.3",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9982042136-hollister-hoodie",
     "image_url": "https://images1.vinted.net/t/06_01754_43rA8mLVSoCWC713kb5w46LF/f800/1789299861.jpeg?s=239a41dc45b6347f5096fe62163a335d6463f21c",
     "found_at": "2026-09-13T11:50:23Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Longsleeve polo Ralph Lauren S",
-    "price": "102.67",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985175226-longsleeve-polo-ralph-lauren-s",
-    "image_url": "https://images1.vinted.net/t/05_01183_KcpAwKsdRbTFWaQQtc97eQzC/f800/1789299089.jpeg?s=13f6423cf31941fd802d18579a832d9ad1bcc253",
-    "found_at": "2026-09-13T11:37:56Z"
   }
 ]
