@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Collagetröja",
+    "price": "75.0",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9990073449-collagetroja",
+    "image_url": "https://images1.vinted.net/t/04_0102d_R9v19gssHZb5wfQvW3o8HRFr/f800/1789314957.jpeg?s=73168c17950fdd8a0a56d702af2a02b9981b60b1",
+    "found_at": "2026-09-13T16:09:46Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Miesten pusero",
     "price": "102.44",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9984837480-massimo-dutti-quarter-zip",
     "image_url": "https://images1.vinted.net/t/04_024cb_jj4UfaZ5sWBf8igN8HDxKCEQ/f800/1789297836.jpeg?s=27dc0653536e0222d5b54b0b6394a4b2f1b59e3e",
     "found_at": "2026-09-13T11:24:35Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Strik POLO Ralph Lauren str. M",
-    "price": "121.81",
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9984539489-strik-polo-ralph-lauren-str-m",
-    "image_url": "https://images1.vinted.net/t/02_01ee1_JbEUaqFzVMbDCU9YJdML3WsS/f800/1789296720.jpeg?s=0f0a74bfc1f6801df1bff21b18b0da535443abf0",
-    "found_at": "2026-09-13T11:08:58Z"
   }
 ]
