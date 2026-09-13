@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/t7H0yZFyxu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-13T19:37:03Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Karl Kani, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Karl Kani",
+    "size": "",
+    "url": "https://www.sellpy.se/item/KCVCpMSQgR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/t3E5RJHu3d-51b2-0.jpg",
+    "found_at": "2026-09-13T19:37:05Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "J.Lindeberg, Jeansjacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/H6hmiI2hAy",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-15/zoJRspISZ6-013a-0.jpg",
+    "found_at": "2026-09-13T19:37:09Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza męska M",
     "price": "65.81",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9988419565-nudie-jeans",
     "image_url": "https://images1.vinted.net/t/02_00126_5QyDZtqqxL9aaaALmReYFnjn/f800/1789309906.jpeg?s=49f8556ec2139e604cf9d8dbfbd9f6f976555453",
     "found_at": "2026-09-13T14:38:14Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "jasnoszara bluza dresowa typu crewneck szwedzkiej marki premium Morris Stockholm.",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9977896088-jasnoszara-bluza-dresowa-typu-crewneck-szwedzkiej-marki-premium-morris-stockholm",
-    "image_url": "https://images1.vinted.net/t/06_003bf_tDNjDLnQSxRazdtcut6hqS3y/f800/1789234062.jpeg?s=1c785d1f703dc233fd267012688fec2f06e18592",
-    "found_at": "2026-09-13T14:38:18Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister - rozm S",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9988287762-bluza-hollister-rozm-s",
-    "image_url": "https://images1.vinted.net/t/05_01a35_TV5ZHBCUZQ3JKTnu5d7A9G3C/f800/1789309496.jpeg?s=b99aee9c7f762e40feef326b5b1fbc44359a165c",
-    "found_at": "2026-09-13T14:38:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "These Glory Days, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/DTXW8EMJxB-fa53-0.jpg",
-    "found_at": "2026-09-13T14:38:46Z"
   }
 ]
