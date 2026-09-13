@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot 10",
+    "title": "Levi’s jeans 501",
+    "price": "74.61",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9988244040-levis-jeans-501",
+    "image_url": "https://images1.vinted.net/t/02_00371_itoRZJSEKPX2SAVgRao4DsZm/f800/1789309359.jpeg?s=b1fba6ef2c9067b863d414be04bcfd30526d5440",
+    "found_at": "2026-09-13T14:24:58Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levi’s 501",
+    "price": "74.61",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9988115478-levis-501",
+    "image_url": "https://images1.vinted.net/t/05_01a8d_UPqBHNWt4aHXoArq2qYjmygh/f800/1789308958.jpeg?s=75fbcd2d9b109d3150ac3b30257018e32485890a",
+    "found_at": "2026-09-13T14:24:59Z"
+  },
+  {
+    "search_name": "Vinted bot 11",
+    "title": "Kardigan UNIQLO z kołnierzem szalowym",
+    "price": "71.08",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9988103215-kardigan-uniqlo-z-kolnierzem-szalowym",
+    "image_url": "https://images1.vinted.net/t/01_0011a_QagAzC4LbPGXw3puUkxyEUnR/f800/1789308920.jpeg?s=433c2d3550eb39c9cff4b731423ee8a2aa3560e3",
+    "found_at": "2026-09-13T14:25:00Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Mörkblå hooodie",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9988135447-morkbla-hooodie",
+    "image_url": "https://images1.vinted.net/t/04_00442_3LxHPCnyUv1dwcUteGZbcvqY/f800/1789309021.jpeg?s=4e5c4d31ddfbc1309b370f57ae30f8b697442dba",
+    "found_at": "2026-09-13T14:25:02Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
     "title": "Levis jeans",
     "price": "45.68",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9983368581-rozowy-sweter-polo-ralph-lauren",
     "image_url": "https://images1.vinted.net/t/02_0260d_nrdtXUA6JDUhqGtGhMmv7652/f800/1789292342.jpeg?s=387aab2869ccc9cde3dced471a20d3ea2b791867",
     "found_at": "2026-09-13T09:48:32Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter męski polo Ralph Lauren vintage Streetwear swag dril drip Viral niebieski",
-    "price": "78.98",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9983072278-sweter-meski-polo-ralph-lauren-vintage-streetwear-swag-dril-drip-viral-niebieski",
-    "image_url": "https://images1.vinted.net/t/02_0038f_68WHTgiFdXJMcNLW1CGHAJW7/f800/1789291166.jpeg?s=668436111357b9425863c1db28eaf597e1abe4a0",
-    "found_at": "2026-09-13T09:48:33Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "kamizelka vest blekitna baby blue elegancka old money",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9983309093-kamizelka-vest-blekitna-baby-blue-elegancka-old-money",
-    "image_url": "https://images1.vinted.net/t/04_02336_SLrtLVmn8bnPSaweQoFKf1fW/f800/1789292576.jpeg?s=421e5f75068104d8a968610b3c77e19df8223588",
-    "found_at": "2026-09-13T09:48:36Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Tröja Massimo Dutti",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9982819321-troja-massimo-dutti",
-    "image_url": "https://images1.vinted.net/t/02_00582_frgcXfyRyw4p6rY8HbUC3dyx/f800/1789290088.jpeg?s=e044ca108b1796c590ce1adffa4c7ef0c07f037c",
-    "found_at": "2026-09-13T09:48:37Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeans",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9982897463-jeans",
-    "image_url": "https://images1.vinted.net/t/05_02138_GB4t57MBMkoNeZ3p9Z6U8nLS/f800/1789290431.jpeg?s=747e32c1ab20dd666f6c429a93225f2a351dc3fb",
-    "found_at": "2026-09-13T09:48:39Z"
   }
 ]
