@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza bez kaptura Polo Ralph Lauren Crewneck",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992628791-bluza-bez-kaptura-polo-ralph-lauren-crewneck",
+    "image_url": "https://images1.vinted.net/t/01_00e3e_9uBqKfVn1dhWjtQwhaoyURRT/f800/1789323934.jpeg?s=6b0d08e0d53f100fb66e131c29ebabc4ef465566",
+    "found_at": "2026-09-13T18:28:12Z"
+  },
+  {
+    "search_name": "Vinted bot 4",
+    "title": "Spodnie jeansowe męskie 30/34",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9992547683-spodnie-jeansowe-meskie-3034",
+    "image_url": "https://images1.vinted.net/t/05_012dd_7JzVkqj6TyPwGqP5VYaVkkqS/f800/1789323592.jpeg?s=e6d077092970ec0793788f4a13d00aef41e1aba3",
+    "found_at": "2026-09-13T18:28:14Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "kurtka polo ralph zdjecie",
+    "price": "131.63",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992656903-kurtka-polo-ralph-zdjecie",
+    "image_url": "https://images1.vinted.net/t/06_021f5_WVN5gtdDDwKbMQDBJEwg6z8J/f800/1789324053.jpeg?s=b432f8bc865fd44a7be51d039fbb939780d38adf",
+    "found_at": "2026-09-13T18:28:16Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Carhartt sweatshirt",
+    "price": "60.91",
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992656725-carhartt-sweatshirt",
+    "image_url": "https://images1.vinted.net/t/05_00ca7_1FFEe7dNhPU3xzDg5MX2ZM9e/f800/1789324052.jpeg?s=f8cfa69462ae0d56e68697a5d0704cd521721a3f",
+    "found_at": "2026-09-13T18:28:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "U.S. Polo Assn., Pullover, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "U.S. Polo Assn.",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/Cfvj0qPFIg-c0a1-0.jpg",
+    "found_at": "2026-09-13T18:28:54Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Granatowy sweterek w serek Massimo Dutti M",
     "price": "65.81",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9987672745-buty-jak-nowe-1-raz-zalozone-r42",
     "image_url": "https://images1.vinted.net/t/01_00ca0_hMxn2oXpvvc6GEwW5xxYPDf9/f800/1789307564.jpeg?s=2c31145d040620586de460fb28ad939ea80c922c",
     "found_at": "2026-09-13T14:09:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "A Day's March, Rugbytröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/QihLCSjdNU-af49-0.jpg",
-    "found_at": "2026-09-13T14:09:54Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Granatowe spodnie Levi’s 754 jeansy",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9987485345-granatowe-spodnie-levis-754-jeansy",
-    "image_url": "https://images1.vinted.net/t/04_00568_FF8rVgjS9Bn8TQExAmwvPmwM/f800/1789306973.jpeg?s=e3b6e668801235485b7704fc499e938b2b6ccd0c",
-    "found_at": "2026-09-13T13:50:28Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Palph lauren",
-    "price": "124.99",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9987375951-palph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_01bae_KgoesvhsQ3P48neS6S9qaReX/f800/1789306623.jpeg?s=3e6b37b6614ecf349b1a7cb9b670036d007b62a9",
-    "found_at": "2026-09-13T13:37:18Z"
-  },
-  {
-    "search_name": "Vinted bot 4",
-    "title": "Nudie Jeans",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Nudie Jeans",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9986892631-nudie-jeans",
-    "image_url": "https://images1.vinted.net/t/05_008ac_oJ9wZ8BQ9k8JqnCadSMWF1f8/f800/1789305047.jpeg?s=d00e4ac7cfbdd21f8a28a36e45cb4e2818982220",
-    "found_at": "2026-09-13T13:25:07Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Collegepaita",
-    "price": "45.53",
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9987014583-collegepaita",
-    "image_url": "https://images1.vinted.net/t/02_02020_pPA2ffuLCKqjP5cC4oYU2DkR/f800/1789305448.jpeg?s=4ed838001c73236e505ac3da46c35d6bc39beae2",
-    "found_at": "2026-09-13T13:25:10Z"
   }
 ]
