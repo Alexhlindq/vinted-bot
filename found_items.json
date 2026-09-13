@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Morris T-shirt",
+    "price": "35.0",
+    "currency": "SEK",
+    "brand": "Morris",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9981471768-morris-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_0266c_qXcmvGARyDZym2juAxLV7bKM/f800/1789280239.jpeg?s=cb68f466e1ae45ff5c04f6277d06d1d25040d51b",
+    "found_at": "2026-09-13T06:43:34Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Stickad herr tröja",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9899120375-stickad-herr-troja",
+    "image_url": "https://images1.vinted.net/t/06_00d88_FatcGMuR1AHpdnyZcV1XMcRU/f800/1788627316.jpeg?s=548dcd0349ef2d43795f9899bf0c46b9f43954e7",
+    "found_at": "2026-09-13T06:43:38Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Jack & Jones, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TNu4hbWd85",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/TNu4hbWd85-33e5-0.jpg",
+    "found_at": "2026-09-13T06:44:08Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: S",
     "price": 75,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/bOfEYWkR0W",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/YGOsiFNIXi-74ff-0.jpg",
     "found_at": "2026-09-12T16:39:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/bOfEYWkR0W-c8a8-0.jpg",
-    "found_at": "2026-09-12T16:39:12Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph lauren",
-    "price": "80.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9976509877-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/01_0149c_hSU3JTWCj76UP3mZKoz9SkJp/f800/1789227911.jpeg?s=48b35ac7ed80cdc350fbdd65f241bb532ed83753",
-    "found_at": "2026-09-12T15:50:11Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Uniqlo herrtröja",
-    "price": "40.0",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9976222546-uniqlo-herrtroja",
-    "image_url": "https://images1.vinted.net/t/05_01c56_hyQfYmqUnm4wNdJfvdftxehK/f800/1789226734.jpeg?s=47cdd72b1ebfec2779a2ca39d2e1f87d6f21d9d2",
-    "found_at": "2026-09-12T15:37:24Z"
   }
 ]
