@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Kappa, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Kappa",
+    "size": "",
+    "url": "https://www.sellpy.se/item/IirdvLbJ4D",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/Bpt3e2DKgx-026c-0.jpg",
+    "found_at": "2026-09-13T19:08:33Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Zara, Slipover, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/IirdvLbJ4D-4bee-0.jpg",
+    "found_at": "2026-09-13T19:08:35Z"
+  },
+  {
     "search_name": "Vinted bot 14",
     "title": "Pullover Bondelid",
     "price": "51.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9988244040-levis-jeans-501",
     "image_url": "https://images1.vinted.net/t/02_00371_itoRZJSEKPX2SAVgRao4DsZm/f800/1789309359.jpeg?s=b1fba6ef2c9067b863d414be04bcfd30526d5440",
     "found_at": "2026-09-13T14:24:58Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi’s 501",
-    "price": "74.61",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9988115478-levis-501",
-    "image_url": "https://images1.vinted.net/t/05_01a8d_UPqBHNWt4aHXoArq2qYjmygh/f800/1789308958.jpeg?s=75fbcd2d9b109d3150ac3b30257018e32485890a",
-    "found_at": "2026-09-13T14:24:59Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Kardigan UNIQLO z kołnierzem szalowym",
-    "price": "71.08",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9988103215-kardigan-uniqlo-z-kolnierzem-szalowym",
-    "image_url": "https://images1.vinted.net/t/01_0011a_QagAzC4LbPGXw3puUkxyEUnR/f800/1789308920.jpeg?s=433c2d3550eb39c9cff4b731423ee8a2aa3560e3",
-    "found_at": "2026-09-13T14:25:00Z"
   }
 ]
