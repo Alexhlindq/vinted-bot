@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 8",
+    "title": "Granatowy sweterek w serek Massimo Dutti M",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992409298-granatowy-sweterek-w-serek-massimo-dutti-m",
+    "image_url": "https://images1.vinted.net/t/06_00847_XQm9Y99Q4PUxg6rCuSyx9NTt/f800/1789323019.jpeg?s=15764adad9ecaf4763f4d6a8210c43185ebe0cd3",
+    "found_at": "2026-09-13T18:10:49Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "sweter w serek Polo Ralph Lauren",
     "price": "105.3",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9987014583-collegepaita",
     "image_url": "https://images1.vinted.net/t/02_02020_pPA2ffuLCKqjP5cC4oYU2DkR/f800/1789305448.jpeg?s=4ed838001c73236e505ac3da46c35d6bc39beae2",
     "found_at": "2026-09-13T13:25:10Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza Stone Island (raczej replica)",
-    "price": "131.63",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9986931183-bluza-stone-island-raczej-replica",
-    "image_url": "https://images1.vinted.net/t/02_00217_pPohcLotSAruygGvhp92A78t/f800/1789305174.jpeg?s=fc3d4d80ea9095cd1d9b7afd4dacb3ae338c9f6e",
-    "found_at": "2026-09-13T13:25:13Z"
   }
 ]
