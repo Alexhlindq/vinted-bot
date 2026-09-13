@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Urban Classics, Anorak, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Urban Classics",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lMWFWaHLmJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
+    "found_at": "2026-09-13T08:10:49Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Timberland, Fleecejacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Timberland",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
+    "found_at": "2026-09-13T08:10:50Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "V-  ringad tröja",
     "price": "50.0",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9977424749-polo-ralph-lauren-v-ringad-troja",
     "image_url": "https://images1.vinted.net/t/01_02456_MDYDrWFYg9mqaj6mjsSYvpAE/f800/1789231831.jpeg?s=1e1f239313638b8b75e862cdf5b33aeadf04f592",
     "found_at": "2026-09-12T17:08:47Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Jeansy Levis r 31/32",
-    "price": "50.02",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9977431620-jeansy-levis-r-3132",
-    "image_url": "https://images1.vinted.net/t/02_00781_cZbt1Z3puiqSJGELrV7eMDQu/f800/1789231862.jpeg?s=dd370fac4c34f2a9e0a47f02953f64ee0d29ea58",
-    "found_at": "2026-09-12T17:08:51Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Urban Classics, Anorak, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Urban Classics",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
-    "found_at": "2026-09-12T17:09:26Z"
   }
 ]
