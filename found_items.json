@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Polo Ralph Lauren Longsleeve polo m black",
+    "price": "89.51",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9988877735-polo-ralph-lauren-longsleeve-polo-m-black",
+    "image_url": "https://images1.vinted.net/t/05_00454_r27Gj94KuCdYF815oZS7xcwn/f800/1789311318.jpeg?s=dbd3fee3d17199f4235d974e6116b43c474fc84b",
+    "found_at": "2026-09-13T15:09:12Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Kardigan",
+    "price": "68.45",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9988846646-kardigan",
+    "image_url": "https://images1.vinted.net/t/02_000c6_TyryYKW5pABE8Uiu1yHmuE49/f800/1789311222.jpeg?s=4fa98da02487598c96f91dec44c1adf53e88e08b",
+    "found_at": "2026-09-13T15:09:16Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Jeansy Levis",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W31",
+    "url": "https://www.vinted.se/items/9988984975-jeansy-levis",
+    "image_url": "https://images1.vinted.net/t/02_00017_SDCdpFpVmkdmbj8PwqUjJuZB/f800/1789311646.jpeg?s=a17be3d92ec6052a27d3de0170dbf6b04990a57b",
+    "found_at": "2026-09-13T15:09:18Z"
+  },
+  {
     "search_name": "Vinted bot 4",
     "title": "nudie jeans",
     "price": "99.0",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9984018335-hoodia",
     "image_url": "https://images1.vinted.net/t/05_01fc3_aixGK9UtZNVgkTGzuRsKdvCe/f800/1789294781.jpeg?s=86a838461ed7d695ad5df61006423a5eaa43a883",
     "found_at": "2026-09-13T10:38:54Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis 512 32x32",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9983968218-levis-512-32x32",
-    "image_url": "https://images1.vinted.net/t/06_00196_PXhb6dUqfUYDYFaaYg3q8k1k/f800/1789294597.jpeg?s=1eee43abbcf1f0d00b7b0cdc1b633b6b41d3fd60",
-    "found_at": "2026-09-13T10:38:57Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios T-shirt",
-    "price": "114.2",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9984309686-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_020c8_MwQbyRTK6DQPqejq2dpWoPGy/f800/1789295867.jpeg?s=3a3873ffff545bfedd5f3d3f0b571f20dc72c3c4",
-    "found_at": "2026-09-13T10:39:01Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne studios hoodie",
-    "price": "274.08",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9983678744-acne-studios-hoodie",
-    "image_url": "https://images1.vinted.net/t/04_010a8_jNHFrvyYQswnRhgav2qvwq4h/f800/1789295017.jpeg?s=17c9d0fa63f2010decb728e9cb875adeda44945b",
-    "found_at": "2026-09-13T10:39:02Z"
   }
 ]
