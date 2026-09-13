@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Longsleeve polo Ralph Lauren S",
+    "price": "102.67",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9985175226-longsleeve-polo-ralph-lauren-s",
+    "image_url": "https://images1.vinted.net/t/05_01183_KcpAwKsdRbTFWaQQtc97eQzC/f800/1789299089.jpeg?s=13f6423cf31941fd802d18579a832d9ad1bcc253",
+    "found_at": "2026-09-13T11:37:56Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter bawełniany z domieszką kaszmiru Massimo Dutti r M",
+    "price": "73.71",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9985103078-sweter-bawelniany-z-domieszka-kaszmiru-massimo-dutti-r-m",
+    "image_url": "https://images1.vinted.net/t/02_00cf1_Y5YvSr78NeHfWwKpEt2qfV98/f800/1789298823.jpeg?s=25e394cb1632ad5f053ced334a781a273d1ba260",
+    "found_at": "2026-09-13T11:37:59Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Hoodrich, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Hoodrich",
+    "size": "",
+    "url": "https://www.sellpy.se/item/q8IOcQ41Rt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/ERzYXyxKWC-9433-0.jpg",
+    "found_at": "2026-09-13T11:38:27Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph lauren tröja",
     "price": "100.0",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/Cfvj0qPFIg",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/tax5Ogke0Z-4218-0.jpg",
     "found_at": "2026-09-12T21:51:00Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Zip tröja brun",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "L",
-    "url": "https://www.vinted.se/items/9980111416-zip-troja-brun",
-    "image_url": "https://images1.vinted.net/t/02_02152_ZcF8HCEeNECwPAx2DrZzypMB/f800/1789248570.jpeg?s=23986909c3facdf852e94cff4f3e0b87cb875cfa",
-    "found_at": "2026-09-12T21:37:46Z"
-  },
-  {
-    "search_name": "Vinted bot 4",
-    "title": "Snygga nudie jeans",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Nudie Jeans",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9800583667-snygga-nudie-jeans",
-    "image_url": "https://images1.vinted.net/t/05_01929_Knar1MMVuhSK3vwe1jXZ6nJB/f800/1789247926.jpeg?s=5677c0738ab46c7f2b458ac53d4c6417979ae1a2",
-    "found_at": "2026-09-12T21:25:07Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi's Premium, Jeans, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Levi's Premium",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XnZxdKZ0Qv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-2/XnZxdKZ0Qv-93b0-0.jpg",
-    "found_at": "2026-09-12T21:25:18Z"
   }
 ]
