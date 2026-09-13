@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Polo Ralph learuen longsleev v neck",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9991788539-polo-ralph-learuen-longsleev-v-neck",
+    "image_url": "https://images1.vinted.net/t/02_00c44_2mLW9Zgdtokm4VVMEJ2233se/f800/1789320921.jpeg?s=84c1f48f1b3388bfa89e476a54387071bde3d9ab",
+    "found_at": "2026-09-13T17:37:51Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Ralph lauren polo",
+    "price": "102.02",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9991704277-ralph-lauren-polo",
+    "image_url": "https://images1.vinted.net/t/01_01419_tt6JKQLLRQbvajQfqeeRrhr4/f800/1789320290.jpeg?s=91712eb5f9727456f6b79836691f6cc7f2a2f97e",
+    "found_at": "2026-09-13T17:37:52Z"
+  },
+  {
+    "search_name": "Vinted bot 4",
+    "title": "Nudie jeans 33/32",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9991694203-nudie-jeans-3332",
+    "image_url": "https://images1.vinted.net/t/05_0141d_g8wryS9cC4dxVsnzwLmdf8EC/f800/1789320254.jpeg?s=a1788bd3df35a9b5f38d7e8fa4fb8b03515ba809",
+    "found_at": "2026-09-13T17:37:54Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Diesel college paita",
+    "price": "56.91",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9991698590-diesel-college-paita",
+    "image_url": "https://images1.vinted.net/t/04_01d7c_Bs6pkEnHYHMmQbJbRUQYNpZf/f800/1789320269.jpeg?s=0fff53d5673df52226b32509ca513bc7a32442dc",
+    "found_at": "2026-09-13T17:37:59Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren tröja",
     "price": "115.0",
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9986696263-morris-kofta",
     "image_url": "https://images1.vinted.net/t/02_01ba9_VEoeV2qfgpkwaht5tHFUn9Hq/f800/1789304394.jpeg?s=085a31cfb24072a05895f08359c28de89792e003",
     "found_at": "2026-09-13T13:09:24Z"
-  },
-  {
-    "search_name": "Vinted bot 11",
-    "title": "Morris kofta",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Morris",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9986636665-morris-kofta",
-    "image_url": "https://images1.vinted.net/t/03_009c0_EY1h8NyadJkZyvQ4vUb2jNQE/f800/1789304196.jpeg?s=9f7284d5f9cd3e85946b0d2a24471bebc32bfacb",
-    "found_at": "2026-09-13T13:09:25Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tommy Hilfiger, Bomberjacka, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KSxkiDb7rd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/oc8WanFTBc-bad4-0.jpg",
-    "found_at": "2026-09-13T13:09:59Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pepe Jeans, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Pepe Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ONzpV0emRl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/ONzpV0emRl-3e3e-0.jpg",
-    "found_at": "2026-09-13T13:10:03Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Zara Man, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Zara Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/nswLx6cKuT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/nswLx6cKuT-051f-0.jpg",
-    "found_at": "2026-09-13T13:10:05Z"
   }
 ]
