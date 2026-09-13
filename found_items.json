@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Miesten pusero",
+    "price": "102.44",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9989810377-miesten-pusero",
+    "image_url": "https://images1.vinted.net/t/04_018f5_ptmtASHMjNFUr8euDk9rtEXo/f800/1789314160.jpeg?s=f9feceda0a938a8e60b29ac942aa7b5ff993f680",
+    "found_at": "2026-09-13T15:50:52Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Diesel thommer skinny jeans Y2K",
+    "price": "56.91",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9989947082-diesel-thommer-skinny-jeans-y2k",
+    "image_url": "https://images1.vinted.net/t/02_02045_nrFN5X4xaSVQxXue8uv4KukS/f800/1789314573.jpeg?s=20f9623d939980ab50ef570a8e7c31a7698d57ad",
+    "found_at": "2026-09-13T15:50:58Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bondelid collegetröja",
+    "price": "55.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9989952679-bondelid-collegetroja",
+    "image_url": "https://images1.vinted.net/t/04_00a45_Buw3Hn6xBP7J7UZB2C9kXBkP/f800/1789314589.jpeg?s=5297bdb37020faa522b664bbc8bf9590ddc6dece",
+    "found_at": "2026-09-13T15:51:01Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "bluza",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9976182960-bluza",
+    "image_url": "https://images1.vinted.net/t/01_00c40_DXjr3enqKNAd1hDPk2hHqjfE/f800/1789314610.jpeg?s=0aac180604a57d774c67f22eb04c8ca5f5a9f09e",
+    "found_at": "2026-09-13T15:51:02Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios polo",
+    "price": "214.69",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9989779171-acne-studios-polo",
+    "image_url": "https://images1.vinted.net/t/01_01af5_ePeijfhgRMT5d8QPFAp1qLnC/f800/1789314066.jpeg?s=5e54ec19aab0d59a5ac6f9f2d8eb1135a8ee3519",
+    "found_at": "2026-09-13T15:51:06Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Brixtol, Jacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Brixtol",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Y4kxlltJqt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-10/Y4kxlltJqt-1ef7-0.jpg",
+    "found_at": "2026-09-13T15:52:04Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "These Glory Days, Tröja, Strl: S",
     "price": 35,
@@ -592,71 +658,5 @@
     "url": "https://www.vinted.se/items/9984539489-strik-polo-ralph-lauren-str-m",
     "image_url": "https://images1.vinted.net/t/02_01ee1_JbEUaqFzVMbDCU9YJdML3WsS/f800/1789296720.jpeg?s=0f0a74bfc1f6801df1bff21b18b0da535443abf0",
     "found_at": "2026-09-13T11:08:58Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie Levi's",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9984565125-spodnie-levis",
-    "image_url": "https://images1.vinted.net/t/04_01b05_A4jDb2q87SjfjcguvrosAafv/f800/1789296816.jpeg?s=e175a463a07802538fe7953a5136e64333b66c80",
-    "found_at": "2026-09-13T11:09:03Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Stone Island trøje",
-    "price": "137.04",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9984554763-stone-island-troje",
-    "image_url": "https://images1.vinted.net/t/02_0073a_2KmyHGECkhYQvGKsb5oqPf4N/f800/1789296777.jpeg?s=6df452843dcf996263cd38229b26f7a22f90bbb1",
-    "found_at": "2026-09-13T11:09:07Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "bluza szara rozmiar M",
-    "price": "39.49",
-    "currency": "SEK",
-    "brand": "Carhartt",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9984298811-bluza-szara-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/06_008a3_hNHTBbhzMTCSATxT66Kyefpj/f800/1789295826.jpeg?s=1a9f93a86a6be2648d010298a669526cb4414397",
-    "found_at": "2026-09-13T10:51:24Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Acne Studios T-shirt",
-    "price": "83.75",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9984495154-acne-studios-t-shirt",
-    "image_url": "https://images1.vinted.net/t/02_0146e_vezL6mDfc72x4UmH9LWAiUZm/f800/1789296554.jpeg?s=b71ef0a33e8423ce71e3a87747017045b1c5711e",
-    "found_at": "2026-09-13T10:51:28Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Chinos, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EaxAic34Dl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-4/EaxAic34Dl-2556-0.jpg",
-    "found_at": "2026-09-13T10:51:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Rugbytröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/VmfnPVg6nM-9b38-0.jpg",
-    "found_at": "2026-09-13T10:52:00Z"
   }
 ]
