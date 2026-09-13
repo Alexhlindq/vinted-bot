@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "These Glory Days, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Ho8DYlX9Vh-0b5a-0.jpg",
+    "found_at": "2026-09-13T15:38:52Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Nautica Competition, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Nautica Competition",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Iu5U0wu8pK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/WUb72XA5Jr-6f70-0.jpg",
+    "found_at": "2026-09-13T15:38:58Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Reflexjacka, Strl: M",
     "price": 65,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/VmfnPVg6nM-9b38-0.jpg",
     "found_at": "2026-09-13T10:52:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "686, Skidjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "686",
-    "size": "",
-    "url": "https://www.sellpy.se/item/j4V5syc1SB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
-    "found_at": "2026-09-13T10:52:06Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Pull & Bear, Collegejacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Pull & Bear",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/j4V5syc1SB-e4dd-0.jpg",
-    "found_at": "2026-09-13T10:52:09Z"
   }
 ]
