@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Sweter Polo Ralph Loren",
+    "price": "105.3",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9990560032-sweter-polo-ralph-loren",
+    "image_url": "https://images1.vinted.net/t/04_01d53_tqMhMvsLVh1p5mE4NaSSRpCi/f800/1789316472.jpeg?s=c650a24ac9d7fdd917f60073792ec59b79bbc85f",
+    "found_at": "2026-09-13T16:26:17Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Sweter męski Massimo Dutti",
+    "price": "39.49",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9990457591-sweter-meski-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/01_00f18_kwz64yR5qfiYdrVTbUvwYx4U/f800/1789316150.jpeg?s=862312543b3ecd44a060b51a0da8b0a41255cfed",
+    "found_at": "2026-09-13T16:26:21Z"
+  },
+  {
+    "search_name": "Vinted bot 18",
+    "title": "Jacka Barbour",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Barbour",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9990407996-jacka-barbour",
+    "image_url": "https://images1.vinted.net/t/06_016b4_YDPTDYsT6g63r5m7UET6qox9/f800/1789315993.jpeg?s=09453d6d5860de763703d943337294afc1738100",
+    "found_at": "2026-09-13T16:26:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Allvädersjacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FG5p1C9unc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WvpZ60yWQ0-878c-0.jpg",
+    "found_at": "2026-09-13T16:26:59Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Collagetröja",
     "price": "75.0",
@@ -614,49 +658,5 @@
     "url": "https://www.vinted.se/items/9985175226-longsleeve-polo-ralph-lauren-s",
     "image_url": "https://images1.vinted.net/t/05_01183_KcpAwKsdRbTFWaQQtc97eQzC/f800/1789299089.jpeg?s=13f6423cf31941fd802d18579a832d9ad1bcc253",
     "found_at": "2026-09-13T11:37:56Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter bawełniany z domieszką kaszmiru Massimo Dutti r M",
-    "price": "73.71",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9985103078-sweter-bawelniany-z-domieszka-kaszmiru-massimo-dutti-r-m",
-    "image_url": "https://images1.vinted.net/t/02_00cf1_Y5YvSr78NeHfWwKpEt2qfV98/f800/1789298823.jpeg?s=25e394cb1632ad5f053ced334a781a273d1ba260",
-    "found_at": "2026-09-13T11:37:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Hoodrich, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Hoodrich",
-    "size": "",
-    "url": "https://www.sellpy.se/item/q8IOcQ41Rt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/ERzYXyxKWC-9433-0.jpg",
-    "found_at": "2026-09-13T11:38:27Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph lauren tröja",
-    "price": "100.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985036637-ralph-lauren-troja",
-    "image_url": "https://images1.vinted.net/t/05_0225e_Eg9ZS21Qg8WxC7EG8bvLrZpU/f800/1789298578.jpeg?s=6c6fbb6b66d8a74b38370606839f5898e875bd4c",
-    "found_at": "2026-09-13T11:24:31Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Massimo Dutti Quarter Zip",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9984837480-massimo-dutti-quarter-zip",
-    "image_url": "https://images1.vinted.net/t/04_024cb_jj4UfaZ5sWBf8igN8HDxKCEQ/f800/1789297836.jpeg?s=27dc0653536e0222d5b54b0b6394a4b2f1b59e3e",
-    "found_at": "2026-09-13T11:24:35Z"
   }
 ]
