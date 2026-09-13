@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "V-  ringad tröja",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9982013880-v-ringad-troja",
+    "image_url": "https://images1.vinted.net/t/04_01eca_15eh5vg6PW1VksSoaWH6Vrxk/f800/1789285791.jpeg?s=97a5793d6e688a58625c7ecf423feae33572840a",
+    "found_at": "2026-09-13T07:52:07Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Skjorta från Acne",
+    "price": "150.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9981932472-skjorta-fran-acne",
+    "image_url": "https://images1.vinted.net/t/06_0045e_ruvxojFsPHK4smE5BKT1CxiV/f800/1789285208.jpeg?s=573243bb2fabff36674800dc5cd9349755d2d36b",
+    "found_at": "2026-09-13T07:52:14Z"
+  },
+  {
     "search_name": "Sellpy - Höstmode för honom (kurerad)",
     "title": "Bläck, Tröja, Strl: M",
     "price": 60,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
     "found_at": "2026-09-12T17:09:26Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levi jeans",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9977418031-levi-jeans",
-    "image_url": "https://images1.vinted.net/t/06_02089_Wy7Brr3Lbh7mpRdRpMsbj9uK/f800/1789231801.jpeg?s=b68ab636ae5d737b911062f0546beba758ad054e",
-    "found_at": "2026-09-12T16:50:24Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza z kapturem",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9977354617-bluza-z-kapturem",
-    "image_url": "https://images1.vinted.net/t/02_006c7_oJZ1nZXU9SnwXmY9K4DTcEBV/f800/1789231518.jpeg?s=dd89754a888caf3e0ed6787abf86139c97e3cfbb",
-    "found_at": "2026-09-12T16:50:26Z"
   }
 ]
