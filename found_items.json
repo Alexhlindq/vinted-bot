@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "686, Skidjacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "686",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QBFm7MDlso",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
+    "found_at": "2026-09-13T00:13:52Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Parkas, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/QBFm7MDlso-4c67-0.jpg",
+    "found_at": "2026-09-13T00:13:53Z"
+  },
+  {
     "search_name": "Vinted bot 13",
     "title": "Bluza diesel",
     "price": "65.81",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/SdXmFid3XC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/SdXmFid3XC-865e-0.jpg",
     "found_at": "2026-09-12T15:25:17Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Golf ralph lauren",
-    "price": "105.3",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9975692842-golf-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/05_013d0_FnX3drxwybzr9JEfj92a28Zw/f800/1789224572.jpeg?s=71e787357416ba5f3b379535ef7e54740913bacc",
-    "found_at": "2026-09-12T14:51:11Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza  Polo Ralph Lauren",
-    "price": "78.98",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9975580433-bluza-polo-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_02261_W9X4j3EHuo8cpDFf8Gp4Rfd8/f800/1789224115.jpeg?s=e4fbe558e6073efd6a85097e6f0f70a1cdeba98e",
-    "found_at": "2026-09-12T14:51:13Z"
   }
 ]
