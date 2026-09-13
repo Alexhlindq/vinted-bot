@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Jacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tCPgj5c1wq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/x19DmwdGIc-e3a7-0.jpg",
+    "found_at": "2026-09-13T05:25:19Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "GANT, Rugbytröja, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9975984867-dzinsy-meskie-granatowe-levis-512-w31-l32",
     "image_url": "https://images1.vinted.net/t/02_02648_tqHrVURwxAtUgPs98womUBVj/f800/1789225763.jpeg?s=7a1a8d9a2ad639a8ba2b534c062b0899513d29d6",
     "found_at": "2026-09-12T15:24:29Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "ASOS Design, Collegetröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/16CLUBvxlT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/zBESNJaf4s-c2fc-0.jpg",
-    "found_at": "2026-09-12T15:25:08Z"
   }
 ]
