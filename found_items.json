@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 4",
+    "title": "Nudie Jeans",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Nudie Jeans",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9986892631-nudie-jeans",
+    "image_url": "https://images1.vinted.net/t/05_008ac_oJ9wZ8BQ9k8JqnCadSMWF1f8/f800/1789305047.jpeg?s=d00e4ac7cfbdd21f8a28a36e45cb4e2818982220",
+    "found_at": "2026-09-13T13:25:07Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Collegepaita",
+    "price": "45.53",
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9987014583-collegepaita",
+    "image_url": "https://images1.vinted.net/t/02_02020_pPA2ffuLCKqjP5cC4oYU2DkR/f800/1789305448.jpeg?s=4ed838001c73236e505ac3da46c35d6bc39beae2",
+    "found_at": "2026-09-13T13:25:10Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Bluza Stone Island (raczej replica)",
+    "price": "131.63",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9986931183-bluza-stone-island-raczej-replica",
+    "image_url": "https://images1.vinted.net/t/02_00217_pPohcLotSAruygGvhp92A78t/f800/1789305174.jpeg?s=fc3d4d80ea9095cd1d9b7afd4dacb3ae338c9f6e",
+    "found_at": "2026-09-13T13:25:13Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Bluza damska",
     "price": "92.14",
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
     "found_at": "2026-09-13T08:10:50Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "V-  ringad tröja",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9982013880-v-ringad-troja",
-    "image_url": "https://images1.vinted.net/t/04_01eca_15eh5vg6PW1VksSoaWH6Vrxk/f800/1789285791.jpeg?s=97a5793d6e688a58625c7ecf423feae33572840a",
-    "found_at": "2026-09-13T07:52:07Z"
-  },
-  {
-    "search_name": "Vinted bot 19",
-    "title": "Skjorta från Acne",
-    "price": "150.0",
-    "currency": "SEK",
-    "brand": "Acne Studios",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9981932472-skjorta-fran-acne",
-    "image_url": "https://images1.vinted.net/t/06_0045e_ruvxojFsPHK4smE5BKT1CxiV/f800/1789285208.jpeg?s=573243bb2fabff36674800dc5cd9349755d2d36b",
-    "found_at": "2026-09-13T07:52:14Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Bläck, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WdFafvTZqN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
-    "found_at": "2026-09-13T07:39:40Z"
   }
 ]
