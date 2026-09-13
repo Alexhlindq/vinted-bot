@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Strik POLO Ralph Lauren str. M",
+    "price": "121.81",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9984539489-strik-polo-ralph-lauren-str-m",
+    "image_url": "https://images1.vinted.net/t/02_01ee1_JbEUaqFzVMbDCU9YJdML3WsS/f800/1789296720.jpeg?s=0f0a74bfc1f6801df1bff21b18b0da535443abf0",
+    "found_at": "2026-09-13T11:08:58Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Spodnie Levi's",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9984565125-spodnie-levis",
+    "image_url": "https://images1.vinted.net/t/04_01b05_A4jDb2q87SjfjcguvrosAafv/f800/1789296816.jpeg?s=e175a463a07802538fe7953a5136e64333b66c80",
+    "found_at": "2026-09-13T11:09:03Z"
+  },
+  {
+    "search_name": "Vinted bot 16",
+    "title": "Stone Island trøje",
+    "price": "137.04",
+    "currency": "SEK",
+    "brand": "Stone Island",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9984554763-stone-island-troje",
+    "image_url": "https://images1.vinted.net/t/02_0073a_2KmyHGECkhYQvGKsb5oqPf4N/f800/1789296777.jpeg?s=6df452843dcf996263cd38229b26f7a22f90bbb1",
+    "found_at": "2026-09-13T11:09:07Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "bluza szara rozmiar M",
     "price": "39.49",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/rHnMDwWthG",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-3/WWy7m6OaBb-2fa1-0.jpg",
     "found_at": "2026-09-12T21:08:58Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter M",
-    "price": "86.88",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9979814937-sweter-m",
-    "image_url": "https://images1.vinted.net/t/06_001b0_qmixLgoUVYkoN1rCCUzQhT99/f800/1789245870.jpeg?s=d795b2350ac664676e98f1b73609eb20380730de",
-    "found_at": "2026-09-12T20:54:30Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka Rayaln Polo",
-    "price": "394.89",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/8436701339-kurtka-rayaln-polo",
-    "image_url": "https://images1.vinted.net/t/04_01261_h4Ei7San1b9UYXccRcY5mTmX/f800/1773956535.jpeg?s=6834b2db086ec24ff35cdabbe90de00073d25839",
-    "found_at": "2026-09-12T20:54:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Costume National, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Costume National",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tT56Al1rym",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vmRU4jznRb-75f2-0.jpg",
-    "found_at": "2026-09-12T20:55:02Z"
   }
 ]
