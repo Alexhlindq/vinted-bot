@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 10",
+    "title": "Granatowe spodnie Levi’s 754 jeansy",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "46 | W30",
+    "url": "https://www.vinted.se/items/9987485345-granatowe-spodnie-levis-754-jeansy",
+    "image_url": "https://images1.vinted.net/t/04_00568_FF8rVgjS9Bn8TQExAmwvPmwM/f800/1789306973.jpeg?s=e3b6e668801235485b7704fc499e938b2b6ccd0c",
+    "found_at": "2026-09-13T13:50:28Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Palph lauren",
     "price": "124.99",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9982519324-hollister-troja",
     "image_url": "https://images1.vinted.net/t/05_0218e_sfcZ3YjofZhwU2N62xrSeQEB/f800/1789288702.jpeg?s=86cbe4490b8d50ecf57f99f515b29bdd219f0d26",
     "found_at": "2026-09-13T08:40:57Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Urban Classics, Anorak, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Urban Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lMWFWaHLmJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
-    "found_at": "2026-09-13T08:10:49Z"
   }
 ]
