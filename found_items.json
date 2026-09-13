@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka Polo Ralph Lauren RLX M",
+    "price": "260.63",
+    "currency": "SEK",
+    "brand": "Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9983853048-kurtka-polo-ralph-lauren-rlx-m",
+    "image_url": "https://images1.vinted.net/t/01_015b1_eD3bgw21AhkMocurV2Wv3tV1/f800/1789294165.jpeg?s=2a2bab51f44a250a9f051d64d9a1723611eb1339",
+    "found_at": "2026-09-13T10:16:16Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Tröja",
+    "price": "35.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9983850435-troja",
+    "image_url": "https://images1.vinted.net/t/06_01662_ByLBVa3XnXReX5JT2abf46en/f800/1789294155.jpeg?s=54c3e5207e3c60521f436aa1b62b70719b3bf1ae",
+    "found_at": "2026-09-13T10:16:20Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios skjorta",
+    "price": "300.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9983926281-acne-studios-skjorta",
+    "image_url": "https://images1.vinted.net/t/06_00f69_K7YeaDCw7vrcLW3fHUntg7J4/f800/1789294440.jpeg?s=cf7bfd49267a67ed5ff08c2528953ccc4f3445c8",
+    "found_at": "2026-09-13T10:16:25Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne skjorta",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9983909163-acne-skjorta",
+    "image_url": "https://images1.vinted.net/t/02_00d3c_iP77NDvhKBrjJhSRBw7JD2Dr/f800/1789294376.jpeg?s=42855834eda19663a94279433cf7eb680aff9123",
+    "found_at": "2026-09-13T10:16:26Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Jacka, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vFJWaIiU5G",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/vFJWaIiU5G-8e6d-0.jpg",
+    "found_at": "2026-09-13T10:17:11Z"
+  },
+  {
     "search_name": "Vinted bot",
     "title": "Polo Ralph Lauren strl 170",
     "price": "100.0",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9952133066-levis-jeans",
     "image_url": "https://images1.vinted.net/t/02_00a90_DZtk8Z5F7ZkBB2egCbESmP2f/f800/1789238790.jpeg?s=14e118983cf6014e5a53637fb155a25e7f512e3f",
     "found_at": "2026-09-12T18:51:01Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo Ralph Lauren S wada malutka",
-    "price": "118.47",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9978585167-polo-ralph-lauren-s-wada-malutka",
-    "image_url": "https://images1.vinted.net/t/02_01e0a_sz6L35wFwm4BMF7EvYMQbXbj/f800/1789237784.jpeg?s=927988388eaba4d29d5f7f18ef7574bd283ba080",
-    "found_at": "2026-09-12T18:40:10Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo cardigan",
-    "price": "76.34",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9978568321-polo-cardigan",
-    "image_url": "https://images1.vinted.net/t/03_01e4b_TQfHdFrLzHdfPpffPB1i3dLz/f800/1789237782.jpeg?s=d6af86d41540a35dafa2dcddd0d83ff791bf6516",
-    "found_at": "2026-09-12T18:40:11Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bluza Diesel",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Diesel",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978585972-bluza-diesel",
-    "image_url": "https://images1.vinted.net/t/06_00843_tZrj4z81fLY34rdRR1hx9fyg/f800/1789237788.jpeg?s=42809a902efa389738abe9c55f0919f7be712ba9",
-    "found_at": "2026-09-12T18:40:16Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Bondelid tröja",
-    "price": "55.0",
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978563838-bondelid-troja",
-    "image_url": "https://images1.vinted.net/t/05_00a70_D314UrEDPibqbERvHkzQt4oU/f800/1789237659.jpeg?s=e1e22b5083844eee93be97d2459c529a387deda3",
-    "found_at": "2026-09-12T18:40:17Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Sweter Polo",
-    "price": "105.3",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9978524328-sweter-polo",
-    "image_url": "https://images1.vinted.net/t/06_00cf9_83Bh9QYQC8nw4Pa6x8pSYzDM/f800/1789237429.jpeg?s=3019bb05fc49ac056f5a9fd6bc4c836875ef5ec5",
-    "found_at": "2026-09-12T18:26:38Z"
   }
 ]
