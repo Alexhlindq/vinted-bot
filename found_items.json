@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Hoodia",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9984018335-hoodia",
+    "image_url": "https://images1.vinted.net/t/05_01fc3_aixGK9UtZNVgkTGzuRsKdvCe/f800/1789294781.jpeg?s=86a838461ed7d695ad5df61006423a5eaa43a883",
+    "found_at": "2026-09-13T10:38:54Z"
+  },
+  {
+    "search_name": "Vinted bot 10",
+    "title": "Levis 512 32x32",
+    "price": "65.81",
+    "currency": "SEK",
+    "brand": "Levi's",
+    "size": "48 | W32",
+    "url": "https://www.vinted.se/items/9983968218-levis-512-32x32",
+    "image_url": "https://images1.vinted.net/t/06_00196_PXhb6dUqfUYDYFaaYg3q8k1k/f800/1789294597.jpeg?s=1eee43abbcf1f0d00b7b0cdc1b633b6b41d3fd60",
+    "found_at": "2026-09-13T10:38:57Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios T-shirt",
+    "price": "114.2",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9984309686-acne-studios-t-shirt",
+    "image_url": "https://images1.vinted.net/t/02_020c8_MwQbyRTK6DQPqejq2dpWoPGy/f800/1789295867.jpeg?s=3a3873ffff545bfedd5f3d3f0b571f20dc72c3c4",
+    "found_at": "2026-09-13T10:39:01Z"
+  },
+  {
+    "search_name": "Vinted bot 19",
+    "title": "Acne studios hoodie",
+    "price": "274.08",
+    "currency": "SEK",
+    "brand": "Acne Studios",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9983678744-acne-studios-hoodie",
+    "image_url": "https://images1.vinted.net/t/04_010a8_jNHFrvyYQswnRhgav2qvwq4h/f800/1789295017.jpeg?s=17c9d0fa63f2010decb728e9cb875adeda44945b",
+    "found_at": "2026-09-13T10:39:02Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VmfnPVg6nM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-13T10:39:27Z"
+  },
+  {
     "search_name": "Vinted bot 5",
     "title": "Kurtka Polo Ralph Lauren RLX M",
     "price": "260.63",
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/oG86s7hP7M",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/oG86s7hP7M-cb7c-0.jpg",
     "found_at": "2026-09-12T20:10:20Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "686, Skidjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "686",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Q8MRCYrUR4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/lQXVruYhIK-cfe4-0.jpg",
-    "found_at": "2026-09-12T19:50:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Jeansjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/twipAWZsTd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
-    "found_at": "2026-09-12T19:50:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Melka, Dunjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Melka",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/twipAWZsTd-ef7a-0.jpg",
-    "found_at": "2026-09-12T19:50:45Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Wełniany kaszmirowy sweter męski Massimo Dutti XS S",
-    "price": "39.49",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9978906601-welniany-kaszmirowy-sweter-meski-massimo-dutti-xs-s",
-    "image_url": "https://images1.vinted.net/t/02_0035b_1WDWQadxjxrAX3aV7ktNrsYx/f800/1789239694.jpeg?s=ebd647a5b5615c6744f500c2de73ce92038d0f16",
-    "found_at": "2026-09-12T19:07:58Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans",
-    "price": "60.0",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "46 | W30",
-    "url": "https://www.vinted.se/items/9952133066-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/02_00a90_DZtk8Z5F7ZkBB2egCbESmP2f/f800/1789238790.jpeg?s=14e118983cf6014e5a53637fb155a25e7f512e3f",
-    "found_at": "2026-09-12T18:51:01Z"
   }
 ]
