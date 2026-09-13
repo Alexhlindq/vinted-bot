@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Bläck, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WdFafvTZqN",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/2u3u92R1KC-3f8d-0.jpg",
+    "found_at": "2026-09-13T07:39:40Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Arket, Tröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HIxuPgJK7D",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/xysVm95dSh-bb5f-0.jpg",
+    "found_at": "2026-09-13T07:39:41Z"
+  },
+  {
+    "search_name": "Sellpy - Arbets-/safarijackor (ej H&M/Zara/Lager157)",
+    "title": "//produkt, Överskjorta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "//produkt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ySYZc0wdxQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/sXG2SXGNtl-f9ef-single.jpg",
+    "found_at": "2026-09-13T07:39:46Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Massimo DUTTI sweater",
     "price": "57.86",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9977354617-bluza-z-kapturem",
     "image_url": "https://images1.vinted.net/t/02_006c7_oJZ1nZXU9SnwXmY9K4DTcEBV/f800/1789231518.jpeg?s=dd89754a888caf3e0ed6787abf86139c97e3cfbb",
     "found_at": "2026-09-12T16:50:26Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Męski sweterek",
-    "price": "31.59",
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9977328168-meski-sweterek",
-    "image_url": "https://images1.vinted.net/t/06_01c38_inAf74j9pnwWNnHXEFGiEYPR/f800/1789231399.jpeg?s=5d7c32bd403a231a467f4cc77435833f8391cb63",
-    "found_at": "2026-09-12T16:50:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Fleeceväst, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3j35rPCBw5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/UI9NsLUzfq-f117-0.jpg",
-    "found_at": "2026-09-12T16:50:54Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Polo ralph lauren trøje str 18-20",
-    "price": "114.2",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "XS",
-    "url": "https://www.vinted.se/items/9945497963-polo-ralph-lauren-troje-str-18-20",
-    "image_url": "https://images1.vinted.net/t/05_00154_ztFYNaqyHBYTHLT21rqGJf2n/f800/1789225572.jpeg?s=83a8c82416bcfe1c5792b9290d57c2d98f02d8dc",
-    "found_at": "2026-09-12T16:38:36Z"
   }
 ]
