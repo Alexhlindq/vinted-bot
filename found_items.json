@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Engelbert Strauss, Jacka, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Engelbert Strauss",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xJOcJ0jDhQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/Vo0Ab16FcQ-d7e7-0.jpg",
+    "found_at": "2026-09-13T23:09:23Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Spodnie Jeansy Levi’s 512 W31 L32 klasyczne czarne swag y2k vintage",
     "price": "52.63",
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9988877735-polo-ralph-lauren-longsleeve-polo-m-black",
     "image_url": "https://images1.vinted.net/t/05_00454_r27Gj94KuCdYF815oZS7xcwn/f800/1789311318.jpeg?s=dbd3fee3d17199f4235d974e6116b43c474fc84b",
     "found_at": "2026-09-13T15:09:12Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Kardigan",
-    "price": "68.45",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9988846646-kardigan",
-    "image_url": "https://images1.vinted.net/t/02_000c6_TyryYKW5pABE8Uiu1yHmuE49/f800/1789311222.jpeg?s=4fa98da02487598c96f91dec44c1adf53e88e08b",
-    "found_at": "2026-09-13T15:09:16Z"
   }
 ]
