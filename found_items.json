@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Palph lauren",
+    "price": "124.99",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9987375951-palph-lauren",
+    "image_url": "https://images1.vinted.net/t/02_01bae_KgoesvhsQ3P48neS6S9qaReX/f800/1789306623.jpeg?s=3e6b37b6614ecf349b1a7cb9b670036d007b62a9",
+    "found_at": "2026-09-13T13:37:18Z"
+  },
+  {
     "search_name": "Vinted bot 4",
     "title": "Nudie Jeans",
     "price": "100.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/lMWFWaHLmJ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
     "found_at": "2026-09-13T08:10:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Timberland, Fleecejacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Timberland",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
-    "found_at": "2026-09-13T08:10:50Z"
   }
 ]
