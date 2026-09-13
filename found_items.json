@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Bluza polo",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9991075992-bluza-polo",
+    "image_url": "https://images1.vinted.net/t/02_008d0_RJeekPa6rEbHBCvt21qLLgzU/f800/1789318122.jpeg?s=ca6316e0603c45e2a7fd18f07af96a8ad11256f2",
+    "found_at": "2026-09-13T16:51:53Z"
+  },
+  {
+    "search_name": "Vinted bot 8",
+    "title": "Golf męski Massimo Dutti",
+    "price": "52.65",
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "XS",
+    "url": "https://www.vinted.se/items/9990987532-golf-meski-massimo-dutti",
+    "image_url": "https://images1.vinted.net/t/01_01d94_tJCfdFyAYwFZK5ZK6g1gGR1i/f800/1789317833.jpeg?s=acf78ff2a410d16ba72667870ffe73635c24c709",
+    "found_at": "2026-09-13T16:51:57Z"
+  },
+  {
+    "search_name": "Vinted bot 12",
+    "title": "Bluza diesel",
+    "price": "26.33",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9991110485-bluza-diesel",
+    "image_url": "https://images1.vinted.net/t/05_00053_YjTUJJvqV3D2JkEG3RGYNkTW/f800/1789318235.jpeg?s=0a494be6d38da6b3ba3c005aa09e1a3d6a2678e4",
+    "found_at": "2026-09-13T16:51:59Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Dunjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/X9VvztlE7e",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-8/6nIqjoVuDE-ca50-0.jpg",
+    "found_at": "2026-09-13T16:52:32Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Woolrich John Rich&Bros, Trenchcoat, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Woolrich John Rich&Bros",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/KSxkiDb7rd-c866-0.jpg",
+    "found_at": "2026-09-13T16:52:34Z"
+  },
+  {
     "search_name": "Vinted bot 10",
     "title": "Farkut",
     "price": "56.91",
@@ -603,60 +658,5 @@
     "url": "https://www.vinted.se/items/9985693880-hollister-hoodie-intresse-koll",
     "image_url": "https://images1.vinted.net/t/02_00344_uMZ8u5PyLh8bTUWwbXEJRH6v/f800/1789300960.jpeg?s=a7c62ff8d408363be6acc1cbca6becdd8fef8561",
     "found_at": "2026-09-13T12:11:47Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister hoodie (intresse koll!)",
-    "price": "11.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9985620281-hollister-hoodie-intresse-koll",
-    "image_url": "https://images1.vinted.net/t/02_00e4c_TpXd1wcAEHnTL1xxZbBH7fL5/f800/1789300825.jpeg?s=55c116a867e70ece4e284be88222b166c9b7b1ff",
-    "found_at": "2026-09-13T12:11:47Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Bluza Ralph Lauren",
-    "price": "92.14",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9985455089-bluza-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/02_00692_auHUQrqgdt4Yixnboxi4FN7V/f800/1789300106.jpeg?s=550281fbf56856085062d9fb5bfac96f8cb62343",
-    "found_at": "2026-09-13T11:50:14Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Czarne jeansy Levis 511 31/34",
-    "price": "65.81",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9985389408-czarne-jeansy-levis-511-3134",
-    "image_url": "https://images1.vinted.net/t/06_024d0_KW1ZxiRJMRb9yrc5dVh9msPv/f800/1789299869.jpeg?s=f0d85f1c2f77e6a81fc262864644c745e3f684ff",
-    "found_at": "2026-09-13T11:50:19Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Collegepaita",
-    "price": "45.53",
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9985326809-collegepaita",
-    "image_url": "https://images1.vinted.net/t/02_02020_pPA2ffuLCKqjP5cC4oYU2DkR/f800/1789299644.jpeg?s=ab068d0ff3b715a0efe0e395270ddd65fe904759",
-    "found_at": "2026-09-13T11:50:21Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hollister Hoodie",
-    "price": "75.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9982042136-hollister-hoodie",
-    "image_url": "https://images1.vinted.net/t/06_01754_43rA8mLVSoCWC713kb5w46LF/f800/1789299861.jpeg?s=239a41dc45b6347f5096fe62163a335d6463f21c",
-    "found_at": "2026-09-13T11:50:23Z"
   }
 ]
