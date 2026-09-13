@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Vintage Ralph lauren trøje",
+    "price": "114.2",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992724453-vintage-ralph-lauren-troje",
+    "image_url": "https://images1.vinted.net/t/06_01626_X1Nw7u1w4NeSPsVJcsEnD2Hf/f800/1789324341.jpeg?s=efc724192dae01a233880407681594fb94f4235f",
+    "found_at": "2026-09-13T18:43:04Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Bluza bez kaptura Polo Ralph Lauren crewneck",
+    "price": "118.47",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9992715582-bluza-bez-kaptura-polo-ralph-lauren-crewneck",
+    "image_url": "https://images1.vinted.net/t/06_00640_qrkw6UTSsCT9M6CgDiQN9qaC/f800/1789324303.jpeg?s=c5344a39d0c877e76919406d9c614387879f51ea",
+    "found_at": "2026-09-13T18:43:05Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Aigle, Jacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Aigle",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oteOyNZTFk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/oteOyNZTFk-7190-0.jpg",
+    "found_at": "2026-09-13T18:43:54Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Bluza bez kaptura Polo Ralph Lauren Crewneck",
     "price": "118.47",
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.vinted.se/items/9988135447-morkbla-hooodie",
     "image_url": "https://images1.vinted.net/t/04_00442_3LxHPCnyUv1dwcUteGZbcvqY/f800/1789309021.jpeg?s=4e5c4d31ddfbc1309b370f57ae30f8b697442dba",
     "found_at": "2026-09-13T14:25:02Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Levis jeans",
-    "price": "45.68",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W32",
-    "url": "https://www.vinted.se/items/9987965367-levis-jeans",
-    "image_url": "https://images1.vinted.net/t/05_0142d_DBtFbnbYi8Rc6RpMmHGzz5xq/f800/1789308488.jpeg?s=7a6b6ca8acc860ac18d84014b2bd2ef1156ef28f",
-    "found_at": "2026-09-13T14:09:19Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Hoodie från hollister",
-    "price": "46.0",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9987861415-hoodie-fran-hollister",
-    "image_url": "https://images1.vinted.net/t/05_01139_zf9JkxZQQ1RxzKBteyoobnJZ/f800/1789308159.jpeg?s=c99ec194de7c7e0021a091ac1f7507299465ce2a",
-    "found_at": "2026-09-13T14:09:21Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "Buty jak nowe 1 raz załóżone r.42",
-    "price": "131.63",
-    "currency": "SEK",
-    "brand": "Gucci",
-    "size": "42",
-    "url": "https://www.vinted.se/items/9987672745-buty-jak-nowe-1-raz-zalozone-r42",
-    "image_url": "https://images1.vinted.net/t/01_00ca0_hMxn2oXpvvc6GEwW5xxYPDf9/f800/1789307564.jpeg?s=2c31145d040620586de460fb28ad939ea80c922c",
-    "found_at": "2026-09-13T14:09:23Z"
   }
 ]
