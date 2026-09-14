@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Knowledge Cotton Apparel, Collegetröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Knowledge Cotton Apparel",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/uRd2ApAgmX-d19f-0.jpg",
+    "found_at": "2026-09-14T13:01:09Z"
+  },
+  {
     "search_name": "Vinted bot 12",
     "title": "Crewneck czarny diesel",
     "price": "52.68",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/kRZ6GiHdp5",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/aF0zvKB0nX-910f-0.jpg",
     "found_at": "2026-09-14T03:29:54Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XHC5YALl1z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/rJrZqg9GHW-c7dd-0.jpg",
-    "found_at": "2026-09-14T03:29:55Z"
   }
 ]
