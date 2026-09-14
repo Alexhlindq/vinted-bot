@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot",
+    "title": "Ralph Lauren",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9996152518-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/04_0206d_9EGPjAhKqjvVmgTYMvWG7LH4/f800/1789368739.jpeg?s=a09c8bec0e46f97a1ac489fa5db66b493895c835",
+    "found_at": "2026-09-14T06:57:46Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lager 157, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Lager 157",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZuLzCsvsTQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/ZuLzCsvsTQ-8610-0.jpg",
+    "found_at": "2026-09-14T06:58:29Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "L.L. Bean, Fleecejacka, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/xJOcJ0jDhQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/Vo0Ab16FcQ-d7e7-0.jpg",
     "found_at": "2026-09-13T23:09:23Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie Jeansy Levi’s 512 W31 L32 klasyczne czarne swag y2k vintage",
-    "price": "52.63",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9994890714-spodnie-jeansy-levis-512-w31-l32-klasyczne-czarne-swag-y2k-vintage",
-    "image_url": "https://images1.vinted.net/t/02_01aaa_bpHYNU35yjxsYPvzCKghdHLt/f800/1789338608.jpeg?s=63d79ccca68dd8bde6e9b2948694da63cfb4e0a0",
-    "found_at": "2026-09-13T22:40:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tenson, Skidjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tenson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jnCWUrMkFV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/UGLXKCbYZ7-e2dc-0.jpg",
-    "found_at": "2026-09-13T21:38:47Z"
   }
 ]
