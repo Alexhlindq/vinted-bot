@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Soulland, Huvtröja, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Soulland",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-11/jmfYsWfAYY-2d34-0.jpg",
+    "found_at": "2026-09-14T21:54:12Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Henri Lloyd, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Henri Lloyd",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FmAXxu2mD8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/FmAXxu2mD8-7c7a-0.jpg",
+    "found_at": "2026-09-14T21:54:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Paul & Friends, Rugbytröja, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9996301744-sweterek-polo",
     "image_url": "https://images1.vinted.net/t/05_016bf_4HhvX13r7UZ8UuJpcUo5HH8i/f800/1789370486.jpeg?s=df0ea2942b70cbb3613c5a6f7b59926392b29ece",
     "found_at": "2026-09-14T07:32:54Z"
-  },
-  {
-    "search_name": "Vinted bot",
-    "title": "Ralph Lauren",
-    "price": "50.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9996152518-ralph-lauren",
-    "image_url": "https://images1.vinted.net/t/04_0206d_9EGPjAhKqjvVmgTYMvWG7LH4/f800/1789368739.jpeg?s=a09c8bec0e46f97a1ac489fa5db66b493895c835",
-    "found_at": "2026-09-14T06:57:46Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Lager 157, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Lager 157",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZuLzCsvsTQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/ZuLzCsvsTQ-8610-0.jpg",
-    "found_at": "2026-09-14T06:58:29Z"
   }
 ]
