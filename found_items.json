@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Originals by Jack & Jones, Kofta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Originals by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/h0qGw7TJMg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/h0qGw7TJMg-3f6a-0.jpg",
+    "found_at": "2026-09-14T22:43:37Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "ASOS Design, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/NihrsYHsz4-0a5f-0.jpg",
+    "found_at": "2026-09-14T22:43:44Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Fila, Allvädersjacka, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9996806042-acne-long-sleeve",
     "image_url": "https://images1.vinted.net/t/06_00623_gF5er7fK3WWEfhH3aHFSpK1n/f800/1789374675.jpeg?s=93f52cc4ce4e76754b2273889e13da7fcd974915",
     "found_at": "2026-09-14T08:47:45Z"
-  },
-  {
-    "search_name": "Vinted bot 10",
-    "title": "Spodnie Jeansy Levi’s 512 W31 L32 klasyczne czarne swag y2k vintage",
-    "price": "52.65",
-    "currency": "SEK",
-    "brand": "Levi's",
-    "size": "48 | W31",
-    "url": "https://www.vinted.se/items/9996791383-spodnie-jeansy-levis-512-w31-l32-klasyczne-czarne-swag-y2k-vintage",
-    "image_url": "https://images1.vinted.net/t/02_01aaa_bpHYNU35yjxsYPvzCKghdHLt/f800/1789374573.jpeg?s=e4cf67aa1b99903c41df5389b36d9fc7efbcbbc4",
-    "found_at": "2026-09-14T08:30:03Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Zara Man, Kofta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Zara Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RG9mI0BANq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/RG9mI0BANq-742f-0.jpg",
-    "found_at": "2026-09-14T07:55:01Z"
   }
 ]
