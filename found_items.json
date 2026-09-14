@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Vinted bot 15",
+    "title": "Lanvin skor",
+    "price": "200.0",
+    "currency": "SEK",
+    "brand": "Lanvin",
+    "size": "42",
+    "url": "https://www.vinted.se/items/9932939046-lanvin-skor",
+    "image_url": "https://images1.vinted.net/t/06_000ac_vzV8JSHDPpGfBpi84Rs4M25p/f800/1789365751.jpeg?s=241f13de6026f286cd30802ef24b369be568ccda",
+    "found_at": "2026-09-14T06:13:42Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi's Premium, Jeans, Strl: M/L",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/NNwUJtc3Jw",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vmRU4jznRb-75f2-0.jpg",
     "found_at": "2026-09-13T21:25:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tommy Hilfiger, Bomberjacka, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DoZBSA5JtW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/oc8WanFTBc-bad4-0.jpg",
-    "found_at": "2026-09-13T21:25:14Z"
   }
 ]
