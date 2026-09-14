@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Crewneck czarny diesel",
+    "price": "52.68",
+    "currency": "SEK",
+    "brand": "Diesel",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9998973365-crewneck-czarny-diesel",
+    "image_url": "https://images1.vinted.net/t/01_01b45_n8VXcjz2vTCy2v7U6Bpttyk8/f800/1789387005.jpeg?s=ac6efd5666cf8955f709e0898a2348027a9caaac",
+    "found_at": "2026-09-14T11:57:33Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Hollister huppari",
+    "price": "45.58",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9998863714-hollister-huppari",
+    "image_url": "https://images1.vinted.net/t/05_018f6_TRXWZj9cTyRh7Yjqs2bqVC7T/f800/1789386429.jpeg?s=bb668f17baee2f0e5dee363f302bfbb382fe2ef2",
+    "found_at": "2026-09-14T11:57:35Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Helly Hansen, Fleecejacka, Strl: M",
     "price": 65,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/XHC5YALl1z",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/rJrZqg9GHW-c7dd-0.jpg",
     "found_at": "2026-09-14T03:29:55Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TEdlVSwbUy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/kRZ6GiHdp5-5575-0.jpg",
-    "found_at": "2026-09-14T03:29:56Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: XS",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RB2xAOaqH9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/TEdlVSwbUy-5306-0.jpg",
-    "found_at": "2026-09-14T03:29:57Z"
   }
 ]
