@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 5",
+    "title": "Ralph Lauren jacket",
+    "price": "350.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9997156820-ralph-lauren-jacket",
+    "image_url": "https://images1.vinted.net/t/06_00d5a_gwFcXUSYghX8UB6FY8Mt9kjD/f800/1789376900.jpeg?s=3758ad12b0824048f7d8d101dea306261c1319ce",
+    "found_at": "2026-09-14T09:11:21Z"
+  },
+  {
+    "search_name": "Vinted bot 5",
+    "title": "Kurtka polo ralph lauren swag drip coquette Classic elegant opium drill vintage",
+    "price": "360.86",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9970311334-kurtka-polo-ralph-lauren-swag-drip-coquette-classic-elegant-opium-drill-vintage",
+    "image_url": "https://images1.vinted.net/t/01_004bd_pZ3JfNeqKim7FKc4tZfb66gA/f800/1789376898.jpeg?s=3ebfdacd2e6e98fa57b55e9272e7dabd2cc357ef",
+    "found_at": "2026-09-14T09:11:23Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "H&M, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RMV0J1vKFL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/RMV0J1vKFL-7036-0.jpg",
+    "found_at": "2026-09-14T09:12:00Z"
+  },
+  {
     "search_name": "Vinted bot 19",
     "title": "Acne long sleeve",
     "price": "249.0",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/csAruBk0O1",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/wbsXKWECuX-50ff-0.jpg",
     "found_at": "2026-09-14T03:30:14Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Långärmad t-shirt, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G6xby00MRr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/5YeyjTtHNw-3021-0.jpg",
-    "found_at": "2026-09-14T03:30:15Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oHYEFMGM0z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/csAruBk0O1-c723-0.jpg",
-    "found_at": "2026-09-14T03:30:16Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Samsøe & Samsøe, Tröja, Strl: XS",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Tkl9AQvM2W",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/G6xby00MRr-88d5-0.jpg",
-    "found_at": "2026-09-14T03:30:18Z"
   }
 ]
