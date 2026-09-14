@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Sweater",
+    "price": "50.0",
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9997725974-sweater",
+    "image_url": "https://images1.vinted.net/t/01_022c1_5ijPNFjHzZeu1o6XmhbDvYRq/f800/1789380148.jpeg?s=6043f9ded14a538a02454f0096bceca7eb1d8757",
+    "found_at": "2026-09-14T10:09:53Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Selected Homme, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hJRin4PCAU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-l-2/DAi3AUivVQ-50cb-0.jpg",
+    "found_at": "2026-09-14T10:10:30Z"
+  },
+  {
     "search_name": "Vinted bot 16",
     "title": "Bluza sportowa stone island",
     "price": "184.38",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ePCbKySl0R",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-1/DB1WPqzohf-02d5-0.jpg",
     "found_at": "2026-09-14T03:30:10Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Samsøe & Samsøe, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wbsXKWECuX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/wZ8uI6BMsG-a564-0.jpg",
-    "found_at": "2026-09-14T03:30:11Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "UGG, Huvtröja, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "UGG",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5YeyjTtHNw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/ePCbKySl0R-1633-0.jpg",
-    "found_at": "2026-09-14T03:30:12Z"
   }
 ]
