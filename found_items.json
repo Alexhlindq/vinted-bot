@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "L.L. Bean, Fleecejacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "L.L. Bean",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YjxC5RmcTF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/e9ieuhDD9n-0060-0.jpg",
+    "found_at": "2026-09-14T06:38:47Z"
+  },
+  {
     "search_name": "Vinted bot 15",
     "title": "Lanvin skor",
     "price": "200.0",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/jnCWUrMkFV",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/UGLXKCbYZ7-e2dc-0.jpg",
     "found_at": "2026-09-13T21:38:47Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Costume National, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Costume National",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NNwUJtc3Jw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vmRU4jznRb-75f2-0.jpg",
-    "found_at": "2026-09-13T21:25:11Z"
   }
 ]
