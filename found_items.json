@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lyle & Scott Vintage, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Lyle & Scott Vintage",
+    "size": "",
+    "url": "https://www.sellpy.se/item/dYimf54U06",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/dYimf54U06-a060-0.jpg",
+    "found_at": "2026-09-14T20:53:49Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Studio Total, Överskjorta, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/UBbxTrYZaF",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/mklYIR5Uex-1b10-0.jpg",
     "found_at": "2026-09-14T03:29:20Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Polo Ralph Lauren, Collegetröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VS6rpfvfqA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/FsSUnvJ5Rw-4205-0.jpg",
-    "found_at": "2026-09-14T03:29:21Z"
   }
 ]
