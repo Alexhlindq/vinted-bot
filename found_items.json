@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dobber, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wOoyYEdqlk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
+    "found_at": "2026-09-14T23:51:54Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Starter, Collegetröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Starter",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wOoyYEdqlk-d491-0.jpg",
+    "found_at": "2026-09-14T23:51:55Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Urban Classics, Anorak, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9938985806-bluza-sportowa-stone-island",
     "image_url": "https://images1.vinted.net/t/06_00735_ztMktD1S6aRkHy6M53a5rgu5/f800/1788943435.jpeg?s=6194148d1563f8401d614a546994280907563372",
     "found_at": "2026-09-14T09:29:53Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Ralph Lauren jacket",
-    "price": "350.0",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9997156820-ralph-lauren-jacket",
-    "image_url": "https://images1.vinted.net/t/06_00d5a_gwFcXUSYghX8UB6FY8Mt9kjD/f800/1789376900.jpeg?s=3758ad12b0824048f7d8d101dea306261c1319ce",
-    "found_at": "2026-09-14T09:11:21Z"
-  },
-  {
-    "search_name": "Vinted bot 5",
-    "title": "Kurtka polo ralph lauren swag drip coquette Classic elegant opium drill vintage",
-    "price": "360.86",
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9970311334-kurtka-polo-ralph-lauren-swag-drip-coquette-classic-elegant-opium-drill-vintage",
-    "image_url": "https://images1.vinted.net/t/01_004bd_pZ3JfNeqKim7FKc4tZfb66gA/f800/1789376898.jpeg?s=3ebfdacd2e6e98fa57b55e9272e7dabd2cc357ef",
-    "found_at": "2026-09-14T09:11:23Z"
   }
 ]
