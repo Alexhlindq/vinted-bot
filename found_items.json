@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Vinted bot",
+    "title": "Svart Polo från Ralph Lauren",
+    "price": "100.0",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9996326756-svart-polo-fran-ralph-lauren",
+    "image_url": "https://images1.vinted.net/t/05_013fb_oGaCU8XowwfKJ1X9wVp46zqF/f800/1789370744.jpeg?s=fd3a40d014b1432acbaa0b5733d1c57c45fef8ba",
+    "found_at": "2026-09-14T07:32:53Z"
+  },
+  {
+    "search_name": "Vinted bot",
+    "title": "Sweterek Polo",
+    "price": "65.85",
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "S",
+    "url": "https://www.vinted.se/items/9996301744-sweterek-polo",
+    "image_url": "https://images1.vinted.net/t/05_016bf_4HhvX13r7UZ8UuJpcUo5HH8i/f800/1789370486.jpeg?s=df0ea2942b70cbb3613c5a6f7b59926392b29ece",
+    "found_at": "2026-09-14T07:32:54Z"
+  },
+  {
+    "search_name": "Vinted bot",
     "title": "Ralph Lauren",
     "price": "50.0",
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/JhAvXSP0mx",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/CV7V6C9ZqS-b591-0.jpg",
     "found_at": "2026-09-14T03:30:22Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/Sd54nZ9ewQ-a68b-0.jpg",
-    "found_at": "2026-09-14T03:30:23Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Engelbert Strauss, Jacka, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Engelbert Strauss",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xJOcJ0jDhQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/Vo0Ab16FcQ-d7e7-0.jpg",
-    "found_at": "2026-09-13T23:09:23Z"
   }
 ]
