@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Vinted bot 12",
+    "title": "Buty Hollister, rozmiar M",
+    "price": "36.88",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9998415490-buty-hollister-rozmiar-m",
+    "image_url": "https://images1.vinted.net/t/05_010e2_S8yCLQ3V8gPJf1j8V4YwKgyR/f800/1789383991.jpeg?s=69cd981ef3cc103e57cad1dfa9e82ab687eaebac",
+    "found_at": "2026-09-14T11:10:16Z"
+  },
+  {
+    "search_name": "Vinted bot 13",
+    "title": "Bluza Hollister",
+    "price": "47.41",
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "M",
+    "url": "https://www.vinted.se/items/9998444723-bluza-hollister",
+    "image_url": "https://images1.vinted.net/t/02_013ef_YCgiuYA9yC6TvDXs9bBFG2qp/f800/1789384152.jpeg?s=b676438b9e3cbea36a007c7034f1e13bfdb995f3",
+    "found_at": "2026-09-14T11:10:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Tomster USA, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Tomster USA",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/f1fkoHwZxC-012f-0.jpg",
+    "found_at": "2026-09-14T11:10:48Z"
+  },
+  {
     "search_name": "Vinted bot 8",
     "title": "Męski sweter",
     "price": "65.85",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/zTFsMLXqdA",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/6WhucSc5eh-767d-0.jpg",
     "found_at": "2026-09-14T03:30:02Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Samsøe & Samsøe, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/SGvMO1v444",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/PRA1lyau2G-f5fe-0.jpg",
-    "found_at": "2026-09-14T03:30:02Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2WREnr07XQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-10/zTFsMLXqdA-4b5d-0.jpg",
-    "found_at": "2026-09-14T03:30:03Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1H28ROcC1j",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-2/SGvMO1v444-3f2d-0.jpg",
-    "found_at": "2026-09-14T03:30:05Z"
   }
 ]
