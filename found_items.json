@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Paul & Friends, Rugbytröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Paul & Friends",
+    "size": "",
+    "url": "https://www.sellpy.se/item/81VBr3RPsQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/TNnuOHfN3j-3c84-0.jpg",
+    "found_at": "2026-09-14T21:41:34Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "M&S, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "M&S",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FWJFnjw8l2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/FWJFnjw8l2-e64d-0.jpg",
+    "found_at": "2026-09-14T21:41:40Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Archive, Tröja, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ZuLzCsvsTQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/ZuLzCsvsTQ-8610-0.jpg",
     "found_at": "2026-09-14T06:58:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "L.L. Bean, Fleecejacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "L.L. Bean",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YjxC5RmcTF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/e9ieuhDD9n-0060-0.jpg",
-    "found_at": "2026-09-14T06:38:47Z"
-  },
-  {
-    "search_name": "Vinted bot 15",
-    "title": "Lanvin skor",
-    "price": "200.0",
-    "currency": "SEK",
-    "brand": "Lanvin",
-    "size": "42",
-    "url": "https://www.vinted.se/items/9932939046-lanvin-skor",
-    "image_url": "https://images1.vinted.net/t/06_000ac_vzV8JSHDPpGfBpi84Rs4M25p/f800/1789365751.jpeg?s=241f13de6026f286cd30802ef24b369be568ccda",
-    "found_at": "2026-09-14T06:13:42Z"
   }
 ]
