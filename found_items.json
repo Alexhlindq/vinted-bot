@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Adidas, Regnjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Adidas",
+    "size": "",
+    "url": "https://www.sellpy.se/item/k8QJqzti2O",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/cJPy7A4mst-dc90-0.jpg",
+    "found_at": "2026-09-14T20:10:45Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Wellensteyn, Arbetsjacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Wellensteyn",
+    "size": "",
+    "url": "https://www.sellpy.se/item/aOwlCBrQfB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
+    "found_at": "2026-09-14T20:10:47Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Henri Lloyd, Bomberjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Henri Lloyd",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/B562f4bekg-94ab-0.jpg",
+    "found_at": "2026-09-14T20:10:48Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Wester, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Wester",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RurZSjBv40",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/RurZSjBv40-0c40-0.jpg",
+    "found_at": "2026-09-14T20:10:52Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Peak Performance, Jacka, Strl: M",
     "price": 50,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/ktuUoAPGBn",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/VS6rpfvfqA-e2a9-0.jpg",
     "found_at": "2026-09-14T03:29:24Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Carhartt WIP, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Carhartt WIP",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LxWnXkoDIW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/vTfSHVTA6s-1f1a-0.jpg",
-    "found_at": "2026-09-14T03:29:25Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GTxRSHx5pG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-l-1/ktuUoAPGBn-f76c-0.jpg",
-    "found_at": "2026-09-14T03:29:26Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Huvtröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jC4c8U64FR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-21-l-1/LxWnXkoDIW-d323-0.jpg",
-    "found_at": "2026-09-14T03:29:28Z"
-  },
-  {
-    "search_name": "Sellpy - Premium Selection (kurerad, lyx)",
-    "title": "Tommy Hilfiger, Långärmad t-shirt, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FUVkYtPC1z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/GTxRSHx5pG-bf3b-0.jpg",
-    "found_at": "2026-09-14T03:29:29Z"
   }
 ]
