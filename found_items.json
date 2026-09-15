@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pakka Stuff, Tröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Pakka Stuff",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MxuZ13xIup",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/D7JRFkurHm-f984-0.jpg",
+    "found_at": "2026-09-15T11:52:09Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Divided by H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
+    "found_at": "2026-09-15T11:52:14Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Ben Sherman, Rock, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/WT8wdrNmRA",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/YjxC5RmcTF-5b3d-0.jpg",
     "found_at": "2026-09-14T11:28:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Ben Sherman, Rock, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ben Sherman",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
-    "found_at": "2026-09-14T11:28:57Z"
-  },
-  {
-    "search_name": "Vinted bot 12",
-    "title": "Buty Hollister, rozmiar M",
-    "price": "36.88",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9998415490-buty-hollister-rozmiar-m",
-    "image_url": "https://images1.vinted.net/t/05_010e2_S8yCLQ3V8gPJf1j8V4YwKgyR/f800/1789383991.jpeg?s=69cd981ef3cc103e57cad1dfa9e82ab687eaebac",
-    "found_at": "2026-09-14T11:10:16Z"
   }
 ]
