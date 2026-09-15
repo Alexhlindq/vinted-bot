@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Rude Riders, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Rude Riders",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uK1WhfviGV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/JG6XRtI0Ei-4b22-0.jpg",
+    "found_at": "2026-09-15T14:56:34Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Strellson, Kofta, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Strellson",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NnwyfxvSSr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/RoEiahcClG-0d42-0.jpg",
+    "found_at": "2026-09-15T14:56:41Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Urban Outfitters, Kofta, Strl: S",
     "price": 60,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/3b9TYf3OPm",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/3b9TYf3OPm-e571-0.jpg",
     "found_at": "2026-09-14T14:49:44Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Oscar Jacobson, Pullover, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Oscar Jacobson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bQaD8wybz9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/lgSs38xcFc-458f-0.jpg",
-    "found_at": "2026-09-14T14:30:31Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Ben Sherman, Rock, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ben Sherman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/B562f4bekg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
-    "found_at": "2026-09-14T14:12:11Z"
   }
 ]
