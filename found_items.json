@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Soulland, Huvtröja, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Soulland",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZxytJWc211",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-11/jmfYsWfAYY-2d34-0.jpg",
+    "found_at": "2026-09-15T20:26:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Reclaimed Vintage, Collegetröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Reclaimed Vintage",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/ZxytJWc211-c970-0.jpg",
+    "found_at": "2026-09-15T20:26:24Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Berkeley, Jacka, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/B562f4bekg-94ab-0.jpg",
     "found_at": "2026-09-14T20:10:48Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Wester, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Wester",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RurZSjBv40",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-11/RurZSjBv40-0c40-0.jpg",
-    "found_at": "2026-09-14T20:10:52Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Peak Performance, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WH9eLwefbd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-10/WH9eLwefbd-88a0-0.jpg",
-    "found_at": "2026-09-14T19:28:54Z"
   }
 ]
