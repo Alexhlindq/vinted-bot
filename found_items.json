@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sPbXLk09Aj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-5/xTowWVZhYE-a111-0.jpg",
+    "found_at": "2026-09-15T21:37:47Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Dobber, Jacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/k8QJqzti2O",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/cJPy7A4mst-dc90-0.jpg",
     "found_at": "2026-09-14T20:10:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Wellensteyn, Arbetsjacka, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Wellensteyn",
-    "size": "",
-    "url": "https://www.sellpy.se/item/aOwlCBrQfB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
-    "found_at": "2026-09-14T20:10:47Z"
   }
 ]
