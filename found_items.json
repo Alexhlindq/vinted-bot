@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S/M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Mou3jeOs6M",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-l-3/Mou3jeOs6M-4cf1-0.jpg",
+    "found_at": "2026-09-15T15:26:26Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Collegetröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/HYUVmZq9pq",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-l-1/E51khWyrSR-b160-0.jpg",
     "found_at": "2026-09-14T14:49:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "New Balance, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "New Balance",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/t7H0yZFyxu-a4c9-0.jpg",
-    "found_at": "2026-09-14T14:49:23Z"
   }
 ]
