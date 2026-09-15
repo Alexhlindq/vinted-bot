@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Premium, Jeans, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Levi's Premium",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HdiEEGlbM6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-3-k-22/PHqBBfvlaC-31d5-0.jpg",
+    "found_at": "2026-09-15T12:12:31Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Pakka Stuff, Tröja, Strl: M",
     "price": 70,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/G3MiUyeFsA-de54-0.jpg",
     "found_at": "2026-09-14T11:45:01Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Tom Tailor Denim, Vinterjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Tom Tailor Denim",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WT8wdrNmRA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/YjxC5RmcTF-5b3d-0.jpg",
-    "found_at": "2026-09-14T11:28:55Z"
   }
 ]
