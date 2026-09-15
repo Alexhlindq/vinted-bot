@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Uniqlo, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/h4aJ7GPUT1",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
+    "found_at": "2026-09-15T18:28:34Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "ASOS Design, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ub58DH4Zm3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/NihrsYHsz4-0a5f-0.jpg",
+    "found_at": "2026-09-15T18:28:35Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Peak Performance, Jacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LGX7DURKWY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/LGX7DURKWY-3644-0.jpg",
+    "found_at": "2026-09-15T18:28:45Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Playboy x Missguided, Huvtröja, Strl: S",
     "price": 70,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/GK4CpzXmGu-f7f0-0.jpg",
     "found_at": "2026-09-14T18:56:46Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Weekday, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ghrBBd8XxF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/HIxuPgJK7D-59eb-0.jpg",
-    "found_at": "2026-09-14T18:56:57Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Arket, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NihrsYHsz4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/xysVm95dSh-bb5f-0.jpg",
-    "found_at": "2026-09-14T18:57:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Puroego, Tröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Puroego",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jxOyvzkDHO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/ghrBBd8XxF-9899-0.jpg",
-    "found_at": "2026-09-14T18:57:01Z"
   }
 ]
