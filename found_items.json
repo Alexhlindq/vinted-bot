@@ -6,6 +6,17 @@
     "currency": "SEK",
     "brand": "Dobber",
     "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
+    "found_at": "2026-09-15T03:29:08Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dobber, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
     "url": "https://www.sellpy.se/item/wOoyYEdqlk",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
     "found_at": "2026-09-14T23:51:54Z"
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/hJRin4PCAU",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-l-2/DAi3AUivVQ-50cb-0.jpg",
     "found_at": "2026-09-14T10:10:30Z"
-  },
-  {
-    "search_name": "Vinted bot 16",
-    "title": "Bluza sportowa stone island",
-    "price": "184.38",
-    "currency": "SEK",
-    "brand": "Stone Island",
-    "size": "S",
-    "url": "https://www.vinted.se/items/9938985806-bluza-sportowa-stone-island",
-    "image_url": "https://images1.vinted.net/t/06_00735_ztMktD1S6aRkHy6M53a5rgu5/f800/1788943435.jpeg?s=6194148d1563f8401d614a546994280907563372",
-    "found_at": "2026-09-14T09:29:53Z"
   }
 ]
