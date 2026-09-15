@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Selected, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Selected",
+    "size": "",
+    "url": "https://www.sellpy.se/item/aCVFSMsDRM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/aCVFSMsDRM-b581-0.jpg",
+    "found_at": "2026-09-15T14:10:43Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Dobber, Jacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9998863714-hollister-huppari",
     "image_url": "https://images1.vinted.net/t/05_018f6_TRXWZj9cTyRh7Yjqs2bqVC7T/f800/1789386429.jpeg?s=bb668f17baee2f0e5dee363f302bfbb382fe2ef2",
     "found_at": "2026-09-14T11:57:35Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen, Fleecejacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Helly Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/l48Vdk4UTF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/WT8wdrNmRA-b4d8-single.jpg",
-    "found_at": "2026-09-14T11:44:59Z"
   }
 ]
