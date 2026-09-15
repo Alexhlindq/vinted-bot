@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Dressmann, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "https://www.sellpy.se/item/W1uXEfAcfG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/W1uXEfAcfG-dab4-0.jpg",
+    "found_at": "2026-09-15T09:15:05Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Bläck, Slipover, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.vinted.se/items/9998113757-meski-sweter",
     "image_url": "https://images1.vinted.net/t/04_00560_TB1Wz4RE9iuZNhgexpJ2V33u/f800/1789382320.jpeg?s=2a5065faac80215b4d86ee8ce1f87ecfe116fa22",
     "found_at": "2026-09-14T10:43:12Z"
-  },
-  {
-    "search_name": "Vinted bot 8",
-    "title": "Sweter plecionka męski Massimo Dutti bawełna",
-    "price": "52.68",
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9998105146-sweter-plecionka-meski-massimo-dutti-bawelna",
-    "image_url": "https://images1.vinted.net/t/02_00d47_LxPFLLCfWm4JqvHYAyXH8tZe/f800/1789382273.jpeg?s=b973fc0d826aed8030237d6cbbd99817d59c43ed",
-    "found_at": "2026-09-14T10:43:14Z"
   }
 ]
