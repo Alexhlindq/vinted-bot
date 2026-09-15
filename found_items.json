@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Ben Sherman, Rock, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Ben Sherman",
+    "size": "",
+    "url": "https://www.sellpy.se/item/8yFL7gSaFy",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
+    "found_at": "2026-09-15T11:27:46Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Wellensteyn, Arbetsjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Wellensteyn",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
+    "found_at": "2026-09-15T11:27:47Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Bershka, Collegejacka, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.vinted.se/items/9998415490-buty-hollister-rozmiar-m",
     "image_url": "https://images1.vinted.net/t/05_010e2_S8yCLQ3V8gPJf1j8V4YwKgyR/f800/1789383991.jpeg?s=69cd981ef3cc103e57cad1dfa9e82ab687eaebac",
     "found_at": "2026-09-14T11:10:16Z"
-  },
-  {
-    "search_name": "Vinted bot 13",
-    "title": "Bluza Hollister",
-    "price": "47.41",
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "M",
-    "url": "https://www.vinted.se/items/9998444723-bluza-hollister",
-    "image_url": "https://images1.vinted.net/t/02_013ef_YCgiuYA9yC6TvDXs9bBFG2qp/f800/1789384152.jpeg?s=b676438b9e3cbea36a007c7034f1e13bfdb995f3",
-    "found_at": "2026-09-14T11:10:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Tomster USA, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tomster USA",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/f1fkoHwZxC-012f-0.jpg",
-    "found_at": "2026-09-14T11:10:48Z"
   }
 ]
