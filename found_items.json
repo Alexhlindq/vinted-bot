@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Disneyland Paris, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Disneyland Paris",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jfXaJeiFKv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/nX80YDClic-0ff7-0.jpg",
+    "found_at": "2026-09-16T14:11:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
     "found_at": "2026-09-15T03:29:08Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dobber, Tröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wOoyYEdqlk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
-    "found_at": "2026-09-14T23:51:54Z"
   }
 ]
