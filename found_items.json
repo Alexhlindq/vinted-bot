@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Lyle & Scott, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Lyle & Scott",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Os78N0ijOC-7951-0.jpg",
+    "found_at": "2026-09-16T14:28:34Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Disneyland Paris, Huvtröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/RIF9elnJcB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/ZwspJ0AgSo-8848-0.jpg",
     "found_at": "2026-09-15T07:42:28Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dobber, Tröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/UQ245Uqd5Y-cba9-0.jpg",
-    "found_at": "2026-09-15T03:29:08Z"
   }
 ]
