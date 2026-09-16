@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Michael Kors, Pullover, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Michael Kors",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2tv7F64H6p",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/BJTqpjKMuE-f37b-0.jpg",
+    "found_at": "2026-09-16T16:54:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Superdry, Huvtröja, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/MxuZ13xIup",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/D7JRFkurHm-f984-0.jpg",
     "found_at": "2026-09-15T11:52:09Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
-    "found_at": "2026-09-15T11:52:14Z"
   }
 ]
