@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Pier One, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Pier One",
+    "size": "",
+    "url": "https://www.sellpy.se/item/U6uKPPDXdn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/U6uKPPDXdn-d78a-0.jpg",
+    "found_at": "2026-09-16T08:31:32Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Element, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Element",
+    "size": "",
+    "url": "https://www.sellpy.se/item/M3LnY7Afpu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/M3LnY7Afpu-19bb-0.jpg",
+    "found_at": "2026-09-16T08:31:45Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Morris, Tröja, Strl: S",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/WwHAeBlgAH-9a6d-0.jpg",
     "found_at": "2026-09-14T22:10:15Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Soulland, Huvtröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Soulland",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-11/jmfYsWfAYY-2d34-0.jpg",
-    "found_at": "2026-09-14T21:54:12Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Henri Lloyd, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Henri Lloyd",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FmAXxu2mD8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/FmAXxu2mD8-7c7a-0.jpg",
-    "found_at": "2026-09-14T21:54:19Z"
   }
 ]
