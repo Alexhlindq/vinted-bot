@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dressmann, Pullover, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/FjMiDGNxaE-15c9-0.jpg",
+    "found_at": "2026-09-16T23:09:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Bondelid, Tröja, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/1OsLf302dh",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/1OsLf302dh-105a-0.jpg",
     "found_at": "2026-09-15T16:10:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Image Wear, Ytterväst, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Image Wear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Os78N0ijOC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/wHgmjWJcBF-38b7-0.jpg",
-    "found_at": "2026-09-15T15:55:00Z"
   }
 ]
