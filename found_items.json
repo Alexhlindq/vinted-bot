@@ -6,6 +6,28 @@
     "currency": "SEK",
     "brand": "Superdry",
     "size": "",
+    "url": "https://www.sellpy.se/item/NPQW85MZau",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/Ma7U3SER94-c9bb-0.jpg",
+    "found_at": "2026-09-16T16:28:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Stanley/Stella, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Stanley/Stella",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/NPQW85MZau-3e29-0.jpg",
+    "found_at": "2026-09-16T16:28:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Superdry, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/Ma7U3SER94-c9bb-0.jpg",
     "found_at": "2026-09-16T16:11:14Z"
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
     "found_at": "2026-09-15T11:52:14Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Ben Sherman, Rock, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ben Sherman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8yFL7gSaFy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
-    "found_at": "2026-09-15T11:27:46Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Wellensteyn, Arbetsjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Wellensteyn",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
-    "found_at": "2026-09-15T11:27:47Z"
   }
 ]
