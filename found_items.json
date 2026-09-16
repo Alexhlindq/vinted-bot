@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Superdry, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/Ma7U3SER94-c9bb-0.jpg",
+    "found_at": "2026-09-16T16:11:14Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "H&M, Kofta, Strl: S",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/jADvojonJA-dd89-0.jpg",
     "found_at": "2026-09-15T11:27:47Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Collegejacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dASXG2DN7R",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/O0x17CHP3D-ea20-0.jpg",
-    "found_at": "2026-09-15T10:12:04Z"
   }
 ]
