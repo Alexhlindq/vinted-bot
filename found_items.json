@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: S/M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qXOeJhcbxj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/qXOeJhcbxj-cc5a-0.jpg",
+    "found_at": "2026-09-16T09:42:25Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dedicated, Collegetröja, Strl: S",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/NihrsYHsz4-0a5f-0.jpg",
     "found_at": "2026-09-14T22:43:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Fila, Allvädersjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Fila",
-    "size": "",
-    "url": "https://www.sellpy.se/item/feRm2flpwB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/ERjg9sXJLS-a40f-0.jpg",
-    "found_at": "2026-09-14T22:27:56Z"
   }
 ]
