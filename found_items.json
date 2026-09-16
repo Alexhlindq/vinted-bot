@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Dunjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CeTntKUHzh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-8/6nIqjoVuDE-ca50-0.jpg",
+    "found_at": "2026-09-16T20:27:40Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Överskjorta, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/OyUd7tqhew",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/yvMDGb1xD5-a7de-0.jpg",
     "found_at": "2026-09-15T15:11:00Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Rude Riders, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Rude Riders",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uK1WhfviGV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/JG6XRtI0Ei-4b22-0.jpg",
-    "found_at": "2026-09-15T14:56:34Z"
   }
 ]
