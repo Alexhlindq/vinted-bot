@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Slipover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CMHhom2l5g",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
+    "found_at": "2026-09-16T01:26:06Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein Jeans, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Calvin Klein Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uZhWLKB8HL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/uZhWLKB8HL-8389-0.jpg",
+    "found_at": "2026-09-16T01:26:13Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein Jeans, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Calvin Klein Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sgpHEn8uh3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/sgpHEn8uh3-2103-0.jpg",
+    "found_at": "2026-09-16T01:26:14Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Converse, Ytterväst, Strl: M",
     "price": 70,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/1TP35DgyFL",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/1TP35DgyFL-504c-0.jpg",
     "found_at": "2026-09-14T21:10:18Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pier One, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Pier One",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QX5ZrS4peR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/QX5ZrS4peR-58ff-0.jpg",
-    "found_at": "2026-09-14T21:10:19Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Lyle & Scott Vintage, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Lyle & Scott Vintage",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dYimf54U06",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/dYimf54U06-a060-0.jpg",
-    "found_at": "2026-09-14T20:53:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Studio Total, Överskjorta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Studio Total",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6mV1FSb3EG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/37DE5rxg0s-9bb0-0.jpg",
-    "found_at": "2026-09-14T20:41:48Z"
   }
 ]
