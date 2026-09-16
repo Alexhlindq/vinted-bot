@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FaT21iRH4I",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-j-1/FaT21iRH4I-7eeb-0.jpg",
+    "found_at": "2026-09-16T11:10:13Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Resteröds, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Resteröds",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Y7Ru77BtGq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/Y7Ru77BtGq-7152-0.jpg",
+    "found_at": "2026-09-16T11:10:43Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Oscar Jacobson, Pullover, Strl: M",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/Ec7xcGDayM",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/GQwHuzXSui-7b77-0.jpg",
     "found_at": "2026-09-14T23:37:42Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Rockandblue, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Rockandblue",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4QVGA9CPZs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/4QVGA9CPZs-ff4f-0.jpg",
-    "found_at": "2026-09-14T22:55:16Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Originals by Jack & Jones, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Originals by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/h0qGw7TJMg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/h0qGw7TJMg-3f6a-0.jpg",
-    "found_at": "2026-09-14T22:43:37Z"
   }
 ]
