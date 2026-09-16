@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Reals, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Reals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jxYfNWpuOo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/jxYfNWpuOo-b04e-0.jpg",
+    "found_at": "2026-09-16T02:54:12Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/olANLOrgsB-065f-0.jpg",
     "found_at": "2026-09-14T21:10:14Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "My Style Firenze, Kofta, Strl: S/M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "My Style Firenze",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1TP35DgyFL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/1TP35DgyFL-504c-0.jpg",
-    "found_at": "2026-09-14T21:10:18Z"
   }
 ]
