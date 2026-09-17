@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "New Balance, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "New Balance",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JDwTsrbNQT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/t7H0yZFyxu-a4c9-0.jpg",
+    "found_at": "2026-09-17T10:54:42Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Cedar Wood State, Jultröja, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/Tk0H7mVQPi",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/epNeF9gSR3-0f69-0.jpg",
     "found_at": "2026-09-15T19:12:12Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "Uniqlo, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Uniqlo",
-    "size": "",
-    "url": "https://www.sellpy.se/item/h4aJ7GPUT1",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
-    "found_at": "2026-09-15T18:28:34Z"
   }
 ]
