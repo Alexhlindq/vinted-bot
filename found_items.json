@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Image Wear, Ytterväst, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Image Wear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/6d9hBwwYta",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/wHgmjWJcBF-38b7-0.jpg",
+    "found_at": "2026-09-17T07:14:33Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Regnjacka, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/f9o3vIIRIL-1ce0-0.jpg",
     "found_at": "2026-09-15T17:52:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Garcia Jeans, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Garcia Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/w3S2tORJz6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/MxuZ13xIup-7c40-0.jpg",
-    "found_at": "2026-09-15T17:39:01Z"
   }
 ]
