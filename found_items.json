@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Cedar Wood State, Jultröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Cedar Wood State",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/y9Jnmo1cVF-add6-0.jpg",
+    "found_at": "2026-09-17T09:55:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Superdry, Huvtröja, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/h4aJ7GPUT1",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/NnmXVMo4Ao-83ad-0.jpg",
     "found_at": "2026-09-15T18:28:34Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "ASOS Design, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Ub58DH4Zm3",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/NihrsYHsz4-0a5f-0.jpg",
-    "found_at": "2026-09-15T18:28:35Z"
   }
 ]
