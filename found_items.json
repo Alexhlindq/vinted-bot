@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5N0GJngXop",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/5N0GJngXop-437c-0.jpg",
+    "found_at": "2026-09-17T14:45:14Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Adidas Originals, Collegetröja, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/sgpHEn8uh3",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/sgpHEn8uh3-2103-0.jpg",
     "found_at": "2026-09-16T01:26:14Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Converse, Ytterväst, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Converse",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7h7R3qzH1e",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
-    "found_at": "2026-09-15T22:26:05Z"
   }
 ]
