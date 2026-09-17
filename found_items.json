@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "East West, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "East West",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/JDwTsrbNQT-3f99-0.jpg",
+    "found_at": "2026-09-17T15:43:45Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Alpha Industries, Huvtröja, Strl: S",
     "price": 55,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/CMHhom2l5g",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
     "found_at": "2026-09-16T01:26:06Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Calvin Klein Jeans, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Calvin Klein Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uZhWLKB8HL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/uZhWLKB8HL-8389-0.jpg",
-    "found_at": "2026-09-16T01:26:13Z"
   }
 ]
