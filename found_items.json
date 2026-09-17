@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Stanley/Stella, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Stanley/Stella",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WjbR5B3qU6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/NPQW85MZau-3e29-0.jpg",
+    "found_at": "2026-09-17T08:55:49Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Jultröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WjbR5B3qU6-75e9-0.jpg",
+    "found_at": "2026-09-17T08:55:50Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Image Wear, Ytterväst, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/LGX7DURKWY",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/LGX7DURKWY-3644-0.jpg",
     "found_at": "2026-09-15T18:28:45Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Playboy x Missguided, Huvtröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Playboy x Missguided",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DftN4xaTY8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-9/Q1wva03arz-3580-0.jpg",
-    "found_at": "2026-09-15T17:52:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Tröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/f9o3vIIRIL-1ce0-0.jpg",
-    "found_at": "2026-09-15T17:52:11Z"
   }
 ]
