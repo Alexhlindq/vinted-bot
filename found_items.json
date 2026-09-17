@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Kofta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VYIJ8u0gAy",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/VYIJ8u0gAy-b7ea-0.jpg",
+    "found_at": "2026-09-17T23:22:20Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "MCS, Collegetröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/HWLaW8vp58",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/lgSs38xcFc-458f-0.jpg",
     "found_at": "2026-09-16T10:55:13Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Chinos, Strl: S/M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qXOeJhcbxj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/qXOeJhcbxj-cc5a-0.jpg",
-    "found_at": "2026-09-16T09:42:25Z"
   }
 ]
