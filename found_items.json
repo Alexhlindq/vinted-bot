@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Karl Kani, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Karl Kani",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1KnvfQHoSa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
+    "found_at": "2026-09-17T22:36:58Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "East West, Kofta, Strl: S",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/0lc7jP3DNW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/NNwUJtc3Jw-1579-0.jpg",
     "found_at": "2026-09-16T08:54:26Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pier One, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Pier One",
-    "size": "",
-    "url": "https://www.sellpy.se/item/U6uKPPDXdn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/U6uKPPDXdn-d78a-0.jpg",
-    "found_at": "2026-09-16T08:31:32Z"
   }
 ]
