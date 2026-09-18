@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bondelid, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jptF1i0dTY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
+    "found_at": "2026-09-18T20:52:02Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Atlant, Pullover, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Atlant",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/jptF1i0dTY-ea84-0.jpg",
+    "found_at": "2026-09-18T20:52:03Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Pull & Bear, Huvtröja, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/q9SlV8pcFp",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/q9SlV8pcFp-f833-0.jpg",
     "found_at": "2026-09-17T13:45:09Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ybelle, Kofta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Ybelle",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GhcJFHuhm8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/JVd0ntFr5A-b113-0.jpg",
-    "found_at": "2026-09-17T12:12:57Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "FSBN, Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "FSBN",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oITl4DLrcj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/oITl4DLrcj-f5a7-0.jpg",
-    "found_at": "2026-09-17T12:13:17Z"
   }
 ]
