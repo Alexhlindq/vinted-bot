@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "BDG by Urban Outfitters, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "BDG by Urban Outfitters",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
+    "found_at": "2026-09-18T13:53:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones Jeans Intelligence, Jeansjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Jack & Jones Jeans Intelligence",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QaR6WxgbEN",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/qHoFwHLB9t-c8c3-0.jpg",
+    "found_at": "2026-09-18T13:53:15Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack Wolfskin, Fleecejacka, Strl: S/M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Jack Wolfskin",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/JcGabEyiu5-f9c6-0.jpg",
+    "found_at": "2026-09-18T13:53:16Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Filippa K, Tröja, Strl: S",
     "price": 70,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/ifqz4U6YAh",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/ifqz4U6YAh-f748-0.jpg",
     "found_at": "2026-09-16T19:51:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Car de la Car, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Car de la Car",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bA6MJ700Pj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/jhOk7JA0P0-45ac-0.jpg",
-    "found_at": "2026-09-16T19:25:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Solid, Jultröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Solid",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/UCIeX66AyG-9a52-0.jpg",
-    "found_at": "2026-09-16T18:11:56Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Michael Kors, Pullover, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Michael Kors",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2tv7F64H6p",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/BJTqpjKMuE-f37b-0.jpg",
-    "found_at": "2026-09-16T16:54:56Z"
   }
 ]
