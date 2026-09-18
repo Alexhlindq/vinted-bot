@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Alpha Industries, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Alpha Industries",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tiXRsHvwDo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/w3S2tORJz6-35f4-0.jpg",
+    "found_at": "2026-09-18T14:41:14Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Colorful Standard, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Colorful Standard",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/1KnvfQHoSa-b33e-0.jpg",
+    "found_at": "2026-09-18T14:41:15Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Pier One, Kofta, Strl: M",
     "price": 65,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/8unIvQfA84",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/8unIvQfA84-df40-0.jpg",
     "found_at": "2026-09-16T19:51:14Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LVaDAiX1cn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/LVaDAiX1cn-a504-0.jpg",
-    "found_at": "2026-09-16T19:51:17Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "WeSC, Kofta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bt9CK7dOFk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/bt9CK7dOFk-6d05-0.jpg",
-    "found_at": "2026-09-16T19:51:19Z"
   }
 ]
