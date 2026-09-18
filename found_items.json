@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Under Armour, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Under Armour",
+    "size": "",
+    "url": "https://www.sellpy.se/item/aVBmZq2MDg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-3/wHr5hSDKmC-070d-0.jpg",
+    "found_at": "2026-09-18T12:32:12Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Tommy Hilfiger Golf, Pullover, Strl: S",
     "price": 29,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/NPQW85MZau",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/Ma7U3SER94-c9bb-0.jpg",
     "found_at": "2026-09-16T16:28:09Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Stanley/Stella, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Stanley/Stella",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-j-1/NPQW85MZau-3e29-0.jpg",
-    "found_at": "2026-09-16T16:28:10Z"
   }
 ]
