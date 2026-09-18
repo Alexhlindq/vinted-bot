@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Warchive, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Warchive",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/XAVRhF3quD-4c01-0.jpg",
+    "found_at": "2026-09-18T20:10:01Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bershka, Överskjorta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/lgcTMR8Om8-2702-0.jpg",
+    "found_at": "2026-09-18T20:10:05Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Topman Premium, Kofta, Strl: S",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/FAb8bn1GOS",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/FAb8bn1GOS-c779-0.jpg",
     "found_at": "2026-09-17T11:10:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "New Balance, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "New Balance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JDwTsrbNQT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-9/t7H0yZFyxu-a4c9-0.jpg",
-    "found_at": "2026-09-17T10:54:42Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cedar Wood State, Jultröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Cedar Wood State",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/y9Jnmo1cVF-add6-0.jpg",
-    "found_at": "2026-09-17T09:55:27Z"
   }
 ]
