@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "L.L. Bean, Fleecejacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "L.L. Bean",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AMcdRxAUG3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/e9ieuhDD9n-0060-0.jpg",
+    "found_at": "2026-09-18T10:10:48Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Dunjacka, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/SlZBDIONrh",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/SlZBDIONrh-a41e-0.jpg",
     "found_at": "2026-09-16T15:42:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Lyle & Scott, Jacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qHoFwHLB9t",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Os78N0ijOC-7951-0.jpg",
-    "found_at": "2026-09-16T14:57:00Z"
   }
 ]
