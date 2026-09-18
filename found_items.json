@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Warchive, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Warchive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/meNSVh09rR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/XAVRhF3quD-4c01-0.jpg",
+    "found_at": "2026-09-18T06:55:51Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Camp David, Kofta, Strl: S",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/AJlnSLPzBJ-35e5-0.jpg",
     "found_at": "2026-09-16T14:44:25Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Lyle & Scott, Jacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Os78N0ijOC-7951-0.jpg",
-    "found_at": "2026-09-16T14:28:34Z"
   }
 ]
