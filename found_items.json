@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Camp David, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Camp David",
+    "size": "",
+    "url": "https://www.sellpy.se/item/0YMHKh6lBk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/0YMHKh6lBk-152f-0.jpg",
+    "found_at": "2026-09-18T06:33:37Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Alpaca´s Wool, Huvtröja, Strl: S",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/Os78N0ijOC-7951-0.jpg",
     "found_at": "2026-09-16T14:28:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Disneyland Paris, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Disneyland Paris",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jfXaJeiFKv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/nX80YDClic-0ff7-0.jpg",
-    "found_at": "2026-09-16T14:11:10Z"
   }
 ]
