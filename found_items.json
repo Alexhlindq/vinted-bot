@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Mexx, Kofta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Mexx",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pWWxPccFXU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/pWWxPccFXU-265a-0.jpg",
+    "found_at": "2026-09-19T12:31:10Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Converse, Ytterväst, Strl: M",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/phyt0nMPte",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/phyt0nMPte-d901-0.jpg",
     "found_at": "2026-09-17T18:12:15Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Marlboro Classics, Dunjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Marlboro Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RZqHbLpa1f",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/bbkoEGaRVx-6171-0.jpg",
-    "found_at": "2026-09-17T17:39:22Z"
   }
 ]
