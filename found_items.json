@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M/L",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G8yRUHFDFi",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-1/fa36CdTJut-4efb-0.jpg",
+    "found_at": "2026-09-19T21:50:15Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Peak Performance, Tröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/meNSVh09rR",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/XAVRhF3quD-4c01-0.jpg",
     "found_at": "2026-09-18T06:55:51Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Camp David, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Camp David",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0YMHKh6lBk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/0YMHKh6lBk-152f-0.jpg",
-    "found_at": "2026-09-18T06:33:37Z"
   }
 ]
