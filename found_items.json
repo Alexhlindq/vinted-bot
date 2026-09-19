@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/HfTFkBi4Kl-63dc-0.jpg",
+    "found_at": "2026-09-19T19:36:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Warchive, Huvtröja, Strl: M",
     "price": 50,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/bRrlOMvx6L",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/bRrlOMvx6L-bb48-0.jpg",
     "found_at": "2026-09-17T23:51:25Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kofta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VYIJ8u0gAy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/VYIJ8u0gAy-b7ea-0.jpg",
-    "found_at": "2026-09-17T23:22:20Z"
   }
 ]
