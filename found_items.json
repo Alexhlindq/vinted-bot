@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "H&M, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ThaOtuJkAq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/ThaOtuJkAq-2430-0.jpg",
+    "found_at": "2026-09-19T18:41:10Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Tommy Hilfiger Golf, Pullover, Strl: S",
     "price": 29,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/1KnvfQHoSa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
     "found_at": "2026-09-17T22:36:58Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "East West, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "East West",
-    "size": "",
-    "url": "https://www.sellpy.se/item/B89bW2N9GP",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/B89bW2N9GP-e12f-0.jpg",
-    "found_at": "2026-09-17T20:40:44Z"
   }
 ]
