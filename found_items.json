@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "ATI Tricot, Kofta, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "ATI Tricot",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/FCNlDqgHfx-0032-0.jpg",
+    "found_at": "2026-09-19T23:23:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Augusta Sportswear, Collegetröja, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/AMcdRxAUG3",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/e9ieuhDD9n-0060-0.jpg",
     "found_at": "2026-09-18T10:10:48Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Dunjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1YMwTYawAo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-8/6nIqjoVuDE-ca50-0.jpg",
-    "found_at": "2026-09-18T08:28:00Z"
   }
 ]
