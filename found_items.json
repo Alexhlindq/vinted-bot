@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bondelid, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eERHsJaZOj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
+    "found_at": "2026-09-19T00:34:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Kofta, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/LkqlGV9zF8",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-l-1/E51khWyrSR-b160-0.jpg",
     "found_at": "2026-09-17T14:29:58Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Adidas, Regnjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Adidas",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/cJPy7A4mst-dc90-0.jpg",
-    "found_at": "2026-09-17T14:30:02Z"
   }
 ]
