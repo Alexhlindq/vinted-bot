@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Warchive, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Warchive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xmDVuY7JwL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/XAVRhF3quD-4c01-0.jpg",
+    "found_at": "2026-09-19T19:08:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bondelid, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HfTFkBi4Kl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
+    "found_at": "2026-09-19T19:08:12Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "H&M, Kofta, Strl: M",
     "price": 55,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/VYIJ8u0gAy",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/VYIJ8u0gAy-b7ea-0.jpg",
     "found_at": "2026-09-17T23:22:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "MCS, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "MCS",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/OyUd7tqhew-687c-0.jpg",
-    "found_at": "2026-09-17T23:08:43Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1KnvfQHoSa",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
-    "found_at": "2026-09-17T22:36:58Z"
   }
 ]
