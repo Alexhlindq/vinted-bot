@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "East West, Jacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "East West",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CoGFe766eV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/CoGFe766eV-6a7e-0.jpg",
+    "found_at": "2026-09-19T07:38:23Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "H&M, Kofta, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/QtUhRH3mM3",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/w3S2tORJz6-35f4-0.jpg",
     "found_at": "2026-09-17T15:29:21Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5N0GJngXop",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/5N0GJngXop-437c-0.jpg",
-    "found_at": "2026-09-17T14:45:14Z"
   }
 ]
