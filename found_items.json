@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Five Seasons, Skidjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Five Seasons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1FFlPZQlzp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/kIoHFwZGbE-0a46-0.jpg",
+    "found_at": "2026-09-20T09:39:01Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Sebago, Seglarjacka, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/1KnvfQHoSa-b33e-0.jpg",
     "found_at": "2026-09-18T14:41:15Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pier One, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Pier One",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Mp1cNCnJ8S",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/Mp1cNCnJ8S-6f47-0.jpg",
-    "found_at": "2026-09-18T14:10:17Z"
   }
 ]
