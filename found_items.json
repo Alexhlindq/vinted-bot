@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/IvIfxUl13U",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-6/9BgNQROmF2-c36c-0.jpg",
+    "found_at": "2026-09-20T12:11:21Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Refill, Vinterjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Refill",
+    "size": "",
+    "url": "https://www.sellpy.se/item/IFLUALHfhm",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/T6038Xi3UB-c6a4-0.jpg",
+    "found_at": "2026-09-20T12:11:48Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Everest, Anorak, Strl: S",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/G1ZCUCMfVQ-33be-0.jpg",
     "found_at": "2026-09-18T15:40:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Rusty Neal, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Rusty Neal",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Cw8azYk8gC-ede2-0.jpg",
-    "found_at": "2026-09-18T15:26:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Slipover, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G1ZCUCMfVQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-18T15:10:01Z"
   }
 ]
