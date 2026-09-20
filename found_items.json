@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Lindbergh, Fleecejacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Lindbergh",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/NOqkJEwJTJ-7841-0.jpg",
+    "found_at": "2026-09-20T19:22:59Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Filippa K Man, Kofta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Filippa K Man",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RfiKvAnOCD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/RfiKvAnOCD-bba3-0.jpg",
+    "found_at": "2026-09-20T19:23:03Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Trekmates, Regnjacka, Strl: S",
     "price": 50,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/lEQbHsgP7t",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-8/6nIqjoVuDE-ca50-0.jpg",
     "found_at": "2026-09-19T08:40:20Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "East West, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "East West",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CoGFe766eV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/CoGFe766eV-6a7e-0.jpg",
-    "found_at": "2026-09-19T07:38:23Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/W4N2RT7pIl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/W4N2RT7pIl-10e4-0.jpg",
-    "found_at": "2026-09-19T05:38:41Z"
   }
 ]
