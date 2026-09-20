@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Huvtröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fGBgjHsN9Z",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/eERHsJaZOj-5f58-0.jpg",
+    "found_at": "2026-09-20T13:08:59Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: S",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/fPTAgiutTK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AMcdRxAUG3-97f6-0.jpg",
     "found_at": "2026-09-18T15:53:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dope, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Dope",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/G1ZCUCMfVQ-33be-0.jpg",
-    "found_at": "2026-09-18T15:40:39Z"
   }
 ]
