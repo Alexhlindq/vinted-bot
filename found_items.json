@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Adidas Originals, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/U7w8A8Z46K",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/rC9Qzt7xqZ-4464-0.jpg",
+    "found_at": "2026-09-20T16:40:05Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "French Connection, Jacka, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "French Connection",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GuPPwmMi56",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/GuPPwmMi56-2575-0.jpg",
+    "found_at": "2026-09-20T16:40:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "GANT, Rugbytröja, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/jptF1i0dTY",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
     "found_at": "2026-09-18T20:52:02Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Atlant, Pullover, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Atlant",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/jptF1i0dTY-ea84-0.jpg",
-    "found_at": "2026-09-18T20:52:03Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Pull & Bear, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Pull & Bear",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/HWLaW8vp58-7512-0.jpg",
-    "found_at": "2026-09-18T20:25:40Z"
   }
 ]
