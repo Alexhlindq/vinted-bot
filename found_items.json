@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Byxor, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RSGZaGsAh9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-7/O9tQ6n6PQG-5dd4-0.jpg",
+    "found_at": "2026-09-20T08:26:45Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Slipover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JGz1RP3i35",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
+    "found_at": "2026-09-20T08:27:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dressmann, Pullover, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/JGz1RP3i35-5f98-0.jpg",
+    "found_at": "2026-09-20T08:27:10Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Weekday, Jacka, Strl: S",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
     "found_at": "2026-09-18T13:53:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones Jeans Intelligence, Jeansjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jack & Jones Jeans Intelligence",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QaR6WxgbEN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/qHoFwHLB9t-c8c3-0.jpg",
-    "found_at": "2026-09-18T13:53:15Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack Wolfskin, Fleecejacka, Strl: S/M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Jack Wolfskin",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/JcGabEyiu5-f9c6-0.jpg",
-    "found_at": "2026-09-18T13:53:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Filippa K, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Filippa K",
-    "size": "",
-    "url": "https://www.sellpy.se/item/OZAB7anJWB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/0lc7jP3DNW-389b-0.jpg",
-    "found_at": "2026-09-18T13:40:01Z"
   }
 ]
