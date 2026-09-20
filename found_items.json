@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Calvin Klein",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9PS29BOeEr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/9PS29BOeEr-8cfe-0.jpg",
+    "found_at": "2026-09-20T20:38:49Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "ASOS Design, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pKPOGIqpJz",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/bL4Sn90AxL-bae0-0.jpg",
+    "found_at": "2026-09-20T20:38:57Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Gildan, Huvtröja, Strl: M",
     "price": 29,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/AqGjSUgprn",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/AqGjSUgprn-865f-0.jpg",
     "found_at": "2026-09-19T13:51:01Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Mexx, Kofta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Mexx",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pWWxPccFXU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/pWWxPccFXU-265a-0.jpg",
-    "found_at": "2026-09-19T12:31:10Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Converse, Ytterväst, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Converse",
-    "size": "",
-    "url": "https://www.sellpy.se/item/K3ITAoE15r",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
-    "found_at": "2026-09-19T10:25:22Z"
   }
 ]
