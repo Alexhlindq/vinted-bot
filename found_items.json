@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "WeSC, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "WeSC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZjSCuIvp4z",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/BQMAxN3X0M-1fce-0.jpg",
+    "found_at": "2026-09-20T22:38:17Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bläck, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/crLZH3M9UV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/BN4kRn56KV-4023-0.jpg",
+    "found_at": "2026-09-20T22:38:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/HfTFkBi4Kl",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
     "found_at": "2026-09-19T19:08:12Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "H&M, Kofta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ThaOtuJkAq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/ThaOtuJkAq-2430-0.jpg",
-    "found_at": "2026-09-19T18:41:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Tommy Hilfiger Golf, Pullover, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger Golf",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bmNAKRxbsY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/22wgqsBSHq-9205-0.jpg",
-    "found_at": "2026-09-19T16:25:58Z"
   }
 ]
