@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Crocker, Jacka, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Crocker",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZTFrGe3LwI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/Na6qvU5wre-6af3-0.jpg",
+    "found_at": "2026-09-20T14:09:35Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Henri Lloyd, Jacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Henri Lloyd",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QeBMEf1wzi",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/QeBMEf1wzi-e3a5-0.jpg",
+    "found_at": "2026-09-20T14:09:50Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Överskjorta, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/JQe8XselgY",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/QDftaYNq3j-0caf-0.jpg",
     "found_at": "2026-09-18T17:25:10Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M/L",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3Gb8ZQJUqo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-l-4/3Gb8ZQJUqo-9233-0.jpg",
-    "found_at": "2026-09-18T16:25:22Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mango Man, Jacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Mango Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RPXWwpB1Is",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/VUWL1txpII-bcbd-0.jpg",
-    "found_at": "2026-09-18T16:25:49Z"
   }
 ]
