@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Trekmates, Regnjacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Trekmates",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vASwATWlTY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/NAcoNffot7-e4f2-0.jpg",
+    "found_at": "2026-09-20T19:08:27Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Hoodrich, Huvtröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/W4N2RT7pIl",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/W4N2RT7pIl-10e4-0.jpg",
     "found_at": "2026-09-19T05:38:41Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bondelid, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eERHsJaZOj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/Ze14tOGoW3-0d96-0.jpg",
-    "found_at": "2026-09-19T00:34:56Z"
   }
 ]
