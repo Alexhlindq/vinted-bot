@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Slipover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BN4kRn56KV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
+    "found_at": "2026-09-20T22:24:52Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bläck, Tröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/BN4kRn56KV-4023-0.jpg",
+    "found_at": "2026-09-20T22:24:53Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Bershka, Collegejacka, Strl: S",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/bmNAKRxbsY",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/22wgqsBSHq-9205-0.jpg",
     "found_at": "2026-09-19T16:25:58Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Sweet Sktbs, Vinterjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Sweet Sktbs",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LzQxHsMZbC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/6mV1FSb3EG-6566-0.jpg",
-    "found_at": "2026-09-19T15:09:32Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dobber, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XjDVavvHGc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-13/EEJNxrvTnX-c2db-0.jpg",
-    "found_at": "2026-09-19T15:09:35Z"
   }
 ]
