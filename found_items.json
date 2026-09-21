@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bunker Mentality, Pullover, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Bunker Mentality",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vuAoGugHz9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/Fe1hh43HGG-53f6-0.jpg",
+    "found_at": "2026-09-21T05:42:12Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Holzweiler, Collegetröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Holzweiler",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/TTjFa8iAJT-17eb-0.jpg",
+    "found_at": "2026-09-21T05:42:13Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Pull & Bear, Anorak, Strl: M",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/SGCwHqkjxo",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/pjiwdBXHnJ-4b1a-0.jpg",
     "found_at": "2026-09-19T20:38:49Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "ATI Tricot, Kofta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "ATI Tricot",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9ky0XLSBcr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/FCNlDqgHfx-0032-0.jpg",
-    "found_at": "2026-09-19T20:38:50Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Pull & Bear, Rock, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Pull & Bear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/smtWZyfJ5t",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/7h7R3qzH1e-0b60-0.jpg",
-    "found_at": "2026-09-19T20:25:13Z"
   }
 ]
