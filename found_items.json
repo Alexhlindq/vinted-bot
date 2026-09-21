@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Calvin Klein",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vSvUFWrtiE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vSvUFWrtiE-15ec-0.jpg",
+    "found_at": "2026-09-21T15:09:30Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Adidas Originals, Huvtröja, Strl: M",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/JGz1RP3i35",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
     "found_at": "2026-09-20T08:27:09Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dressmann, Pullover, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Dressmann",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/JGz1RP3i35-5f98-0.jpg",
-    "found_at": "2026-09-20T08:27:10Z"
   }
 ]
