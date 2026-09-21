@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Pull & Bear, Anorak, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Pull & Bear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FdEiCJMF8P",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/K3ITAoE15r-4665-0.jpg",
+    "found_at": "2026-09-21T05:12:23Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Massimo Dutti, Tröja, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/smtWZyfJ5t",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/7h7R3qzH1e-0b60-0.jpg",
     "found_at": "2026-09-19T20:25:13Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/HfTFkBi4Kl-63dc-0.jpg",
-    "found_at": "2026-09-19T19:36:11Z"
   }
 ]
