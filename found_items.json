@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Karl Kani, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Karl Kani",
+    "size": "",
+    "url": "https://www.sellpy.se/item/X6ezIeNeTT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
+    "found_at": "2026-09-21T11:27:16Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "High Mountain, Fleecetröja, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "High Mountain",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/X6ezIeNeTT-a873-0.jpg",
+    "found_at": "2026-09-21T11:27:17Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Mishka NYC, Jeansjacka, Strl: S",
     "price": 60,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/5REXdYt58M",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-j-1/5REXdYt58M-8f0e-0.jpg",
     "found_at": "2026-09-20T00:36:55Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Tommy Hilfiger Golf, Pullover, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger Golf",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/22wgqsBSHq-9205-0.jpg",
-    "found_at": "2026-09-19T23:36:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "ATI Tricot, Kofta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "ATI Tricot",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/FCNlDqgHfx-0032-0.jpg",
-    "found_at": "2026-09-19T23:23:20Z"
   }
 ]
