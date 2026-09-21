@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Massimo Dutti, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Massimo Dutti",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HuBwTzBKnn",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/9BpmkA7bs3-459a-0.jpg",
+    "found_at": "2026-09-21T04:44:33Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "8848 Altitude, Softshelljacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/HfTFkBi4Kl-63dc-0.jpg",
     "found_at": "2026-09-19T19:36:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Warchive, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Warchive",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xmDVuY7JwL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/XAVRhF3quD-4c01-0.jpg",
-    "found_at": "2026-09-19T19:08:11Z"
   }
 ]
