@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Huvtröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/I0pCJHRcMA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/crLZH3M9UV-ff93-0.jpg",
+    "found_at": "2026-09-21T19:09:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Mr Gugu & Miss Go, Collegetröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Mr Gugu & Miss Go",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/I0pCJHRcMA-8461-0.jpg",
+    "found_at": "2026-09-21T19:09:12Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Mango Man, Bomberjacka, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/fGBgjHsN9Z",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/eERHsJaZOj-5f58-0.jpg",
     "found_at": "2026-09-20T13:08:59Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/IvIfxUl13U",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-6/9BgNQROmF2-c36c-0.jpg",
-    "found_at": "2026-09-20T12:11:21Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Refill, Vinterjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Refill",
-    "size": "",
-    "url": "https://www.sellpy.se/item/IFLUALHfhm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/T6038Xi3UB-c6a4-0.jpg",
-    "found_at": "2026-09-20T12:11:48Z"
   }
 ]
