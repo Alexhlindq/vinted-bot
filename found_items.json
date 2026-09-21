@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Slipover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/82hlgxIJhb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
+    "found_at": "2026-09-21T10:52:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Filippa K, Polotröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Filippa K",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/82hlgxIJhb-707c-0.jpg",
+    "found_at": "2026-09-21T10:52:24Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Trekmates, Regnjacka, Strl: S",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/9ky0XLSBcr-eb05-0.jpg",
     "found_at": "2026-09-19T23:08:37Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Michael Kors, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Michael Kors",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LUencNnrFs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-21/81VBr3RPsQ-1a09-0.jpg",
-    "found_at": "2026-09-19T22:50:32Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M/L",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/G8yRUHFDFi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-1/fa36CdTJut-4efb-0.jpg",
-    "found_at": "2026-09-19T21:50:15Z"
   }
 ]
