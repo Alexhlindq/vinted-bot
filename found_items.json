@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Angelo Litrico, Kofta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Angelo Litrico",
+    "size": "",
+    "url": "https://www.sellpy.se/item/g9Qog2ZzwH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/g9Qog2ZzwH-b415-0.jpg",
+    "found_at": "2026-09-21T21:26:14Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Calvin Klein Jeans, Tröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/iucIncEvY4",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/iucIncEvY4-a470-0.jpg",
     "found_at": "2026-09-20T13:38:38Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Z1X7CwHTxj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
-    "found_at": "2026-09-20T13:25:20Z"
   }
 ]
