@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Jack & Jones Originals, Kofta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Jack & Jones Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ArJqUlsV25",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/ArJqUlsV25-78c4-0.jpg",
+    "found_at": "2026-09-21T23:51:25Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "BDG by Urban Outfitters, Tröja, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/CMRLhiYXGF",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/kzOmlZasDB-63ed-0.jpg",
     "found_at": "2026-09-20T14:24:52Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ellesse, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ellesse",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/CMRLhiYXGF-89c4-0.jpg",
-    "found_at": "2026-09-20T14:24:53Z"
   }
 ]
