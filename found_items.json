@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "GANT, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BeXw6HOpmv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/BeXw6HOpmv-5e89-0.jpg",
+    "found_at": "2026-09-22T23:24:13Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Westbury, Rock, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/Q9VMtaEV8q",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/Q9VMtaEV8q-199f-0.jpg",
     "found_at": "2026-09-21T18:12:04Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Bien A Bien, Jacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bien A Bien",
-    "size": "",
-    "url": "https://www.sellpy.se/item/iSHnGt5yXc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/iSHnGt5yXc-b424-0.jpg",
-    "found_at": "2026-09-21T18:12:07Z"
   }
 ]
