@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Westbury, Rock, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Westbury",
+    "size": "",
+    "url": "https://www.sellpy.se/item/C8zELlZWrd",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
+    "found_at": "2026-09-22T22:25:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Bershka, Coachjacka, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/iSHnGt5yXc",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/iSHnGt5yXc-b424-0.jpg",
     "found_at": "2026-09-21T18:12:07Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Chinos, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LageHPMgSC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-12-l-1/LageHPMgSC-f28d-0.jpg",
-    "found_at": "2026-09-21T17:08:44Z"
   }
 ]
