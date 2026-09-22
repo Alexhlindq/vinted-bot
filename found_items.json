@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dobber, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yNT5lDzd26",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/vuAoGugHz9-2b73-0.jpg",
+    "found_at": "2026-09-22T13:43:47Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "8848 Altitude, Softshelljacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/BN4kRn56KV-4023-0.jpg",
     "found_at": "2026-09-20T22:24:53Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Collegejacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EBrhNmS1II",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/O0x17CHP3D-ea20-0.jpg",
-    "found_at": "2026-09-20T21:25:18Z"
   }
 ]
