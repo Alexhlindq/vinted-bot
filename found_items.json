@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Uniqlo, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Uniqlo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yd5hbJdJes",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/yaM2zVMG29-5272-0.jpg",
+    "found_at": "2026-09-22T02:27:21Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Piper, Jeansjacka, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/CBV9nvI4gF",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/2lUSSxG4jM-2f31-0.jpg",
     "found_at": "2026-09-20T15:25:08Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vDYx1Fg2Cu",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-9-j-1/vDYx1Fg2Cu-ff56-0.jpg",
-    "found_at": "2026-09-20T15:09:19Z"
   }
 ]
