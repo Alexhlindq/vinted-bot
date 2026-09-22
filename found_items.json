@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bershka, Coachjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AJSd0OFG92",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
+    "found_at": "2026-09-22T21:24:50Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Adidas Originals, Collegetröja, Strl: M",
     "price": 70,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/LageHPMgSC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-12-l-1/LageHPMgSC-f28d-0.jpg",
     "found_at": "2026-09-21T17:08:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Cross Sportswear, Skidjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Cross Sportswear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MvrLFzzLFN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/EBrhNmS1II-58b0-0.jpg",
-    "found_at": "2026-09-21T16:27:46Z"
   }
 ]
