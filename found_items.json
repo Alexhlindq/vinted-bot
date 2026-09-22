@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jobman, Softshelljacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Jobman",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qexV9EDXbQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
+    "found_at": "2026-09-22T16:27:54Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Pull & Bear, Fodrad jeansjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Pull & Bear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/RPXWwpB1Is-0c1e-0.jpg",
+    "found_at": "2026-09-22T16:27:55Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Bläck, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1Ak4iP9O7a",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/1Ak4iP9O7a-e46c-0.jpg",
+    "found_at": "2026-09-22T16:27:58Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Bondelid, Jacka, Strl: S",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/vuAoGugHz9",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/Fe1hh43HGG-53f6-0.jpg",
     "found_at": "2026-09-21T05:42:12Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Holzweiler, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Holzweiler",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/TTjFa8iAJT-17eb-0.jpg",
-    "found_at": "2026-09-21T05:42:13Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Pull & Bear, Anorak, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Pull & Bear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FdEiCJMF8P",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/K3ITAoE15r-4665-0.jpg",
-    "found_at": "2026-09-21T05:12:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Massimo Dutti, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Massimo Dutti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HuBwTzBKnn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/9BpmkA7bs3-459a-0.jpg",
-    "found_at": "2026-09-21T04:44:33Z"
   }
 ]
