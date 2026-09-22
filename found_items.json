@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "8848 Altitude, Softshelljacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "8848 Altitude",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rE2M443Vhg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/Ec7xcGDayM-061f-0.jpg",
+    "found_at": "2026-09-22T12:56:08Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Manfinity, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Manfinity",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RapBUFy3bf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/RapBUFy3bf-207b-0.jpg",
+    "found_at": "2026-09-22T12:56:11Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Jules Collection, Kofta, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/EBrhNmS1II",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/O0x17CHP3D-ea20-0.jpg",
     "found_at": "2026-09-20T21:25:18Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Calvin Klein, Kofta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Calvin Klein",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9PS29BOeEr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/9PS29BOeEr-8cfe-0.jpg",
-    "found_at": "2026-09-20T20:38:49Z"
-  },
-  {
-    "search_name": "Sellpy - Höstmode för honom (kurerad)",
-    "title": "ASOS Design, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pKPOGIqpJz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/bL4Sn90AxL-bae0-0.jpg",
-    "found_at": "2026-09-20T20:38:57Z"
   }
 ]
