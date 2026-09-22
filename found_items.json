@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Fila, Regnjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Fila",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jFhrVuh5Oh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/D15D70A6MG-09d5-0.jpg",
+    "found_at": "2026-09-22T19:38:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "East West, Duffel, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "East West",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/jFhrVuh5Oh-2afd-0.jpg",
+    "found_at": "2026-09-22T19:39:00Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Calvin Klein, Huvtröja, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/CnVKogw3AV",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
     "found_at": "2026-09-21T11:10:07Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Slipover, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/82hlgxIJhb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-21T10:52:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Filippa K, Polotröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Filippa K",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/82hlgxIJhb-707c-0.jpg",
-    "found_at": "2026-09-21T10:52:24Z"
   }
 ]
