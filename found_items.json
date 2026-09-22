@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Anorak, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/cQV3wC4EiO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/2lUSSxG4jM-2f31-0.jpg",
+    "found_at": "2026-09-22T15:13:27Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lager 157, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Lager 157",
+    "size": "",
+    "url": "https://www.sellpy.se/item/nhehNrqW5H",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/nhehNrqW5H-103a-0.jpg",
+    "found_at": "2026-09-22T15:13:31Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Lyle & Scott, Kofta, Strl: S",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ngpdHPjD2u",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/Ec7xcGDayM-061f-0.jpg",
     "found_at": "2026-09-21T02:27:14Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "WeSC, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZjSCuIvp4z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/BQMAxN3X0M-1fce-0.jpg",
-    "found_at": "2026-09-20T22:38:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bläck, Tröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/crLZH3M9UV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/BN4kRn56KV-4023-0.jpg",
-    "found_at": "2026-09-20T22:38:18Z"
   }
 ]
