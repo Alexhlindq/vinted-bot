@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Cutter & Buck, Polotröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Cutter & Buck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/g3OJCeRcK3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/KbHzeRhCJN-3206-0.jpg",
+    "found_at": "2026-09-22T11:52:00Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Hollister, Huvtröja, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/D8WKuwbzzQ-380c-0.jpg",
+    "found_at": "2026-09-22T11:52:01Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Jeansjacka, Strl: M",
     "price": 60,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/YRf4rUGufN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/GhcJFHuhm8-8373-0.jpg",
     "found_at": "2026-09-20T20:25:03Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Westbury, Rock, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Westbury",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BYWO31L8oy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
-    "found_at": "2026-09-20T20:09:41Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Regnjacka, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/fnUIHDCsoA-748c-0.jpg",
-    "found_at": "2026-09-20T20:09:42Z"
   }
 ]
