@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Fodrad jeansjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wrEeG5b63L",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/lEQbHsgP7t-ac51-0.jpg",
+    "found_at": "2026-09-22T09:26:20Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "These Glory Days, Polotröja, Strl: M",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/0Yu82pR4kn",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/RPXWwpB1Is-0c1e-0.jpg",
     "found_at": "2026-09-20T16:51:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Adidas Originals, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/U7w8A8Z46K",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/rC9Qzt7xqZ-4464-0.jpg",
-    "found_at": "2026-09-20T16:40:05Z"
   }
 ]
