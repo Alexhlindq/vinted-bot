@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Mouli, Kofta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Mouli",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GQe6NoDNMW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/GQe6NoDNMW-7b44-0.jpg",
+    "found_at": "2026-09-22T17:51:05Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Jobman, Softshelljacka, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/QJqoB1KQaQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/QJqoB1KQaQ-5bcd-0.jpg",
     "found_at": "2026-09-21T07:32:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bunker Mentality, Pullover, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Bunker Mentality",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vuAoGugHz9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/Fe1hh43HGG-53f6-0.jpg",
-    "found_at": "2026-09-21T05:42:12Z"
   }
 ]
