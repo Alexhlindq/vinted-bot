@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bergson, Polotröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Bergson",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZaRXaQhZJ9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/FhOORhTgxC-2157-0.jpg",
+    "found_at": "2026-09-22T04:53:00Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dobber, Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/vuAoGugHz9-2b73-0.jpg",
+    "found_at": "2026-09-22T04:53:01Z"
+  },
+  {
     "search_name": "Sellpy - Höstmode för honom (kurerad)",
     "title": "Uniqlo, Tröja, Strl: M",
     "price": 40,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/fGBgjHsN9Z-ce32-0.jpg",
     "found_at": "2026-09-20T15:51:12Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Westbury, Rock, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Westbury",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
-    "found_at": "2026-09-20T15:51:17Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Anorak, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CBV9nvI4gF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/2lUSSxG4jM-2f31-0.jpg",
-    "found_at": "2026-09-20T15:25:08Z"
   }
 ]
