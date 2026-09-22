@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GYvFzxJycm",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-12/GYvFzxJycm-b75b-0.jpg",
+    "found_at": "2026-09-22T20:52:37Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jaktjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/cq4JHnbitC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EhYVJfIJK-c7c0-0.jpg",
+    "found_at": "2026-09-22T20:53:05Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Fila, Regnjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Fila",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/D15D70A6MG-09d5-0.jpg",
+    "found_at": "2026-09-22T20:53:07Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "7 Days Active, Huvtröja, Strl: S",
     "price": 60,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/vSvUFWrtiE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/vSvUFWrtiE-15ec-0.jpg",
     "found_at": "2026-09-21T15:09:30Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Adidas Originals, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/XwxGQVZNqA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/rC9Qzt7xqZ-4464-0.jpg",
-    "found_at": "2026-09-21T14:27:41Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Huvtröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/crLZH3M9UV-ff93-0.jpg",
-    "found_at": "2026-09-21T13:26:40Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mishka NYC, Jeansjacka, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Mishka NYC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QahlyCzDbL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
-    "found_at": "2026-09-21T13:26:44Z"
   }
 ]
