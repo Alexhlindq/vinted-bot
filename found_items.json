@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "BDG by Urban Outfitters, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "BDG by Urban Outfitters",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GvNHEu93qf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
+    "found_at": "2026-09-22T10:28:22Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Polotröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/GvNHEu93qf-e572-0.jpg",
+    "found_at": "2026-09-22T10:28:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Kofta, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/uWwOZcD7EO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/ERzYXyxKWC-9433-0.jpg",
     "found_at": "2026-09-20T18:27:27Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "ASOS Design, Bomberjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sjBqLkdnOv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AMcdRxAUG3-97f6-0.jpg",
-    "found_at": "2026-09-20T18:11:02Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Selected Homme, Kofta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fISOIcuJS6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-6/fISOIcuJS6-dd3b-0.jpg",
-    "found_at": "2026-09-20T18:11:06Z"
   }
 ]
