@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Jeansjacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kOWdx4EqH6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
+    "found_at": "2026-09-22T11:40:29Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Haglöfs, Allvädersjacka, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Haglöfs",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/kOWdx4EqH6-0ffa-0.jpg",
+    "found_at": "2026-09-22T11:40:30Z"
+  },
+  {
     "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
     "title": "Ralph Lauren, Mjukisbyxor, Strl: M",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/fnUIHDCsoA-748c-0.jpg",
     "found_at": "2026-09-20T20:09:42Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Lindbergh, Fleecejacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Lindbergh",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/NOqkJEwJTJ-7841-0.jpg",
-    "found_at": "2026-09-20T19:22:59Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Filippa K Man, Kofta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Filippa K Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RfiKvAnOCD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/RfiKvAnOCD-bba3-0.jpg",
-    "found_at": "2026-09-20T19:23:03Z"
   }
 ]
