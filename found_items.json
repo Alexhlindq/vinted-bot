@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Westbury, Rock, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Westbury",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JrtedvbqF5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
+    "found_at": "2026-09-23T13:46:25Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Jack & Jones, Vinterjacka, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/QtUhRH3mM3-5df6-0.jpg",
     "found_at": "2026-09-22T10:54:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "BDG by Urban Outfitters, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "BDG by Urban Outfitters",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GvNHEu93qf",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
-    "found_at": "2026-09-22T10:28:22Z"
   }
 ]
