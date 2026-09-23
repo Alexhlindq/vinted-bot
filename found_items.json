@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones, Vinterjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EMGEQUMs4b",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
+    "found_at": "2026-09-23T20:40:43Z"
+  },
+  {
+    "search_name": "Sellpy - Höstmode för honom (kurerad)",
+    "title": "Arket, Collegetröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yOZ4oWy9l2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/h4aJ7GPUT1-ee0a-0.jpg",
+    "found_at": "2026-09-23T20:40:51Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "7 Days Active, Huvtröja, Strl: S",
     "price": 60,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/OAT3mry4dL",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/pjiwdBXHnJ-4b1a-0.jpg",
     "found_at": "2026-09-22T20:40:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cheetahs, Jultröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Cheetahs",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hQOh6oYOkc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/QtUhRH3mM3-5df6-0.jpg",
-    "found_at": "2026-09-22T20:40:07Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Slipover, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MhhVqRRkIm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-22T20:10:02Z"
   }
 ]
