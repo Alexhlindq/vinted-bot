@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Premium by Jack & Jones, Polotröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Premium by Jack & Jones",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/NHJyOS1WmT-b72f-0.jpg",
+    "found_at": "2026-09-23T22:25:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Zara, Slipover, Strl: M",
     "price": 60,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/AJSd0OFG92-d6be-0.jpg",
     "found_at": "2026-09-23T00:13:08Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen, Allvädersjacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Helly Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TmzcPvSFdi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/wrEeG5b63L-be0c-0.jpg",
-    "found_at": "2026-09-22T23:50:52Z"
   }
 ]
