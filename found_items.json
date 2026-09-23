@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones, Vinterjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VZnHZInv2i",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
+    "found_at": "2026-09-23T12:56:49Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lee, Collegetröja, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/GvNHEu93qf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
     "found_at": "2026-09-22T10:28:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Polotröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-13/GvNHEu93qf-e572-0.jpg",
-    "found_at": "2026-09-22T10:28:24Z"
   }
 ]
