@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Melka, Jacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Melka",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qNyvXxA9Dh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/qNyvXxA9Dh-dc4b-0.jpg",
+    "found_at": "2026-09-23T19:25:50Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Timberland, Fleecejacka, Strl: M",
     "price": 50,
@@ -646,17 +657,6 @@
     "size": "",
     "url": "https://www.sellpy.se/item/QeEajMvfSO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/FBh6lNpd4g-3bb3-0.jpg",
-    "found_at": "2026-09-22T18:32:00Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sofie Schnoor, Huvtröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Sofie Schnoor",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/QeEajMvfSO-ca05-0.jpg",
     "found_at": "2026-09-22T18:32:00Z"
   }
 ]
