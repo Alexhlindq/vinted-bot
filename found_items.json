@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Napapijri, Ytterväst, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Napapijri",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/AJSd0OFG92-d6be-0.jpg",
+    "found_at": "2026-09-23T00:13:08Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Helly Hansen, Allvädersjacka, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/I0pCJHRcMA-8461-0.jpg",
     "found_at": "2026-09-21T19:09:12Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mango Man, Bomberjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Mango Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7EhYVJfIJK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/CeTntKUHzh-f9f4-0.jpg",
-    "found_at": "2026-09-21T18:48:21Z"
   }
 ]
