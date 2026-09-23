@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Cross Sportswear, Skidjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Cross Sportswear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/EBrhNmS1II-58b0-0.jpg",
+    "found_at": "2026-09-23T21:26:25Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Sir Raymond Tailor, Kofta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Sir Raymond Tailor",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FjK2zXkS1V",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/FjK2zXkS1V-8a08-0.jpg",
+    "found_at": "2026-09-23T21:26:29Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "East West, Jacka, Strl: S",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/KTOCj1h9Kb",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/MvrLFzzLFN-0238-0.jpg",
     "found_at": "2026-09-22T21:09:36Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Chinos, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GYvFzxJycm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-12/GYvFzxJycm-b75b-0.jpg",
-    "found_at": "2026-09-22T20:52:37Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jaktjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cq4JHnbitC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EhYVJfIJK-c7c0-0.jpg",
-    "found_at": "2026-09-22T20:53:05Z"
   }
 ]
