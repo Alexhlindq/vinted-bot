@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Converse, Ytterväst, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Converse",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9TFoyNl7CS",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
+    "found_at": "2026-09-23T04:54:44Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Archive, Tröja, Strl: M",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/1HUZUJe50R-8809-0.jpg",
     "found_at": "2026-09-21T20:26:10Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Piper, Jeansjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Piper",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/ZwspJ0AgSo-8848-0.jpg",
-    "found_at": "2026-09-21T20:10:05Z"
   }
 ]
