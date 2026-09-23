@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pegador, Huvtröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Pegador",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gA4KpVmu1b",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/P0MyQhtEG6-1245-0.jpg",
+    "found_at": "2026-09-23T14:10:45Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bershka, Coachjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
+    "found_at": "2026-09-23T14:10:50Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Westbury, Rock, Strl: S",
     "price": 55,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/kOWdx4EqH6-0ffa-0.jpg",
     "found_at": "2026-09-22T11:40:30Z"
-  },
-  {
-    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
-    "title": "Ralph Lauren, Mjukisbyxor, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FaPL60aqAV",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-2/FaPL60aqAV-3f8f-0.jpg",
-    "found_at": "2026-09-22T10:54:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Cheetahs, Jultröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Cheetahs",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/QtUhRH3mM3-5df6-0.jpg",
-    "found_at": "2026-09-22T10:54:33Z"
   }
 ]
