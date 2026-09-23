@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DvjuAifCjL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-23T04:42:36Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Vailent, Slipover, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Vailent",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yDJ4FOJc7n",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/MhhVqRRkIm-cadc-0.jpg",
+    "found_at": "2026-09-23T04:42:38Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Napapijri, Ytterväst, Strl: S",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/ZwspJ0AgSo-8848-0.jpg",
     "found_at": "2026-09-21T20:10:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Huvtröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/I0pCJHRcMA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/crLZH3M9UV-ff93-0.jpg",
-    "found_at": "2026-09-21T19:09:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Mr Gugu & Miss Go, Collegetröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Mr Gugu & Miss Go",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/I0pCJHRcMA-8461-0.jpg",
-    "found_at": "2026-09-21T19:09:12Z"
   }
 ]
