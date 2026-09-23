@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Zara, Slipover, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zsRgwCDelK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/IirdvLbJ4D-4bee-0.jpg",
+    "found_at": "2026-09-23T22:10:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Tröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Rk2yrkLXK5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/t9oFYIilE8-f90d-0.jpg",
+    "found_at": "2026-09-23T22:10:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Didriksons 1913, Jacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Didriksons 1913",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/cBTcGiYvC6-45ed-0.jpg",
+    "found_at": "2026-09-23T22:10:14Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Zara, Kofta, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/TmzcPvSFdi",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-10/wrEeG5b63L-be0c-0.jpg",
     "found_at": "2026-09-22T23:50:52Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "GANT, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BeXw6HOpmv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/BeXw6HOpmv-5e89-0.jpg",
-    "found_at": "2026-09-22T23:24:13Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Westbury, Rock, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Westbury",
-    "size": "",
-    "url": "https://www.sellpy.se/item/C8zELlZWrd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
-    "found_at": "2026-09-22T22:25:27Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Coachjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AJSd0OFG92",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
-    "found_at": "2026-09-22T21:24:50Z"
   }
 ]
