@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Jacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SpBZJAL1Tf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/oscSoF0MAy-b146-0.jpg",
+    "found_at": "2026-09-23T16:46:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones, Vinterjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jQbtf7GUgC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
+    "found_at": "2026-09-23T16:46:12Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Cubus, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Cubus",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oyBW2VBoH4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/oyBW2VBoH4-3810-0.jpg",
+    "found_at": "2026-09-23T16:46:15Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Helly Hansen, Anorak, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/nhehNrqW5H",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/nhehNrqW5H-103a-0.jpg",
     "found_at": "2026-09-22T15:13:31Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Lyle & Scott, Kofta, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mCmhlniaPv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/mCmhlniaPv-0a19-0.jpg",
-    "found_at": "2026-09-22T14:28:13Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Anorak, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/W06WEeCCro",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/2lUSSxG4jM-2f31-0.jpg",
-    "found_at": "2026-09-22T13:56:00Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dobber, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yNT5lDzd26",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/vuAoGugHz9-2b73-0.jpg",
-    "found_at": "2026-09-22T13:43:47Z"
   }
 ]
