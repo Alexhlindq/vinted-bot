@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Timberland, Fleecejacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Timberland",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1YfeAJsJj9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
+    "found_at": "2026-09-23T19:09:20Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Riley, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Riley",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1vKkJ1v6dM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/1vKkJ1v6dM-d390-0.jpg",
+    "found_at": "2026-09-23T19:09:23Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "WE, Kofta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "WE",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3VU2FN0mt7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/3VU2FN0mt7-55df-0.jpg",
+    "found_at": "2026-09-23T19:09:26Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/QeEajMvfSO-ca05-0.jpg",
     "found_at": "2026-09-22T18:32:00Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "LUGGI, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "LUGGI",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oLCvtEiVPN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/oLCvtEiVPN-9494-0.jpg",
-    "found_at": "2026-09-22T18:15:07Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Mouli, Kofta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Mouli",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GQe6NoDNMW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/GQe6NoDNMW-7b44-0.jpg",
-    "found_at": "2026-09-22T17:51:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jobman, Softshelljacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jobman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qexV9EDXbQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
-    "found_at": "2026-09-22T16:27:54Z"
   }
 ]
