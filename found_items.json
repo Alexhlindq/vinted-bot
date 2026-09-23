@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Everest, Jacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Everest",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SFBnO3szVx",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/oscSoF0MAy-b146-0.jpg",
+    "found_at": "2026-09-23T21:39:45Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "L.O.G.G by H&M, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WlZj53l8VI-3191-0.jpg",
+    "found_at": "2026-09-23T21:39:45Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Cross Sportswear, Skidjacka, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/rn862ol61F",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-15/g3OJCeRcK3-8e9d-0.jpg",
     "found_at": "2026-09-22T21:09:29Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Black Squad, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/rn862ol61F-ab2b-0.jpg",
-    "found_at": "2026-09-22T21:09:31Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Svea, Dunjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Svea",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KTOCj1h9Kb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/MvrLFzzLFN-0238-0.jpg",
-    "found_at": "2026-09-22T21:09:36Z"
   }
 ]
