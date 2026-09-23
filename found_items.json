@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Harry Potter, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Harry Potter",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/yNT5lDzd26-f8a1-single.jpg",
+    "found_at": "2026-09-23T23:51:00Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Jaspal, Överskjorta, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/DvjuAifCjL",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
     "found_at": "2026-09-23T04:42:36Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Vailent, Slipover, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Vailent",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yDJ4FOJc7n",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/MhhVqRRkIm-cadc-0.jpg",
-    "found_at": "2026-09-23T04:42:38Z"
   }
 ]
