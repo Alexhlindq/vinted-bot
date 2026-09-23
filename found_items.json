@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Timberland, Fleecejacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Timberland",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5WOjycD2wO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
+    "found_at": "2026-09-23T05:52:52Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Aigle, Fleecejacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Aigle",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/5WOjycD2wO-27ce-0.jpg",
+    "found_at": "2026-09-23T05:52:53Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Zara, Kofta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GmSdlWxKRu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/GmSdlWxKRu-cad1-0.jpg",
+    "found_at": "2026-09-23T05:52:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Converse, Ytterväst, Strl: M",
     "price": 60,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/cMzBzXk5F7",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-10/gEcuBY1sQV-63b8-0.jpg",
     "found_at": "2026-09-21T21:38:45Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Snoot, Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Snoot",
-    "size": "",
-    "url": "https://www.sellpy.se/item/V8IyaFTETz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/V8IyaFTETz-0a87-0.jpg",
-    "found_at": "2026-09-21T21:39:26Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Angelo Litrico, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Angelo Litrico",
-    "size": "",
-    "url": "https://www.sellpy.se/item/g9Qog2ZzwH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/g9Qog2ZzwH-b415-0.jpg",
-    "found_at": "2026-09-21T21:26:14Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Calvin Klein Jeans, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Calvin Klein Jeans",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/1HUZUJe50R-8809-0.jpg",
-    "found_at": "2026-09-21T20:26:10Z"
   }
 ]
