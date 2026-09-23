@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Westbury, Rock, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Westbury",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZvdKg0jva5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
+    "found_at": "2026-09-23T08:43:55Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dickies, Collegetröja, Strl: M",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/yd5hbJdJes",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/yaM2zVMG29-5272-0.jpg",
     "found_at": "2026-09-22T02:27:21Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Piper, Jeansjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Piper",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ttD7GG9klO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/ZwspJ0AgSo-8848-0.jpg",
-    "found_at": "2026-09-22T01:39:45Z"
   }
 ]
