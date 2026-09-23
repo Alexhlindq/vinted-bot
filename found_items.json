@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Divided by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4nE0YglnGB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/5K0ifkSUGB-72b5-0.jpg",
+    "found_at": "2026-09-23T18:54:09Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Bench, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bench",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GG0f2f8yDY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/GG0f2f8yDY-5a38-0.jpg",
+    "found_at": "2026-09-23T18:54:25Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Cottonfield, Safarijacka, Strl: M",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/qexV9EDXbQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
     "found_at": "2026-09-22T16:27:54Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Pull & Bear, Fodrad jeansjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Pull & Bear",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/RPXWwpB1Is-0c1e-0.jpg",
-    "found_at": "2026-09-22T16:27:55Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Bläck, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1Ak4iP9O7a",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/1Ak4iP9O7a-e46c-0.jpg",
-    "found_at": "2026-09-22T16:27:58Z"
   }
 ]
