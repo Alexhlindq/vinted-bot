@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Cottonfield, Safarijacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Cottonfield",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NReyCrAxxJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/NReyCrAxxJ-d665-0.jpg",
+    "found_at": "2026-09-23T18:13:24Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Fleecejacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/1Ak4iP9O7a",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/1Ak4iP9O7a-e46c-0.jpg",
     "found_at": "2026-09-22T16:27:58Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Bondelid, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tQAjsDcqqY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/tQAjsDcqqY-fc41-0.jpg",
-    "found_at": "2026-09-22T15:42:04Z"
   }
 ]
