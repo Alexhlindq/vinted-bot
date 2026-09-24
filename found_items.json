@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Divided by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xCYmZkAz6q",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
+    "found_at": "2026-09-24T01:53:52Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Everest, Allvädersjacka, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/GmSdlWxKRu",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/GmSdlWxKRu-cad1-0.jpg",
     "found_at": "2026-09-23T05:52:58Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Converse, Ytterväst, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Converse",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9TFoyNl7CS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/lYpy2qZtlt-79ad-0.jpg",
-    "found_at": "2026-09-23T04:54:44Z"
   }
 ]
