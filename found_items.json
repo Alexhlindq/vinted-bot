@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "These Glory Days, Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NOv6H1iNTf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/E0dPR0JcCj-288a-0.jpg",
+    "found_at": "2026-09-24T14:10:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Core by Jack & Jones, Dunjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Core by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ogcwOW13tN",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/jDCuDsEUnB-dd59-0.jpg",
+    "found_at": "2026-09-24T14:10:27Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "A Day's March, Tröja, Strl: M",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/xAvYnzVLeR",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/xAvYnzVLeR-c0d6-0.jpg",
     "found_at": "2026-09-23T14:44:42Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Pegador, Huvtröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Pegador",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gA4KpVmu1b",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/P0MyQhtEG6-1245-0.jpg",
-    "found_at": "2026-09-23T14:10:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Coachjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
-    "found_at": "2026-09-23T14:10:50Z"
   }
 ]
