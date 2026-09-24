@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "A Day's March, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/W5efanL0Io-e7fd-0.jpg",
+    "found_at": "2026-09-24T13:12:53Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Tokio, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Tokio",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CSc5HBjH6y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/CSc5HBjH6y-bba3-0.jpg",
+    "found_at": "2026-09-24T13:12:58Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Tröja, Strl: M/L",
     "price": 29,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
     "found_at": "2026-09-23T14:10:50Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Westbury, Rock, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Westbury",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JrtedvbqF5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-16/qvIC4xGSg0-def7-0.jpg",
-    "found_at": "2026-09-23T13:46:25Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones, Vinterjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VZnHZInv2i",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
-    "found_at": "2026-09-23T12:56:49Z"
   }
 ]
