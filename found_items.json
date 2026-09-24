@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Weekday, Tröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/CQ0KPCaqkq-b872-0.jpg",
+    "found_at": "2026-09-24T10:54:48Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lexington Clothing Co, Huvtröja, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/WxJpKmZeNC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/oAxBGAhzjR-eb77-0.jpg",
     "found_at": "2026-09-23T12:34:11Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dressmann, Kofta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Dressmann",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KB6h45BFKm",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/KB6h45BFKm-aac5-0.jpg",
-    "found_at": "2026-09-23T11:53:39Z"
   }
 ]
