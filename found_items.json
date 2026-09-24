@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Svea, Dunjacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Svea",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/MvrLFzzLFN-0238-0.jpg",
+    "found_at": "2026-09-24T10:27:49Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Peak Performance, Vinterrock, Strl: M",
     "price": 65,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/JwCHwtI1cW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/JwCHwtI1cW-d119-0.jpg",
     "found_at": "2026-09-23T10:55:01Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Marvel, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Marvel",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ldkuEDNAaH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/BIARvfGbIu-5e28-0.jpg",
-    "found_at": "2026-09-23T09:42:19Z"
   }
 ]
