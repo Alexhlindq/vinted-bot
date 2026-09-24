@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "J.Lindeberg, Kofta, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2zagmEm2FL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/2zagmEm2FL-54a8-0.jpg",
+    "found_at": "2026-09-24T21:11:49Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Mishka NYC, Jeansjacka, Strl: S",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/SpBZJAL1Tf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/oscSoF0MAy-b146-0.jpg",
     "found_at": "2026-09-23T16:46:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones, Vinterjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jQbtf7GUgC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
-    "found_at": "2026-09-23T16:46:12Z"
   }
 ]
