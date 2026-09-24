@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Trekmates, Regnjacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Trekmates",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4u5Ghp70Wr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/NAcoNffot7-e4f2-0.jpg",
+    "found_at": "2026-09-24T07:44:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Peak Performance, Ytterväst, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Peak Performance",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VOkf03JRlY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/cq4JHnbitC-e40c-0.jpg",
+    "found_at": "2026-09-24T07:44:59Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Weekday, Vinterjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/jQbtf7GUgC-b4e7-0.jpg",
+    "found_at": "2026-09-24T07:45:00Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dope, Huvtröja, Strl: S",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/yDJ4FOJc7n-0bbd-0.jpg",
     "found_at": "2026-09-23T08:28:17Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Clipper, Kofta, Strl: M/L",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Clipper",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VvgHyt8IWt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/VvgHyt8IWt-5699-0.jpg",
-    "found_at": "2026-09-23T08:28:24Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Vailent, Slipover, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Vailent",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pmZiFVsMPy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/MhhVqRRkIm-cadc-0.jpg",
-    "found_at": "2026-09-23T06:34:29Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "DKNY Jeans, Kofta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "DKNY Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hIHWG3q21P",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/hIHWG3q21P-3ea3-0.jpg",
-    "found_at": "2026-09-23T06:34:35Z"
   }
 ]
