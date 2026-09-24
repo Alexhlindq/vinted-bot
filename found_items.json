@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mishka NYC, Jeansjacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Mishka NYC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/a920LYPYVa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
+    "found_at": "2026-09-24T20:56:58Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/jQbtf7GUgC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
     "found_at": "2026-09-23T16:46:12Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Cubus, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Cubus",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oyBW2VBoH4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/oyBW2VBoH4-3810-0.jpg",
-    "found_at": "2026-09-23T16:46:15Z"
   }
 ]
