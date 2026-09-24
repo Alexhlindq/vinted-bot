@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Fila, Regnjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Fila",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZjOZBPfK9P",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/D15D70A6MG-09d5-0.jpg",
+    "found_at": "2026-09-24T05:53:54Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Canadian by Batistini, Ytterväst, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Canadian by Batistini",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/ZvdKg0jva5-7807-0.jpg",
+    "found_at": "2026-09-24T05:53:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Adrian Hammond, Bomberjacka, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/oAxBGAhzjR",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
     "found_at": "2026-09-23T06:12:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Timberland, Fleecejacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Timberland",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5WOjycD2wO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
-    "found_at": "2026-09-23T05:52:52Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Aigle, Fleecejacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Aigle",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/5WOjycD2wO-27ce-0.jpg",
-    "found_at": "2026-09-23T05:52:53Z"
   }
 ]
