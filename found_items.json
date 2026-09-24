@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dope, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Dope",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CQ0KPCaqkq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/G1ZCUCMfVQ-33be-0.jpg",
+    "found_at": "2026-09-24T06:56:45Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Fila, Regnjacka, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/hIHWG3q21P",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/hIHWG3q21P-3ea3-0.jpg",
     "found_at": "2026-09-23T06:34:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "BDG by Urban Outfitters, Tröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "BDG by Urban Outfitters",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oAxBGAhzjR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/fQ3gYua8ZA-6042-0.jpg",
-    "found_at": "2026-09-23T06:12:43Z"
   }
 ]
