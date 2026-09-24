@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lexington Clothing Co, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Lexington Clothing Co",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/xsZvr2rGLS-9914-0.jpg",
+    "found_at": "2026-09-24T10:42:42Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mishka NYC, Jeansjacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Mishka NYC",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
+    "found_at": "2026-09-24T10:42:46Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Svea, Dunjacka, Strl: S",
     "price": 40,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/KB6h45BFKm",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/KB6h45BFKm-aac5-0.jpg",
     "found_at": "2026-09-23T11:53:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Rugbytröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3B7AtGgjW7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/pmZiFVsMPy-cbc2-0.jpg",
-    "found_at": "2026-09-23T10:54:54Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dobber, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JwCHwtI1cW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/JwCHwtI1cW-d119-0.jpg",
-    "found_at": "2026-09-23T10:55:01Z"
   }
 ]
