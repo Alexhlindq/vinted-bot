@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Kikillo, Collegetröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Kikillo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Fl6I8uss2r",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/q8IOcQ41Rt-e1df-0.jpg",
+    "found_at": "2026-09-25T09:10:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "These Glory Days, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xnMgevulxR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Ho8DYlX9Vh-0b5a-0.jpg",
+    "found_at": "2026-09-25T09:10:25Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "S.C.W, Kofta, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "S.C.W",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rCm6AP1Sml",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/rCm6AP1Sml-d93f-0.jpg",
+    "found_at": "2026-09-25T09:10:32Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Koppartrans, Kofta, Strl: M",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/Y0FNDYO5Pf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/pjiwdBXHnJ-4b1a-0.jpg",
     "found_at": "2026-09-23T20:28:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sweet Sktbs, Huvtröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Sweet Sktbs",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WNcymSqQny",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/PMD40VjQ5E-fbb0-0.jpg",
-    "found_at": "2026-09-23T20:28:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Gap, Huvtröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Gap",
-    "size": "",
-    "url": "https://www.sellpy.se/item/t6MvOMobTE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/WxJpKmZeNC-7d5d-0.jpg",
-    "found_at": "2026-09-23T20:28:08Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/hLun4pHR1S-8fee-0.jpg",
-    "found_at": "2026-09-23T19:52:34Z"
   }
 ]
