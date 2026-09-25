@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ZvwjqoijBg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-7/ZwhAHxWDBE-2a76-0.jpg",
+    "found_at": "2026-09-25T21:26:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Disney, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Disney",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2OkNXhDmME",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
+    "found_at": "2026-09-25T21:26:44Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "S.C.W. Made for you, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "S.C.W. Made for you",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MPbykrMswh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/MPbykrMswh-a371-0.jpg",
+    "found_at": "2026-09-25T21:26:51Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "KappAhl, Jacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "KappAhl",
+    "size": "",
+    "url": "https://www.sellpy.se/item/n5gALEIY95",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/n5gALEIY95-79a9-0.jpg",
+    "found_at": "2026-09-25T21:27:17Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "French Connection, Vinterjacka, Strl: M",
     "price": 29,
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
     "found_at": "2026-09-24T10:42:46Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Svea, Dunjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Svea",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/MvrLFzzLFN-0238-0.jpg",
-    "found_at": "2026-09-24T10:27:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Peak Performance, Vinterrock, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vECMkmJAAj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/6LFiFfuFdD-3591-0.jpg",
-    "found_at": "2026-09-24T09:15:58Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi's Premium, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi's Premium",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8c5YGK0Sai",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-j-1/eCmfJvY2KO-d2ca-0.jpg",
-    "found_at": "2026-09-24T08:45:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6LFiFfuFdD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
-    "found_at": "2026-09-24T08:11:00Z"
   }
 ]
