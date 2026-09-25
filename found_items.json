@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lindbergh White, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Lindbergh White",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RZIEIJJepW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/RZIEIJJepW-670b-0.jpg",
+    "found_at": "2026-09-25T16:11:19Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Napapijri, Ytterväst, Strl: S",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/JrtedvbqF5-1b9d-0.jpg",
     "found_at": "2026-09-24T05:09:36Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Divided by H&M, Fodrad jeansjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xCYmZkAz6q",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
-    "found_at": "2026-09-24T01:53:52Z"
   }
 ]
