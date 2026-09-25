@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Redgreen, Jacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Redgreen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CJnVYhfHG9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/CJnVYhfHG9-2942-0.jpg",
+    "found_at": "2026-09-25T19:13:36Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ZjOZBPfK9P",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/D15D70A6MG-09d5-0.jpg",
     "found_at": "2026-09-24T05:53:54Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Canadian by Batistini, Ytterväst, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Canadian by Batistini",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/ZvdKg0jva5-7807-0.jpg",
-    "found_at": "2026-09-24T05:53:55Z"
   }
 ]
