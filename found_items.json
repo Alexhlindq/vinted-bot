@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Napapijri, Ytterväst, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Napapijri",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tGouZ8uzpw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/AJSd0OFG92-d6be-0.jpg",
+    "found_at": "2026-09-25T15:40:29Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Levi Strauss & Co, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TG6DSvBh05",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/TG6DSvBh05-09d7-0.jpg",
+    "found_at": "2026-09-25T15:41:00Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/xCYmZkAz6q",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
     "found_at": "2026-09-24T01:53:52Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Allvädersjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0lJ8BMqYWT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/EMGEQUMs4b-4455-0.jpg",
-    "found_at": "2026-09-24T00:55:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Harry Potter, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Harry Potter",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/yNT5lDzd26-f8a1-single.jpg",
-    "found_at": "2026-09-23T23:51:00Z"
   }
 ]
