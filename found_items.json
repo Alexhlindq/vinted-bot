@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Puma, Fleecejacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Puma",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/yjAeu9p45y-e697-0.jpg",
+    "found_at": "2026-09-25T23:25:01Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "O'Neill, Skidjacka, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/CSc5HBjH6y",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/CSc5HBjH6y-bba3-0.jpg",
     "found_at": "2026-09-24T13:12:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Tröja, Strl: M/L",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fzwWFLOGya",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/ZjSCuIvp4z-a69f-0.jpg",
-    "found_at": "2026-09-24T12:12:27Z"
   }
 ]
