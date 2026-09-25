@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Costume o'clock, Ytterväst, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Costume o'clock",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HMj5Vt67vD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-j-1/5ejI5yClAO-691f-0.jpg",
+    "found_at": "2026-09-25T14:58:41Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Calvin Klein, Kofta, Strl: S",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/zsRgwCDelK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/IirdvLbJ4D-4bee-0.jpg",
     "found_at": "2026-09-23T22:10:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Rk2yrkLXK5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/t9oFYIilE8-f90d-0.jpg",
-    "found_at": "2026-09-23T22:10:11Z"
   }
 ]
