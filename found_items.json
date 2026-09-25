@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "French Connection, Vinterjacka, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "French Connection",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OOBrmPWWfD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/ogcwOW13tN-3cbd-0.jpg",
+    "found_at": "2026-09-25T20:53:53Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "O'Neill, Skidjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "O'Neill",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/OOBrmPWWfD-fac1-0.jpg",
+    "found_at": "2026-09-25T20:53:54Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Cost:Bart, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Cost:Bart",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pJ3aOwvKaI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/pJ3aOwvKaI-8bb8-0.jpg",
+    "found_at": "2026-09-25T20:53:59Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Ralph Lauren, Rugbytröja, Strl: M",
     "price": 70,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/6LFiFfuFdD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/8yFL7gSaFy-c4a3-0.jpg",
     "found_at": "2026-09-24T08:11:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones, Vinterjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
-    "found_at": "2026-09-24T08:11:01Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Trekmates, Regnjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Trekmates",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4u5Ghp70Wr",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/NAcoNffot7-e4f2-0.jpg",
-    "found_at": "2026-09-24T07:44:58Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Peak Performance, Ytterväst, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VOkf03JRlY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/cq4JHnbitC-e40c-0.jpg",
-    "found_at": "2026-09-24T07:44:59Z"
   }
 ]
