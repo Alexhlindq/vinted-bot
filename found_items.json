@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jaktjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5ejI5yClAO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EhYVJfIJK-c7c0-0.jpg",
+    "found_at": "2026-09-25T06:57:05Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Björnkläder, Arbetsjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Björnkläder",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LuEdnc1NtW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/zM7OxyW4h4-cd81-0.jpg",
+    "found_at": "2026-09-25T06:57:05Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Mister Tee, Huvtröja, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/1YfeAJsJj9",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/lMWFWaHLmJ-9728-0.jpg",
     "found_at": "2026-09-23T19:09:20Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Riley, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1vKkJ1v6dM",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/1vKkJ1v6dM-d390-0.jpg",
-    "found_at": "2026-09-23T19:09:23Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "WE, Kofta, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "WE",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3VU2FN0mt7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-5/3VU2FN0mt7-55df-0.jpg",
-    "found_at": "2026-09-23T19:09:26Z"
   }
 ]
