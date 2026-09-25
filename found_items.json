@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Napapijri, Ytterväst, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Napapijri",
+    "size": "",
+    "url": "https://www.sellpy.se/item/h3zkqYIUSt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/AJSd0OFG92-d6be-0.jpg",
+    "found_at": "2026-09-25T11:27:28Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Clique, Ytterväst, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Clique",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/h3zkqYIUSt-1a60-0.jpg",
+    "found_at": "2026-09-25T11:27:28Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Only & Sons, Jultröja, Strl: M",
     "price": 45,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/hV5aRdWfaX",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/hV5aRdWfaX-4862-0.jpg",
     "found_at": "2026-09-23T21:10:35Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "WeSC, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/21EIvSU7Fe",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/21EIvSU7Fe-2294-0.jpg",
-    "found_at": "2026-09-23T20:52:06Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones, Vinterjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EMGEQUMs4b",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/Q1uzzfEn3D-5329-0.jpg",
-    "found_at": "2026-09-23T20:40:43Z"
   }
 ]
