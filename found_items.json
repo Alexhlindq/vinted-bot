@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Kofta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YBICjuHaaP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/kzOmlZasDB-63ed-0.jpg",
+    "found_at": "2026-09-26T08:42:25Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pegador, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Pegador",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YvhO79nAtM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/YBICjuHaaP-cf34-0.jpg",
+    "found_at": "2026-09-26T08:42:26Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "FC St.Pauli, Huvtröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "FC St.Pauli",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/YvhO79nAtM-0fa4-0.jpg",
+    "found_at": "2026-09-26T08:42:28Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dickies, Collegetröja, Strl: M",
     "price": 50,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/a920LYPYVa",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
     "found_at": "2026-09-24T20:56:58Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xp1xJCakBI",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/xp1xJCakBI-f28e-0.jpg",
-    "found_at": "2026-09-24T19:38:33Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Tenson, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Tenson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cRtcrjBA5W",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/cRtcrjBA5W-0f83-0.jpg",
-    "found_at": "2026-09-24T19:39:14Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Helly Hansen, Anorak, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Helly Hansen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AvZUIkfz4W",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/cQV3wC4EiO-168b-0.jpg",
-    "found_at": "2026-09-24T19:25:25Z"
   }
 ]
