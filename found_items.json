@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "These Glory Days, Tröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yqfjQLA5NT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/SfcnsF2bFu-7000-0.jpg",
+    "found_at": "2026-09-26T14:52:21Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Riley, Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Riley",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/yqfjQLA5NT-3317-0.jpg",
+    "found_at": "2026-09-26T14:52:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Scotch & Soda, Collegetröja, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/mK7kgr1Yju",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/cQV3wC4EiO-168b-0.jpg",
     "found_at": "2026-09-25T12:56:55Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bläck, Slipover, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vFYkexCIEq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-14/FmoNgpVTIX-b4bb-0.jpg",
-    "found_at": "2026-09-25T11:42:29Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Gap, Huvtröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Gap",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/WxJpKmZeNC-7d5d-0.jpg",
-    "found_at": "2026-09-25T11:42:30Z"
   }
 ]
