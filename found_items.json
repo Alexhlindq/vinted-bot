@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "NLY, Kofta, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "NLY",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ahDKvM81V1",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/ahDKvM81V1-5ec7-0.jpg",
+    "found_at": "2026-09-26T16:10:32Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Trademark, Kofta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Trademark",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zE7yfJKg2d",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/zE7yfJKg2d-d1d5-0.jpg",
+    "found_at": "2026-09-26T16:10:35Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Smiley x H&M, Rugbytröja, Strl: S",
     "price": 29,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/HMj5Vt67vD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-j-1/5ejI5yClAO-691f-0.jpg",
     "found_at": "2026-09-25T14:58:41Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Calvin Klein, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Calvin Klein",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HA7nLSkH5w",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/HA7nLSkH5w-c8a5-0.jpg",
-    "found_at": "2026-09-25T14:29:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ecko Unltd, Huvtröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Ecko Unltd",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/fzwWFLOGya-17ef-0.jpg",
-    "found_at": "2026-09-25T14:11:00Z"
   }
 ]
