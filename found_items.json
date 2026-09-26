@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Smiley x H&M, Rugbytröja, Strl: S",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Smiley x H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hqswD3rIJO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/OZAB7anJWB-0749-0.jpg",
+    "found_at": "2026-09-26T15:41:01Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Adidas Originals, Huvtröja, Strl: M",
     "price": 65,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/fzwWFLOGya-17ef-0.jpg",
     "found_at": "2026-09-25T14:11:00Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Redgreen, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Redgreen",
-    "size": "",
-    "url": "https://www.sellpy.se/item/iNDxnIAHuY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/iNDxnIAHuY-f551-0.jpg",
-    "found_at": "2026-09-25T13:31:29Z"
   }
 ]
