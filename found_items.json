@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Wolsey, Kofta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Wolsey",
+    "size": "",
+    "url": "https://www.sellpy.se/item/onOCjcHx81",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/J28K5FPSmD-7f2b-0.jpg",
+    "found_at": "2026-09-26T00:35:04Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Puma, Fleecejacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/W5efanL0Io-e7fd-0.jpg",
     "found_at": "2026-09-24T13:12:53Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Tokio, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Tokio",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CSc5HBjH6y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/CSc5HBjH6y-bba3-0.jpg",
-    "found_at": "2026-09-24T13:12:58Z"
   }
 ]
