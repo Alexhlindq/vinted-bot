@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Filippa K, Kofta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Filippa K",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HBgBvmQC12",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/HBgBvmQC12-def4-0.jpg",
+    "found_at": "2026-09-26T11:38:55Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Iets Frans, Collegetröja, Strl: S",
     "price": 55,
@@ -646,17 +657,6 @@
     "size": "",
     "url": "https://www.sellpy.se/item/5ejI5yClAO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EhYVJfIJK-c7c0-0.jpg",
-    "found_at": "2026-09-25T06:57:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Björnkläder, Arbetsjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Björnkläder",
-    "size": "",
-    "url": "https://www.sellpy.se/item/LuEdnc1NtW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/zM7OxyW4h4-cd81-0.jpg",
     "found_at": "2026-09-25T06:57:05Z"
   }
 ]
