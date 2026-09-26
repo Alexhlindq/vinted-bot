@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dickies, Collegetröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Dickies",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jMXnmwfeLg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/yDJ4FOJc7n-0bbd-0.jpg",
+    "found_at": "2026-09-26T08:28:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Iets Frans, Collegetröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Iets Frans",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/jMXnmwfeLg-feec-0.jpg",
+    "found_at": "2026-09-26T08:28:14Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/AvZUIkfz4W",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/cQV3wC4EiO-168b-0.jpg",
     "found_at": "2026-09-24T19:25:25Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Bläck, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bläck",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1GQ71t2iei",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-3/1GQ71t2iei-315f-0.jpg",
-    "found_at": "2026-09-24T18:55:14Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Disney, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Disney",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vLDtRsNq0i",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
-    "found_at": "2026-09-24T18:11:52Z"
   }
 ]
