@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Brixtol Textiles, Överskjorta, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Brixtol Textiles",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/TyopGCDmgD-3f5a-0.jpg",
+    "found_at": "2026-09-26T11:51:19Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Filippa K, Kofta, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/8Esj7zXVPN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/BIARvfGbIu-5e28-0.jpg",
     "found_at": "2026-09-25T08:12:52Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jaktjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5ejI5yClAO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-14/7EhYVJfIJK-c7c0-0.jpg",
-    "found_at": "2026-09-25T06:57:05Z"
   }
 ]
