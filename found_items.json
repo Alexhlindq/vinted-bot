@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HHSF8fBFpb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/HHSF8fBFpb-a596-0.jpg",
+    "found_at": "2026-09-26T23:24:43Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "ESPRIT, Tröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/pJ3aOwvKaI",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/pJ3aOwvKaI-8bb8-0.jpg",
     "found_at": "2026-09-25T20:53:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ralph Lauren, Rugbytröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Ralph Lauren",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/9epqJQwxaT-2d9c-0.jpg",
-    "found_at": "2026-09-25T20:42:03Z"
   }
 ]
