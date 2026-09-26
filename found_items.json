@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Disney, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Disney",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ySeNKSvJhK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
+    "found_at": "2026-09-26T01:25:19Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Wolsey, Kofta, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ogcwOW13tN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/jDCuDsEUnB-dd59-0.jpg",
     "found_at": "2026-09-24T14:10:27Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "A Day's March, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "A Day's March",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-2/W5efanL0Io-e7fd-0.jpg",
-    "found_at": "2026-09-24T13:12:53Z"
   }
 ]
