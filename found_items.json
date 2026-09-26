@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Bershka, Bomberjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bershka",
+    "size": "",
+    "url": "https://www.sellpy.se/item/i3ZAuEcvk7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/vECMkmJAAj-148d-0.jpg",
+    "found_at": "2026-09-26T21:09:29Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Adidas, Huvtröja, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/CJnVYhfHG9",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/CJnVYhfHG9-2942-0.jpg",
     "found_at": "2026-09-25T19:13:36Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Slipover, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9epqJQwxaT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-25T17:09:14Z"
   }
 ]
