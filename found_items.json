@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Scotch & Soda, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QqEHw0Xy0N",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
+    "found_at": "2026-09-26T14:40:12Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "ASOS Design, Bomberjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qto8NmcED5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AMcdRxAUG3-97f6-0.jpg",
+    "found_at": "2026-09-26T14:40:16Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/WxJpKmZeNC-7d5d-0.jpg",
     "found_at": "2026-09-25T11:42:30Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Napapijri, Ytterväst, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Napapijri",
-    "size": "",
-    "url": "https://www.sellpy.se/item/h3zkqYIUSt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/AJSd0OFG92-d6be-0.jpg",
-    "found_at": "2026-09-25T11:27:28Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Clique, Ytterväst, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Clique",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/h3zkqYIUSt-1a60-0.jpg",
-    "found_at": "2026-09-25T11:27:28Z"
   }
 ]
