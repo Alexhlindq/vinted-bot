@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Slipover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SfcnsF2bFu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
+    "found_at": "2026-09-26T07:39:02Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Nikolaj d’Étoiles, Bomberjacka, Strl: S",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/vLDtRsNq0i",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
     "found_at": "2026-09-24T18:11:52Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Drykorn for Beautiful People, Väst, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Drykorn for Beautiful People",
-    "size": "",
-    "url": "https://www.sellpy.se/item/a7Cabhlfsl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/a7Cabhlfsl-cba1-0.jpg",
-    "found_at": "2026-09-24T16:45:00Z"
   }
 ]
