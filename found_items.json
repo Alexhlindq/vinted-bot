@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Bison, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Bison",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bOxY5yVsSA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/bOxY5yVsSA-66ab-0.jpg",
+    "found_at": "2026-09-26T13:09:31Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Nimbus, Huvtröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/xnMgevulxR",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/Ho8DYlX9Vh-0b5a-0.jpg",
     "found_at": "2026-09-25T09:10:25Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "S.C.W, Kofta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "S.C.W",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rCm6AP1Sml",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/rCm6AP1Sml-d93f-0.jpg",
-    "found_at": "2026-09-25T09:10:32Z"
   }
 ]
