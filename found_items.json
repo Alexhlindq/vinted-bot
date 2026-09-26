@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Iets Frans, Collegetröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Iets Frans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/nv6ABpMgTU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/jMXnmwfeLg-feec-0.jpg",
+    "found_at": "2026-09-26T11:09:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Polar Skate Co., Collegetröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Polar Skate Co.",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/nv6ABpMgTU-1ca5-0.jpg",
+    "found_at": "2026-09-26T11:09:11Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "GANT, Jacka, Strl: M",
     "price": 55,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/LuEdnc1NtW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/zM7OxyW4h4-cd81-0.jpg",
     "found_at": "2026-09-25T06:57:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Mister Tee, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Mister Tee",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/Rk2yrkLXK5-e45a-0.jpg",
-    "found_at": "2026-09-25T05:54:04Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Dope, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Dope",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZJuBYV7uz9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/FLDbqAGhi6-35c6-0.jpg",
-    "found_at": "2026-09-25T05:41:17Z"
   }
 ]
