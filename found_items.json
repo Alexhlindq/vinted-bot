@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pegador, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Pegador",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/YBICjuHaaP-cf34-0.jpg",
+    "found_at": "2026-09-26T09:39:21Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Gipsy, Jacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Gipsy",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/RtCMIYTib6-beec-0.jpg",
+    "found_at": "2026-09-26T09:39:29Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Ling Sen, Jacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Ling Sen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/R0bP6FzK3r",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/R0bP6FzK3r-0647-0.jpg",
+    "found_at": "2026-09-26T09:39:58Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Penfield, Jacka, Strl: S",
     "price": 65,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/4fotWMpkiU",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/Ec7xcGDayM-061f-0.jpg",
     "found_at": "2026-09-24T23:51:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Weekday, Bomberjacka, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-11/a920LYPYVa-e1cc-0.jpg",
-    "found_at": "2026-09-24T23:51:32Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Process Black, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Process Black",
-    "size": "",
-    "url": "https://www.sellpy.se/item/55OKzh7lMl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/55OKzh7lMl-1235-0.jpg",
-    "found_at": "2026-09-24T23:51:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Zara, Slipover, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Zara",
-    "size": "",
-    "url": "https://www.sellpy.se/item/o430T9G7pR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/IirdvLbJ4D-4bee-0.jpg",
-    "found_at": "2026-09-24T22:26:47Z"
   }
 ]
