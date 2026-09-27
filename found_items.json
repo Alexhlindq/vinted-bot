@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Canadian by Batistini, Ytterväst, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Canadian by Batistini",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DC0m8xUJkR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/ZvdKg0jva5-7807-0.jpg",
+    "found_at": "2026-09-27T08:10:09Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Kofta, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/2OkNXhDmME",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
     "found_at": "2026-09-25T21:26:44Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "S.C.W. Made for you, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "S.C.W. Made for you",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MPbykrMswh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/MPbykrMswh-a371-0.jpg",
-    "found_at": "2026-09-25T21:26:51Z"
   }
 ]
