@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Adidas Originals, Bomberjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Adidas Originals",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pF7UB2ptOQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-10/4fotWMpkiU-b2bc-0.jpg",
+    "found_at": "2026-09-27T14:25:42Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Jack's Sportswear, Kofta, Strl: M",
     "price": 65,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/onOCjcHx81",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/J28K5FPSmD-7f2b-0.jpg",
     "found_at": "2026-09-26T00:35:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Puma, Fleecejacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Puma",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/yjAeu9p45y-e697-0.jpg",
-    "found_at": "2026-09-25T23:25:01Z"
   }
 ]
