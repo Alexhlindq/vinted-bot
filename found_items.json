@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ia4cQrkWq2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-2/ia4cQrkWq2-e44c-0.jpg",
+    "found_at": "2026-09-27T04:42:30Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "L.O.G.G by H&M, Fleecejacka, Strl: S",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/OOBrmPWWfD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/ogcwOW13tN-3cbd-0.jpg",
     "found_at": "2026-09-25T20:53:53Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "O'Neill, Skidjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "O'Neill",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/OOBrmPWWfD-fac1-0.jpg",
-    "found_at": "2026-09-25T20:53:54Z"
   }
 ]
