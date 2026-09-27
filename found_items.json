@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Polo Ralph Lauren, Mjukisbyxor, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YsKvVCxGo4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-9-k-12/YsKvVCxGo4-5988-0.jpg",
+    "found_at": "2026-09-27T11:39:33Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Gildan, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Gildan",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ln4yLBnH3V",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/Y0FNDYO5Pf-955f-0.jpg",
+    "found_at": "2026-09-27T11:39:37Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Canadian by Batistini, Ytterväst, Strl: M",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/qfvFVCHm0S",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/qfvFVCHm0S-f70e-0.jpg",
     "found_at": "2026-09-25T21:41:26Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Chinos, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZvwjqoijBg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-7/ZwhAHxWDBE-2a76-0.jpg",
-    "found_at": "2026-09-25T21:26:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Disney, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Disney",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2OkNXhDmME",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
-    "found_at": "2026-09-25T21:26:44Z"
   }
 ]
