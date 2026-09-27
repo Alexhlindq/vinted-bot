@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "ASOS Design, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/CvwIXcz2d0-01e0-0.jpg",
+    "found_at": "2026-09-27T21:51:29Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Be Edgy, Jacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/bOxY5yVsSA",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/bOxY5yVsSA-66ab-0.jpg",
     "found_at": "2026-09-26T13:09:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nimbus, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Nimbus",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JKNcKA9EPQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/vLDtRsNq0i-a5b5-0.jpg",
-    "found_at": "2026-09-26T12:54:50Z"
   }
 ]
