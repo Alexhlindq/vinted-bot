@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jack's Sportswear, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Jack's Sportswear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/RUOOBvC8K9-a51e-0.jpg",
+    "found_at": "2026-09-27T13:39:33Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Next, Jacka, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Next",
+    "size": "",
+    "url": "https://www.sellpy.se/item/hMyvvH1Hl8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/hMyvvH1Hl8-4109-0.jpg",
+    "found_at": "2026-09-27T13:40:30Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Adverb, Kofta, Strl: S",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/yjAeu9p45y-e697-0.jpg",
     "found_at": "2026-09-25T23:25:01Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "O'Neill, Skidjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "O'Neill",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yjAeu9p45y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/OOBrmPWWfD-fac1-0.jpg",
-    "found_at": "2026-09-25T23:09:53Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tN0tsUeB3C",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-2/TO2VAPm1E7-3215-0.jpg",
-    "found_at": "2026-09-25T22:40:34Z"
   }
 ]
