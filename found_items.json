@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Starter, Collegetröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Starter",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lI3H3BFZmZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wOoyYEdqlk-d491-0.jpg",
+    "found_at": "2026-09-27T15:09:53Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Adidas Originals, Bomberjacka, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ySeNKSvJhK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/NLsWx9oQqJ-30b9-0.jpg",
     "found_at": "2026-09-26T01:25:19Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Wolsey, Kofta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Wolsey",
-    "size": "",
-    "url": "https://www.sellpy.se/item/onOCjcHx81",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/J28K5FPSmD-7f2b-0.jpg",
-    "found_at": "2026-09-26T00:35:04Z"
   }
 ]
