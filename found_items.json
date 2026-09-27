@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Eddie, Tröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Eddie",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/xnMgevulxR-182e-0.jpg",
+    "found_at": "2026-09-27T21:25:55Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Smiley x H&M, Rugbytröja, Strl: S",
     "price": 29,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/TyopGCDmgD-3f5a-0.jpg",
     "found_at": "2026-09-26T11:51:19Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Filippa K, Kofta, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Filippa K",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HBgBvmQC12",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/HBgBvmQC12-def4-0.jpg",
-    "found_at": "2026-09-26T11:38:55Z"
   }
 ]
