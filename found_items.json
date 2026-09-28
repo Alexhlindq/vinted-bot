@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Trn1961, Allvädersjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Trn1961",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RSaSWySYNR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nG6FlEozsv-4628-0.jpg",
+    "found_at": "2026-09-28T13:44:33Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Nimbus, Huvtröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/zE7yfJKg2d",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/zE7yfJKg2d-d1d5-0.jpg",
     "found_at": "2026-09-26T16:10:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Smiley x H&M, Rugbytröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Smiley x H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hqswD3rIJO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/OZAB7anJWB-0749-0.jpg",
-    "found_at": "2026-09-26T15:41:01Z"
   }
 ]
