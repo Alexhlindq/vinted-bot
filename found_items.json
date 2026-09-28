@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mishka NYC, Jeansjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Mishka NYC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mwmRaFEJHL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
+    "found_at": "2026-09-28T21:10:27Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Core by Jack & Jones, Dunjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Core by Jack & Jones",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/jDCuDsEUnB-dd59-0.jpg",
+    "found_at": "2026-09-28T21:10:28Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Riley, Polotröja, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/RUOOBvC8K9-a51e-0.jpg",
     "found_at": "2026-09-27T13:39:33Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Next, Jacka, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Next",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hMyvvH1Hl8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/hMyvvH1Hl8-4109-0.jpg",
-    "found_at": "2026-09-27T13:40:30Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Adverb, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Adverb",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RbBRQWKvzp",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/RbBRQWKvzp-d589-0.jpg",
-    "found_at": "2026-09-27T13:26:04Z"
   }
 ]
