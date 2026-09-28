@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Champion, Vinterjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Champion",
+    "size": "",
+    "url": "https://www.sellpy.se/item/31Agq2A832",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-2/abZsujNfuq-72b3-0.jpg",
+    "found_at": "2026-09-28T15:22:29Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Parforce, Ytterväst, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Parforce",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/ZTFrGe3LwI-6407-0.jpg",
+    "found_at": "2026-09-28T15:22:30Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "H&M, Fodrad jeansjacka, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/aEdBRMwOF5",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/aEdBRMwOF5-638e-0.jpg",
     "found_at": "2026-09-26T20:09:53Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Pullover, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/alrCBErEIH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/hqswD3rIJO-4d7c-0.jpg",
-    "found_at": "2026-09-26T19:08:53Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Riley, Polotröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CvwIXcz2d0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/alrCBErEIH-fdc2-0.jpg",
-    "found_at": "2026-09-26T19:08:55Z"
   }
 ]
