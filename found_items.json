@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "East West, Duffel, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "East West",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4VaBKK1u2o",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/jFhrVuh5Oh-2afd-0.jpg",
+    "found_at": "2026-09-28T08:33:47Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "ASOS, Jacka, Strl: S/M",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/yqfjQLA5NT",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/SfcnsF2bFu-7000-0.jpg",
     "found_at": "2026-09-26T14:52:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Riley, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/yqfjQLA5NT-3317-0.jpg",
-    "found_at": "2026-09-26T14:52:23Z"
   }
 ]
