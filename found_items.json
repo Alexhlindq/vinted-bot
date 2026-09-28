@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Karl Kani, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Karl Kani",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BGuXDR0WLC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
+    "found_at": "2026-09-28T21:42:02Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Mishka NYC, Jeansjacka, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/pF7UB2ptOQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-10/4fotWMpkiU-b2bc-0.jpg",
     "found_at": "2026-09-27T14:25:42Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Jack's Sportswear, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Jack's Sportswear",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/RUOOBvC8K9-a51e-0.jpg",
-    "found_at": "2026-09-27T13:39:33Z"
   }
 ]
