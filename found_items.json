@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Scotch & Soda, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PGYR5jCIHI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/PGYR5jCIHI-77b3-0.jpg",
+    "found_at": "2026-09-28T21:55:52Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "s.Oliver, Jacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "s.Oliver",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tfk5TkHyXO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/tfk5TkHyXO-e7f0-0.jpg",
+    "found_at": "2026-09-28T21:55:54Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Karl Kani, Huvtröja, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/qsXgn1ArUc",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/lI3H3BFZmZ-a43a-0.jpg",
     "found_at": "2026-09-27T15:52:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Starter, Collegetröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Starter",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lI3H3BFZmZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/wOoyYEdqlk-d491-0.jpg",
-    "found_at": "2026-09-27T15:09:53Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Adidas Originals, Bomberjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Adidas Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pF7UB2ptOQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-10/4fotWMpkiU-b2bc-0.jpg",
-    "found_at": "2026-09-27T14:25:42Z"
   }
 ]
