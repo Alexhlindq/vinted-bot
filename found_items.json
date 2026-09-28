@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Dressmann, Kofta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PsER0gVU1P",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/PsER0gVU1P-52d4-0.jpg",
+    "found_at": "2026-09-28T14:44:15Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Trn1961, Allvädersjacka, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ahDKvM81V1",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/ahDKvM81V1-5ec7-0.jpg",
     "found_at": "2026-09-26T16:10:32Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Trademark, Kofta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Trademark",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zE7yfJKg2d",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/zE7yfJKg2d-d1d5-0.jpg",
-    "found_at": "2026-09-26T16:10:35Z"
   }
 ]
