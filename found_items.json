@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Riley, Polotröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Riley",
+    "size": "",
+    "url": "https://www.sellpy.se/item/s5zKiiQwgT",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/alrCBErEIH-fdc2-0.jpg",
+    "found_at": "2026-09-28T20:29:55Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dickies, Collegetröja, Strl: M",
     "price": 50,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/RbBRQWKvzp",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/RbBRQWKvzp-d589-0.jpg",
     "found_at": "2026-09-27T13:26:04Z"
-  },
-  {
-    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
-    "title": "Polo Ralph Lauren, Mjukisbyxor, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Polo Ralph Lauren",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YsKvVCxGo4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-9-k-12/YsKvVCxGo4-5988-0.jpg",
-    "found_at": "2026-09-27T11:39:33Z"
   }
 ]
