@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "L.O.G.G by H&M, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7tz3iYTYry",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WlZj53l8VI-3191-0.jpg",
+    "found_at": "2026-09-28T00:14:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Didriksons 1913, Jacka, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/QqEHw0Xy0N",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
     "found_at": "2026-09-26T14:40:12Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "ASOS Design, Bomberjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qto8NmcED5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AMcdRxAUG3-97f6-0.jpg",
-    "found_at": "2026-09-26T14:40:16Z"
   }
 ]
