@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "ASOS Design, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "ASOS Design",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5yMoU88gSB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/Ln4yLBnH3V-eef7-0.jpg",
+    "found_at": "2026-09-29T09:57:11Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Åhléns, Dunjacka, Strl: M",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/LR5MqEMoTN",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/aVBmZq2MDg-2cc0-0.jpg",
     "found_at": "2026-09-27T19:08:40Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Dobsom, Anorak, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Dobsom",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/PY2lDJRWc3-47a0-0.jpg",
-    "found_at": "2026-09-27T19:08:47Z"
   }
 ]
