@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Hollister, Pullover, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Hollister",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pPIchDUA8C",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/zOPXCSKCfW-82c3-0.jpg",
+    "found_at": "2026-09-29T16:20:36Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Denham, Jacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Denham",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2vHbjsLMba",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/3KQ0hBM9s9-0ef5-0.jpg",
+    "found_at": "2026-09-29T16:20:40Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Marin Alpin, Skidjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Marin Alpin",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/yiYj8KpB2i-6816-0.jpg",
+    "found_at": "2026-09-29T16:20:41Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Parforce, Ytterväst, Strl: M",
     "price": 45,
@@ -625,38 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/YAEiFiVBaJ-5c65-0.jpg",
     "found_at": "2026-09-27T21:39:46Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Jack & Jones, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YLLFjE4LOX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/YLLFjE4LOX-e2b1-0.jpg",
-    "found_at": "2026-09-27T21:39:50Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Eddie, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Eddie",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/xnMgevulxR-182e-0.jpg",
-    "found_at": "2026-09-27T21:25:55Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Smiley x H&M, Rugbytröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Smiley x H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KxMlAJXqaz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/OZAB7anJWB-0749-0.jpg",
-    "found_at": "2026-09-27T20:52:24Z"
   }
 ]
