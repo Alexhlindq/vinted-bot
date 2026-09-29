@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Åhléns, Dunjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Åhléns",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/U9LPFWE8np-74af-0.jpg",
+    "found_at": "2026-09-29T04:29:16Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lager 157, Tröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/hOq1UCxmH2",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/euRNZLuyBP-d1f5-0.jpg",
     "found_at": "2026-09-27T17:09:18Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Cottonfield, Safarijacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Cottonfield",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/NReyCrAxxJ-d665-0.jpg",
-    "found_at": "2026-09-27T16:27:23Z"
   }
 ]
