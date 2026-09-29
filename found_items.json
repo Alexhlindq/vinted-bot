@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OYByzXDMct",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-09-29T00:38:40Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Morris R Club, Bomberjacka, Strl: S",
     "price": 50,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/hWrgDEyGlG",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Q8MRCYrUR4-28d9-0.jpg",
     "found_at": "2026-09-27T16:10:15Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Lager 157, Reflexjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Lager 157",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/hWrgDEyGlG-265a-0.jpg",
-    "found_at": "2026-09-27T16:10:16Z"
   }
 ]
