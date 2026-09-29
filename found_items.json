@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "GANT, Bomberjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/BdKcVejgmp-493b-0.jpg",
+    "found_at": "2026-09-29T22:28:20Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lyle & Scott, Huvtröja, Strl: S",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/31Agq2A832",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-2/abZsujNfuq-72b3-0.jpg",
     "found_at": "2026-09-28T15:22:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Parforce, Ytterväst, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Parforce",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/ZTFrGe3LwI-6407-0.jpg",
-    "found_at": "2026-09-28T15:22:30Z"
   }
 ]
