@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Pullover, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JtVqMbb2Wu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/Fl6I8uss2r-569e-0.jpg",
+    "found_at": "2026-09-29T20:47:00Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Dickies, Arbetsjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Dickies",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-4/dbzHbGtTrM-f8f6-0.jpg",
+    "found_at": "2026-09-29T20:47:04Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein, Kofta, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Calvin Klein",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EjHINRlRXG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/EjHINRlRXG-7ac4-0.jpg",
+    "found_at": "2026-09-29T20:47:08Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Gildan, Collegetröja, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/PsER0gVU1P",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/PsER0gVU1P-52d4-0.jpg",
     "found_at": "2026-09-28T14:44:15Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Trn1961, Allvädersjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Trn1961",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RSaSWySYNR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nG6FlEozsv-4628-0.jpg",
-    "found_at": "2026-09-28T13:44:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nimbus, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Nimbus",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fJAiaWAOhY",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-5/vLDtRsNq0i-a5b5-0.jpg",
-    "found_at": "2026-09-28T13:17:30Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Kiss, Collegetröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Kiss",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/fJAiaWAOhY-f5ac-0.jpg",
-    "found_at": "2026-09-28T13:17:31Z"
   }
 ]
