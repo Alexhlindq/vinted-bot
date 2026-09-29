@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jordan, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Jordan",
+    "size": "",
+    "url": "https://www.sellpy.se/item/d9V6V0c7DJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/cGE0S4beqp-dc82-0.jpg",
+    "found_at": "2026-09-29T18:57:28Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Ekzo Larekzo, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Ekzo Larekzo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/w0yRhEUW3w",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/w0yRhEUW3w-874b-0.jpg",
+    "found_at": "2026-09-29T18:57:35Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Calvin Klein Jeans, Kofta, Strl: S",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/vukveHUznB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/vukveHUznB-fde1-single.jpg",
     "found_at": "2026-09-27T22:53:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Arket, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/JjGmgJJvvX-4080-0.jpg",
-    "found_at": "2026-09-27T22:26:44Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Riley, Polotröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/alrCBErEIH-fdc2-0.jpg",
-    "found_at": "2026-09-27T22:09:30Z"
   }
 ]
