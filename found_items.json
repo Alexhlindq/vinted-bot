@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Morris R Club, Bomberjacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Morris R Club",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/RSaSWySYNR-a5df-0.jpg",
+    "found_at": "2026-09-29T00:14:26Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Scotch & Soda, Jacka, Strl: M",
     "price": 45,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/hWrgDEyGlG-265a-0.jpg",
     "found_at": "2026-09-27T16:10:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Peak Performance, Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Peak Performance",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qsXgn1ArUc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/lI3H3BFZmZ-a43a-0.jpg",
-    "found_at": "2026-09-27T15:52:23Z"
   }
 ]
