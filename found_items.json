@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Gap, Fleecejacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Gap",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CNJMxAkN0u",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/mwmRaFEJHL-9ba5-0.jpg",
+    "found_at": "2026-09-29T11:59:26Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "H&M Modern Classic, Kofta, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/8gxYSJ89qm",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/gA4KpVmu1b-36f4-0.jpg",
     "found_at": "2026-09-27T19:24:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "ASOS Design, Tröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/og3U2CMelD",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/Ln4yLBnH3V-eef7-0.jpg",
-    "found_at": "2026-09-27T19:08:37Z"
   }
 ]
