@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Denim & Supply Ralph Lauren, Jeans, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Denim & Supply Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QFK7jvvqRU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/QFK7jvvqRU-88b1-0.jpg",
+    "found_at": "2026-09-29T19:55:21Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Ytterväst, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9gOgLYzrG9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/mK7kgr1Yju-9723-0.jpg",
+    "found_at": "2026-09-29T19:55:30Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Jordan, Huvtröja, Strl: S",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/WW8f8rIGSp",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/cBTcGiYvC6-45ed-0.jpg",
     "found_at": "2026-09-27T23:51:32Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Smiley x H&M, Rugbytröja, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Smiley x H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/OZAB7anJWB-0749-0.jpg",
-    "found_at": "2026-09-27T22:53:02Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Didriksons 1913, Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Didriksons 1913",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vukveHUznB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/vukveHUznB-fde1-single.jpg",
-    "found_at": "2026-09-27T22:53:33Z"
   }
 ]
