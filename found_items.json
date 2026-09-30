@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "GANT, Bomberjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QJhzDqNd67",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/BdKcVejgmp-493b-0.jpg",
+    "found_at": "2026-09-30T23:09:12Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "My Favourites, Jultröja, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/5yMoU88gSB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/Ln4yLBnH3V-eef7-0.jpg",
     "found_at": "2026-09-29T09:57:11Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Åhléns, Dunjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Åhléns",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UFYaCMkdDO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/U9LPFWE8np-74af-0.jpg",
-    "found_at": "2026-09-29T08:56:31Z"
   }
 ]
