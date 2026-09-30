@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Regnjacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PqtEUqolfO",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/fnUIHDCsoA-748c-0.jpg",
+    "found_at": "2026-09-30T15:33:08Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Uniqlo x Theory, Överskjorta, Strl: S",
     "price": 75,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/mWNwchDX7K",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/yDJ4FOJc7n-0bbd-0.jpg",
     "found_at": "2026-09-28T20:13:37Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Nikolaj d’Étoiles, Bomberjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Nikolaj d’Étoiles",
-    "size": "",
-    "url": "https://www.sellpy.se/item/U9LPFWE8np",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-7/LuEdnc1NtW-967a-0.jpg",
-    "found_at": "2026-09-28T19:58:13Z"
   }
 ]
