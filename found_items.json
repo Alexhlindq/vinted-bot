@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "ESPRIT, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "ESPRIT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/X9CVY3CqLl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/Nn6NPs2XrM-29e9-0.jpg",
+    "found_at": "2026-09-30T20:46:12Z"
+  },
+  {
     "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
     "title": "Polo Ralph Lauren, Mjukisbyxor, Strl: M",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/APe5v2t0wR",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/wv5GvNJPPb-88f2-0.jpg",
     "found_at": "2026-09-29T07:12:22Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Stemning, Jultröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Stemning",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/hZztgKjD8O-7acc-0.jpg",
-    "found_at": "2026-09-29T06:47:20Z"
   }
 ]
