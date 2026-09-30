@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "L.O.G.G by H&M, Fleecejacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/T8HNVVZfkS",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/SFBnO3szVx-eb87-0.jpg",
+    "found_at": "2026-09-30T13:58:12Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Kiss, Collegetröja, Strl: S",
     "price": 75,
@@ -646,17 +657,6 @@
     "size": "",
     "url": "https://www.sellpy.se/item/zOPXCSKCfW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-28T19:45:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Hollister, Pullover, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Hollister",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/zOPXCSKCfW-82c3-0.jpg",
     "found_at": "2026-09-28T19:45:39Z"
   }
 ]
