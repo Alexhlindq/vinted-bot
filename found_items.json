@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Brian Geoffrey, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Brian Geoffrey",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wu1SCc0Qzj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/wu1SCc0Qzj-5f9c-0.jpg",
+    "found_at": "2026-09-30T17:32:16Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "ESPRIT, Tröja, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/tfk5TkHyXO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/tfk5TkHyXO-e7f0-0.jpg",
     "found_at": "2026-09-28T21:55:54Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Karl Kani, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Karl Kani",
-    "size": "",
-    "url": "https://www.sellpy.se/item/BGuXDR0WLC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
-    "found_at": "2026-09-28T21:42:02Z"
   }
 ]
