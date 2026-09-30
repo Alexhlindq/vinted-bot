@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "ESPRIT, Tröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "ESPRIT",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/Nn6NPs2XrM-29e9-0.jpg",
+    "found_at": "2026-09-30T16:43:11Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein Jeans, Kofta, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Calvin Klein Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ySgdtEYU7m",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/ySgdtEYU7m-1266-0.jpg",
+    "found_at": "2026-09-30T16:43:17Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Rabalder, Kofta, Strl: M",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/BGuXDR0WLC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/EXFw6wmAit-3850-0.jpg",
     "found_at": "2026-09-28T21:42:02Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mishka NYC, Jeansjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Mishka NYC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mwmRaFEJHL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/vASwATWlTY-c31f-0.jpg",
-    "found_at": "2026-09-28T21:10:27Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Core by Jack & Jones, Dunjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Core by Jack & Jones",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/jDCuDsEUnB-dd59-0.jpg",
-    "found_at": "2026-09-28T21:10:28Z"
   }
 ]
