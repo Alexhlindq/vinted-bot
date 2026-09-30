@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Marin Alpin, Skidjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Marin Alpin",
+    "size": "",
+    "url": "https://www.sellpy.se/item/B1wRB9OKFj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/yiYj8KpB2i-6816-0.jpg",
+    "found_at": "2026-09-30T14:17:43Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Cross Sportswear, Ytterväst, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Cross Sportswear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/B1wRB9OKFj-f9ae-0.jpg",
+    "found_at": "2026-09-30T14:17:44Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "L.O.G.G by H&M, Fleecejacka, Strl: S",
     "price": 50,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/t1jMAytrHH",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/t1jMAytrHH-0861-0.jpg",
     "found_at": "2026-09-28T19:58:43Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Wooden Barrel, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Wooden Barrel",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dDMIpZe9Ny",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/dDMIpZe9Ny-f995-0.jpg",
-    "found_at": "2026-09-28T19:58:45Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Slipover, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zOPXCSKCfW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
-    "found_at": "2026-09-28T19:45:39Z"
   }
 ]
