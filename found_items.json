@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Polo Ralph Lauren, Mjukisbyxor, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FwA6HoX9xG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/MfvR6QW9EK-5b38-0.jpg",
+    "found_at": "2026-09-30T20:29:54Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Mackenzie, Fleecetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Mackenzie",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fZL975nmkU",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/HYUVmZq9pq-1e76-0.jpg",
+    "found_at": "2026-09-30T20:30:00Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Slipover, Strl: S",
     "price": 40,
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-14/hZztgKjD8O-7acc-0.jpg",
     "found_at": "2026-09-29T06:47:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Kiss, Collegetröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Kiss",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hZztgKjD8O",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-15/fJAiaWAOhY-f5ac-0.jpg",
-    "found_at": "2026-09-29T05:09:59Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Åhléns, Dunjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Åhléns",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/U9LPFWE8np-74af-0.jpg",
-    "found_at": "2026-09-29T04:29:16Z"
   }
 ]
