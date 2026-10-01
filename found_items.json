@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "8848 Altitude, Softshelljacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "8848 Altitude",
+    "size": "",
+    "url": "https://www.sellpy.se/item/KAPwVXMGHP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/Ec7xcGDayM-061f-0.jpg",
+    "found_at": "2026-10-01T14:22:02Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones Jeans Intelligence, Fodrad jeansjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones Jeans Intelligence",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/KAPwVXMGHP-229f-0.jpg",
+    "found_at": "2026-10-01T14:22:03Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "O'Neill, Skidjacka, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/l9pP841n5Y",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-j-1/l9pP841n5Y-925e-0.jpg",
     "found_at": "2026-09-29T20:11:44Z"
-  },
-  {
-    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
-    "title": "Denim & Supply Ralph Lauren, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Denim & Supply Ralph Lauren",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QFK7jvvqRU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/QFK7jvvqRU-88b1-0.jpg",
-    "found_at": "2026-09-29T19:55:21Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Ytterväst, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9gOgLYzrG9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/mK7kgr1Yju-9723-0.jpg",
-    "found_at": "2026-09-29T19:55:30Z"
   }
 ]
