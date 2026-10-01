@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Ragazzi, Anorak, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Ragazzi",
+    "size": "",
+    "url": "https://www.sellpy.se/item/k752x50pHD",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/WW8f8rIGSp-7a37-0.jpg",
+    "found_at": "2026-10-01T11:31:24Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Pullover, Strl: M",
     "price": 29,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/w0yRhEUW3w",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-4/w0yRhEUW3w-874b-0.jpg",
     "found_at": "2026-09-29T18:57:35Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Calvin Klein Jeans, Kofta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Calvin Klein Jeans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Yhr6ttX7Lt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/Yhr6ttX7Lt-a071-0.jpg",
-    "found_at": "2026-09-29T17:33:13Z"
   }
 ]
