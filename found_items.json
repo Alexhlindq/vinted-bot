@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones Jeans Intelligence, Fodrad jeansjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Jack & Jones Jeans Intelligence",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lJ8YjspPaR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/KAPwVXMGHP-229f-0.jpg",
+    "found_at": "2026-10-01T15:49:26Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Lager 157, Reflexjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Lager 157",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/lJ8YjspPaR-a39e-0.jpg",
+    "found_at": "2026-10-01T15:49:27Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "John Henric, Tröja, Strl: S",
     "price": 65,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/JtVqMbb2Wu",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/Fl6I8uss2r-569e-0.jpg",
     "found_at": "2026-09-29T20:47:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Dickies, Arbetsjacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Dickies",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-4/dbzHbGtTrM-f8f6-0.jpg",
-    "found_at": "2026-09-29T20:47:04Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Calvin Klein, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Calvin Klein",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EjHINRlRXG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/EjHINRlRXG-7ac4-0.jpg",
-    "found_at": "2026-09-29T20:47:08Z"
   }
 ]
