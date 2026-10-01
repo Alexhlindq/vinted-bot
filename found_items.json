@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "L.O.G.G by H&M, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "L.O.G.G by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fNA2pvtNQP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/fNA2pvtNQP-7f50-0.jpg",
+    "found_at": "2026-10-01T19:16:02Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Only & Sons, Vinterjacka, Strl: M",
     "price": 55,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/BdKcVejgmp-493b-0.jpg",
     "found_at": "2026-09-29T22:28:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/ySxeLFQQgN-9883-0.jpg",
-    "found_at": "2026-09-29T21:29:07Z"
   }
 ]
