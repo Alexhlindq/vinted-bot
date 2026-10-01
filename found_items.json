@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Crocker Apparel, Kofta, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Crocker Apparel",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AL2eNAlvNY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-5/AL2eNAlvNY-4b90-0.jpg",
+    "found_at": "2026-10-01T19:54:06Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
     "title": "Selected Homme Identity, Kofta, Strl: M",
     "price": 50,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/W2Lka5Pvsy",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/W2Lka5Pvsy-7523-0.jpg",
     "found_at": "2026-09-30T05:11:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Ecko Unltd, Huvtröja, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Ecko Unltd",
-    "size": "",
-    "url": "https://www.sellpy.se/item/kZO1sK1LIk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/fzwWFLOGya-17ef-0.jpg",
-    "found_at": "2026-09-30T03:14:20Z"
   }
 ]
