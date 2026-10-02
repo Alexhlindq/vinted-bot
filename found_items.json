@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Swedemount, Jacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Swedemount",
+    "size": "",
+    "url": "https://www.sellpy.se/item/biuZck3ui0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/biuZck3ui0-78c4-0.jpg",
+    "found_at": "2026-10-02T10:12:22Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Junk de Luxe, Jacka, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/oxKN3I3tGM",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/oxKN3I3tGM-ecd4-0.jpg",
     "found_at": "2026-09-30T16:16:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Regnjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PqtEUqolfO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/fnUIHDCsoA-748c-0.jpg",
-    "found_at": "2026-09-30T15:33:08Z"
   }
 ]
