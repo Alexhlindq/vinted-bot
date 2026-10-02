@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Vinterjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zAF9fUvAlw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/9gOgLYzrG9-d4cf-0.jpg",
+    "found_at": "2026-10-02T18:13:34Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Polar Life Guard, Vinterjacka, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/dQUaVSrubg",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/dQUaVSrubg-f2d3-0.jpg",
     "found_at": "2026-09-30T18:59:08Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bugatti, Rock, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Bugatti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/H0K2pyVndO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-13/2vHbjsLMba-124b-0.jpg",
-    "found_at": "2026-09-30T17:55:29Z"
   }
 ]
