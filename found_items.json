@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Quasi, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Quasi",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pClcQfgSyh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/nf0UAA6Nth-fac9-0.jpg",
+    "found_at": "2026-10-02T20:27:52Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Nike, Överskjorta, Strl: M",
     "price": 70,
@@ -647,16 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/ySeNKSvJhK-d0c0-0.jpg",
     "found_at": "2026-09-30T21:10:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "ESPRIT, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "ESPRIT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/X9CVY3CqLl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/Nn6NPs2XrM-29e9-0.jpg",
-    "found_at": "2026-09-30T20:46:12Z"
   }
 ]
