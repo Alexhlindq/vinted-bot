@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Decathlon, Anorak, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Decathlon",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/AvZUIkfz4W-6158-0.jpg",
+    "found_at": "2026-10-02T17:42:38Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Jack & Jones Originals, Kofta, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/KVjF3apgU7",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/KVjF3apgU7-2072-0.jpg",
     "found_at": "2026-09-30T17:55:57Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Brian Geoffrey, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Brian Geoffrey",
-    "size": "",
-    "url": "https://www.sellpy.se/item/wu1SCc0Qzj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/wu1SCc0Qzj-5f9c-0.jpg",
-    "found_at": "2026-09-30T17:32:16Z"
   }
 ]
