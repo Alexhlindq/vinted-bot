@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "7 Days Active, Collegetröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "7 Days Active",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FEnVCo9F4V",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/fZL975nmkU-86a9-0.jpg",
+    "found_at": "2026-10-02T18:57:30Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Selected Homme, Rock, Strl: S",
     "price": 35,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/3aXbkQetEW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/EfSCrPH53E-4126-0.jpg",
     "found_at": "2026-09-30T20:02:41Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mascot, Skidjacka, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Mascot",
-    "size": "",
-    "url": "https://www.sellpy.se/item/18B7fmRyiI",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/4jWwmlgmDH-6f0f-0.jpg",
-    "found_at": "2026-09-30T18:59:03Z"
   }
 ]
