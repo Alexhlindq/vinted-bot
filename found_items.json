@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Iets Frans, Collegetröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Iets Frans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5MrRlPNzaB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/jMXnmwfeLg-feec-0.jpg",
+    "found_at": "2026-10-03T11:00:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Sweet Sktbs, Huvtröja, Strl: S",
     "price": 55,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/WsyX1rp3CJ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/WsyX1rp3CJ-8ba0-0.jpg",
     "found_at": "2026-09-30T23:27:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "GANT, Bomberjacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QJhzDqNd67",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/BdKcVejgmp-493b-0.jpg",
-    "found_at": "2026-09-30T23:09:12Z"
   }
 ]
