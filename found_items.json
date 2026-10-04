@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Matt Davis, Kofta, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Matt Davis",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AQVHmf3xgA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/AQVHmf3xgA-f4a4-0.jpg",
+    "found_at": "2026-10-04T05:52:27Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Nike, Jacka, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pdQ1fF4J38",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/pdQ1fF4J38-ca62-0.jpg",
+    "found_at": "2026-10-04T05:52:53Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Dressmann, Jacka, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "https://www.sellpy.se/item/e66QUJgkTF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/e66QUJgkTF-4c86-0.jpg",
+    "found_at": "2026-10-04T05:52:55Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Collegetröja, Strl: M",
     "price": 35,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/E2GH62OQG6",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/E2GH62OQG6-5a82-0.jpg",
     "found_at": "2026-10-01T14:45:16Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "8848 Altitude, Softshelljacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "8848 Altitude",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KAPwVXMGHP",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/Ec7xcGDayM-061f-0.jpg",
-    "found_at": "2026-10-01T14:22:02Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones Jeans Intelligence, Fodrad jeansjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Jack & Jones Jeans Intelligence",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/KAPwVXMGHP-229f-0.jpg",
-    "found_at": "2026-10-01T14:22:03Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "O'Neill, Skidjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "O'Neill",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FLPbkJoXFF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/rE2M443Vhg-58a1-0.jpg",
-    "found_at": "2026-10-01T12:17:51Z"
   }
 ]
