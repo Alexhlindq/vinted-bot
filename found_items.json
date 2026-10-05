@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S/M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BgYqgiDISf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-2/BgYqgiDISf-faf5-0.jpg",
+    "found_at": "2026-10-05T16:17:44Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Be Edgy, Jacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Be Edgy",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kKYWL2ExYN",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-12/YAEiFiVBaJ-5c65-0.jpg",
+    "found_at": "2026-10-05T16:18:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "These Glory Days, Coachjacka, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RC172uEwcX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/8jJYDbSPZ4-0e0f-0.jpg",
+    "found_at": "2026-10-05T16:18:12Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Selected Homme, Jacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/coZk22d5AA-b7f0-0.jpg",
+    "found_at": "2026-10-05T16:18:13Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "H&M, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Uk25VVwDXB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/Uk25VVwDXB-439b-0.jpg",
+    "found_at": "2026-10-05T16:18:16Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Selected Homme, Jacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vJ7ZXDGDuM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/vJ7ZXDGDuM-8cf7-0.jpg",
+    "found_at": "2026-10-05T16:18:41Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Bondelid, Collegetröja, Strl: S",
     "price": 70,
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/NZWI0LmLsC",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/NZWI0LmLsC-79de-0.jpg",
     "found_at": "2026-10-03T18:25:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "ASOS Design, Bomberjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AMcdRxAUG3-97f6-0.jpg",
-    "found_at": "2026-10-03T13:27:31Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Tommy Hilfiger Denim, Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Tommy Hilfiger Denim",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DrurM8M6fW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/DrurM8M6fW-0185-0.jpg",
-    "found_at": "2026-10-03T13:27:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Iets Frans, Collegetröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Iets Frans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5MrRlPNzaB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/jMXnmwfeLg-feec-0.jpg",
-    "found_at": "2026-10-03T11:00:13Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sweet Sktbs, Huvtröja, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Sweet Sktbs",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dbZ8WoF960",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/PMD40VjQ5E-fbb0-0.jpg",
-    "found_at": "2026-10-03T07:58:08Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Ted Bernhardtz at Work, Kofta, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Ted Bernhardtz at Work",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pQuwT38xHz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/pQuwT38xHz-3241-0.jpg",
-    "found_at": "2026-10-03T06:56:56Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nike, Huvtröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0KZPjJXblI",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/4IaYAOLqFj-13e4-0.jpg",
-    "found_at": "2026-10-02T22:09:26Z"
   }
 ]
