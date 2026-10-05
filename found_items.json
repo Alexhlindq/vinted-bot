@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bondelid, Collegetröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/5zQ2hs51jI-3f29-0.jpg",
+    "found_at": "2026-10-05T01:17:59Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Manfinity, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Manfinity",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TwnzWcijjK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/TwnzWcijjK-044e-0.jpg",
+    "found_at": "2026-10-05T01:18:31Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "John Henric, Tröja, Strl: S",
     "price": 55,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/Al8pV4zlHM",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/AqOCzCGJQ0-0ad8-0.jpg",
     "found_at": "2026-10-02T18:35:47Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Only & Sons, Vinterjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zAF9fUvAlw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/9gOgLYzrG9-d4cf-0.jpg",
-    "found_at": "2026-10-02T18:13:34Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Polar Life Guard, Vinterjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Polar Life Guard",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/k752x50pHD-baab-0.jpg",
-    "found_at": "2026-10-02T17:55:40Z"
   }
 ]
