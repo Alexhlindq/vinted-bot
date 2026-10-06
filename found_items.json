@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Archive, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Archive",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ImiDLdTAba",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-j-1/RkBdFM8Vzj-c720-0.jpg",
+    "found_at": "2026-10-06T16:08:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "John Henric, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "John Henric",
+    "size": "",
+    "url": "https://www.sellpy.se/item/vfDl41ubKV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/PuKrEEAvnC-ec6a-0.jpg",
+    "found_at": "2026-10-06T16:08:06Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Xia Shi, Kofta, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Xia Shi",
+    "size": "",
+    "url": "https://www.sellpy.se/item/2aRpSGtnPG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/2aRpSGtnPG-4c09-0.jpg",
+    "found_at": "2026-10-06T16:08:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Dope, Huvtröja, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/a2Y2MxfV5U",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-13-k-14/a2Y2MxfV5U-2256-0.jpg",
     "found_at": "2026-10-04T16:26:13Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Weekday, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/hF12HmCREh",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/hF12HmCREh-9ec9-0.jpg",
-    "found_at": "2026-10-04T16:26:40Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott, Tröja, Strl: M/L",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TVE3CPQSyp",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/G6SD4dPEGj-3a42-0.jpg",
-    "found_at": "2026-10-04T11:47:07Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "7 Days Active, Collegetröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "7 Days Active",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HpppAD0i9y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/fZL975nmkU-86a9-0.jpg",
-    "found_at": "2026-10-04T11:47:09Z"
   }
 ]
