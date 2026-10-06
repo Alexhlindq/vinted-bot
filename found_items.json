@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Tröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/TF9hwMA9i9-4edc-0.jpg",
+    "found_at": "2026-10-06T02:41:35Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Vinterjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/B3LkWevMvb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-j-1/9gOgLYzrG9-d4cf-0.jpg",
+    "found_at": "2026-10-06T02:41:39Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Anorak, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eN8yviIdvf",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/ovEdH6Oo4n-2d9d-0.jpg",
+    "found_at": "2026-10-06T02:41:40Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Segers, Jacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Segers",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4iDwLHdgGK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/4iDwLHdgGK-e97f-0.jpg",
+    "found_at": "2026-10-06T02:42:08Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Collegetröja, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/9gSh6lpi2b",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/TG6DSvBh05-09d7-0.jpg",
     "found_at": "2026-10-04T11:47:13Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Nimbus, Skidjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Nimbus",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/zAF9fUvAlw-4307-0.jpg",
-    "found_at": "2026-10-04T11:47:14Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Matt Davis, Kofta, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Matt Davis",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AQVHmf3xgA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/AQVHmf3xgA-f4a4-0.jpg",
-    "found_at": "2026-10-04T05:52:27Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Nike, Jacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/pdQ1fF4J38",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/pdQ1fF4J38-ca62-0.jpg",
-    "found_at": "2026-10-04T05:52:53Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Dressmann, Jacka, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Dressmann",
-    "size": "",
-    "url": "https://www.sellpy.se/item/e66QUJgkTF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/e66QUJgkTF-4c86-0.jpg",
-    "found_at": "2026-10-04T05:52:55Z"
   }
 ]
