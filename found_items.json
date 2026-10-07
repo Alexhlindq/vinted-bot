@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jultröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sXglkbcn5g",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/CUUj1B7N4L-fccc-0.jpg",
+    "found_at": "2026-10-07T06:30:26Z"
+  },
+  {
     "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
     "title": "Polo Ralph Lauren, Byxor, Strl: S",
     "price": 75,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/8YB8KTTcbm",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/Y0FNDYO5Pf-955f-0.jpg",
     "found_at": "2026-10-04T19:47:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bondelid, Collegetröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WqFUETHgRz",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/5zQ2hs51jI-3f29-0.jpg",
-    "found_at": "2026-10-04T19:47:22Z"
   }
 ]
