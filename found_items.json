@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Premium, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi's Premium",
+    "size": "",
+    "url": "https://www.sellpy.se/item/p08YgE4ZFK",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-8/p08YgE4ZFK-7253-0.jpg",
+    "found_at": "2026-10-09T03:01:37Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/BDlZnv8edw",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/KPH5rxtTo0-b2cc-0.jpg",
     "found_at": "2026-10-07T13:49:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Element, Anorak, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Element",
-    "size": "",
-    "url": "https://www.sellpy.se/item/k6I02CRXjQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/BDlZnv8edw-a253-0.jpg",
-    "found_at": "2026-10-07T13:49:07Z"
   }
 ]
