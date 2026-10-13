@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Tröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VseVfE1gXR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/TjfXaHd0VN-ea6e-0.jpg",
+    "found_at": "2026-10-13T05:27:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Core by Jack & Jones, Bomberjacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Core by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G0GukHoW1V",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/x83XecsBju-d329-0.jpg",
+    "found_at": "2026-10-13T05:27:15Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Marine Scandinavian Sportswear, Seglarjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Marine Scandinavian Sportswear",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/fo0TXJsAeQ-96e6-0.jpg",
+    "found_at": "2026-10-13T05:27:16Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Pour, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Pour",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EoLIsmVz52",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/EoLIsmVz52-353c-0.jpg",
+    "found_at": "2026-10-13T05:27:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "G-Star Raw, Huvtröja, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/A4XH4FYtO8-569f-0.jpg",
     "found_at": "2026-10-11T13:20:48Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Essentials by ESPRIT, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Essentials by ESPRIT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/PNAMch2on6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-3/PNAMch2on6-dc2e-0.jpg",
-    "found_at": "2026-10-11T13:20:52Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "!Solid, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "!Solid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/F9JRKhAe3U",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-3/F9JRKhAe3U-6cd6-0.jpg",
-    "found_at": "2026-10-11T13:20:54Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Lost Enterprises, Jacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Lost Enterprises",
-    "size": "",
-    "url": "https://www.sellpy.se/item/iITICOVJbs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-8/iITICOVJbs-f7c5-0.jpg",
-    "found_at": "2026-10-11T13:21:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lager 157, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Lager 157",
-    "size": "",
-    "url": "https://www.sellpy.se/item/17Uf8ym0jM",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/BGuXDR0WLC-78a8-0.jpg",
-    "found_at": "2026-10-11T00:40:45Z"
   }
 ]
