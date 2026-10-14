@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M Sport, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "H&M Sport",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/uPgLuUq8Xc-05bb-0.jpg",
+    "found_at": "2026-10-14T02:05:51Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Filippa K Man, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Filippa K Man",
+    "size": "",
+    "url": "https://www.sellpy.se/item/a65oIkKCJH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/a65oIkKCJH-c17b-0.jpg",
+    "found_at": "2026-10-14T02:05:57Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi's Premium, Jeans, Strl: S",
     "price": 75,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/ghcYY30w2L",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/ghcYY30w2L-2021-0.jpg",
     "found_at": "2026-10-12T01:32:57Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Angelo Litrico for C&A, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Angelo Litrico for C&A",
-    "size": "",
-    "url": "https://www.sellpy.se/item/p7iGWULYst",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/p7iGWULYst-3579-0.jpg",
-    "found_at": "2026-10-12T01:33:24Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Arket, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dYPFToWDY3",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/dbZ8WoF960-b834-single.jpg",
-    "found_at": "2026-10-11T22:16:39Z"
   }
 ]
