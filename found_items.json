@@ -1,5 +1,82 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Premium, Jeans, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi's Premium",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pL6WHhetnJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-4/pL6WHhetnJ-8357-0.jpg",
+    "found_at": "2026-10-14T13:05:42Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gAzKBAtYFR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-15/teFtnMe4Vl-f52d-0.jpg",
+    "found_at": "2026-10-14T13:06:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "These Glory Days, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wK56cVxZX5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/iynQEqb2jJ-a0f0-0.jpg",
+    "found_at": "2026-10-14T13:06:07Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Indigo, Shearlingjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Indigo",
+    "size": "",
+    "url": "https://www.sellpy.se/item/5QDZKZeU5M",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/FwLaEC8aoo-1e33-0.jpg",
+    "found_at": "2026-10-14T13:06:09Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "High Mountain, Ytterväst, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "High Mountain",
+    "size": "",
+    "url": "https://www.sellpy.se/item/t6mAilTsH0",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/LusBXtTHqW-2dcc-0.jpg",
+    "found_at": "2026-10-14T13:06:10Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Khujo, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Khujo",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/Hg5nc8dr43-9447-0.jpg",
+    "found_at": "2026-10-14T13:06:11Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Dressmann, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Dressmann",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pg912MlueL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/pg912MlueL-bf01-0.jpg",
+    "found_at": "2026-10-14T13:06:37Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M Sport, Tröja, Strl: M",
     "price": 40,
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/LrorPCsKuG",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/17Uf8ym0jM-b9cd-0.jpg",
     "found_at": "2026-10-12T08:00:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Canda C&A, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Canda C&A",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/LrorPCsKuG-dd88-0.jpg",
-    "found_at": "2026-10-12T08:00:20Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jack & Jones Originals, Bomberjacka, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Jack & Jones Originals",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KW5wOcSxVJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/kl0D9CVgZo-a94e-0.jpg",
-    "found_at": "2026-10-12T08:00:23Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Celio, Kofta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Celio",
-    "size": "",
-    "url": "https://www.sellpy.se/item/VRpsACGpCF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/VRpsACGpCF-f757-0.jpg",
-    "found_at": "2026-10-12T08:00:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Rugbytröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DIbo5xQy5B",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-5/ZlceSeTcXT-4f0c-0.jpg",
-    "found_at": "2026-10-12T01:32:48Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Morris Tailoring, Rugbytröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Morris Tailoring",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5DgvwNwT0m",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/dYPFToWDY3-1f3e-0.jpg",
-    "found_at": "2026-10-12T01:32:49Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Selected Homme, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "https://www.sellpy.se/item/aRB0M9SA9z",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-16/aRB0M9SA9z-cedd-0.jpg",
-    "found_at": "2026-10-12T01:32:55Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kronstadt, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Kronstadt",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ghcYY30w2L",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/ghcYY30w2L-2021-0.jpg",
-    "found_at": "2026-10-12T01:32:57Z"
   }
 ]
