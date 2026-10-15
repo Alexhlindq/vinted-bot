@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Core by Jack & Jones, Bomberjacka, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Core by Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CinX2c9b0X",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/x83XecsBju-d329-0.jpg",
+    "found_at": "2026-10-15T04:37:53Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi's Premium, Jeans, Strl: M",
     "price": 60,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/jmlkV7GCVf",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/SfDElNyX1h-bd34-0.jpg",
     "found_at": "2026-10-12T23:47:28Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Strøva, Fleecejacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Strøva",
-    "size": "",
-    "url": "https://www.sellpy.se/item/iynQEqb2jJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/6RKHdxcHoT-9dc8-0.jpg",
-    "found_at": "2026-10-12T23:47:29Z"
   }
 ]
