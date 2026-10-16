@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Patagonia, Fleecetröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Patagonia",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QcH9NtDelo",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/R31aQxVKHp-62d5-0.jpg",
+    "found_at": "2026-10-16T20:02:56Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Scotch & Soda, Rock, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/g60HHwBAp6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/qz4esB4qF0-2de5-0.jpg",
+    "found_at": "2026-10-16T20:03:01Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Rock, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/I6xP4t91FI-a304-0.jpg",
+    "found_at": "2026-10-16T20:03:01Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Signal, Kofta, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Signal",
+    "size": "",
+    "url": "https://www.sellpy.se/item/T0UIFKy9cI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/T0UIFKy9cI-e42b-0.jpg",
+    "found_at": "2026-10-16T20:03:05Z"
+  },
+  {
     "search_name": "Sellpy - Grova stickade koftor",
     "title": "Marine Club, Kofta, Strl: M",
     "price": 65,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/4lJEsHhFM0",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-15/4lJEsHhFM0-dec9-0.jpg",
     "found_at": "2026-10-14T21:41:30Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Vinson, Jacka, Strl: S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Vinson",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0E96HlN8M8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-13/0E96HlN8M8-43d0-0.jpg",
-    "found_at": "2026-10-14T21:41:31Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Rude Riders, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Rude Riders",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6IJbUH9VNb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/JG6XRtI0Ei-4b22-0.jpg",
-    "found_at": "2026-10-14T18:01:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Boggi, Slipover, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Boggi",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dsZE046R1r",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-2/3JKQIyuNje-09d6-0.jpg",
-    "found_at": "2026-10-14T18:01:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Scotch & Soda, Polotröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/218OeMwWj4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/LmMjfEhvIh-7583-0.jpg",
-    "found_at": "2026-10-14T18:01:37Z"
   }
 ]
