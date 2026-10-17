@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Vinson Polo Club, Lättviktsjacka, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Vinson Polo Club",
+    "size": "",
+    "url": "https://www.sellpy.se/item/6R7cka4wCv",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/nG5PWqvbQd-0c1d-0.jpg",
+    "found_at": "2026-10-17T09:42:02Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Almi, Softshelljacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Almi",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RDNDF7jCbb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/NIMwWCGVr0-c60d-0.jpg",
+    "found_at": "2026-10-17T09:42:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Zara, Bomberjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/t6mAilTsH0-3664-0.jpg",
+    "found_at": "2026-10-17T09:42:05Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "East Pole, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "East Pole",
+    "size": "",
+    "url": "https://www.sellpy.se/item/AqMsuLbAs6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/AqMsuLbAs6-edf8-0.jpg",
+    "found_at": "2026-10-17T09:42:10Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Soulland, Collegetröja, Strl: M",
     "price": 50,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/AaryieEwwi",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/AaryieEwwi-f40d-0.jpg",
     "found_at": "2026-10-15T09:27:36Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Core by Jack & Jones, Bomberjacka, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Core by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CinX2c9b0X",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/x83XecsBju-d329-0.jpg",
-    "found_at": "2026-10-15T04:37:53Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi's Premium, Jeans, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Levi's Premium",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vP1HodkkOw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-12-l-1/mdbwFwiezh-6284-0.jpg",
-    "found_at": "2026-10-14T21:40:30Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "SNS, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "SNS",
-    "size": "",
-    "url": "https://www.sellpy.se/item/eEeerJQo2h",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/edFKFlwTI9-255b-0.jpg",
-    "found_at": "2026-10-14T21:40:51Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Giambattista Valli x H&M, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Giambattista Valli x H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YWx5PH9rph",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-22/gKAcDZfLkM-f921-0.jpg",
-    "found_at": "2026-10-14T21:40:53Z"
   }
 ]
