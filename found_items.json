@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Sweet Sktbs, Huvtröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Sweet Sktbs",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mBY3hlKjEt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/PMD40VjQ5E-fbb0-0.jpg",
+    "found_at": "2026-10-17T01:03:00Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "NBA, Collegejacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "NBA",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ig5Nl0ZXLk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/oRrX4UVHSy-9a0f-0.jpg",
+    "found_at": "2026-10-17T01:03:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Visual Clothing Project, Överskjorta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Visual Clothing Project",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HjEtyT5R93",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/fjkn4xsYB8-f7f3-0.jpg",
+    "found_at": "2026-10-17T01:03:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Party Power, Jultröja, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/GbaaSEnPkJ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/uX63LAn4yx-80a5-0.jpg",
     "found_at": "2026-10-14T21:40:55Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Kenzo x H&M, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Kenzo x H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/GbaaSEnPkJ-dc81-0.jpg",
-    "found_at": "2026-10-14T21:40:56Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "G-Star Raw, Vinterjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "G-Star Raw",
-    "size": "",
-    "url": "https://www.sellpy.se/item/EKFdM1bP0F",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/Flx7vM2NxA-8548-0.jpg",
-    "found_at": "2026-10-14T21:41:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Rukka, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Rukka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/p0la2geGLE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/RUAd7sgJDy-90ba-0.jpg",
-    "found_at": "2026-10-14T21:41:01Z"
   }
 ]
