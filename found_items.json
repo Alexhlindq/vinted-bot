@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Soulland, Collegetröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Soulland",
+    "size": "",
+    "url": "https://www.sellpy.se/item/11VcRSL7jk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/3TOjsxhFLt-3c87-0.jpg",
+    "found_at": "2026-10-17T05:36:34Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Sweet Sktbs, Huvtröja, Strl: S",
     "price": 50,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/YWx5PH9rph",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-22/gKAcDZfLkM-f921-0.jpg",
     "found_at": "2026-10-14T21:40:53Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Levi Strauss & Co, Pullover, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/GbaaSEnPkJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-8-k-12/uX63LAn4yx-80a5-0.jpg",
-    "found_at": "2026-10-14T21:40:55Z"
   }
 ]
