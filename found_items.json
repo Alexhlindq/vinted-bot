@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "John Henric, Polotröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "John Henric",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ty8em9AibF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/sALkyzNhnQ-c5f6-0.jpg",
+    "found_at": "2026-10-17T13:14:30Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Smiley x H&M, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Smiley x H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eXAKmCeG8S",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/gAzKBAtYFR-789a-0.jpg",
+    "found_at": "2026-10-17T13:14:31Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Rothco, Ytterväst, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Rothco",
+    "size": "",
+    "url": "https://www.sellpy.se/item/mTO1AuRpH5",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/VhBaMRPYqx-1500-0.jpg",
+    "found_at": "2026-10-17T13:14:36Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Vinson Polo Club, Lättviktsjacka, Strl: S",
     "price": 50,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/P3m0c1HbJG",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/Wq25fWMtYf-4bb7-0.jpg",
     "found_at": "2026-10-15T09:27:28Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Vinson Polo Club, Bomberjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Vinson Polo Club",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0JH9BvaX40",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-1/P3m0c1HbJG-5bf2-0.jpg",
-    "found_at": "2026-10-15T09:27:30Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Urban Classics, Bomberjacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Urban Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ttLb7G4nqN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-8/dlS65StE9J-9fbb-0.jpg",
-    "found_at": "2026-10-15T09:27:32Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Wonderworld, Kofta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Wonderworld",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AaryieEwwi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/AaryieEwwi-f40d-0.jpg",
-    "found_at": "2026-10-15T09:27:36Z"
   }
 ]
