@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Sweet Sktbs, Huvtröja, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Sweet Sktbs",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jYhkJCYPZA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/PMD40VjQ5E-fbb0-0.jpg",
+    "found_at": "2026-10-17T21:01:49Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "FSBN, Anorak, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "FSBN",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/B3LkWevMvb-f500-0.jpg",
+    "found_at": "2026-10-17T21:01:54Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Only & Sons, Kofta, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BS5Wz3ljUZ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/BS5Wz3ljUZ-0ccc-0.jpg",
+    "found_at": "2026-10-17T21:01:57Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Les Lunes, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Les Lunes",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VbyvG5HfFr",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/umuA7fmymJ-3e2a-0.jpg",
+    "found_at": "2026-10-17T21:01:59Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Jack & Jones, Tröja, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/GdYN3xOSFm",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-4/VhBaMRPYqx-1500-0.jpg",
     "found_at": "2026-10-15T14:19:22Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Printer Basic Wear, Regnjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Printer Basic Wear",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8UMD4Slt5y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/wK56cVxZX5-3a99-0.jpg",
-    "found_at": "2026-10-15T14:19:24Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Coachjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/fjkn4xsYB8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
-    "found_at": "2026-10-15T14:19:25Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Divided by H&M, Anorak, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1F6ge2sh91",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/8OhCWQwrbR-5d2a-0.jpg",
-    "found_at": "2026-10-15T14:19:26Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Filippa K Man, Trenchcoat, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Filippa K Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/aVRxFt1zZ5",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/qu4NqMpfJ1-fcf6-0.jpg",
-    "found_at": "2026-10-15T14:19:28Z"
   }
 ]
