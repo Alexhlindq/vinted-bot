@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jack & Jones, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LNpjnHtJkR",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-12/YYgmLr2Jy8-54e6-0.jpg",
+    "found_at": "2026-10-17T18:45:12Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Rugbytröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/SGj20aPNnE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/oLi3fwiSyj-a3e7-0.jpg",
+    "found_at": "2026-10-17T18:45:14Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "J.Lindeberg, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/FMHGV7Ts1r",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/rOgYlZx8h7-949f-0.jpg",
+    "found_at": "2026-10-17T18:45:15Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Zara, Arbetsjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Sn7xXFHpmw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/DLYOdC4CRs-7d45-0.jpg",
+    "found_at": "2026-10-17T18:45:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Arket, Collegetröja, Strl: S",
     "price": 65,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/aVRxFt1zZ5",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/qu4NqMpfJ1-fcf6-0.jpg",
     "found_at": "2026-10-15T14:19:28Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "SAND Basic, Ytterväst, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "SAND Basic",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qz4esB4qF0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/4eoPDeZbra-a77d-0.jpg",
-    "found_at": "2026-10-15T14:19:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Scotch & Soda, Rock, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/qz4esB4qF0-2de5-0.jpg",
-    "found_at": "2026-10-15T14:19:30Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Mjukisbyxor, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/0UsHvqArtX",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-9/0UsHvqArtX-8d80-0.jpg",
-    "found_at": "2026-10-15T09:26:56Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "J.Lindeberg, Tröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ozbS9HTNkP",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/rOgYlZx8h7-949f-0.jpg",
-    "found_at": "2026-10-15T09:27:21Z"
   }
 ]
