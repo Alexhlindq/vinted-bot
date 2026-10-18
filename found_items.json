@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Riley, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Riley",
+    "size": "",
+    "url": "https://www.sellpy.se/item/iBI97anoGt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/4zV3EMB6t4-cfdd-0.jpg",
+    "found_at": "2026-10-18T01:02:16Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Sqrtn Company, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Sqrtn Company",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/oGHArNH7kS-a809-0.jpg",
+    "found_at": "2026-10-18T01:02:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "J.Lindeberg, Collegetröja, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/mwplAwfbZE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
     "found_at": "2026-10-15T21:41:54Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Salomon, Allvädersjacka, Strl: S/M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Salomon",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DeuRidKtUS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/CinX2c9b0X-7e96-0.jpg",
-    "found_at": "2026-10-15T21:41:55Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Vans, Bomberjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Vans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5GhrbzMBlu",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/xQhrDavY56-7265-0.jpg",
-    "found_at": "2026-10-15T18:31:08Z"
   }
 ]
