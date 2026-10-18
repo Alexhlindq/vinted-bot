@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Tommy Hilfiger, Pullover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lCoh8B7M5U",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/Lz1LUfALlK-c49f-0.jpg",
+    "found_at": "2026-10-18T23:54:48Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Collegetröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EHohlk33D6",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/jGQ1b1QzTv-d17d-0.jpg",
+    "found_at": "2026-10-18T23:54:49Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "WeSC, Anorak, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "WeSC",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
+    "found_at": "2026-10-18T23:54:53Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Quasi, Huvtröja, Strl: M",
     "price": 45,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/4Hlz4XxUDB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/4Hlz4XxUDB-7edc-0.jpg",
     "found_at": "2026-10-16T22:51:44Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Patagonia, Fleecetröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Patagonia",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QcH9NtDelo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/R31aQxVKHp-62d5-0.jpg",
-    "found_at": "2026-10-16T20:02:56Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Scotch & Soda, Rock, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/g60HHwBAp6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/qz4esB4qF0-2de5-0.jpg",
-    "found_at": "2026-10-16T20:03:01Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Rock, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-7/I6xP4t91FI-a304-0.jpg",
-    "found_at": "2026-10-16T20:03:01Z"
   }
 ]
