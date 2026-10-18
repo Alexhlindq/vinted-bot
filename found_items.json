@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xgoiuM6eEM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-10-k-14/xgoiuM6eEM-33cb-0.jpg",
+    "found_at": "2026-10-18T05:53:24Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "High Fashion, Bikerjacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "High Fashion",
+    "size": "",
+    "url": "https://www.sellpy.se/item/G1mifNwlBu",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/1R30sMEtOb-3b51-0.jpg",
+    "found_at": "2026-10-18T05:53:49Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Fila, Ytterväst, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Fila",
+    "size": "",
+    "url": "https://www.sellpy.se/item/k6A5d4EKni",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/5QDZKZeU5M-769b-0.jpg",
+    "found_at": "2026-10-18T05:53:50Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Riley, Tröja, Strl: S",
     "price": 40,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/ActcHLwQOO",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/A3N1Z4E2h4-1889-0.jpg",
     "found_at": "2026-10-15T21:41:48Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Iets Frans, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Iets Frans",
-    "size": "",
-    "url": "https://www.sellpy.se/item/odJZNCs7TA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/jMXnmwfeLg-feec-0.jpg",
-    "found_at": "2026-10-15T21:41:49Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Black Squad, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3TOjsxhFLt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/bG1PKPg1EA-3df7-0.jpg",
-    "found_at": "2026-10-15T21:41:50Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Jobman, Softshelljacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jobman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mwplAwfbZE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-22/qGz8nrLutE-8d3b-0.jpg",
-    "found_at": "2026-10-15T21:41:54Z"
   }
 ]
