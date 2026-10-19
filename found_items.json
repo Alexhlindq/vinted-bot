@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
+    "title": "Polo Ralph Lauren, Chinos, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Polo Ralph Lauren",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PcuBvtE4KV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-3/PcuBvtE4KV-992b-0.jpg",
+    "found_at": "2026-10-19T03:14:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "WeSC, Anorak, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "WeSC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MF3oO2m0uh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
+    "found_at": "2026-10-19T03:14:12Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Pelle P, Lättviktsjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Pelle P",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-13/hm3JURdZf0-6ad9-0.jpg",
+    "found_at": "2026-10-19T03:14:13Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Tommy Hilfiger, Pullover, Strl: S",
     "price": 40,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/HjEtyT5R93",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/fjkn4xsYB8-f7f3-0.jpg",
     "found_at": "2026-10-17T01:03:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Party Power, Jultröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Party Power",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9EokgMaXJs",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/VCHFrN7kxc-fd1b-0.jpg",
-    "found_at": "2026-10-16T22:51:37Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sqrtn Company, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Sqrtn Company",
-    "size": "",
-    "url": "https://www.sellpy.se/item/oLi3fwiSyj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/oGHArNH7kS-a809-0.jpg",
-    "found_at": "2026-10-16T22:51:38Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Shine Worldwide, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Shine Worldwide",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4Hlz4XxUDB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/4Hlz4XxUDB-7edc-0.jpg",
-    "found_at": "2026-10-16T22:51:44Z"
   }
 ]
