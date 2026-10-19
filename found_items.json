@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Tommy Hilfiger, Pullover, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger",
+    "size": "",
+    "url": "https://www.sellpy.se/item/bZK5xbeiWB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-21/Lz1LUfALlK-c49f-0.jpg",
+    "found_at": "2026-10-19T08:58:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Core by Jack & Jones, Huvtröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Core by Jack & Jones",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/TgHL7eEl0R-c783-0.jpg",
+    "found_at": "2026-10-19T08:58:19Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Zara, Arbetsjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/yL5VAMKqBW",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/DLYOdC4CRs-7d45-0.jpg",
+    "found_at": "2026-10-19T08:58:23Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Only & Sons, Jeansjacka, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/retxxznCA7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/8UMD4Slt5y-81c4-0.jpg",
+    "found_at": "2026-10-19T08:58:24Z"
+  },
+  {
     "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
     "title": "Polo Ralph Lauren, Chinos, Strl: M",
     "price": 70,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/AqMsuLbAs6",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/AqMsuLbAs6-edf8-0.jpg",
     "found_at": "2026-10-17T09:42:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Soulland, Collegetröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Soulland",
-    "size": "",
-    "url": "https://www.sellpy.se/item/11VcRSL7jk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/3TOjsxhFLt-3c87-0.jpg",
-    "found_at": "2026-10-17T05:36:34Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sweet Sktbs, Huvtröja, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Sweet Sktbs",
-    "size": "",
-    "url": "https://www.sellpy.se/item/mBY3hlKjEt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/PMD40VjQ5E-fbb0-0.jpg",
-    "found_at": "2026-10-17T01:03:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "NBA, Collegejacka, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "NBA",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ig5Nl0ZXLk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/oRrX4UVHSy-9a0f-0.jpg",
-    "found_at": "2026-10-17T01:03:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Visual Clothing Project, Överskjorta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Visual Clothing Project",
-    "size": "",
-    "url": "https://www.sellpy.se/item/HjEtyT5R93",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/fjkn4xsYB8-f7f3-0.jpg",
-    "found_at": "2026-10-17T01:03:05Z"
   }
 ]
