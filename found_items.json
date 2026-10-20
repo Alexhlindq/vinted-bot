@@ -1,6 +1,61 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Arket, Fleecetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Arket",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ggZ8a2gjKa",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/68IibRuCsh-29dc-0.jpg",
+    "found_at": "2026-10-20T10:04:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Zara, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EpD1hrjSJ1",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/5MrRlPNzaB-f688-0.jpg",
+    "found_at": "2026-10-20T10:04:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Quasi, Huvtröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Quasi",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/nf0UAA6Nth-fac9-0.jpg",
+    "found_at": "2026-10-20T10:04:11Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Blend of America, Jacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Blend of America",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NOXzQWQ44k",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/dU9zZbxtj4-9a05-0.jpg",
+    "found_at": "2026-10-20T10:04:15Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Sams, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Sams",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WRwtXbdG6r",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/WRwtXbdG6r-b421-0.jpg",
+    "found_at": "2026-10-20T10:04:18Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Footjoy, Pullover, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -603,60 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/oGHArNH7kS-a809-0.jpg",
     "found_at": "2026-10-18T01:02:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "J.Lindeberg, Collegetröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jGQ1b1QzTv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/02zaIgcqVd-5fd4-0.jpg",
-    "found_at": "2026-10-17T23:08:03Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sail Racing, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Sail Racing",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/5DgvwNwT0m-9fcf-0.jpg",
-    "found_at": "2026-10-17T23:08:04Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "These Glory Days, Bomberjacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/1R30sMEtOb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/9cXDBlFcOO-d6a8-0.jpg",
-    "found_at": "2026-10-17T23:08:09Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Indigo, Shearlingjacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Indigo",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/FwLaEC8aoo-1e33-0.jpg",
-    "found_at": "2026-10-17T23:08:11Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Core by Jack & Jones, Jacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Core by Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JC0I57xL0O",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/JC0I57xL0O-03d0-0.jpg",
-    "found_at": "2026-10-17T23:08:41Z"
   }
 ]
