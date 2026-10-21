@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Holebrook, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Holebrook",
+    "size": "",
+    "url": "https://www.sellpy.se/item/xf4nFPYXAG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/eCvMqcvkkJ-340c-0.jpg",
+    "found_at": "2026-10-21T05:42:55Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Les Deux, Collegetröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Les Deux",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/xf4nFPYXAG-ae5c-0.jpg",
+    "found_at": "2026-10-21T05:42:56Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Lindbergh White, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Lindbergh White",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GbE6ahzU1Y",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/WBZOcAcQSJ-9c58-0.jpg",
+    "found_at": "2026-10-21T05:43:00Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Elvine, Parkas, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Elvine",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/iMVBCeXLY6-b991-0.jpg",
+    "found_at": "2026-10-21T05:43:01Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "J.Lindeberg, Tröja, Strl: S",
     "price": 40,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/EHohlk33D6",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/jGQ1b1QzTv-d17d-0.jpg",
     "found_at": "2026-10-18T23:54:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "WeSC, Anorak, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
-    "found_at": "2026-10-18T23:54:53Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Quasi, Huvtröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Quasi",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9w9ySZYa9H",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/nf0UAA6Nth-fac9-0.jpg",
-    "found_at": "2026-10-18T21:53:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/jGQ1b1QzTv-d17d-0.jpg",
-    "found_at": "2026-10-18T21:54:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Fila, Ytterväst, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Fila",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ovNm04doTK",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/5QDZKZeU5M-769b-0.jpg",
-    "found_at": "2026-10-18T21:54:05Z"
   }
 ]
