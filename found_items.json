@@ -1,5 +1,16 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "J.Lindeberg, Tröja, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/cIOsrFbZyy",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/rOgYlZx8h7-949f-0.jpg",
+    "found_at": "2026-10-21T00:50:27Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Lager 157, Ytterväst, Strl: M",
     "price": 70,
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/ovNm04doTK",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-2/5QDZKZeU5M-769b-0.jpg",
     "found_at": "2026-10-18T21:54:05Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "ASOS Design, Överskjorta, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "ASOS Design",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UUFwIyCy1r",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-j-1/p0la2geGLE-100d-0.jpg",
-    "found_at": "2026-10-18T21:54:06Z"
   }
 ]
