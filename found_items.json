@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Level Up Wear, Collegetröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Level Up Wear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OHwO6hVK6M",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/TfpynG9eWp-7199-0.jpg",
+    "found_at": "2026-10-23T20:34:56Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "WeSC, Anorak, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "WeSC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/EJNFkH0lhI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
+    "found_at": "2026-10-23T20:34:59Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Lindbergh White, Kofta, Strl: M/L",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Lindbergh White",
+    "size": "",
+    "url": "https://www.sellpy.se/item/1bp6ItFGyP",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-11-l-2/R8IesSvlak-16f1-0.jpg",
+    "found_at": "2026-10-23T20:35:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Fruit of the Loom, Huvtröja, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/vIfVdcp6V6",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/eCvMqcvkkJ-340c-0.jpg",
     "found_at": "2026-10-21T15:38:23Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lee, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Lee",
-    "size": "",
-    "url": "https://www.sellpy.se/item/CcGNvNmlef",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/kjrITgzw3X-ae41-0.jpg",
-    "found_at": "2026-10-21T15:38:24Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "WeSC, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5gkHnEhKn9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-4/CcGNvNmlef-60db-0.jpg",
-    "found_at": "2026-10-21T15:38:24Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Wood Wood, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Wood Wood",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/5gkHnEhKn9-c495-0.jpg",
-    "found_at": "2026-10-21T15:38:26Z"
   }
 ]
