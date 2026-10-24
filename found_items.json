@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Rugbytröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/mBY3hlKjEt-6ef9-0.jpg",
+    "found_at": "2026-10-24T15:49:32Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "DieMonde, Anorak, Strl: S",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "DieMonde",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Q8HB41nK9r",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/ip3WtVgQ0M-d28c-0.jpg",
+    "found_at": "2026-10-24T15:49:36Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Strøva, Fleecejacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Strøva",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/6RKHdxcHoT-9dc8-0.jpg",
+    "found_at": "2026-10-24T15:49:37Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Only & Sons, Tröja, Strl: S",
     "price": 75,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/tZHNOC0pXl",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/bG1PKPg1EA-3df7-0.jpg",
     "found_at": "2026-10-22T11:58:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Champion, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Champion",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-7/tZHNOC0pXl-85da-0.jpg",
-    "found_at": "2026-10-22T11:58:19Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "J.Lindeberg, Bomberjacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/5xFYa0GkIL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/GwbhUDoOw9-577f-0.jpg",
-    "found_at": "2026-10-22T11:58:23Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "H&M, Jacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UmM2wxRidg",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/k6A5d4EKni-32c6-0.jpg",
-    "found_at": "2026-10-22T11:58:25Z"
   }
 ]
