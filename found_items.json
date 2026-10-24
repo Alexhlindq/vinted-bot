@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Henri Lloyd, Rugbytröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Henri Lloyd",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DLP7rMMg0G",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/8HDIS3oVyN-96f9-0.jpg",
+    "found_at": "2026-10-24T18:35:19Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lyle & Scott Vintage, Pullover, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Lyle & Scott Vintage",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wLIc0LYetq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/DLP7rMMg0G-6fef-0.jpg",
+    "found_at": "2026-10-24T18:35:20Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "The North Face, Huvtröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "The North Face",
+    "size": "",
+    "url": "https://www.sellpy.se/item/kk1JPqbDXh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-11/9fr1lXgXok-2f43-0.jpg",
+    "found_at": "2026-10-24T18:35:22Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Rugbytröja, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/GZTpr3VLZU",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-2/nQy2Igldsf-c13d-0.jpg",
     "found_at": "2026-10-22T11:57:53Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zQGHVimQA4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-3/oMyspcIurf-e821-0.jpg",
-    "found_at": "2026-10-22T11:57:54Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M Trend, Jultröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "H&M Trend",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tm7xJxAG73",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-22/LniPrX5rrw-f0c2-0.jpg",
-    "found_at": "2026-10-22T11:58:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Black Squad, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Black Squad",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tZHNOC0pXl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-12/bG1PKPg1EA-3df7-0.jpg",
-    "found_at": "2026-10-22T11:58:18Z"
   }
 ]
