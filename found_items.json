@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Premium, Jeans, Strl: M/L",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi's Premium",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4SiBuEqZo7",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-3/c1aXrItCyi-eb99-0.jpg",
+    "found_at": "2026-10-25T06:32:00Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "KappAhl, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "KappAhl",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rA9FyvlEb8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-3/rA9FyvlEb8-dc17-0.jpg",
+    "found_at": "2026-10-25T06:32:28Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Mishka NYC, Jeansjacka, Strl: S",
     "price": 50,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/eg9A3JCY4m",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/FeLiGpl6Iw-cd36-0.jpg",
     "found_at": "2026-10-22T20:20:13Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Fruit of the Loom, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Fruit of the Loom",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AZJzq0N5Vj",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/k7HhW6uMCg-8a29-0.jpg",
-    "found_at": "2026-10-22T20:20:15Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sail Racing, Rugbytröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Sail Racing",
-    "size": "",
-    "url": "https://www.sellpy.se/item/9fr1lXgXok",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/AZJzq0N5Vj-d2f6-0.jpg",
-    "found_at": "2026-10-22T20:20:17Z"
   }
 ]
