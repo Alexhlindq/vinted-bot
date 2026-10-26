@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Majestic Athletic, Collegetröja, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Majestic Athletic",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/OHwO6hVK6M-370e-0.jpg",
+    "found_at": "2026-10-26T06:52:04Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Smog, Vinterjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Smog",
+    "size": "",
+    "url": "https://www.sellpy.se/item/YyyKBczW0S",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-4/uw0unGJ22o-4d1c-0.jpg",
+    "found_at": "2026-10-26T06:52:08Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Only & Sons, Tröja, Strl: S",
     "price": 75,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/zUAUebR8C9-f9d6-0.jpg",
     "found_at": "2026-10-23T23:31:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Outland, Lättviktsjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Outland",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/EJNFkH0lhI-c4e4-0.jpg",
-    "found_at": "2026-10-23T23:31:43Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pole Position, Kofta, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Pole Position",
-    "size": "",
-    "url": "https://www.sellpy.se/item/AylUV6u0yn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-10/AylUV6u0yn-32f7-0.jpg",
-    "found_at": "2026-10-23T23:31:46Z"
   }
 ]
