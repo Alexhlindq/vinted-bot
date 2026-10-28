@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Bläck, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Bläck",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GB1E5ae2C9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/GB1E5ae2C9-1a9c-0.jpg",
+    "found_at": "2026-10-28T02:21:02Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Vaude, Jacka, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Vaude",
+    "size": "",
+    "url": "https://www.sellpy.se/item/b7y1qVmEPx",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/b7y1qVmEPx-9e90-0.jpg",
+    "found_at": "2026-10-28T02:21:03Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Fishbone, Huvtröja, Strl: M",
     "price": 70,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/rhS0UMF2ik",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/rhS0UMF2ik-c4cb-0.jpg",
     "found_at": "2026-10-25T21:26:18Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Coachjacka, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/E8bDeqzDTk",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/sEdyRzhqp4-ba02-0.jpg",
-    "found_at": "2026-10-25T18:54:09Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Jeansjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/nfowbZ4qk8",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/iul06VwLvX-5890-0.jpg",
-    "found_at": "2026-10-25T18:54:10Z"
   }
 ]
