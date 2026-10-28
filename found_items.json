@@ -1,5 +1,71 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Zara, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jtt8KzgHCQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-13/V3FIhiea0s-bfea-0.jpg",
+    "found_at": "2026-10-28T08:51:38Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M, Överskjorta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/p7b90UqqHJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/nfowbZ4qk8-4f3d-0.jpg",
+    "found_at": "2026-10-28T08:51:43Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Craft, Allvädersjacka, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Craft",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Xuwr1Wsk8u",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/dribMkmIK5-ebd9-0.jpg",
+    "found_at": "2026-10-28T08:51:44Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Reset, Vinterjacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Reset",
+    "size": "",
+    "url": "https://www.sellpy.se/item/QoGJkuJNjN",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/EAeFIBck3l-5f71-0.jpg",
+    "found_at": "2026-10-28T08:51:45Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "GANT, Kofta, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/wH9Bl2qYIX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-8/wH9Bl2qYIX-31f3-0.jpg",
+    "found_at": "2026-10-28T08:51:48Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Calvin Klein Jeans, Kofta, Strl: M/L",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Calvin Klein Jeans",
+    "size": "",
+    "url": "https://www.sellpy.se/item/ytAUELPdFj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-2/ytAUELPdFj-b734-0.jpg",
+    "found_at": "2026-10-28T08:51:50Z"
+  },
+  {
     "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
     "title": "Bläck, Jacka, Strl: M",
     "price": 70,
@@ -592,71 +658,5 @@
     "url": "https://www.sellpy.se/item/8bC3nS0UVD",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/qZwuLJ9HGC-ae7d-0.jpg",
     "found_at": "2026-10-26T01:29:52Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Riley, Rugbytröja, Strl: S",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Riley",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zkZnnh45Zq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/bgA1Wee61N-25c5-0.jpg",
-    "found_at": "2026-10-25T23:26:33Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/WgwQ5CYkLs-b9e0-0.jpg",
-    "found_at": "2026-10-25T23:26:34Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Bershka, Jeansjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Bershka",
-    "size": "",
-    "url": "https://www.sellpy.se/item/UJGWcgACQZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/iul06VwLvX-5890-0.jpg",
-    "found_at": "2026-10-25T23:26:38Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "WeSC, Collegejacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/Q8HB41nK9r-1b91-0.jpg",
-    "found_at": "2026-10-25T23:26:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Zara, Bomberjacka, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Zara",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lbrhT53iJt",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/t6mAilTsH0-3664-0.jpg",
-    "found_at": "2026-10-25T21:25:49Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Blend, Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Blend",
-    "size": "",
-    "url": "https://www.sellpy.se/item/rhS0UMF2ik",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-6/rhS0UMF2ik-c4cb-0.jpg",
-    "found_at": "2026-10-25T21:26:18Z"
   }
 ]
