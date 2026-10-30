@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Boomerang, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sZWYhITpg3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/q45vwTE6ek-217a-0.jpg",
+    "found_at": "2026-10-30T02:36:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/s0GSYA4FEl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/QHEk5U4w5O-5c7c-0.jpg",
+    "found_at": "2026-10-30T02:36:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/ejCjPgsyux-ddea-0.jpg",
+    "found_at": "2026-10-30T02:36:57Z"
+  },
+  {
     "search_name": "Sellpy - Ralph Lauren Jeans (kategori)",
     "title": "Polo Ralph Lauren, Mjukisbyxor, Strl: S",
     "price": 70,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/bvpUKIRAl4",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/ip3WtVgQ0M-d28c-0.jpg",
     "found_at": "2026-10-27T19:40:22Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Filippa K Man, Trenchcoat, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Filippa K Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KMG9gqEpKC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/qu4NqMpfJ1-fcf6-0.jpg",
-    "found_at": "2026-10-27T19:40:23Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Primark, Anorak, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Primark",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/KMG9gqEpKC-5e65-0.jpg",
-    "found_at": "2026-10-27T19:40:23Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Urban Classics, Jacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Urban Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TEti9pN0N4",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-9/TEti9pN0N4-f42a-0.jpg",
-    "found_at": "2026-10-27T19:40:52Z"
   }
 ]
