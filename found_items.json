@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lyle & Scott, Tröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Lyle & Scott",
+    "size": "",
+    "url": "https://www.sellpy.se/item/JO1BPfHBDJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/3WHr5xRVHv-78de-0.jpg",
+    "found_at": "2026-10-31T22:53:02Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Seaside, Allvädersjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Seaside",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7u6Z38rhfQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/H0K2pyVndO-9ca1-0.jpg",
+    "found_at": "2026-10-31T22:53:05Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Samsøe & Samsøe, Kofta, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Samsøe & Samsøe",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TuI6kLpbGp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-6/TuI6kLpbGp-ada3-0.jpg",
+    "found_at": "2026-10-31T22:53:08Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Canda C&A, Kofta, Strl: M",
+    "price": 29,
+    "currency": "SEK",
+    "brand": "Canda C&A",
+    "size": "",
+    "url": "https://www.sellpy.se/item/auFV9AiRBE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-l-2/auFV9AiRBE-ba2b-0.jpg",
+    "found_at": "2026-10-31T22:53:10Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "GANT, Tröja, Strl: M",
     "price": 35,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/PCFnUDYxgJ-ffe3-0.jpg",
     "found_at": "2026-10-29T06:14:39Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Only & Sons, Jeansjacka, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Only & Sons",
-    "size": "",
-    "url": "https://www.sellpy.se/item/2RE6PbB47h",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/8UMD4Slt5y-81c4-0.jpg",
-    "found_at": "2026-10-29T06:14:43Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Collusion, Överskjorta, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Collusion",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zSQGjqsNDF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-15/p7b90UqqHJ-f220-0.jpg",
-    "found_at": "2026-10-29T06:14:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "LFC, Jacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "LFC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JQSHV8D8v9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/3lzb8x12IB-93dc-0.jpg",
-    "found_at": "2026-10-29T06:14:45Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Everest, Dunväst, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Everest",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FknCp9FgyN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-1/JQSHV8D8v9-3618-0.jpg",
-    "found_at": "2026-10-29T06:14:46Z"
   }
 ]
