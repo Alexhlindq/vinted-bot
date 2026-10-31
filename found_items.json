@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/4Vyb4GFPdF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-3/4Vyb4GFPdF-8da5-0.jpg",
+    "found_at": "2026-10-31T04:35:45Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Boomerang, Pullover, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Boomerang",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3n1MRrcY66",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/yIJMRvWbTa-e00d-0.jpg",
+    "found_at": "2026-10-31T04:36:09Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jerzees, Collegetröja, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Jerzees",
+    "size": "",
+    "url": "https://www.sellpy.se/item/RKCIUHuHoh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/UUDd4oAiF9-20b6-0.jpg",
+    "found_at": "2026-10-31T04:36:09Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Iceman, Jacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Iceman",
+    "size": "",
+    "url": "https://www.sellpy.se/item/9pKAEoCkRF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/9pKAEoCkRF-f5ac-0.jpg",
+    "found_at": "2026-10-31T04:36:40Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Ellesse, Collegetröja, Strl: M/L",
     "price": 45,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/4bTxdJz418",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/3QdEGwyBbM-1427-0.jpg",
     "found_at": "2026-10-28T15:43:35Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/8zw5inxGVc",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-7/HsFz1i9YCg-656d-0.jpg",
-    "found_at": "2026-10-28T15:43:36Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: S/M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/21NOtmsDCZ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-18-l-4/k7IKDwaobT-eb06-0.jpg",
-    "found_at": "2026-10-28T15:43:37Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Smiley x H&M, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Smiley x H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/xfcGSs7WjS",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/gAzKBAtYFR-789a-0.jpg",
-    "found_at": "2026-10-28T15:43:59Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "DieMonde, Anorak, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "DieMonde",
-    "size": "",
-    "url": "https://www.sellpy.se/item/3lzb8x12IB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-j-1/ip3WtVgQ0M-d28c-0.jpg",
-    "found_at": "2026-10-28T15:44:02Z"
   }
 ]
