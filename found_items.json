@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Billabong, Tröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Billabong",
+    "size": "",
+    "url": "https://www.sellpy.se/item/rDktRoZQP8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/PSeRaAbm36-9a13-0.jpg",
+    "found_at": "2026-10-31T10:37:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Tröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/m37l6SFYV8",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/WgwQ5CYkLs-b9e0-0.jpg",
+    "found_at": "2026-10-31T10:37:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Smiley x H&M, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Smiley x H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MHQcUqEPK9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-8/gAzKBAtYFR-789a-0.jpg",
+    "found_at": "2026-10-31T10:37:28Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Blåkläder Workwear, Kofta, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Blåkläder Workwear",
+    "size": "",
+    "url": "https://www.sellpy.se/item/lGoXHabGGG",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/lGoXHabGGG-c5f9-0.jpg",
+    "found_at": "2026-10-31T10:37:33Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 70,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/1UInXtpX73",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/iB1wegTqsZ-279d-0.jpg",
     "found_at": "2026-10-28T20:35:59Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Eliott & Lou, Jultröja, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Eliott & Lou",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ejCjPgsyux",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/v2BHPUE7Xd-01b3-0.jpg",
-    "found_at": "2026-10-28T20:36:01Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Billabong, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Billabong",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-12/PSeRaAbm36-9a13-0.jpg",
-    "found_at": "2026-10-28T20:36:02Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zZKzWNQ61C",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/xp1xJCakBI-f28e-0.jpg",
-    "found_at": "2026-10-28T15:43:34Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4bTxdJz418",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/3QdEGwyBbM-1427-0.jpg",
-    "found_at": "2026-10-28T15:43:35Z"
   }
 ]
