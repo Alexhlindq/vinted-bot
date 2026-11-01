@@ -1,6 +1,39 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Paul & Friends, Pullover, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Paul & Friends",
+    "size": "",
+    "url": "https://www.sellpy.se/item/aXm9KtT0T3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/8bC3nS0UVD-da49-0.jpg",
+    "found_at": "2026-11-01T01:50:53Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "A Day's March, Collegetröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "A Day's March",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/5vhYEUw31G-a1bd-0.jpg",
+    "found_at": "2026-11-01T01:50:54Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "David Beckham by H&M, Jacka, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "David Beckham by H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/X0fjvCrUkx",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/PD15wOEkHC-51d8-0.jpg",
+    "found_at": "2026-11-01T01:50:57Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Lyle & Scott, Tröja, Strl: S",
     "price": 70,
     "currency": "SEK",
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/I5cGyoGo7F",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/9EokgMaXJs-805e-0.jpg",
     "found_at": "2026-10-29T13:09:49Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Pierre Cardin, Kofta, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Pierre Cardin",
-    "size": "",
-    "url": "https://www.sellpy.se/item/RS1cnNdOg9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/RS1cnNdOg9-3d16-0.jpg",
-    "found_at": "2026-10-29T13:09:55Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dobber, Kofta, Strl: S",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/YsMGHDuOlq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/YsMGHDuOlq-e793-0.jpg",
-    "found_at": "2026-10-29T13:09:58Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Sälen Ski Resort, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Sälen Ski Resort",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-15/PCFnUDYxgJ-ffe3-0.jpg",
-    "found_at": "2026-10-29T06:14:39Z"
   }
 ]
