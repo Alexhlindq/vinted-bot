@@ -1,6 +1,105 @@
 [
   {
     "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi's Line 8, Jeans, Strl: M/L",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi's Line 8",
+    "size": "",
+    "url": "https://www.sellpy.se/item/p08I76wq8c",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-20-l-2/p08I76wq8c-94f3-0.jpg",
+    "found_at": "2026-11-03T02:17:58Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/R6Ex6SPgpi",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-19-l-3/R6Ex6SPgpi-142a-0.jpg",
+    "found_at": "2026-11-03T02:18:00Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Dobber, Tröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Dobber",
+    "size": "",
+    "url": "https://www.sellpy.se/item/6jvnArQD1G",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/rihXkvonPi-e9f8-0.jpg",
+    "found_at": "2026-11-03T02:18:22Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Levi Strauss & Co, Collegetröja, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/afK9ChNqB9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/OgeOq9jgNo-9ef7-0.jpg",
+    "found_at": "2026-11-03T02:18:23Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Yourturn, Huvtröja, Strl: M",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Yourturn",
+    "size": "",
+    "url": "https://www.sellpy.se/item/sSqcs5sdGQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/3n1MRrcY66-b31c-0.jpg",
+    "found_at": "2026-11-03T02:18:24Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Weekday, Huvtröja, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-13/sSqcs5sdGQ-d936-0.jpg",
+    "found_at": "2026-11-03T02:18:25Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Reclaimed Vintage, Jacka, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Reclaimed Vintage",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TCDmCWSlX4",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/nm8soGCstu-e3ae-0.jpg",
+    "found_at": "2026-11-03T02:18:28Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Zara, Bomberjacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Zara",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HmFKoPoePA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/t6mAilTsH0-3664-0.jpg",
+    "found_at": "2026-11-03T02:18:29Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Pour Homme, Jacka, Strl: S",
+    "price": 60,
+    "currency": "SEK",
+    "brand": "Pour Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/0q0InALhFV",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-6/0q0InALhFV-2de1-0.jpg",
+    "found_at": "2026-11-03T02:18:58Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Chinos, Strl: M",
     "price": 70,
     "currency": "SEK",
@@ -559,104 +658,5 @@
     "url": "https://www.sellpy.se/item/X0fjvCrUkx",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/PD15wOEkHC-51d8-0.jpg",
     "found_at": "2026-11-01T01:50:57Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Lyle & Scott, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Lyle & Scott",
-    "size": "",
-    "url": "https://www.sellpy.se/item/JO1BPfHBDJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-12/3WHr5xRVHv-78de-0.jpg",
-    "found_at": "2026-10-31T22:53:02Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Seaside, Allvädersjacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Seaside",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7u6Z38rhfQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/H0K2pyVndO-9ca1-0.jpg",
-    "found_at": "2026-10-31T22:53:05Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Samsøe & Samsøe, Kofta, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Samsøe & Samsøe",
-    "size": "",
-    "url": "https://www.sellpy.se/item/TuI6kLpbGp",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-15-k-6/TuI6kLpbGp-ada3-0.jpg",
-    "found_at": "2026-10-31T22:53:08Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Canda C&A, Kofta, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Canda C&A",
-    "size": "",
-    "url": "https://www.sellpy.se/item/auFV9AiRBE",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-l-2/auFV9AiRBE-ba2b-0.jpg",
-    "found_at": "2026-10-31T22:53:10Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Tröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tvuhXuKthJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-5/UUGAMtCqtR-0cd9-0.jpg",
-    "found_at": "2026-10-31T19:43:01Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Reclaimed Vintage, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Reclaimed Vintage",
-    "size": "",
-    "url": "https://www.sellpy.se/item/Fug8N4FAiU",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/sY3HmWFvWm-7189-0.jpg",
-    "found_at": "2026-10-31T19:43:03Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Selected Homme, Tröja, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Selected Homme",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-14/Fug8N4FAiU-bbbe-0.jpg",
-    "found_at": "2026-10-31T19:43:04Z"
-  },
-  {
-    "search_name": "Sellpy - Levis Jeans (kategori)",
-    "title": "Levi Strauss & Co, Jeans, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Levi Strauss & Co",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qHLuzhdiYx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-9-k-6/ghA92uYG8I-1100-0.jpg",
-    "found_at": "2026-10-31T15:53:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "These Glory Days, Tröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "These Glory Days",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QF7eI3ZxTq",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/QPvK1GkvYF-3ee2-0.jpg",
-    "found_at": "2026-10-31T15:53:42Z"
   }
 ]
