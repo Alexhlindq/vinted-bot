@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Blend of America, Jacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Blend of America",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NoUtJJ45p3",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/dU9zZbxtj4-9a05-0.jpg",
+    "found_at": "2026-11-06T05:04:14Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "LFC, Jacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "LFC",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VkyblZkW2F",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/3lzb8x12IB-93dc-0.jpg",
+    "found_at": "2026-11-06T05:04:15Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "These Glory Days, Jacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "These Glory Days",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ar1JADdcpA",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/YOtNNA0m2J-86ee-0.jpg",
+    "found_at": "2026-11-06T05:04:16Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Gap, Jacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Gap",
+    "size": "",
+    "url": "https://www.sellpy.se/item/VXq1XrBWPj",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-9/VXq1XrBWPj-6c75-0.jpg",
+    "found_at": "2026-11-06T05:04:46Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Huvtröja, Strl: S",
     "price": 40,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/8YF4FZl38T",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/kQWQdSS6Pt-a93e-0.jpg",
     "found_at": "2026-11-03T22:31:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Gesto, Fleeceväst, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Gesto",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gL85RrlLnv",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/8YF4FZl38T-93a3-0.jpg",
-    "found_at": "2026-11-03T22:31:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Champion, Huvtröja, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Champion",
-    "size": "",
-    "url": "https://www.sellpy.se/item/KUNGEypySL",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-13/Z1KvqBpasQ-0b10-0.jpg",
-    "found_at": "2026-11-03T22:31:20Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Scotch & Soda, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Scotch & Soda",
-    "size": "",
-    "url": "https://www.sellpy.se/item/7DB9le4ytl",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/XTagtm2R2b-2af5-0.jpg",
-    "found_at": "2026-11-03T22:31:21Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "TEESHOPPEN™, Jultröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "TEESHOPPEN™",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/7DB9le4ytl-c844-0.jpg",
-    "found_at": "2026-11-03T22:31:23Z"
   }
 ]
