@@ -1,6 +1,83 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Lambretta, Pullover, Strl: S",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Lambretta",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7PrnLLHSzt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/Ers2B8R2jp-65d1-0.jpg",
+    "found_at": "2026-11-06T23:57:11Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "!Solid, Jultröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "!Solid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/TrxiFGOkmg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/ofFwb21ymH-15c0-0.jpg",
+    "found_at": "2026-11-06T23:57:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Gesto, Fleeceväst, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Gesto",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/8YF4FZl38T-93a3-0.jpg",
+    "found_at": "2026-11-06T23:57:14Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Seaside, Allvädersjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Seaside",
+    "size": "",
+    "url": "https://www.sellpy.se/item/dTalstEyR9",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/H0K2pyVndO-9ca1-0.jpg",
+    "found_at": "2026-11-06T23:57:18Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "J.Lindeberg, Bomberjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "J.Lindeberg",
+    "size": "",
+    "url": "https://www.sellpy.se/item/J01CTyjCNq",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/Ar1JADdcpA-ecdb-0.jpg",
+    "found_at": "2026-11-06T23:57:19Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Only & Sons, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DH9sOWeVWL",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-16/DH9sOWeVWL-80db-0.jpg",
+    "found_at": "2026-11-06T23:57:22Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Tommy Hilfiger Denim, Jacka, Strl: S",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Tommy Hilfiger Denim",
+    "size": "",
+    "url": "https://www.sellpy.se/item/fAls2Fj7Kk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-21/fAls2Fj7Kk-123a-0.jpg",
+    "found_at": "2026-11-06T23:57:47Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Under Armour, Huvtröja, Strl: M",
     "price": 75,
     "currency": "SEK",
@@ -581,82 +658,5 @@
     "url": "https://www.sellpy.se/item/TxgHP32ohQ",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/w47KF5BFM2-9a23-0.jpg",
     "found_at": "2026-11-04T22:55:40Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Divided by H&M, Jeansjacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/A20sdlEn2g-6101-0.jpg",
-    "found_at": "2026-11-04T22:55:41Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Cropp, Kofta, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Cropp",
-    "size": "",
-    "url": "https://www.sellpy.se/item/p8houM5i2y",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-16/p8houM5i2y-a1ac-0.jpg",
-    "found_at": "2026-11-04T22:55:46Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Urban Classics, Jacka, Strl: M",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "Urban Classics",
-    "size": "",
-    "url": "https://www.sellpy.se/item/cGgbFHPiii",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/cGgbFHPiii-ecdb-0.jpg",
-    "found_at": "2026-11-04T22:56:13Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Arket, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tFf0bIM3at",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-1/6jvnArQD1G-eafa-0.jpg",
-    "found_at": "2026-11-04T17:45:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nicola Alberti, Tröja, Strl: S/M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Nicola Alberti",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ofFwb21ymH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/41RHFvj3jq-e661-0.jpg",
-    "found_at": "2026-11-04T17:45:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Colorful Standard, Collegetröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Colorful Standard",
-    "size": "",
-    "url": "https://www.sellpy.se/item/MpEik9uWE2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/6c0kbVXhjP-cb9d-0.jpg",
-    "found_at": "2026-11-04T17:45:19Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Urban Outfitters, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Urban Outfitters",
-    "size": "",
-    "url": "https://www.sellpy.se/item/J16LQOZZcW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-14/xfcGSs7WjS-f103-0.jpg",
-    "found_at": "2026-11-04T17:45:21Z"
   }
 ]
