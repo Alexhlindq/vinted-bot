@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/8ahx1yAC7h",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/ejCjPgsyux-ddea-0.jpg",
+    "found_at": "2026-11-07T17:00:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Renato Cavalli, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Renato Cavalli",
+    "size": "",
+    "url": "https://www.sellpy.se/item/KOzdXM5kow",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/gYFB677V2w-3ef3-0.jpg",
+    "found_at": "2026-11-07T17:00:13Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Huvtröja, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-6/KOzdXM5kow-12e6-0.jpg",
+    "found_at": "2026-11-07T17:00:14Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Manfinity, Jacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Manfinity",
+    "size": "",
+    "url": "https://www.sellpy.se/item/CVWYOe1d94",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/CVWYOe1d94-0cac-0.jpg",
+    "found_at": "2026-11-07T17:00:47Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: S",
     "price": 70,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/4vEUtNtNRE",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-15/4vEUtNtNRE-6fec-0.jpg",
     "found_at": "2026-11-05T10:54:36Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Zara Man, Jacka, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Zara Man",
-    "size": "",
-    "url": "https://www.sellpy.se/item/zcZklTL2uF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-4/zcZklTL2uF-aa00-0.jpg",
-    "found_at": "2026-11-05T10:55:03Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Vailent, Tröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Vailent",
-    "size": "",
-    "url": "https://www.sellpy.se/item/X1NUeI5qPC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/jfg75tWAEr-dd42-0.jpg",
-    "found_at": "2026-11-05T03:08:35Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Renato Cavalli, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Renato Cavalli",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-8/gYFB677V2w-3ef3-0.jpg",
-    "found_at": "2026-11-05T03:08:36Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Zara, Jeansjacka, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Zara",
-    "size": "",
-    "url": "https://www.sellpy.se/item/etFxv3r6Z2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/fSGkB06sqB-590d-0.jpg",
-    "found_at": "2026-11-05T03:08:40Z"
   }
 ]
