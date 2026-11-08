@@ -1,5 +1,38 @@
 [
   {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Seaside, Allvädersjacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Seaside",
+    "size": "",
+    "url": "https://www.sellpy.se/item/45BtgLFXQw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/H0K2pyVndO-9ca1-0.jpg",
+    "found_at": "2026-11-08T00:11:41Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Jack & Jones, Överskjorta, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Jack & Jones",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/bvpUKIRAl4-1147-0.jpg",
+    "found_at": "2026-11-08T00:11:41Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Selected Homme, Kofta, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Selected Homme",
+    "size": "",
+    "url": "https://www.sellpy.se/item/3cFi6AG0HB",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/3cFi6AG0HB-d878-0.jpg",
+    "found_at": "2026-11-08T00:11:45Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Louis Tomlinson, Collegetröja, Strl: S",
     "price": 65,
@@ -625,38 +658,5 @@
     "url": "https://www.sellpy.se/item/uDROwb3tok",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/uDROwb3tok-a7f9-0.jpg",
     "found_at": "2026-11-05T18:31:39Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "NN07, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "NN07",
-    "size": "",
-    "url": "https://www.sellpy.se/item/DZOifLzbD6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/GreiHhzv1b-be80-0.jpg",
-    "found_at": "2026-11-05T10:54:25Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Jack & Jones, Tröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NIF42T06kG",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/ByxpvhNt0A-87cf-0.jpg",
-    "found_at": "2026-11-05T10:54:26Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Reclaimed Vintage, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Reclaimed Vintage",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lXQXFMDDRo",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/sY3HmWFvWm-7189-0.jpg",
-    "found_at": "2026-11-05T10:54:28Z"
   }
 ]
