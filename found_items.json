@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Sqrtn Company, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Sqrtn Company",
+    "size": "",
+    "url": "https://www.sellpy.se/item/GUgYpQBq8L",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-9/oGHArNH7kS-a809-0.jpg",
+    "found_at": "2026-11-11T10:19:55Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Obey, Huvtröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Obey",
+    "size": "",
+    "url": "https://www.sellpy.se/item/LhGfhRaeZQ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/MHQcUqEPK9-75c4-0.jpg",
+    "found_at": "2026-11-11T10:19:56Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Biltema, Overall, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Biltema",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Ad1oBUzpfk",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-13/dTalstEyR9-a630-0.jpg",
+    "found_at": "2026-11-11T10:20:02Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Craft, Allvädersjacka, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Craft",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-5/dribMkmIK5-ebd9-0.jpg",
+    "found_at": "2026-11-11T10:20:03Z"
+  },
+  {
     "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
     "title": "Charles River, Anorak, Strl: S",
     "price": 35,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/S2qYq7FNvH",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-6/BKA0wwI1s2-31dd-0.jpg",
     "found_at": "2026-11-08T22:20:35Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Anorak, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/S2qYq7FNvH-4611-0.jpg",
-    "found_at": "2026-11-08T22:20:35Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Norfolk, Jacka, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Norfolk",
-    "size": "",
-    "url": "https://www.sellpy.se/item/6ExCwfWdGF",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-10/6ExCwfWdGF-4aa2-0.jpg",
-    "found_at": "2026-11-08T22:21:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Soulland, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Soulland",
-    "size": "",
-    "url": "https://www.sellpy.se/item/jO2g8kLN1n",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-4/3TOjsxhFLt-3c87-0.jpg",
-    "found_at": "2026-11-08T18:23:11Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Jerzees, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jerzees",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dsJReNNIDA",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/UUDd4oAiF9-20b6-0.jpg",
-    "found_at": "2026-11-08T18:23:12Z"
   }
 ]
