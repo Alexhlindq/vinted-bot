@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/eIM479W1Ix",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-16/eIM479W1Ix-525f-0.jpg",
+    "found_at": "2026-11-13T02:46:40Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Bondelid, Collegetröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Bondelid",
+    "size": "",
+    "url": "https://www.sellpy.se/item/iz0gKsi8yb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/LHdTQUiqUB-16dc-0.jpg",
+    "found_at": "2026-11-13T02:47:04Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "H&M, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "H&M",
+    "size": "",
+    "url": "https://www.sellpy.se/item/NDs8qQ3KV2",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/4MabgKz7N6-7a0f-0.jpg",
+    "found_at": "2026-11-13T02:47:05Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Superdry, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Superdry",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/aMXDfkE3h1-4fbc-0.jpg",
+    "found_at": "2026-11-13T02:47:06Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Poncho, Strl: XS/S",
     "price": 29,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/NvvewoEXYT",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/tAbJ6nCpRE-42bc-0.jpg",
     "found_at": "2026-11-10T18:05:47Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Guess, Kofta, Strl: M",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Guess",
-    "size": "",
-    "url": "https://www.sellpy.se/item/q9ugLwSCNJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-2/q9ugLwSCNJ-a44e-0.jpg",
-    "found_at": "2026-11-10T18:05:51Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Jack & Jones, Kofta, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Jack & Jones",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vadL4TQnHQ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/vadL4TQnHQ-a9b8-0.jpg",
-    "found_at": "2026-11-10T18:05:52Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "Ocean, Jacka, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Ocean",
-    "size": "",
-    "url": "https://www.sellpy.se/item/WAxVnvGiKw",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/WAxVnvGiKw-f455-0.jpg",
-    "found_at": "2026-11-10T18:06:16Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "J.Lindeberg, Tröja, Strl: S",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "J.Lindeberg",
-    "size": "",
-    "url": "https://www.sellpy.se/item/S3SxxGj3hd",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-9/6ZduIxTTKI-3666-0.jpg",
-    "found_at": "2026-11-10T10:27:45Z"
   }
 ]
