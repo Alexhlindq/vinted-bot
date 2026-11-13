@@ -1,5 +1,49 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Huvtröja, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "https://www.sellpy.se/item/BhftCmQGwF",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/ejCjPgsyux-ddea-0.jpg",
+    "found_at": "2026-11-13T10:31:20Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Only & Sons, Kofta, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "Only & Sons",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Jzw5kyoRyJ",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/Jzw5kyoRyJ-4ca0-0.jpg",
+    "found_at": "2026-11-13T10:31:26Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "ET AL, Jacka, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "ET AL",
+    "size": "",
+    "url": "https://www.sellpy.se/item/pdmhkyCwYw",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-10/pdmhkyCwYw-4837-0.jpg",
+    "found_at": "2026-11-13T10:31:52Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Ciszere, Jacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Ciszere",
+    "size": "",
+    "url": "https://www.sellpy.se/item/qhnEeazBTS",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/qhnEeazBTS-ad92-0.jpg",
+    "found_at": "2026-11-13T10:31:54Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Chinos, Strl: M",
     "price": 75,
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/ywYnHD8JPl",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-4/S2qYq7FNvH-4611-0.jpg",
     "found_at": "2026-11-10T23:19:49Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Mercedes-Benz, Ytterväst, Strl: S",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Mercedes-Benz",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-5/ywYnHD8JPl-be3c-0.jpg",
-    "found_at": "2026-11-10T23:19:49Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Independent Trading Company, Huvtröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Independent Trading Company",
-    "size": "",
-    "url": "https://www.sellpy.se/item/uj6WzmeHf2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-2/Z7D2CXIfk3-1720-0.jpg",
-    "found_at": "2026-11-10T18:05:41Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Yourturn, Huvtröja, Strl: M",
-    "price": 55,
-    "currency": "SEK",
-    "brand": "Yourturn",
-    "size": "",
-    "url": "https://www.sellpy.se/item/icc3dQcyrn",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-7/3n1MRrcY66-b31c-0.jpg",
-    "found_at": "2026-11-10T18:05:44Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Stormy Weather, Trenchcoat, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Stormy Weather",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NvvewoEXYT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/tAbJ6nCpRE-42bc-0.jpg",
-    "found_at": "2026-11-10T18:05:47Z"
   }
 ]
