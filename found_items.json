@@ -1,5 +1,27 @@
 [
   {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Chinos, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/HpTYZjleQY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-8-k-6/DYK4xnXBCb-8384-0.jpg",
+    "found_at": "2026-11-14T03:33:59Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Weekday, Jacka, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/gTnXv06Gsc",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/SUDfoIAFfL-e55e-0.jpg",
+    "found_at": "2026-11-14T03:34:25Z"
+  },
+  {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Wearcolour, Huvtröja, Strl: S",
     "price": 35,
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/q9GnI2JATB",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-2/lYBgbUAg8K-bc00-0.jpg",
     "found_at": "2026-11-11T17:59:29Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "WeSC, Anorak, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qAEl2vFhFR",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
-    "found_at": "2026-11-11T17:59:30Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "GANT, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/bDTYuVgPPx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/bDTYuVgPPx-a850-0.jpg",
-    "found_at": "2026-11-11T17:59:34Z"
   }
 ]
