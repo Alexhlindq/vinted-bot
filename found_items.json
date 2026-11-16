@@ -1,5 +1,60 @@
 [
   {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Scotch & Soda, Collegetröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Scotch & Soda",
+    "size": "",
+    "url": "https://www.sellpy.se/item/zJnmH2JobX",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-15/XTagtm2R2b-2af5-0.jpg",
+    "found_at": "2026-11-16T00:14:50Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Pelle P, Lättviktsjacka, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Pelle P",
+    "size": "",
+    "url": "https://www.sellpy.se/item/OON2Bg3jfI",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/6SPJou8VZP-f03e-0.jpg",
+    "found_at": "2026-11-16T00:14:53Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Helly Hansen, Anorak, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Helly Hansen",
+    "size": "",
+    "url": "https://www.sellpy.se/item/DSvZrSmJJp",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-1/w1wf1K6oSP-bf12-0.jpg",
+    "found_at": "2026-11-16T00:14:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Mango Man, Jeansjacka, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Mango Man",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/5xz1a4KmVw-0446-0.jpg",
+    "found_at": "2026-11-16T00:14:56Z"
+  },
+  {
+    "search_name": "Sellpy - Grova stickade koftor",
+    "title": "Replay, Kofta, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Replay",
+    "size": "",
+    "url": "https://www.sellpy.se/item/IhqYDLrwyE",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/IhqYDLrwyE-8cdc-0.jpg",
+    "found_at": "2026-11-16T00:15:00Z"
+  },
+  {
     "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 70,
@@ -603,60 +658,5 @@
     "url": "https://www.sellpy.se/item/iz0gKsi8yb",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/LHdTQUiqUB-16dc-0.jpg",
     "found_at": "2026-11-13T02:47:04Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "H&M, Collegetröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/NDs8qQ3KV2",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-7/4MabgKz7N6-7a0f-0.jpg",
-    "found_at": "2026-11-13T02:47:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Superdry, Collegetröja, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Superdry",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/aMXDfkE3h1-4fbc-0.jpg",
-    "found_at": "2026-11-13T02:47:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Poncho, Strl: XS/S",
-    "price": 29,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ot4J4phvj9",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-16/PCMnkjnC4h-8873-0.jpg",
-    "found_at": "2026-11-12T22:23:17Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Naruto, Tröja, Strl: S",
-    "price": 70,
-    "currency": "SEK",
-    "brand": "Naruto",
-    "size": "",
-    "url": "https://www.sellpy.se/item/qmxik5OTVH",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-16/HBVENVusZ8-2b5c-0.jpg",
-    "found_at": "2026-11-12T22:23:18Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Nike, Huvtröja, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "Nike",
-    "size": "",
-    "url": "https://www.sellpy.se/item/D9qYDmyctT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-11/ejCjPgsyux-ddea-0.jpg",
-    "found_at": "2026-11-12T22:23:20Z"
   }
 ]
