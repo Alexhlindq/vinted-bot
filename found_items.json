@@ -1,6 +1,17 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Nike, Collegetröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Nike",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-3/Azd4T2F9Y5-fe42-0.jpg",
+    "found_at": "2026-11-16T06:39:43Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Scotch & Soda, Collegetröja, Strl: S",
     "price": 45,
     "currency": "SEK",
@@ -647,16 +658,5 @@
     "url": "https://www.sellpy.se/item/eIM479W1Ix",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-16-k-16/eIM479W1Ix-525f-0.jpg",
     "found_at": "2026-11-13T02:46:40Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Bondelid, Collegetröja, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Bondelid",
-    "size": "",
-    "url": "https://www.sellpy.se/item/iz0gKsi8yb",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-9/LHdTQUiqUB-16dc-0.jpg",
-    "found_at": "2026-11-13T02:47:04Z"
   }
 ]
