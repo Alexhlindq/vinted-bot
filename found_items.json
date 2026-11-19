@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Levis Jeans (kategori)",
+    "title": "Levi Strauss & Co, Jeans, Strl: S",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Levi Strauss & Co",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WcWWi5qe4q",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-hanging-23-l-1/WcWWi5qe4q-eecb-0.jpg",
+    "found_at": "2026-11-19T13:08:37Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "WHYRED, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "WHYRED",
+    "size": "",
+    "url": "https://www.sellpy.se/item/Kubjazfrxe",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/4GlyhezuUw-3e98-0.jpg",
+    "found_at": "2026-11-19T13:09:01Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Fruit of the Loom, Collegetröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Fruit of the Loom",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-11/HCZiaraeCd-cba3-0.jpg",
+    "found_at": "2026-11-19T13:09:03Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Swedemount, Softshelljacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Swedemount",
+    "size": "",
+    "url": "https://www.sellpy.se/item/uJSJbaE5xt",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-4/BtZ2hLQN7m-a458-0.jpg",
+    "found_at": "2026-11-19T13:09:08Z"
+  },
+  {
+    "search_name": "Sellpy - Levis Jeans (kategori)",
     "title": "Levi Strauss & Co, Jeans, Strl: M",
     "price": 65,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/uXKqGoHiup",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-3/9fWN7qy3DP-6f2d-0.jpg",
     "found_at": "2026-11-17T00:23:37Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Marwin, Allvädersjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "Marwin",
-    "size": "",
-    "url": "https://www.sellpy.se/item/M2nsrNTLdi",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/Fhv9NByG8V-46fa-0.jpg",
-    "found_at": "2026-11-17T00:23:40Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Dobber, Kofta, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Dobber",
-    "size": "",
-    "url": "https://www.sellpy.se/item/lFMCkGLauT",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/lFMCkGLauT-e270-0.jpg",
-    "found_at": "2026-11-17T00:23:44Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Banana Republic, Kofta, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Banana Republic",
-    "size": "",
-    "url": "https://www.sellpy.se/item/4GHG0277Ee",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/4GHG0277Ee-fb74-0.jpg",
-    "found_at": "2026-11-17T00:23:45Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Adidas, Huvtröja, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Adidas",
-    "size": "",
-    "url": "https://www.sellpy.se/item/tj4CD9lpvx",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-3/E9fTJUHbsJ-8115-0.jpg",
-    "found_at": "2026-11-16T16:27:07Z"
   }
 ]
