@@ -1,6 +1,28 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Jean Paul, Pullover, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Jean Paul",
+    "size": "",
+    "url": "https://www.sellpy.se/item/E9Gf0EFdhh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/tj4CD9lpvx-8889-0.jpg",
+    "found_at": "2026-11-20T02:37:44Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "GANT, Ytterväst, Strl: S",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-7/8xemLK1Ffw-2d8f-0.jpg",
+    "found_at": "2026-11-20T02:37:48Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "H&M, Rugbytröja, Strl: S",
     "price": 35,
     "currency": "SEK",
@@ -636,27 +658,5 @@
     "url": "https://www.sellpy.se/item/sH8iBEXbEW",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/QULoWew5xN-6764-0.jpg",
     "found_at": "2026-11-17T17:48:19Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "ICA Garden, Ytterväst, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "ICA Garden",
-    "size": "",
-    "url": "",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/sH8iBEXbEW-fa56-0.jpg",
-    "found_at": "2026-11-17T17:48:42Z"
-  },
-  {
-    "search_name": "Sellpy - Grova stickade koftor",
-    "title": "Kofta, Strl: S",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "",
-    "size": "",
-    "url": "https://www.sellpy.se/item/vAcZ82XoQ7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-1/vAcZ82XoQ7-d572-0.jpg",
-    "found_at": "2026-11-17T17:49:12Z"
   }
 ]
