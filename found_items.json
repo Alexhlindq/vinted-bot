@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Wolsey, Pullover, Strl: M",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Wolsey",
+    "size": "",
+    "url": "https://www.sellpy.se/item/tXBX7nXakM",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/Jr2R1bIr5i-d2ff-0.jpg",
+    "found_at": "2026-11-20T10:38:52Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Carhartt, Huvtröja, Strl: S",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "Carhartt",
+    "size": "",
+    "url": "https://www.sellpy.se/item/MBy529T7Xg",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-1/BywsnVB3g0-6ab7-0.jpg",
+    "found_at": "2026-11-20T10:38:53Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "WHYRED, Tröja, Strl: M",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "WHYRED",
+    "size": "",
+    "url": "https://www.sellpy.se/item/WF8FOoMhxH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-4/4GlyhezuUw-3e98-0.jpg",
+    "found_at": "2026-11-20T10:38:55Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "H&M Man, Överskjorta, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "H&M Man",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-17-k-3/DSvZrSmJJp-3b38-0.jpg",
+    "found_at": "2026-11-20T10:38:58Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Jean Paul, Pullover, Strl: M",
     "price": 40,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/5qoCS3meoz",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-12/Q8HB41nK9r-1b91-0.jpg",
     "found_at": "2026-11-17T17:47:59Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "WeSC, Anorak, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "WeSC",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dF5skHNszy",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/mTO1AuRpH5-b439-0.jpg",
-    "found_at": "2026-11-17T17:48:00Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "COS, Bomberjacka, Strl: M",
-    "price": 50,
-    "currency": "SEK",
-    "brand": "COS",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ruXCqiljxJ",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-3/dF5skHNszy-ddd5-0.jpg",
-    "found_at": "2026-11-17T17:48:01Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Weekday, Jacka, Strl: S",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Weekday",
-    "size": "",
-    "url": "https://www.sellpy.se/item/QULoWew5xN",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-7/SUDfoIAFfL-e55e-0.jpg",
-    "found_at": "2026-11-17T17:48:18Z"
-  },
-  {
-    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
-    "title": "Brixtol, Lättviktsjacka, Strl: M",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Brixtol",
-    "size": "",
-    "url": "https://www.sellpy.se/item/sH8iBEXbEW",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-10/QULoWew5xN-6764-0.jpg",
-    "found_at": "2026-11-17T17:48:19Z"
   }
 ]
