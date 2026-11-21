@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "GANT, Tröja, Strl: M",
+    "price": 55,
+    "currency": "SEK",
+    "brand": "GANT",
+    "size": "",
+    "url": "https://www.sellpy.se/item/95jGM56Ivl",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-9-k-2/WF8FOoMhxH-7d30-0.jpg",
+    "found_at": "2026-11-21T00:36:27Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Wearcolour, Huvtröja, Strl: S",
+    "price": 35,
+    "currency": "SEK",
+    "brand": "Wearcolour",
+    "size": "",
+    "url": "https://www.sellpy.se/item/D7j89CW7OH",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-14/wfmnrcJQm5-afdc-0.jpg",
+    "found_at": "2026-11-21T00:36:28Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Crocker, Tröja, Strl: M",
+    "price": 50,
+    "currency": "SEK",
+    "brand": "Crocker",
+    "size": "",
+    "url": "https://www.sellpy.se/item/jAOESVAq7T",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-9/D7j89CW7OH-f862-0.jpg",
+    "found_at": "2026-11-21T00:36:29Z"
+  },
+  {
+    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
+    "title": "Safarijacka, Strl: M",
+    "price": 70,
+    "currency": "SEK",
+    "brand": "",
+    "size": "",
+    "url": "https://www.sellpy.se/item/7FNxzuNRqC",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-16-k-3/7FNxzuNRqC-e8fd-0.jpg",
+    "found_at": "2026-11-21T00:37:03Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "Colorful Standard, Huvtröja, Strl: M",
     "price": 60,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/gv8u9RI2z6",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/DZOifLzbD6-f45c-0.jpg",
     "found_at": "2026-11-18T00:00:05Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "GANT, Pullover, Strl: M",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "GANT",
-    "size": "",
-    "url": "https://www.sellpy.se/item/dzxV2XeVcO",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-16/WVPzl57tHi-c49a-0.jpg",
-    "found_at": "2026-11-18T00:00:06Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Arket, Tröja, Strl: S",
-    "price": 75,
-    "currency": "SEK",
-    "brand": "Arket",
-    "size": "",
-    "url": "https://www.sellpy.se/item/yHJ0m0hLi0",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-16/dzxV2XeVcO-6875-0.jpg",
-    "found_at": "2026-11-18T00:00:07Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Topman, Slipover, Strl: M",
-    "price": 40,
-    "currency": "SEK",
-    "brand": "Topman",
-    "size": "",
-    "url": "https://www.sellpy.se/item/nCPhwKOjnB",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-2/M5uhX1RVRo-6fde-0.jpg",
-    "found_at": "2026-11-18T00:00:09Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Replay, Pullover, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Replay",
-    "size": "",
-    "url": "https://www.sellpy.se/item/F07TW1uqms",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-10/tm7xJxAG73-256f-0.jpg",
-    "found_at": "2026-11-18T00:00:10Z"
   }
 ]
