@@ -1,6 +1,50 @@
 [
   {
     "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Weekday, Tröja, Strl: S",
+    "price": 45,
+    "currency": "SEK",
+    "brand": "Weekday",
+    "size": "",
+    "url": "https://www.sellpy.se/item/B5csEm2hQh",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-2-k-6/xOeHAD5XEl-9c56-0.jpg",
+    "found_at": "2026-11-21T07:43:55Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Night Addict, Huvtröja, Strl: M",
+    "price": 40,
+    "currency": "SEK",
+    "brand": "Night Addict",
+    "size": "",
+    "url": "https://www.sellpy.se/item/oJOJpWgPnb",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-k-8/o1KSn0RZiK-caf3-0.jpg",
+    "found_at": "2026-11-21T07:43:56Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
+    "title": "Abercrombie & Fitch, Pullover, Strl: M",
+    "price": 75,
+    "currency": "SEK",
+    "brand": "Abercrombie & Fitch",
+    "size": "",
+    "url": "",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/oqIO3hMF3G-3280-0.jpg",
+    "found_at": "2026-11-21T07:43:58Z"
+  },
+  {
+    "search_name": "Sellpy - Jackor & Ytterkläder (bred, alla märken)",
+    "title": "Worksafe, Jacka, Strl: M",
+    "price": 65,
+    "currency": "SEK",
+    "brand": "Worksafe",
+    "size": "",
+    "url": "https://www.sellpy.se/item/PuEDaiVMTY",
+    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-4-k-13/aEGB3Rh5Fo-07fa-0.jpg",
+    "found_at": "2026-11-21T07:44:01Z"
+  },
+  {
+    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
     "title": "GANT, Tröja, Strl: M",
     "price": 55,
     "currency": "SEK",
@@ -614,49 +658,5 @@
     "url": "https://www.sellpy.se/item/BHrix3Kfpu",
     "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-6-k-7/BHrix3Kfpu-03fd-0.jpg",
     "found_at": "2026-11-18T16:27:51Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Jerzees, Collegetröja, Strl: M",
-    "price": 35,
-    "currency": "SEK",
-    "brand": "Jerzees",
-    "size": "",
-    "url": "https://www.sellpy.se/item/ZiOqvPXkSC",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-3-k-8/UUDd4oAiF9-20b6-0.jpg",
-    "found_at": "2026-11-18T07:07:55Z"
-  },
-  {
-    "search_name": "Sellpy - Höstjackor (bred, ej H&M/Vero Moda)",
-    "title": "River Island, Jacka, Strl: M",
-    "price": 65,
-    "currency": "SEK",
-    "brand": "River Island",
-    "size": "",
-    "url": "https://www.sellpy.se/item/FzQnVSJmj7",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-5-k-12/FzQnVSJmj7-3c25-0.jpg",
-    "found_at": "2026-11-18T07:08:25Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Divided by H&M, Tröja, Strl: S",
-    "price": 45,
-    "currency": "SEK",
-    "brand": "Divided by H&M",
-    "size": "",
-    "url": "https://www.sellpy.se/item/T6AAYwxqGI",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-1-l-1/gHj4Tof79E-582e-0.jpg",
-    "found_at": "2026-11-18T00:00:04Z"
-  },
-  {
-    "search_name": "Sellpy - Tröjor & Koftor (bred, alla märken)",
-    "title": "Allsaints, Tröja, Strl: M",
-    "price": 60,
-    "currency": "SEK",
-    "brand": "Allsaints",
-    "size": "",
-    "url": "https://www.sellpy.se/item/gv8u9RI2z6",
-    "image_url": "https://prod.images.sellpy.net/fit-in/400x4096/photoRobot-standard-7-k-6/DZOifLzbD6-f45c-0.jpg",
-    "found_at": "2026-11-18T00:00:05Z"
   }
 ]
